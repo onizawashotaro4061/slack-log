@@ -1,0 +1,240 @@
+[
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1714391844.064339",
+        "client_msg_id": "4DE0984A-1A50-4D03-9F8A-31574AF140C0",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J> \n提出遅れてほんとにごめんなさい :sweat_drops: \n参加団体募集のSNS広報依頼のチェックが通ったのでワンドラの依頼書提出フォルダーにあげました！！ご確認よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714391844.064339",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1714399316.852969",
+        "reply_users": [
+            "U06LK3HUVTL",
+            "U06L64D8E0P"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1714398351.499229"
+            },
+            {
+                "user": "U06L64D8E0P",
+                "ts": "1714399316.852969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZL8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n提出遅れてほんとにごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n参加団体募集のSNS広報依頼のチェックが通ったのでワンドラの依頼書提出フォルダーにあげました！！ご確認よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3L6B4J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3L6B4J",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1714398351.499229",
+        "client_msg_id": "2B268FC1-A284-406C-AA4B-790466090BC4",
+        "text": "<@U06L64D8E0P>おつかれさま〜！確認しました！学内で受理してます:white_check_mark:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714391844.064339",
+        "parent_user_id": "U06L64D8E0P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYh7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L64D8E0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おつかれさま〜！確認しました！学内で受理してます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06LK3L6B4J",
+                    "U06L64D8E0P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LY5XNLBT",
+        "text": "<@U06LY5XNLBT>さんがチャンネルに参加しました",
+        "inviter": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1714398448.846169"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GL1CUF",
+        "text": "<@U06L4GL1CUF>さんがチャンネルに参加しました",
+        "inviter": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1714398449.049709"
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1714399316.852969",
+        "client_msg_id": "E24070B7-1CDE-449A-8670-60C16DF36587",
+        "text": "お疲れさまー！！\nありがとうー！！！お願いします :cherry_blossom: :raised_hands: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714391844.064339",
+        "parent_user_id": "U06L64D8E0P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pLf1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れさまー！！\nありがとうー！！！お願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cherry_blossom",
+                                "unicode": "1f338"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1720679376.109929",
+        "client_msg_id": "3E3B4290-EAC5-442D-AB2B-97221006D11A",
+        "text": "<!channel> \nリマインド！今日はおやすみ！\nテスト勉強がんばろーーー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5Xf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nリマインド！今日はおやすみ！\nテスト勉強がんばろーーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばる",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U071M6ZSSLQ",
+                    "U06LK3Q6Y2W",
+                    "U070HS3G355",
+                    "U070Y9U7WRZ",
+                    "U070YA6CQLB",
+                    "U071M6X0B4Y"
+                ],
+                "count": 7
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U071M6ZSSLQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LXP05G3B",
+                    "U06LK3Q6Y2W",
+                    "U070YA6CQLB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "落単",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U070Y9U7WRZ",
+                    "U071B3A1G4R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かいと２",
+                "users": [
+                    "U06LXNZG6HX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

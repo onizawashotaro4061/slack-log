@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1725718801.355179",
+        "client_msg_id": "DEFCEE73-75B9-4C50-B008-6A5FFE4A7014",
+        "text": "<@U06LMH49MQU> おつかれえー！！！このチャンネルでの報告はnotionのチェック通過後にワンドラにあげた時におねがいしまーす！:slightly_smiling_face:‍:arrow_up_down: :pray::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725622505.840999",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soDQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH49MQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれえー！！！このチャンネルでの報告はnotionのチェック通過後にワンドラにあげた時におねがいしまーす！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "‍"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up_down",
+                                "unicode": "2195-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH49MQU",
+        "type": "message",
+        "ts": "1725720900.653179",
+        "client_msg_id": "84D9E2C2-CACB-4367-BA4E-179C7197D0B8",
+        "text": "失礼いたしました！理解！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "217c2fb3f650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8121596033698_217c2fb3f6500c9897c9_72.png",
+            "first_name": "山田佳奈",
+            "real_name": "山田佳奈",
+            "display_name": "Yamada.Kana",
+            "team": "T06L90YHJF8",
+            "name": "mountain.kana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725622505.840999",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+F1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼いたしました！理解！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ヤンチャム",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1717379725.245809",
+        "edited": {
+            "user": "U06LHACMG91",
+            "ts": "1717379772.000000"
+        },
+        "text": "<!channel>\n新規のみんなこれやってほしい！！！\n名簿登録しないと合宿いけないらしいから！！！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1717376036.197229",
+                "author_id": "U06LKEPTCA0",
+                "channel_id": "C06L139NFSB",
+                "channel_team": "T06L90YHJF8",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06L90YHJF8",
+                        "channel": "C06L139NFSB",
+                        "ts": "1717376036.197229",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "b\/jjk",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "【新規のみ】",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "お疲れ様です！こちらまだ回答していない新規の方が40人ほどいらっしゃいます。"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "本日6\/3中",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "に必ず回答してください！\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "名簿に載っていない方は各局の合宿等、大学に届け出る各種行事に参加できません。",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "行事日程が迫っている局もあるようなので、よろしくお願いします。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/140meidisai.slack.com\/archives\/C06L139NFSB\/p1717376036197229",
+                "is_share": true,
+                "fallback": "[June 3rd, 2024 9:53 AM] tafsakuma: <!channel> *【新規のみ】*お疲れ様です！こちらまだ回答していない新規の方が40人ほどいらっしゃいます。*本日6\/3中*に必ず回答してください！\n*名簿に載っていない方は各局の合宿等、大学に届け出る各種行事に参加できません。*行事日程が迫っている局もあるようなので、よろしくお願いします。",
+                "text": "<!channel> *【新規のみ】*お疲れ様です！こちらまだ回答していない新規の方が40人ほどいらっしゃいます。*本日6\/3中*に必ず回答してください！\n*名簿に載っていない方は各局の合宿等、大学に届け出る各種行事に参加できません。*行事日程が迫っている局もあるようなので、よろしくお願いします。",
+                "author_name": "佐久間太福人",
+                "author_link": "https:\/\/140meidisai.slack.com\/team\/U06LKEPTCA0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6761222418867_9587da9db909ff7642d4_48.png",
+                "author_subname": "佐久間太福人",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B\/DWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規のみんなこれやってほしい！！！\n名簿登録しないと合宿いけないらしいから！！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

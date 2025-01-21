@@ -1,0 +1,185 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LXP1JG0Z",
+        "text": "<@U06LXP1JG0Z>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716376067.502189"
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1716441049.952599",
+        "edited": {
+            "user": "U06LXNWG67K",
+            "ts": "1716441080.000000"
+        },
+        "client_msg_id": "F853136F-75A8-4076-936A-4033038B441D",
+        "text": "<!channel>\n【0523第8回開発局彩明部門会議】につい\nお疲れ様でっさ。\nチーム活動の門出ということでアクセル全開でいきやしょう！継続だけの部門会議もあと3回\n\n【時間】\n18:00〜20:40\n\n【場所】\nM510\n\n【持ち物】\nパソコン\nアイデア\n\n\n【議題】\n1.各種共有(意思共有）\n2.部門紹介構想(意見交換・決定)\n3.チームで意義・経緯作成（意見交換・決定）\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n見たらスタンプ！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716441049.952599",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716455393.256069",
+        "reply_users": [
+            "U06LVUKD658",
+            "U06LXNWG67K"
+        ],
+        "replies": [
+            {
+                "user": "U06LVUKD658",
+                "ts": "1716452169.097389"
+            },
+            {
+                "user": "U06LXNWG67K",
+                "ts": "1716455245.951759"
+            },
+            {
+                "user": "U06LVUKD658",
+                "ts": "1716455393.256069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5pHJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0523第8回開発局彩明部門会議】につい\nお疲れ様でっさ。\nチーム活動の門出ということでアクセル全開でいきやしょう！継続だけの部門会議もあと3回\n\n【時間】\n18:00〜20:40\n\n【場所】\nM510\n\n【持ち物】\nパソコン\nアイデア\n\n\n【議題】\n1.各種共有(意思共有）\n2.部門紹介構想(意見交換・決定)\n3.チームで意義・経緯作成（意見交換・決定）\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n見たらスタンプ！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LK3ZBCN6",
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LK7K9ALA"
+                ],
+                "count": 5
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LK7K9ALA",
+                    "U06LCE9JG3G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "か_たまこたまちゃん",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LK7K9ALA",
+                    "U06LCE9JG3G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LK7K9ALA",
+                    "U06LCE9JG3G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "たくまやけん",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なつくん話長い",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

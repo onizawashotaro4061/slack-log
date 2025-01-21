@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1728522042.202809",
+        "client_msg_id": "33700338-D6BF-48A4-A9C1-6F6CEA51FCAA",
+        "text": "絶対9時！と思って1限の日より早く起きたのにお弁当つくったりしてたら10時でした。かりあけです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wn6GI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "絶対9時！と思って1限の日より早く起きたのにお弁当つくったりしてたら10時でした。かりあけです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

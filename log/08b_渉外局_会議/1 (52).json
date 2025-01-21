@@ -1,0 +1,370 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1721005242.791379",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1721124051.000000"
+        },
+        "client_msg_id": "d1326ca3-1073-4a6e-ba57-dd33f7f6ab74",
+        "text": "<!channel>\n~*【0716_第26回渉外局会議】*~\n~【時間】19:00～20:40~\n~【場所】*LS402*~\n~【議事録】新規のだれか~\n~【議題】~\n~・役員会報告（意思共有）~\n~・部門報告（意思共有）~\n~・資財獲得と関係構築について（意見交換）~\n\n~テスト週間入るかなと思いますが、テスト勉強で休むは禁止です。計画的にがんばろう~:bangbang:\n\n~※欠席・遅刻・早退する場合は理由とセットでスレッドへ~",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721005242.791379",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1721109857.037159",
+        "reply_users": [
+            "U06M7SETDKJ",
+            "U06LXK3RF7B",
+            "U070HS3ELF9",
+            "U06L4J69HV5"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1721005668.868659"
+            },
+            {
+                "user": "U06LXK3RF7B",
+                "ts": "1721005702.952449"
+            },
+            {
+                "user": "U070HS3ELF9",
+                "ts": "1721109773.621879"
+            },
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1721109857.037159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Slyu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0716_第26回渉外局会議】",
+                                "style": {
+                                    "bold": true,
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00～20:40",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "LS402",
+                                "style": {
+                                    "bold": true,
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議事録】新規のだれか",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・役員会報告（意思共有）",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・部門報告（意思共有）",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・資財獲得と関係構築について（意見交換）",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "テスト週間入るかなと思いますが、テスト勉強で休むは禁止です。計画的にがんばろう",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U070RQ0VCP8",
+                    "U06M7SETDKJ",
+                    "U070Y9WCHH9",
+                    "U070VFTLATX",
+                    "U0710T3MCUC",
+                    "U06LJRSQDC3",
+                    "U06LCED6ZK8",
+                    "U070YD778SE",
+                    "U06L4GLJVKR",
+                    "U071M6XCB5W",
+                    "U06L9S67MEJ",
+                    "U070HS5NT63",
+                    "U06LG610ADB",
+                    "U06LXNYUX7T"
+                ],
+                "count": 15
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U06M7SETDKJ",
+                    "U070VFTLATX",
+                    "U06LJRSQDC3",
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U06L9S67MEJ",
+                    "U06LXNYUX7T"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U070VFRCQBF",
+                    "U070VFTLATX",
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U0710T3MCUC",
+                    "U06L9S67MEJ",
+                    "U070HS5NT63",
+                    "U06LG610ADB",
+                    "U06LXNYUX7T",
+                    "U06LXK3RF7B"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1721005668.868659",
+        "client_msg_id": "80CB3A3D-DA5A-4315-8812-35D02334A1FE",
+        "text": "<@U06LXK3RF7B> 資材、、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721005242.791379",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UO02B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXK3RF7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 資材、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LG610ADB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1721005702.952449",
+        "client_msg_id": "5AA4E9C6-73AD-4D7B-9071-8126FD11C47A",
+        "text": "<@U06M7SETDKJ> あぶちゃん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721005242.791379",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qAqYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SETDKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あぶちゃん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-要確認",
+                "users": [
+                    "U06LG610ADB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06LG610ADB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

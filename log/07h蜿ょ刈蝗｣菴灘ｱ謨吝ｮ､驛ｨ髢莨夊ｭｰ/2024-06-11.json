@@ -1,0 +1,347 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070HS379EK",
+        "text": "<@U070HS379EK>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.433019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YDB0DEW",
+        "text": "<@U070YDB0DEW>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.546729"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HS37DQX",
+        "text": "<@U070HS37DQX>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.659079"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9RP1J7",
+        "text": "<@U070Y9RP1J7>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.746529"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ26JMU",
+        "text": "<@U070RQ26JMU>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.825619"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ20GCE",
+        "text": "<@U070RQ20GCE>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109760.909309"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070VFTRR61",
+        "text": "<@U070VFTRR61>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718109761.002679"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710SZN03W",
+        "text": "<@U0710SZN03W>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718110028.319039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M70GW00",
+        "text": "<@U071M70GW00>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718110028.437549"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0714V5MYTW",
+        "text": "<@U0714V5MYTW>さんがチャンネルに参加しました",
+        "inviter": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718110028.545129"
+    },
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1718168821.811089",
+        "edited": {
+            "user": "U06L4GKC9N3",
+            "ts": "1718168857.000000"
+        },
+        "client_msg_id": "be3b3094-2403-4ccf-8ee1-fa9c9797d50d",
+        "text": "<!channel>\n0613_第11回参加団体局教室部門会議\n【場所】メディア棟　M514教室\n【時間】19*：*00～20：40\n【議題】追記します！\n\n【持ち物】パソコン・充電器\n　　　　　\n【議事録】文責：まく\n　　　　　チェック：まほ・りょう\n\n\n新規のみんな〜ようこそ教室部門へ！これからよろしくね！\n一緒に盛りあげていきましょう:star-struck:\n会議後のご飯楽しみ！たくさん話そうね！！\n\nでは、確認したらぁぁぁリアクションお願いぃぃぃぃぃ！！！\n遅刻・欠席・早退は僕に連絡お願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHDa+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0613_第11回参加団体局教室部門会議\n【場所】メディア棟　M514教室\n【時間】19"
+                            },
+                            {
+                                "type": "text",
+                                "text": "：",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "00～20：40\n【議題】追記します！\n\n【持ち物】パソコン・充電器\n　　　　　\n【議事録】文責：まく\n　　　　　チェック：まほ・りょう\n\n\n新規のみんな〜ようこそ教室部門へ！これからよろしくね！\n一緒に盛りあげていきましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議後のご飯楽しみ！たくさん話そうね！！\n\nでは、確認したらぁぁぁリアクションお願いぃぃぃぃぃ！！！\n遅刻・欠席・早退は僕に連絡お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U06L4GMANMD",
+                    "U06M7SUULGY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U0714V5MYTW",
+                    "U06LK3LT89Y",
+                    "U06M7SUULGY",
+                    "U06L4GMANMD",
+                    "U0728FVKU2V"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0GM50T",
+                    "U070HS379EK",
+                    "U070Y9VAKAP",
+                    "U0710SZN03W",
+                    "U06LCE8K98E",
+                    "U0714V5MYTW",
+                    "U070VFTRR61",
+                    "U06LK3LT89Y",
+                    "U06M7SUULGY",
+                    "U070RQ20GCE",
+                    "U06L4GMANMD",
+                    "U070Y9RP1J7",
+                    "U070HS37DQX",
+                    "U071M70GW00",
+                    "U070RQ26JMU",
+                    "U06LK3ZBCN6",
+                    "U06LMH666BE",
+                    "U070YDB0DEW"
+                ],
+                "count": 18
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U06L4GMANMD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "鞠子ひからない",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U06LK3LT89Y",
+                    "U06M7SUULGY",
+                    "U06L4GMANMD",
+                    "U06LK3ZBCN6",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "教室部門主義",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "参団_教室_鞠子ありえない",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LK3LT89Y",
+                    "U06M7SUULGY",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "参団_教室_鞠子ひかれる",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LCE8K98E",
+                    "U06LK3LT89Y",
+                    "U06M7SUULGY",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 5
+            },
+            {
+                "name": "参団_教室_不死鳥のマリコ",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06M7SUULGY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しゃしゃんな",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "かずきズキズキ",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06M7SUULGY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "哀れかずき",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06M7SUULGY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "白川泰晟",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "先輩ぶるな",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ロン",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "一発",
+                "users": [
+                    "U06LK0GM50T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "鞠子寝る",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK0GM50T",
+                    "U06LK3LT89Y",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

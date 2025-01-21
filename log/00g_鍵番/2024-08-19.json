@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724118630.990799",
+        "client_msg_id": "E4B56800-734F-48FE-AC40-C6F763743063",
+        "text": "今日もかりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgZME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日もかりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U070Y9S1CRH",
+                    "U06M7SETDKJ",
+                    "U06LK3ZBCN6",
+                    "U06LK3LM7AN",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

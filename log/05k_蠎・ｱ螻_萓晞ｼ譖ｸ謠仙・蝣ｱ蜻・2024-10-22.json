@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1729588029.325269",
+        "client_msg_id": "5803AF5E-38AC-4C94-88C1-0711697E179D",
+        "text": "<@U06M7SETDKJ>\nおつかれぇ遅くなってごめんん\n学内広報部門で受理します！引き続きよろしくですすす",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729391777.440199",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vhmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SETDKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれぇ遅くなってごめんん\n学内広報部門で受理します！引き続きよろしくですすす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1712900011.375909",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1712900026.000000"
+        },
+        "client_msg_id": "1CD9CE09-A775-4505-BCFA-35CA22D51BBA",
+        "text": "<!channel> \nおつかれさまです！\n明日*4月13日*のタスクフォース会議についてなのですが、\n今回はSlackチームは参加しなくても良いことになりましたので、*行くか行かないかは自由*です！\nわたしは局タスクの期限が迫っているので行けません、申し訳ないです:woman-bowing::skin-tone-2: :pray::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsE49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです！\n明日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4月13日",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "のタスクフォース会議についてなのですが、\n今回はSlackチームは参加しなくても良いことになりましたので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "行くか行かないかは自由",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！\nわたしは局タスクの期限が迫っているので行けません、申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

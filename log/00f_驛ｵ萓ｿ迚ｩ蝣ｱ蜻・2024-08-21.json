@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1724299691.868659",
+        "client_msg_id": "a87b91f7-a4e1-44c8-b033-0f53f4edd3cb",
+        "text": "<@U06LHACMG91>お疲れ様です！\n渉外局宛に封筒が届いておりましたので、渉外局ロッカーに入れておきました！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1S+XE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n渉外局宛に封筒が届いておりましたので、渉外局ロッカーに入れておきました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GH4ETH",
+                    "U06L4GLJVKR",
+                    "U06LGHETAFP",
+                    "U06LJRSQDC3",
+                    "U06LHACMG91"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LHACMG91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07JNQSUWSU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNY0MHP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724299703.114789",
+        "client_msg_id": "d8940465-e795-469e-9ecf-aa343887e059"
+    }
+]

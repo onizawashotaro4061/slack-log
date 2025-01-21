@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711119659.337249",
+        "client_msg_id": "B4A70F20-113C-4694-99FD-3FB92C55FC6D",
+        "text": "<!channel> \n広報局長の梅本です！\n第140回明大祭コンセプトの応募は\n本日23日23：59までです。\nたくさんのご応募お待ちしております:bangbang:\n※応募は1人につき1つまでです。\n<https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6|https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh6.googleusercontent.com\/-s7DthgagyO2-Npsd1MD-m4gjcguhXQGWVsqi502D_iKyzVHU6nis9geHfchbtXI7owBTFmQ8vE",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 26506,
+                "from_url": "https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6",
+                "fallback": "Google Docs: 明大祭コンセプト案募集",
+                "title": "明大祭コンセプト案募集",
+                "title_link": "https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcknU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "広報局長の梅本です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第140回明大祭コンセプト"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の応募は\n本日23日23：59までです。\nたくさんのご応募お待ちしております"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※応募は1人につき1つまでです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6",
+                                "text": "https:\/\/forms.gle\/B6G3Bmyakk5mZcdZ6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3LKR9Q",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "不憫を継ぐきどこう",
+                "users": [
+                    "U06LJBVA2DS",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1715068122.293109",
+        "client_msg_id": "050AE684-EAC4-4881-8F15-9343C54612AF",
+        "text": "↑17時10分から教室とってます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715068122.293109",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1715068719.068059",
+        "reply_users": [
+            "U06LMH3GJKE",
+            "U06LVK2FU1X"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH3GJKE",
+                "ts": "1715068452.206839"
+            },
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1715068529.739309"
+            },
+            {
+                "user": "U06LMH3GJKE",
+                "ts": "1715068719.068059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4NeF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑17時10分から教室とってます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1715068452.206839",
+        "client_msg_id": "5A9CD15E-1DE9-42BE-B756-9D35A2E07AC9",
+        "text": "どこの教室ですか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715068122.293109",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znY7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこの教室ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1715068529.739309",
+        "client_msg_id": "E80977A8-0E33-4B04-891E-82FB90ADD4A7",
+        "text": "M502！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715068122.293109",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHqoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "M502！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1715068719.068059",
+        "client_msg_id": "81278EAF-3B4A-4D86-B7BE-3EBCC18E5B01",
+        "text": "ありがとうございます :blush: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715068122.293109",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "11GTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

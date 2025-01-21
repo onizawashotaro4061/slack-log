@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1727491682.388279",
+        "client_msg_id": "354167A3-A6EE-47C0-9E29-3803ACE55069",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL> \nお疲れ様です。\n制作局グラフィックデザイン部門長の成瀬です。\nオリジナルステッカー配布に関する広報活動企画書をOneDriveに提出いたしました。\n私の管理不足により遅くなってしまいました。大変申し訳ございません。\nご確認お願いいたします :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727491682.388279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727609345.618799",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727609345.618799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4DSe5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n制作局グラフィックデザイン部門長の成瀬です。\nオリジナルステッカー配布に関する広報活動企画書をOneDriveに提出いたしました。\n私の管理不足により遅くなってしまいました。大変申し訳ございません。\nご確認お願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

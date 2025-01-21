@@ -1,0 +1,147 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06L97X3V6J",
+        "text": "<@U06L97X3V6J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709877703.470269"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCUTBMU5",
+        "text": "<@U06LCUTBMU5>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877883.790289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE9EH9QV",
+        "text": "<@U06LE9EH9QV>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877883.868589"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LDT584J1",
+        "text": "<@U06LDT584J1>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877883.938989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LKHN3RE0",
+        "text": "<@U06LKHN3RE0>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.006299"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L2DCDLF9",
+        "text": "<@U06L2DCDLF9>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.080439"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LKTXCZL4",
+        "text": "<@U06LKTXCZL4>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.153029"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.224599"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LHACMG91",
+        "text": "<@U06LHACMG91>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.310339"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LKEPTCA0",
+        "text": "<@U06LKEPTCA0>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.398289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.477329"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L2CSPXV5",
+        "text": "<@U06L2CSPXV5>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.553969"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LH4PDAQ3",
+        "text": "<@U06LH4PDAQ3>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877884.640169"
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709877959.344109",
+        "client_msg_id": "9C0C31E4-A8DE-4BD1-BDC1-380659A0179B",
+        "text": "<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

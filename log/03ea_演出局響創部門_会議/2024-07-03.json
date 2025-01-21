@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1720061511.848239",
+        "client_msg_id": "dbba14c7-4672-4eca-a8bf-ea14e5ea8d7d",
+        "text": "<!channel>\n会議連絡だよーん\n\n【時間】7\/4 (木) 19:00-20:40\n【場所】LS406\n【議題】\n1. 各種報告（意思共有）\n2. 今後のスケジュール（意思共有）\n3. 議事録マスターになろう！（意思共有）\nおわったらチーム会議！\n今日はドライブだね〜〜\nドライブ日和な天気で嬉しい =^.^=\n\n欠席、遅刻、早退はスレッドへ:car::dash:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720061511.848239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1720083820.077659",
+        "reply_users": [
+            "U071A394WUB"
+        ],
+        "replies": [
+            {
+                "user": "U071A394WUB",
+                "ts": "1720083820.077659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JmYS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよーん\n\n【時間】7\/4 (木) 19:00-20:40\n【場所】LS406\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今後のスケジュール（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "議事録マスターになろう！（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nおわったらチーム会議！\n今日はドライブだね〜〜\nドライブ日和な天気で嬉しい =^.^=\n\n欠席、遅刻、早退はスレッドへ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dash",
+                                "unicode": "1f4a8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LCECJD8W",
+                    "U070Y9RH075",
+                    "U071M6XB9DE",
+                    "U06LK0G74NP",
+                    "U06L4GM9N5V",
+                    "U070YDB48GJ",
+                    "U06LG63FM1B"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

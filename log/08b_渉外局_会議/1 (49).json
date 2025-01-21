@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U070YDYBFGA",
+        "type": "message",
+        "ts": "1719905531.230619",
+        "client_msg_id": "4B5B5D69-4FE5-4929-80B7-40CD0AF8F7C9",
+        "text": "発熱のため、休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acfee07457a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055264968576_acfee07457a5589f1b27_72.png",
+            "first_name": "井田礼香",
+            "real_name": "井田礼香",
+            "display_name": "Ida .Reika",
+            "team": "T06L90YHJF8",
+            "name": "idareika2005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719799465.057959",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRN2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発熱のため、休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3CV89X",
+        "type": "message",
+        "ts": "1719911325.041639",
+        "client_msg_id": "D1FEDA50-7A99-4BEF-863B-85B769EBDF6F",
+        "text": "電車が遅れているため遅刻するかもしれないです。申し訳ございません :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "674d60635c49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-10\/7557487587732_674d60635c495e927443_72.png",
+            "first_name": "若杉和泉",
+            "real_name": "若杉和泉",
+            "display_name": "Wakasugi.Izumi",
+            "team": "T06L90YHJF8",
+            "name": "izumacron0521animal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719799465.057959",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ss3SQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅れているため遅刻するかもしれないです。申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG610ADB",
+        "type": "message",
+        "ts": "1719914110.339129",
+        "client_msg_id": "BD299F67-19F0-4416-9B8B-5D9105596077",
+        "text": "今週も電車がちょっとだけ遅れてて、数分遅刻するかもしれません、、、、。すみません:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788dd27e8352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7946327606705_788dd27e83521855f665_72.png",
+            "first_name": "鈴木来哉",
+            "real_name": "鈴木来哉",
+            "display_name": "Suzuki.Raiya",
+            "team": "T06L90YHJF8",
+            "name": "rrraai1214",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719799465.057959",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MujfK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今週も電車がちょっとだけ遅れてて、数分遅刻するかもしれません、、、、。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

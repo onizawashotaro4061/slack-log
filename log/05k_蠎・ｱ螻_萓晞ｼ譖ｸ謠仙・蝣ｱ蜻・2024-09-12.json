@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SQ7QL8",
+        "text": "<@U06M7SQ7QL8>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1726191894.257289"
+    },
+    {
+        "user": "U06M7SQ7QL8",
+        "type": "message",
+        "ts": "1726191990.855469",
+        "client_msg_id": "EE3D0DBF-B3FE-4713-B477-4298B7ED3341",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J> \nお疲れ様です！募金企画広報依頼書をワンドラに提出いたしました！ご確認お願いいたします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7562f2d050bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818430171429_7562f2d050bf4207d6ca_72.png",
+            "first_name": "笠井春花",
+            "real_name": "笠井春花",
+            "display_name": "Kasai.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruki6c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726191990.855469",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1726233057.944639",
+        "reply_users": [
+            "U06LK3L6B4J",
+            "U06M7SQ7QL8"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1726230863.558319"
+            },
+            {
+                "user": "U06M7SQ7QL8",
+                "ts": "1726233057.944639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Sm4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！募金企画広報依頼書をワンドラに提出いたしました！ご確認お願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

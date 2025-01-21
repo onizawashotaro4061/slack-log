@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1728130911.811699",
+        "client_msg_id": "D6563CAC-C33A-4AE8-8660-B95FF550DE81",
+        "text": "鍵学生証たっか:old_key:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKI44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鍵学生証たっか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "old_key",
+                                "unicode": "1f5dd-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1728133222.288679",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1728133234.000000"
+        },
+        "client_msg_id": "6201f2d8-3f55-418c-8c5c-b2dfa1440f25",
+        "text": "しめかえし！今日も1日おつかれさまでしたー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nwjkc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし！今日も1日おつかれさまでしたー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710TSE9TN",
+                    "U06LK3ZBCN6",
+                    "U06L4GH3T7H",
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06LK3MF9FC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1728170034.960669",
+        "client_msg_id": "DDEB2D11-0977-4658-B5B7-38422494A186",
+        "text": "かりあけてます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSoUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GH3T7H",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

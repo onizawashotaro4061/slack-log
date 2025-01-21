@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1710548644.018019",
+        "client_msg_id": "637E64C5-C706-410D-8394-94485F86A4C0",
+        "text": "一瞬あけてます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ejfc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一瞬あけてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "そらganaha_sky",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LCE9NLP8",
+                    "U06M7SETDKJ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

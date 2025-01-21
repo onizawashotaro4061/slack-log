@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1712109893.661039",
+        "client_msg_id": "310c9adb-567b-4a5c-a977-1c4133d89c07",
+        "text": "<!channel>\nおつかれさまです！\nプロフィールの役職の部分に継続2年ではなく、〇〇部門長2年と書いていただきたいです:pray::skin-tone-2:\n何度もお願いをしてしまい申し訳ないのですが、ご協力のほどよろしくお願いいたします:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712109893.661039",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1713921490.936529",
+        "reply_users": [
+            "U06M7SETDKJ",
+            "U06LXNZDHFT",
+            "U06LK0F2RC3"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1713893189.843789"
+            },
+            {
+                "user": "U06LXNZDHFT",
+                "ts": "1713917614.977369"
+            },
+            {
+                "user": "U06LK0F2RC3",
+                "ts": "1713921490.936529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tsIm4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nプロフィールの役職の部分に継続2年ではなく、〇〇部門長2年と書いていただきたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n何度もお願いをしてしまい申し訳ないのですが、ご協力のほどよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LK3MF9FC",
+                    "U06LK3ZBCN6",
+                    "U06LG62V1FX",
+                    "U06LXNYUX7T",
+                    "U06LXNYCLJV",
+                    "U06L4GH4ETH",
+                    "U06M7SPUVEC"
+                ],
+                "count": 9
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SPUVEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

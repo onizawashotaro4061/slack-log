@@ -1,0 +1,88 @@
+[
+    {
+        "text": "<!channel> お疲れ様です！会議でもちょろっと共有した新規部門長面談を実施します！お話会です。\nスケジュールのテンプレートを添付するので、空白の日程で空いてる時間には全て「○」を書いて提出をお願いします！\n提出先は、\n自分のファイル＞各局＞03_開発局＞07_対外推進部門＞04_渉内活動＞新規部門長面談スケジュール\nです！\n*提出期限は6\/16（日）の23:59までです！*期限短くてゴメンね。提出お願いします！",
+        "files": [
+            {
+                "id": "F0783FR91EF",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhTNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！会議でもちょろっと共有した新規部門長面談を実施します！お話会です。\nスケジュールのテンプレートを添付するので、空白の日程で空いてる時間には全て「○」を書いて提出をお願いします！\n提出先は、\n自分のファイル＞各局＞03_開発局＞07_対外推進部門＞04_渉内活動＞新規部門長面談スケジュール\nです！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "提出期限は6\/16（日）の23:59までです！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限短くてゴメンね。提出お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718344304.533759",
+        "edited": {
+            "user": "U06LK3ZBCN6",
+            "ts": "1718414942.000000"
+        },
+        "client_msg_id": "9074fed2-4d3d-4f63-82c5-07a42d128a6b",
+        "reactions": [
+            {
+                "name": "か_本間すまん",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06L4GKGXB9",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か_だいご",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U0710T14PU4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "鈴木酒こう",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ1EK2S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U070VG0DP0D",
+        "type": "message",
+        "ts": "1715659672.586079",
+        "client_msg_id": "A944709B-D4EE-478B-8ED8-9FF218DB186B",
+        "text": "私用のため欠席します。すいません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2517cef1fb1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-03\/8115690062674_2517cef1fb1dcc16850e_72.png",
+            "first_name": "田嶋佳布子",
+            "real_name": "田嶋佳布子",
+            "display_name": "Tajima.Kanoko",
+            "team": "T06L90YHJF8",
+            "name": "kanoko.ren1124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715567493.881539",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3feT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。すいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD75PJ6",
+        "type": "message",
+        "ts": "1715662308.018739",
+        "client_msg_id": "C7865EDC-8081-4653-8986-68A528015E18",
+        "text": "風邪をひいたので欠席します :mask: すみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "95454a02abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032460592610_95454a02abe2d7eaa024_72.png",
+            "first_name": "高部粋",
+            "real_name": "高部粋",
+            "display_name": "Takabe.Sui",
+            "team": "T06L90YHJF8",
+            "name": "sui.tokyo.1001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715567493.881539",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63mcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪をひいたので欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask",
+                                "unicode": "1f637"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LK3KA09G",
+                    "U06L4GJBJP9",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "text": "<@U06L97X3V6J> <@U06LCUTBMU5>\nごめん！学事から、広報誌にご賛助に関する情報掲載について聞かれてて、今日までに応えないといけないから、内容チェックしてくれないかな！！\n超緊急！！",
+        "files": [
+            {
+                "id": "F074SUR9QMD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LHACMG91",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9lZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCUTBMU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nごめん！学事から、広報誌にご賛助に関する情報掲載について聞かれてて、今日までに応えないといけないから、内容チェックしてくれないかな！！\n超緊急！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716790830.427089",
+        "client_msg_id": "3add472e-da15-435c-9fef-3f64add1e401",
+        "thread_ts": "1716790830.427089",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716791697.936579",
+        "reply_users": [
+            "U06LCUTBMU5",
+            "U06LHACMG91"
+        ],
+        "replies": [
+            {
+                "user": "U06LCUTBMU5",
+                "ts": "1716791675.617759"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1716791697.936579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U06LHACMG91> みなさまだけ！",
+        "files": [
+            {
+                "id": "F0750U8MD0W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z5LfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みなさまだけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716791675.617759",
+        "client_msg_id": "9FCEEB55-E310-4F2B-9042-D8C8685DE862",
+        "thread_ts": "1716790830.427089",
+        "parent_user_id": "U06LHACMG91",
+        "reactions": [
+            {
+                "name": "橋本",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1716791697.936579",
+        "client_msg_id": "c430f641-cb1f-44c5-a437-3b31d324115b",
+        "text": "了解！！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716790830.427089",
+        "parent_user_id": "U06LHACMG91",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1UoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

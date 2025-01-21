@@ -1,0 +1,103 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です\n参加団体特集についてあまり何やるかわかってない状態で話し合い進めてしまった感もあるので\nいったん今考えていることをまとめました。日曜日の役員会しだいで内容が変わる場合もあるので把握お願いします:pray:\nなにか疑問点や質問あったらなんでもいってねーー\n\n自律神経イカれてて一日中床に伏していまして、返信遅くなります\nみなさんも体調管理気負つけてね:face_with_thermometer:",
+        "files": [
+            {
+                "id": "F07CM1JL4R1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IO1Tj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です\n参加団体特集についてあまり何やるかわかってない状態で話し合い進めてしまった感もあるので\nいったん今考えていることをまとめました。日曜日の役員会しだいで内容が変わる場合もあるので把握お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなにか疑問点や質問あったらなんでもいってねーー\n\n自律神経イカれてて一日中床に伏していまして、返信遅くなります\nみなさんも体調管理気負つけてね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_thermometer",
+                                "unicode": "1f912"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721123951.149919",
+        "client_msg_id": "eb32b17c-37d0-4ce4-ac4b-860ee7dd0fb7",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK",
+                    "U070Y9RLJTV",
+                    "U070VFY94H3",
+                    "U070HS2FRT9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK",
+                    "U070HS2FRT9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "死にたくない",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U071B38HAM7",
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK",
+                    "U070Y9RMP7D"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

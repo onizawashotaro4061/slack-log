@@ -1,0 +1,109 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06LE9EH9QV",
+        "thread_ts": "1720537443.345759",
+        "root": {
+            "user": "U06LE9EH9QV",
+            "type": "message",
+            "ts": "1720537443.345759",
+            "client_msg_id": "860DD411-15F1-4495-9A88-13F997CD18D1",
+            "text": "<!channel>\n【全体合宿について】\nお疲れ様です中保です。\n結構埋もれてるみたいなので再度リマインドします。\n7\/20までです！\n<https:\/\/forms.gle\/JbeZevwFaE4H2wQS8|https:\/\/forms.gle\/JbeZevwFaE4H2wQS8>",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1720537443.345759",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1721530474.914739",
+            "reply_users": [
+                "U06LE9EH9QV"
+            ],
+            "replies": [
+                {
+                    "user": "U06LE9EH9QV",
+                    "ts": "1721530474.914739"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "image_url": "https:\/\/lh6.googleusercontent.com\/jx1RIBFgsndTaVSkOtH7rUPCp1NzHs4c2CRIG3hU0K04n7AeCLX5eNbv2HaJlI0QYnrrWMBmgJA",
+                    "image_width": 800,
+                    "image_height": 600,
+                    "image_bytes": 21291,
+                    "from_url": "https:\/\/forms.gle\/JbeZevwFaE4H2wQS8",
+                    "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/JbeZevwFaE4H2wQS8",
+                    "fallback": "Google Docs: 全体合宿出席（ほぼ確定版）",
+                    "title": "全体合宿出席（ほぼ確定版）",
+                    "title_link": "https:\/\/forms.gle\/JbeZevwFaE4H2wQS8",
+                    "service_name": "Google Docs"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bHwje",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【全体合宿について】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "お疲れ様です中保です。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n結構埋もれてるみたいなので再度リマインドします。\n7\/20までです！\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/JbeZevwFaE4H2wQS8",
+                                    "text": "https:\/\/forms.gle\/JbeZevwFaE4H2wQS8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1721530474.914739",
+        "client_msg_id": "8b836e15-3a56-43aa-adcf-20c570ff69d9",
+        "text": "一応全体合宿のフォーム入力は締め切ったので、以降の出欠の変更は中保にDMしてくださーい\n出席者には以降詳細をお伝えしますー",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Mt7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応全体合宿のフォーム入力は締め切ったので、以降の出欠の変更は中保にDMしてくださーい\n出席者には以降詳細をお伝えしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

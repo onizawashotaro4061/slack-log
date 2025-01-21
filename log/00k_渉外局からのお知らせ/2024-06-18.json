@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1718717544.160309"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06M7SETDKJ",
+        "old_name": "00l_渉外局からのお知らせ",
+        "name": "00m_渉外局からのお知らせ",
+        "text": "チャンネル名を「00l_渉外局からのお知らせ」から「00m_渉外局からのお知らせ」に変更しました",
+        "type": "message",
+        "ts": "1718717572.757749"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06M7SETDKJ",
+        "old_name": "00m_渉外局からのお知らせ",
+        "name": "00k_渉外局からのお知らせ",
+        "text": "チャンネル名を「00m_渉外局からのお知らせ」から「00k_渉外局からのお知らせ」に変更しました",
+        "type": "message",
+        "ts": "1718772531.031859"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U06LCE69DRU",
+        "type": "message",
+        "ts": "1733217715.954219",
+        "client_msg_id": "a134f621-eb30-4f69-b8c3-c7e9ec209cc0",
+        "text": "ねててちょっとおくれますすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "12e80b515780",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-16\/7900904960705_12e80b515780e764a5ae_72.jpg",
+            "first_name": "梅山翔央",
+            "real_name": "梅山翔央",
+            "display_name": "Umeyama.Sho",
+            "team": "T06L90YHJF8",
+            "name": "sho.ume.2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733150451.694439",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQ11L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ねててちょっとおくれますすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T0UFQC",
+        "type": "message",
+        "ts": "1733217935.120349",
+        "edited": {
+            "user": "U0710T0UFQC",
+            "ts": "1733218010.000000"
+        },
+        "client_msg_id": "AC7E3B18-8A13-4A06-8150-628D63F0B614",
+        "text": "熱が出てしまったのでお休みします。\nほんとにごめんなさい :sob: 最後の会議は絶対行きます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3d7dbf0112c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8024885003155_a3d7dbf0112c705d12ff_72.png",
+            "first_name": "畑ひとみ",
+            "real_name": "畑ひとみ",
+            "display_name": "Hata.Hitomi",
+            "team": "T06L90YHJF8",
+            "name": "hitomi5555",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733150451.694439",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JcaRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱が出てしまったのでお休みします。\nほんとにごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "最後の会議は絶対行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDCRM1Q",
+        "type": "message",
+        "ts": "1733219246.319859",
+        "client_msg_id": "b43efa3c-7bf5-4265-a7f4-381a8986cf9d",
+        "text": "コンタクトが割れたので緊急で眼科に行きますすみません。来週は絶対出ます:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ac312627de56",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8039674612529_ac312627de568e165dda_72.jpg",
+            "first_name": "東海敦子",
+            "real_name": "東海敦子",
+            "display_name": "Tokai.Atsuko",
+            "team": "T06L90YHJF8",
+            "name": "atuatu.a1315",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733150451.694439",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwC+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンタクトが割れたので緊急で眼科に行きますすみません。来週は絶対出ます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

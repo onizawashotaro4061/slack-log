@@ -1,0 +1,164 @@
+[
+    {
+        "text": "<@U070Y9UEAAF> お疲れ様です〜\n協賛品がさっき届いたので、仕事部屋に置いてあります〜",
+        "files": [
+            {
+                "id": "F07KGJQEFC0",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE4DK46",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCAjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9UEAAF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です〜\n協賛品がさっき届いたので、仕事部屋に置いてあります〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724810207.375519",
+        "client_msg_id": "B05F7DBD-6C27-4775-B243-BE2387D0C4E0",
+        "thread_ts": "1724810207.375519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1724810274.461579",
+        "reply_users": [
+            "U070Y9UEAAF"
+        ],
+        "replies": [
+            {
+                "user": "U070Y9UEAAF",
+                "ts": "1724810274.461579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U070Y9UEAAF",
+                    "U06L4GLJVKR",
+                    "U070RQ0VCP8",
+                    "U06LJRSQDC3"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U070Y9UEAAF",
+        "type": "message",
+        "ts": "1724810274.461579",
+        "client_msg_id": "2E021D93-957C-4D79-ABE6-67BEB51FCDF9",
+        "text": "<@U06LCE4DK46> お疲れ様です！\n承知いたしました。ありがとうございます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "eeda69751861",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-28\/7482157833814_eeda69751861dd164e28_72.png",
+            "first_name": "栗原幸輝",
+            "real_name": "栗原幸輝",
+            "display_name": "Kurihara.Koki",
+            "team": "T06L90YHJF8",
+            "name": "kurikou286",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724810207.375519",
+        "parent_user_id": "U06LCE4DK46",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tTUAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE4DK46"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\n承知いたしました。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06LKEPTCA0> <@U06LXNXNWGH> \n財務宛に入れとくねー",
+        "files": [
+            {
+                "id": "F07KGTSJK4G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivwj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LKEPTCA0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNXNWGH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n財務宛に入れとくねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724816918.765069",
+        "client_msg_id": "23C21498-4A2B-4B00-B3D8-C28736590EC7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LXNXNWGH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

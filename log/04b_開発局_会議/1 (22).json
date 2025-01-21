@@ -1,0 +1,45 @@
+[
+    {
+        "text": "今日の座席表！",
+        "files": [
+            {
+                "id": "F07083EJRDJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMGM3CG4",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZO68n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の座席表！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713854750.877529",
+        "client_msg_id": "0e215137-20d1-4cb2-9009-fd89e80d749f",
+        "thread_ts": "1713762998.493759",
+        "parent_user_id": "U06LE249H0V",
+        "reactions": [
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

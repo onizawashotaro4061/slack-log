@@ -1,0 +1,223 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1729549819.843679",
+        "client_msg_id": "2C8C18BC-F37D-4625-A531-FE13F6E541B2",
+        "text": "<!channel> \n色ペンや蛍光ペン、マッキーペンなど持ってる人は今日の局会議に持ってきてください！プレゼン大会で使います！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iib4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n色ペンや蛍光ペン、マッキーペンなど持ってる人は今日の局会議に持ってきてください！プレゼン大会で使います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS5NT63",
+        "type": "message",
+        "ts": "1729560664.513039",
+        "client_msg_id": "8C73FA04-8E92-4DA0-AD06-FED1E255F503",
+        "text": "企業部門\n来福、栗原、佐藤、品川、星\n明大祭大抽選会宣伝企画のリハーサルがあるので遅刻します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "43b819b79bf7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7518928395159_43b819b79bf76e633ea9_72.png",
+            "first_name": "佐藤怜人",
+            "real_name": "佐藤怜人",
+            "display_name": "Sato.Ryoto",
+            "team": "T06L90YHJF8",
+            "name": "ryoto0318",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKI1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企業部門\n来福、栗原、佐藤、品川、星\n明大祭大抽選会宣伝企画のリハーサルがあるので遅刻します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1729567337.426589",
+        "client_msg_id": "BFE380D2-AC6E-41F4-943E-C2396EBBCB20",
+        "text": "風邪ひいてて体調がすぐれないので欠席します :sob: ご迷惑をおかけして申し訳ありません。よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+d3gP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪ひいてて体調がすぐれないので欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご迷惑をおかけして申し訳ありません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ5918W",
+        "type": "message",
+        "ts": "1729569882.076019",
+        "client_msg_id": "6DCC4376-0D15-4055-BDB8-E6DC8A7984EF",
+        "text": "体調不良のため欠席します。申し訳ありません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1c20409fed1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025848424998_1c20409fed1a31f90b47_72.png",
+            "first_name": "熊倉あい",
+            "real_name": "熊倉あい",
+            "display_name": "Kumakura.Ai",
+            "team": "T06L90YHJF8",
+            "name": "ai.1220.smile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BR8f7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

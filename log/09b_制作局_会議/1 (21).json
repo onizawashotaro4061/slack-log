@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U06L4TGH30F",
+        "type": "message",
+        "ts": "1715202091.139129",
+        "client_msg_id": "FCA90F13-87AE-4B4E-B394-AF3B1E611906",
+        "text": "親戚が来日している関係で、休みます。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bbeae4ee3238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-15\/7728244406805_bbeae4ee3238fecc24f3_72.png",
+            "first_name": "関田祐愛",
+            "real_name": "関田祐愛",
+            "display_name": "Sekita.Yua",
+            "team": "T06L90YHJF8",
+            "name": "yuatampo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715065209.822689",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qM19P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "親戚が来日している関係で、休みます。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しゃばはる",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L8RNE",
+        "type": "message",
+        "ts": "1715218852.261619",
+        "client_msg_id": "6633C483-B301-4AB0-B49E-072F98C09D4D",
+        "text": "ゼミの集まりがあるので遅れます。悔しいです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "766a32f9dabb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762066848436_766a32f9dabb5c20c859_72.png",
+            "first_name": "小野隼兵",
+            "real_name": "小野隼兵",
+            "display_name": "Ono.Junpei",
+            "team": "T06L90YHJF8",
+            "name": "jyungoromaru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715065209.822689",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzOb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの集まりがあるので遅れます。悔しいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

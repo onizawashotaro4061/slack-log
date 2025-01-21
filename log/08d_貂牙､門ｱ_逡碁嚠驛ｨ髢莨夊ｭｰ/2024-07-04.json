@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U071M740R32",
+        "type": "message",
+        "ts": "1720143638.447189",
+        "client_msg_id": "F12B9734-C684-46D8-9D7B-275A7422DA9F",
+        "text": "バイトで欠席します :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "876cf5e7cc35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7220379141713_876cf5e7cc353c8748d5_72.png",
+            "first_name": "草野佑太朗",
+            "real_name": "草野佑太朗",
+            "display_name": "Kusano.Yuutarou",
+            "team": "T06L90YHJF8",
+            "name": "k.yuuu118520",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719499516.625869",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/AFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

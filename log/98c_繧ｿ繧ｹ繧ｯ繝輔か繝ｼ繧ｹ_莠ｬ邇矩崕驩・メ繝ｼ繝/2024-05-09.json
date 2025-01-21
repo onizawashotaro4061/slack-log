@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1715240319.021099",
+        "client_msg_id": "89762aec-2b3b-4f6f-a6d6-370b4e6daf65",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！タスクフォース会時に話し合う議題ですね\n0427_第5回タスクフォース京王電鉄チーム会議\n【議題】\n1.ライナーカードについて（意思共有）\n2.アンケート結果について（意見交換）\n3.次回会議日程について（意思共有）\n\nタスクフォース会から継続会とかなりハードですが頑張っていきましょー！\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U0lHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！タスクフォース会時に話し合う議題ですね\n0427_第5回タスクフォース京王電鉄チーム会議\n【議題】\n1.ライナーカードについて（意思共有）\n2.アンケート結果について（意見交換）\n3.次回会議日程について（意思共有）\n\nタスクフォース会から継続会とかなりハードですが頑張っていきましょー！\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4J69HV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

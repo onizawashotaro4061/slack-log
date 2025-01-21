@@ -1,0 +1,118 @@
+[
+    {
+        "text": "*<!channel>*\nお疲れ様です！2年継続の北見です！\n第21回演出局響創部門会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞05_響創部門＞02_議事録＞6月\nにアップロードしました。\n\n議題は\n1. 各種共有（意思共有）\n2. 明実を知ろう！（意思共有）\n3. チーム配属ESについて（意思共有）\nです。確認お願いします！\nエアビ中に失礼します！！今回の会議の明実を知ろう！が全体を知れた面白い議題でした！さすがさちですね〜",
+        "files": [
+            {
+                "id": "F078T85TWRE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GKF78F",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90WCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！2年継続の北見です！\n第21回演出局響創部門会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞05_響創部門＞02_議事録＞6月\nにアップロードしました。\n\n議題は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "明実を知ろう！（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム配属ESについて（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。確認お願いします！\nエアビ中に失礼します！！今回の会議の明実を知ろう！が全体を知れた面白い議題でした！さすがさちですね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718355648.137169",
+        "client_msg_id": "d5e219d1-82d9-4db6-a399-cc53f20b0872",
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U06LK0G74NP",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "北見純一朗",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U06LK0G74NP",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LK3MF9FC"
+                ],
+                "count": 6
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

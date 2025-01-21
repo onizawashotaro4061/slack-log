@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U0710T39SS0",
+        "type": "message",
+        "ts": "1731306307.566799",
+        "client_msg_id": "3a99f5a3-6138-4076-a07c-6d60b8292609",
+        "text": "体調不良なので休みます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a72ac06499a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-21\/7148625253490_a72ac06499a994f2ab4d_72.jpg",
+            "first_name": "西川　慧",
+            "real_name": "西川　慧",
+            "display_name": "Nishikawa.Kei",
+            "team": "T06L90YHJF8",
+            "name": "watashihamomonga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731220934.941549",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8euL8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良なので休みます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "体育会当ニー",
+                "users": [
+                    "U06LG62FNP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LG62FNP7",
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LXNYCLJV"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1731311437.853649",
+        "client_msg_id": "2a6aaa2a-4b7e-4fd8-806b-dbaa1109ae8d",
+        "text": "授業で遅れます:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731220934.941549",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCEej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業で遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LG62FNP7",
+                    "U06LXNYCLJV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "体育会当ニー",
+                "users": [
+                    "U06LG62FNP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sexy企画効果",
+                "users": [
+                    "U06LK3MPZ34"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

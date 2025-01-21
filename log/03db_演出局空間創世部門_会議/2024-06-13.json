@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U0710TJSETW",
+        "type": "message",
+        "ts": "1718269271.349239",
+        "client_msg_id": "1C269D72-BEA1-400D-86AD-F4B6D16A6B9E",
+        "text": "小田急線が遅延しているので遅れて参加します、すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "84d802eec6ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-30\/8127291281536_84d802eec6ba03a22cdc_72.png",
+            "first_name": "森実來",
+            "real_name": "森実來",
+            "display_name": "Mori.Miku",
+            "team": "T06L90YHJF8",
+            "name": "m0331m0217",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718243431.287989",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zv0hj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小田急線が遅延しているので遅れて参加します、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "小田急",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U071B3917S5",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0DUBG",
+        "type": "message",
+        "ts": "1718271551.642869",
+        "client_msg_id": "49A8FAF9-A9DB-4E4D-9B31-FFACB35BDA5F",
+        "text": "塾講バイトのためお休み頂きます。\n申し訳ございません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "59ccd257a091",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7760887307424_59ccd257a091eb3d7d5b_72.png",
+            "first_name": "吉田瞬",
+            "real_name": "吉田瞬",
+            "display_name": "Yoshida.Shun",
+            "team": "T06L90YHJF8",
+            "name": "yoshidashun.aousagi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718243431.287989",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHrkq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "塾講バイトのためお休み頂きます。\n申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "よっし------",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

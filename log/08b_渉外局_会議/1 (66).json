@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1727057455.284609",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1727171679.000000"
+        },
+        "client_msg_id": "2ebe7df1-b610-411c-9278-f6d6353965fe",
+        "text": "<!channel>\n*【0924_第30回渉外局会議】*\n【時間】19:00～21:00\n【場所】LS601\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・SOS報告（意思共有）\n・協賛賛助反省（意見交換）\n・諸連絡（意思共有）\n\n高校時代、部活でお世話になった1つ上と2つ上の部長さんたちが明大祭来てくれることになりました！\nみなさん、今のうちから周りの人誘っちゃいましょ\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727057455.284609",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1727155301.477289",
+        "reply_users": [
+            "U06LXK3RF7B",
+            "U071B3CNHQR",
+            "U06LG5XQGS1"
+        ],
+        "replies": [
+            {
+                "user": "U06LXK3RF7B",
+                "ts": "1727075368.310669"
+            },
+            {
+                "user": "U071B3CNHQR",
+                "ts": "1727141663.476289"
+            },
+            {
+                "user": "U06LG5XQGS1",
+                "ts": "1727155301.477289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzYFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0924_第30回渉外局会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00～21:00\n【場所】LS601\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・SOS報告（意思共有）\n・協賛賛助反省（意見交換）\n・諸連絡（意思共有）\n\n高校時代、部活でお世話になった1つ上と2つ上の部長さんたちが明大祭来てくれることになりました！\nみなさん、今のうちから周りの人誘っちゃいましょ\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8",
+                    "U070Y9WCHH9",
+                    "U06LCED6ZK8",
+                    "U070Y9UEAAF",
+                    "U06M7SETDKJ",
+                    "U0710T3MCUC",
+                    "U071M740R32",
+                    "U06L4GLJVKR",
+                    "U070VFTLATX",
+                    "U070YD778SE",
+                    "U06M7SUSYNL",
+                    "U071M6XCB5W",
+                    "U070HS5NT63",
+                    "U06L4GH4ETH",
+                    "U071M6YLJRE",
+                    "U071B3CV89X",
+                    "U06LGHETAFP",
+                    "U0710T4CBHS",
+                    "U06LCE9EA3G",
+                    "U070VFRCQBF",
+                    "U06L4GLRAK1",
+                    "U06LXNYUX7T"
+                ],
+                "count": 22
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06L4GH4ETH",
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "けいちゃん",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06L4GH4ETH",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U070YD778SE",
+                    "U06M7SUSYNL",
+                    "U06L4GH4ETH",
+                    "U071M6YLJRE",
+                    "U06L4GLJVKR",
+                    "U06LK0HTVQT",
+                    "U0710T3MCUC",
+                    "U06L4GLRAK1"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06L4GH4ETH",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "megamoji-1ヒトカゲりゅうしん",
+                "users": [
+                    "U071B3ES5NV",
+                    "U071M740R32",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U071M740R32",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

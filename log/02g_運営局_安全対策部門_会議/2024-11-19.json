@@ -1,0 +1,105 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06LG62V1FX",
+        "thread_ts": "1731833468.165389",
+        "root": {
+            "user": "U06LG62V1FX",
+            "type": "message",
+            "ts": "1731833468.165389",
+            "edited": {
+                "user": "U06LG62V1FX",
+                "ts": "1732007564.000000"
+            },
+            "client_msg_id": "836F5833-7DE8-4F94-9D74-14861CCE481E",
+            "text": "<!channel>\n1119 第26回運営局安全対策部門会議\n【時間】\n19:00〜20:40\n【場所】\nLS302\n【持ち物】\n特になし！\n【議題】\n1.各種報告(意思共有)\n2.本祭を振り返ろう(意見交換)\n3.ラストメッセージ(意思共有)\n4.諸連絡(意思共有)\n\n確認したらリアクションしてね！\n遅刻・欠席・早退は理由と一緒に俺に連絡ください！\n\nついに最後の会議です！！時にはうざく感じてたかもの会議も、いざ最後ってなると寂しく感じますね :cry: \n伝えたいこと伝えきって、気持ちよく終わりましょう〜！\n\n*みんな！ここまでほんとに！ありがとう！！*",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1731833468.165389",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1732007545.750509",
+            "reply_users": [
+                "U06LG62V1FX"
+            ],
+            "replies": [
+                {
+                    "user": "U06LG62V1FX",
+                    "ts": "1731833788.588319"
+                },
+                {
+                    "user": "U06LG62V1FX",
+                    "ts": "1732007545.750509"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HYBwC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n1119 第26回運営局安全対策部門会議\n【時間】\n19:00〜20:40\n【場所】\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "LS302"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【持ち物】\n特になし！\n【議題】\n1.各種報告(意思共有)\n2.本祭を振り返ろう(意見交換)\n3.ラストメッセージ(意思共有)\n4.諸連絡(意思共有)\n\n確認したらリアクションしてね！\n遅刻・欠席・早退は理由と一緒に俺に連絡ください！\n\nついに最後の会議です！！時にはうざく感じてたかもの会議も、いざ最後ってなると寂しく感じますね "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "cry",
+                                    "unicode": "1f622"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \n伝えたいこと伝えきって、気持ちよく終わりましょう〜！\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "みんな！ここまでほんとに！ありがとう！！",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1732007545.750509",
+        "client_msg_id": "ED1902BD-102E-438A-8EBB-28BA47AB1AE8",
+        "text": "教室LS302！",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaM4m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教室LS302！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

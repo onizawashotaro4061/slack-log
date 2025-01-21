@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1713829370.925919",
+        "client_msg_id": "f081e2a6-eb6a-474b-afdd-171e0e350b74",
+        "text": "<!channel>\nお疲れ様です！\n本日の会議リマインドです！\n【時間】18:00〜19:00\n【場所】zoomミーティング\n【議題】\n1.グッズの販売収益について（意見交換・決定）\n2.アンケートの分析共有（意見交換）\n3.諸連絡（意思共有）\nを予定しています！\n\n少し決めたいことが多いので、18:00〜会議自体を始めたいです！10分前くらいにはzoom開いとくので、ご協力の方お願いします:woman-bowing:\n\n参加 Zoom ミーティング\n<https:\/\/us05web.zoom.us\/j\/89637194089?pwd=9kbrhjQ99Qg5l3r3iYqHNGbmZ1hnOg.1>\nミーティング ID: 896 3719 4089\nパスコード: 3GPi5v",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKqnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n本日の会議リマインドです！\n【時間】18:00〜19:00\n【場所】zoomミーティング\n【議題】\n1.グッズの販売収益について（意見交換・決定）\n2.アンケートの分析共有（意見交換）\n3.諸連絡（意思共有）\nを予定しています！\n\n少し決めたいことが多いので、18:00〜会議自体を始めたいです！10分前くらいにはzoom開いとくので、ご協力の方お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n参加 Zoom ミーティング\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/89637194089?pwd=9kbrhjQ99Qg5l3r3iYqHNGbmZ1hnOg.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nミーティング ID: 896 3719 4089\nパスコード: 3GPi5v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LMHDAZKN",
+                    "U06L4GJ031V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LMHDAZKN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です！財務局3年田中です！\n明大祭グッズアンケートの集計結果が完成いたしましたので共有します！場所は\nOneDrive＞自分のファイル＞タスクフォース＞04_明大祭グッズチーム＞01_会議資料＞0423＞明大祭グッズアンケート集計結果\nです！ここにもPDFにしたものを添付しておきます！\n遅くなってしまいすみません:smiling_face_with_tear:\n今日の会議でわかんないところあったら聞いてください～！",
+        "files": [
+            {
+                "id": "F06VCNX3W4E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GJ031V",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjSaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！財務局3年田中です！\n明大祭グッズアンケートの集計結果が完成いたしましたので共有します！場所は\nOneDrive＞自分のファイル＞タスクフォース＞04_明大祭グッズチーム＞01_会議資料＞0423＞明大祭グッズアンケート集計結果\nです！ここにもPDFにしたものを添付しておきます！\n遅くなってしまいすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日の会議でわかんないところあったら聞いてください～！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713850925.822419",
+        "client_msg_id": "dde7dfb6-078a-4166-94e9-6f8464f2b202"
+    }
+]

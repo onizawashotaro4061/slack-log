@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U0710T0UFQC",
+        "type": "message",
+        "ts": "1727776739.635249",
+        "client_msg_id": "182D21CC-76CF-41C9-BE0B-EB663DC1D3A8",
+        "text": "すみません :man-bowing: 少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3d7dbf0112c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8024885003155_a3d7dbf0112c705d12ff_72.png",
+            "first_name": "畑ひとみ",
+            "real_name": "畑ひとみ",
+            "display_name": "Hata.Hitomi",
+            "team": "T06L90YHJF8",
+            "name": "hitomi5555",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUezB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE69DRU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1727776767.321739",
+        "client_msg_id": "AEC807F7-7490-4D40-A34C-A8750F49BE6A",
+        "text": "ちと遅れます申し訳",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727702655.422739",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JycHB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちと遅れます申し訳"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE69DRU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YDCRM1Q",
+        "type": "message",
+        "ts": "1727776897.694709",
+        "client_msg_id": "febd4dae-ec92-4e63-b40a-21d2f4396222",
+        "text": "ひとみと一緒に行きますおくれますすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ac312627de56",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8039674612529_ac312627de568e165dda_72.jpg",
+            "first_name": "東海敦子",
+            "real_name": "東海敦子",
+            "display_name": "Tokai.Atsuko",
+            "team": "T06L90YHJF8",
+            "name": "atuatu.a1315",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xn0aj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひとみと一緒に行きますおくれますすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

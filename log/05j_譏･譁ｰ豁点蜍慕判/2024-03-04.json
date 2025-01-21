@@ -1,0 +1,107 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615553.893369"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LY5XNLBT",
+        "text": "<@U06LY5XNLBT>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615823.173629",
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LMH3GJKE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3KA09G",
+        "text": "<@U06LK3KA09G>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615852.507729"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3LMEPL",
+        "text": "<@U06LK3LMEPL>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615873.862179"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE78Y94",
+        "text": "<@U06LCE78Y94>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615926.843629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0BP1TM",
+        "text": "<@U06LK0BP1TM>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709619567.396339"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG60SFEH",
+        "text": "<@U06LG60SFEH>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709619573.574509"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH3GJKE",
+        "text": "<@U06LMH3GJKE>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709619592.027499"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06MX68LWHH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG60SFEH",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1709619630.692859",
+        "client_msg_id": "c17065e0-73a6-4995-ab5a-1d95eb9a6e5d"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06NA86RX89",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG60SFEH",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1709624311.895909",
+        "client_msg_id": "7f30603a-f5c7-43b6-9bd1-b789e0a22828",
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

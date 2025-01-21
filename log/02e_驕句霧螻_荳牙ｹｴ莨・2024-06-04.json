@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06L4GPFEQ7",
+        "type": "message",
+        "ts": "1717565954.332399",
+        "client_msg_id": "A18C3171-D417-4C24-BFF4-2E56372D9BF0",
+        "text": "今回俺かな 議事録と報告",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3759bcd2a7ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7182572634308_3759bcd2a7ea6196b8bc_72.png",
+            "first_name": "大谷亮太",
+            "real_name": "大谷亮太",
+            "display_name": "Otani.Ryota",
+            "team": "T06L90YHJF8",
+            "name": "ryota0210otani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717467610.753109",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fd\/rS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今回俺かな 議事録と報告"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1717570165.054329",
+        "client_msg_id": "34D37FC5-A21A-4FAE-B3DF-6DA5180B1FB9",
+        "text": "ありがとう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717467610.753109",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VZ3CL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

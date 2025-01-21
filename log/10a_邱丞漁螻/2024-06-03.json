@@ -1,0 +1,84 @@
+[
+    {
+        "text": "<!channel> \nお疲れ様です！\n継続インタビューの班が決まったので共有します :raised_hands: \n新規のみんなは6月18日の会議までに各班でたくさん質問項目の準備をしておこう〜〜 :fist::skin-tone-2: ",
+        "files": [
+            {
+                "id": "F0762ULEXGW",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0762ULNE2J",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44yjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n継続インタビューの班が決まったので共有します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n新規のみんなは6月18日の会議までに各班でたくさん質問項目の準備をしておこう〜〜 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fist",
+                                "unicode": "270a-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717416318.853319",
+        "client_msg_id": "f717c031-a7aa-4f15-a475-b850f48ead3f",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06LM0QJV3L",
+                    "U070Y9Q9151",
+                    "U070RQ0TU6A",
+                    "U070YD72JPL",
+                    "U06LCE9NLP8",
+                    "U070HS23XV5",
+                    "U06LK3MPZ34",
+                    "U070HS28L15",
+                    "U06LG62FNP7",
+                    "U071M6ZDDQ8",
+                    "U06LG668093",
+                    "U070YD8BGRG",
+                    "U070RQ001V4",
+                    "U06M7TE180Y",
+                    "U06M7SZ5WG0"
+                ],
+                "count": 16
+            }
+        ]
+    }
+]

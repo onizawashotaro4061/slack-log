@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U070Y9S80D9",
+        "type": "message",
+        "ts": "1724223829.662229",
+        "client_msg_id": "3A08C248-B81B-4F8E-9470-CEBB87AADDAC",
+        "text": "やっぱり出席できます！ :sweat_drops: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ce7400c1c674",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8034245277127_ce7400c1c67454d2ba1d_72.png",
+            "first_name": "田口莉子",
+            "real_name": "田口莉子",
+            "display_name": "Taguchi.Riko",
+            "team": "T06L90YHJF8",
+            "name": "riko10050422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724147451.836149",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8UUbW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱり出席できます！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LXNUQ989",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1724290371.343209",
+        "client_msg_id": "3B2D069D-BB74-4CB2-A16E-0999152B895C",
+        "text": "寝坊したので10分ほど遅刻しますすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724147451.836149",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dEtsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊したので10分ほど遅刻しますすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

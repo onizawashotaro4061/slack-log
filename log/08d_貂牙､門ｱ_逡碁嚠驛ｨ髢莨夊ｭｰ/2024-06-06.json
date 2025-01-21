@@ -1,0 +1,366 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0710T4CBHS",
+        "text": "<@U0710T4CBHS>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.057299"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YD778SE",
+        "text": "<@U070YD778SE>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.155959"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M740R32",
+        "text": "<@U071M740R32>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.253229"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3ES5NV",
+        "text": "<@U071B3ES5NV>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.347609"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710T3MCUC",
+        "text": "<@U0710T3MCUC>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.472949"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3CNHQR",
+        "text": "<@U071B3CNHQR>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.550629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9WCHH9",
+        "text": "<@U070Y9WCHH9>さんがチャンネルに参加しました",
+        "inviter": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726604.642879"
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726612.741919",
+        "edited": {
+            "user": "U06M7SPUVEC",
+            "ts": "1717726878.000000"
+        },
+        "client_msg_id": "df9db07d-e44e-418c-8fee-0643351bdeaa",
+        "text": "<!channel>\n【第10回界隈部門会議】\n【場所】M704\n【時間】19:00-20:40\n【議題】\n・進捗報告(意思共有)\n・界隈部門マニュアル(意思共有)\n・各種ツールについて（意思共有）\n・諸連絡(意思共有)\n\n欠席、遅刻、早退はスレッドに！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717726612.741919",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1717752546.038419",
+        "reply_users": [
+            "U06L4GLJVKR",
+            "U06M7SPUVEC",
+            "U071M740R32"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1717726749.825989"
+            },
+            {
+                "user": "U06M7SPUVEC",
+                "ts": "1717726858.612629"
+            },
+            {
+                "user": "U06M7SPUVEC",
+                "ts": "1717726895.102559"
+            },
+            {
+                "user": "U071M740R32",
+                "ts": "1717752546.038419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4eYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第10回界隈部門会議】\n【場所】M704\n【時間】19:00-20:40\n【議題】\n・進捗報告(意思共有)\n・界隈部門マニュアル(意思共有)\n・各種ツールについて（意思共有）\n・諸連絡(意思共有)\n\n欠席、遅刻、早退はスレッドに！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U06M7SPUVEC",
+                    "U071M6YLJRE",
+                    "U071B3ES5NV",
+                    "U070YD778SE",
+                    "U06LGHETAFP",
+                    "U071M740R32",
+                    "U06LXNL2ZS5"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U06LGHETAFP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U0710T4CBHS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U070Y9WCHH9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ちひろ渉外",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ちひろ冷たい",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちっひー",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1717726749.825989",
+        "client_msg_id": "BDA2F227-92FA-4CE9-B207-10117BFB9D20",
+        "text": "多分意思こっちだな",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717726612.741919",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jW7qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分意思こっちだな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726858.612629",
+        "client_msg_id": "E13FEFFD-2169-4195-90F8-F9E579E1A337",
+        "text": "ひゃーそうじゃん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717726612.741919",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VNCom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひゃーそうじゃん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1717726895.102559",
+        "client_msg_id": "CCE38D3B-A598-4051-B123-55A2FF96E312",
+        "text": "お恥ずかしい…訂正しました:droplet:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717726612.741919",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sj78M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お恥ずかしい…訂正しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "droplet",
+                                "unicode": "1f4a7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

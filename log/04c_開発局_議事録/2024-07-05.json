@@ -1,0 +1,342 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1720171116.042219",
+        "client_msg_id": "B3935FE7-F4CC-4BE2-A905-CA23A1A1FF74",
+        "text": "<@U06LCEJ5HHU> え、これが1月から7月までの近況報告なの？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720148418.811769",
+        "parent_user_id": "U06LCEJ5HHU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrLb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCEJ5HHU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " え、これが1月から7月までの近況報告なの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です！はなです。\nんーーーーーーなんもない！\nおやすみ！\n\n0702_第10回開発局役職会議議事録を\nOneDrive＞各局＞03_開発局＞02_各種会議議事録＞02_役職会議＞7月にアップロードしました。\n議題は、\n1.部門活動について（意見交換）\nです。",
+        "files": [
+            {
+                "id": "F07BKS06G6M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SBFPFS",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "emdaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！はなです。\nんーーーーーーなんもない！\nおやすみ！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "702"
+                            },
+                            {
+                                "type": "text",
+                                "text": "_第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回開発局役職会議議事録を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OneDrive＞各局＞03_開発局＞02_各種会議議事録＞02_役職会議＞"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月にアップロードしました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議題は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.部門活動について（意見交換）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720189855.715609",
+        "client_msg_id": "80a2820d-5db7-46db-a271-e3f67d1e8ab8",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06L4GKGXB9",
+                    "U0710SZA5J8",
+                    "U070HVCHZRD",
+                    "U0710T04DU4",
+                    "U071M6X5M16",
+                    "U06LK3ZBCN6",
+                    "U06LCE4EV2A",
+                    "U070RQ1EK2S",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K",
+                    "U070Y9TS5T5",
+                    "U070RQ167FG"
+                ],
+                "count": 13
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06LCE4EV2A",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "鬼追",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK7K9ALA",
+                    "U071M6X5M16",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "鬼追のはなちゃん",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "はな",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿好奇心旺盛だね飯田くん笑",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fightingはな",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "だいごのからあげ",
+                "users": [
+                    "U071M6X5M16",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U071M6X5M16",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCEJ5HHU",
+        "type": "message",
+        "ts": "1720192352.552759",
+        "client_msg_id": "7F916D49-3997-46AD-A136-86AE05B68A43",
+        "text": "<@U06LE249H0V> 長すぎてもうざいやん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3d6eb478bab5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-15\/7407123671111_3d6eb478bab567bf0cb7_72.png",
+            "first_name": "大坂悠真",
+            "real_name": "大坂悠真",
+            "display_name": "Osaka.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yumaosakasoccerwater",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720148418.811769",
+        "parent_user_id": "U06LCEJ5HHU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYCuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE249H0V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 長すぎてもうざいやん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LE249H0V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

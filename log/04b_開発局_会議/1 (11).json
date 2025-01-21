@@ -1,0 +1,498 @@
+[
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1710060487.419719",
+        "client_msg_id": "A3536C56-C590-4C52-A2A8-E8C6AFD943F5",
+        "text": "お疲れ様です。\n3\/11は教習が詰まってしまったので、会議は欠席とさせていただきます。\nご迷惑おかけして申し訳ありませんが、よろしくお願い致します。\nよくよく勉強しておきます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709610969.080889",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56DyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n3\/11は教習が詰まってしまったので、会議は欠席とさせていただきます。\nご迷惑おかけして申し訳ありませんが、よろしくお願い致します。\nよくよく勉強しておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "滉平確認",
+                "users": [
+                    "U06LE249H0V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1710114485.471379",
+        "client_msg_id": "F28F9DFD-B658-4357-BD4C-FD4F0DA6B992",
+        "text": "お疲れ様です。\n昨日からの体調不良のため、zoomでの参加にさせて頂きたいです。当日のご連絡となりすみません。よろしくお願いします :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709610969.080889",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELniL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n昨日からの体調不良のため、zoomでの参加にさせて頂きたいです。当日のご連絡となりすみません。よろしくお願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "mask",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06M7SBFPFS",
+        "thread_ts": "1709610969.080889",
+        "root": {
+            "user": "U06LE249H0V",
+            "type": "message",
+            "ts": "1709610969.080889",
+            "client_msg_id": "CB449AB4-629D-4AF2-95B0-BCD83B2A566B",
+            "text": "<!channel>\n【0311第5回開発局会議について】\nおつかれさまです！\n甘いもんが食べたいね〜\n\n【時間】\n13：30〜17:00（教室の関係で13:30からなのでご注意ください！）\n\n【場所】\nあとで連絡します\n\n【事前準備】\n• 外部色について\n【持ち物】\nパソコン\n議事録の補修あるよ\n\n【議題】\n1. 各種共有（意思共有）\n2. 明実について（意見交換）\n3. 議事録テスト解説（意思共有）\n4. はいもくしゅ理解プレゼンについて（意見交換）\n5. GW講座（２人編）（意見交換）\n遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！\nzoom希望の人もお願いします！\n\nみたらスタンプ！！！！！ （絶対押して！）",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1709610969.080889",
+            "reply_count": 4,
+            "reply_users_count": 4,
+            "latest_reply": "1710116088.743129",
+            "reply_users": [
+                "U06LCEJ5HHU",
+                "U06LK3ZBCN6",
+                "U06LCE809L6",
+                "U06M7SBFPFS"
+            ],
+            "replies": [
+                {
+                    "user": "U06LCEJ5HHU",
+                    "ts": "1709611072.006979"
+                },
+                {
+                    "user": "U06LK3ZBCN6",
+                    "ts": "1710060487.419719"
+                },
+                {
+                    "user": "U06LCE809L6",
+                    "ts": "1710114485.471379"
+                },
+                {
+                    "user": "U06M7SBFPFS",
+                    "ts": "1710116088.743129"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zRXd0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【03"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "11"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "第"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "回開発局会議について】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "おつかれさまです！"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n甘いもんが食べたいね〜\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【時間】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "13：30〜17:00（教室の関係で13:30からなのでご注意ください！）"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【場所】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "あとで連絡します"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【事前準備】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "外部色について"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【持ち物】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "パソコン"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n議事録の補修あるよ\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【議題】"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "各種共有（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "明実について"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "（"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "意見交換"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "議事録テスト解説"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "はいもくしゅ理解プレゼンについて"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "（意見交換）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GW講座（２人編）（意見交換）"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "zoom希望の人もお願いします！"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "みたらスタンプ！！！！！ （絶対押して！）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1710116088.743129",
+        "client_msg_id": "E7F8727C-972A-4F19-8ECA-219941FE4981",
+        "text": "LS703ですっ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7+Vl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LS703ですっ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SBFPFS",
+        "type": "message",
+        "ts": "1710131712.335729",
+        "client_msg_id": "1cb9980d-b2c8-4794-b2d2-b08ce3f5eb3a",
+        "text": "Zoom ミーティングに参加する\n<https:\/\/us05web.zoom.us\/j\/84968535501?pwd=chbCGBdPao635yMuUdb4q2bdIVTeAk.1>\n\nミーティング ID： 849 6853 5501\nパスコード： x6jG2n\n<@U06LCE809L6>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6eda6720b151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7988044218854_6eda6720b151f1efc218_72.png",
+            "first_name": "鬼追華奈",
+            "real_name": "鬼追華奈",
+            "display_name": "Kioi.Hana",
+            "team": "T06L90YHJF8",
+            "name": "kyomomonom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUnSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zoom ミーティングに参加する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/84968535501?pwd=chbCGBdPao635yMuUdb4q2bdIVTeAk.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID： 849 6853 5501\nパスコード： x6jG2n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE809L6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

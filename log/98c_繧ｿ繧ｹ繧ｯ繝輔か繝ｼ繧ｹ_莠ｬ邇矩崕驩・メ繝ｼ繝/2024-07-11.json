@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1720688342.924859",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1720841992.000000"
+        },
+        "client_msg_id": "bdce90da-2ce5-4b3c-a922-100d62958637",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！\n0713_第10回タスクフォース京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】23:00〜0:30（最大）\n【議題】\n1.京王合同会議内容の報告（意思共有）\n2.スタンプラリー企画詳細詰めについて（意見交換）\n3.各種依頼書について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8oes",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！\n0713_第10回タスクフォース京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】23:00〜0:30（最大）\n【議題】\n1.京王合同会議内容の報告（意思共有）\n2.スタンプラリー企画詳細詰めについて（意見交換）\n3.各種依頼書について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070Y9RLJTV",
+                    "U06LK0DK7R9",
+                    "U070Y9WCHH9",
+                    "U06LK3Q6Y2W",
+                    "U070RQ167FG",
+                    "U070HS3G355",
+                    "U070VFZF6BF",
+                    "U06LK0BP1TM",
+                    "U06LXNZDHFT",
+                    "U06LCE9HTP0",
+                    "U06L4J69HV5",
+                    "U06LCEA6J1L",
+                    "U07194G87BL"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

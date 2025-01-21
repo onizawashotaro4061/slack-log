@@ -1,0 +1,235 @@
+[
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1730014956.594659",
+        "client_msg_id": "21249d7e-9c4b-4efb-a9aa-73642f360664",
+        "text": "<!channel> みなさまお疲れ様です！本日はお忙しい中お手伝いに参加してくださり、ありがとうございました:sparkles::sparkles:\n控室にお礼の品としてハンカチがあるのでぜひ受け取っていただけると有難いです！\n各班でのタスクが終わり次第、解散していただいて大丈夫です！\n*ほんとうにありがとうございました！！！！！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsbue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みなさまお疲れ様です！本日はお忙しい中お手伝いに参加してくださり、ありがとうございました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n控室にお礼の品としてハンカチがあるのでぜひ受け取っていただけると有難いです！\n各班でのタスクが終わり次第、解散していただいて大丈夫です！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ほんとうにありがとうございました！！！！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06L4GKC9N3",
+                    "U06LMH3BZ8C",
+                    "U06LCE9HTP0",
+                    "U06L4GH4ETH",
+                    "U070VFTRR61",
+                    "U06LXR4BPS5",
+                    "U06LCE4EV2A",
+                    "U070YD71E0J",
+                    "U070Y9RLJTV",
+                    "U06M7SETDKJ",
+                    "U070Y9UEAAF",
+                    "U070HS5NT63",
+                    "U06M7SUULGY",
+                    "U070RQ3ND38",
+                    "U06LCE69DRU",
+                    "U06M7SU83G8",
+                    "U06LDT584J1",
+                    "U06L2CSPXV5",
+                    "U06LG610ADB"
+                ],
+                "count": 20
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06L4GKC9N3",
+                    "U06LCE9HTP0",
+                    "U06L4GH4ETH",
+                    "U06LXR4BPS5",
+                    "U06LCE4EV2A",
+                    "U06M7SETDKJ",
+                    "U06LK3HUVTL",
+                    "U06LCE69DRU",
+                    "U06LDT584J1"
+                ],
+                "count": 10
+            },
+            {
+                "name": "参加団体局教室部門＿ナイスまごころ",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LCE9HTP0",
+                    "U06L4GH4ETH",
+                    "U06LXR4BPS5",
+                    "U06M7SETDKJ",
+                    "U06LCE69DRU"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LCE9HTP0",
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06LCE69DRU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06M7SETDKJ",
+                    "U06LCE69DRU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "text": "<!channel> スタッフパス回収されてはい方は控え室で回収させていただきます！",
+        "files": [
+            {
+                "id": "F07TL6VT14M",
+                "created": 1730015918,
+                "timestamp": 1730015918,
+                "name": "IMG_8720.jpg",
+                "title": "IMG_8720",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U06LXNYUX7T",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 923869,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TL6VT14M\/img_8720.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TL6VT14M\/download\/img_8720.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_64.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_80.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_360.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_480.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_160.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_720.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_800.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_960.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TL6VT14M-d08eb0d9a3\/img_8720_1024.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 4284,
+                "original_h": 5712,
+                "thumb_tiny": "AwAwACSlFVq05nAz2NMVCigGEn6PT42Eb7xBJn\/eBqroZfwaDmq4u\/8ApjJThcbh\/q3H1FFyR560lQm5jz0b\/vmj7TH\/ALX\/AHzQMl8te\/NJsj9B+dDbQwyOWNNMiqu4rjnFZjH4QelLhSpwBTDJ1wvRttPyAQMjJ7UAQ5PrRk+v61IIz2GfxpfLb+7+tAwZk43cntRhfaqLFn7mlVP7zYoHYvblHcfnTSELE5HPpVVdob5amBoFYkPU4pKQdKWgD\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LXNYUX7T\/F07TL6VT14M\/img_8720.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07TL6VT14M-ef405592ad",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNYUX7T",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIsuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スタッフパス回収されてはい方は控え室で回収させていただきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730015932.065199",
+        "client_msg_id": "02546C9D-0EAA-44EF-B314-858C7732801D"
+    }
+]

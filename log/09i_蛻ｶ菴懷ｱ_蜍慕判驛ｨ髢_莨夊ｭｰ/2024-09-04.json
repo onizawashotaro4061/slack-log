@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1725462165.291099",
+        "client_msg_id": "85A4F443-9388-4142-B88B-2B4D9AF8BAC4",
+        "text": "病院いくから遅刻か欠席かもー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zWu3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "病院いくから遅刻か欠席かもー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNUQ989",
+        "type": "message",
+        "ts": "1725495960.958689",
+        "client_msg_id": "0BE96F78-9C6E-4CBD-B44B-A071B932BC0D",
+        "text": "旅行中なので休みます :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e914cc217da1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7694401269331_e914cc217da1a8f508d0_72.png",
+            "first_name": "林咲希",
+            "real_name": "林咲希",
+            "display_name": "Hayashi Saki",
+            "team": "T06L90YHJF8",
+            "name": "sak.r.3a9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndWqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行中なので休みます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS3CTQX",
+        "type": "message",
+        "ts": "1725500874.113719",
+        "client_msg_id": "18FF94F7-A2B9-41F2-8DB0-1C6DC1E8EFB0",
+        "text": "遅延のため少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5befff26f5d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-10\/7993263644919_5befff26f5d7c67a49a1_72.png",
+            "first_name": "河合洋飛",
+            "real_name": "河合洋飛",
+            "display_name": "Kawai.Hiroto",
+            "team": "T06L90YHJF8",
+            "name": "hrtkawai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHViF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅延のため少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711419465.100989",
+        "client_msg_id": "5EDF0204-096B-4D8D-963F-A7A60D08D491",
+        "text": "かりあけー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qeXNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCE9HTP0",
+                    "U06LCUTBMU5",
+                    "U06M7SX52RW",
+                    "U06LY5XNLBT",
+                    "U06LK5HCSE6",
+                    "U06LK3LHG0J",
+                    "U06L4GHLP2B"
+                ],
+                "count": 8
+            },
+            {
+                "name": "運営_備品_bkb",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711433503.894879",
+        "client_msg_id": "C180128D-4412-48FD-AB18-9580A499996D",
+        "text": "締め返し:saluting_face:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PfSqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締め返し"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LY5XNLBT",
+                    "U06LK5HCSE6",
+                    "U06LK3LHG0J",
+                    "U06LK0FUAHZ",
+                    "U06L4GHLP2B",
+                    "U06M7SX52RW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営局_備品_一枚岩",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

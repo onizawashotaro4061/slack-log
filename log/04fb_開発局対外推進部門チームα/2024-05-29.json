@@ -1,0 +1,213 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3ZBCN6",
+        "text": "<@U06LK3ZBCN6>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716976339.707139"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK04QJ0K",
+        "text": "<@U06LK04QJ0K>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976355.777789"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GM57JT",
+        "text": "<@U06L4GM57JT>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976355.864489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GKGXB9",
+        "text": "<@U06L4GKGXB9>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976355.950369"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNWG67K",
+        "text": "<@U06LXNWG67K>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976544.991129"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMGM3CG4",
+        "text": "<@U06LMGM3CG4>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976610.563149"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SBFPFS",
+        "text": "<@U06M7SBFPFS>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976610.668489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716976611.758179"
+    },
+    {
+        "user": "U06LK04QJ0K",
+        "type": "message",
+        "ts": "1717017284.796339",
+        "edited": {
+            "user": "U06LK04QJ0K",
+            "ts": "1717080570.000000"
+        },
+        "client_msg_id": "96729E18-B5DF-4E00-85EB-96C4F8363F4B",
+        "text": "<!channel>\n【0530第1回開発局対外推進部門チームα（仮）会議について】\n\n今回からしっかり議事録を撮るので、今日が記念すべき第1回チーム会議！！！\n\n【時間】\n  部門会議後〜20:40\n\n【場所】\n somewhere\n\n【持ち物】\n  充電バッチリパーソナルコンピューター\n  柔軟な思考力\n  鋼の肉体\n  やる気元気青木\n\n\n【議題】\n   1.意義経緯文章作成（意見交換）\n   2.参考資料について（意思共有）\n\n  遅刻・欠席・早退をする人はス\n  レッドで教えてねん\n\n  チャンネルの人数が少ないのでスタンプを沢山押して盛り上げていきましょう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4e506efdda49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-17\/7587146461333_4e506efdda499c41c729_72.png",
+            "first_name": "青木航世",
+            "real_name": "青木航世",
+            "display_name": "Aoki.Kosei",
+            "team": "T06L90YHJF8",
+            "name": "kose.shingeki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdolU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0530第1回開発局対外推進部門チームα（仮）会議について】\n\n今回からしっかり議事録を撮るので、今日が記念すべき第1回チーム会議！！！\n\n【時間】\n  部門会議後〜20:40\n\n【場所】\n somewhere\n\n【持ち物】\n  充電バッチリパーソナルコンピューター\n  柔軟な思考力\n  鋼の肉体\n  やる気元気青木\n\n\n【議題】\n   1.意義経緯文章作成（意見交換）\n   2.参考資料について（意思共有）\n\n  遅刻・欠席・早退をする人はス\n  レッドで教えてねん\n\n  チャンネルの人数が少ないのでスタンプを沢山押して盛り上げていきましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "こうせいの家てオールね",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06L4GM57JT",
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "こうせい大転倒",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06L4GM57JT",
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か＿本間宮の久大",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06L4GM57JT",
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 5
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06L4GM57JT",
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06L4GM57JT",
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K"
+                ],
+                "count": 4
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "か＿かいはつの森",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "涙の数だけ強くなれる",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LXNWG67K",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06M7SBFPFS",
+                    "U06LXNWG67K",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

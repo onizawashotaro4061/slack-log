@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1711515590.695939",
+        "client_msg_id": "e3b052b5-df66-44e1-811c-9a8e80a0da1c",
+        "text": "<!channel>\n*リマインドですが明日の会議はありません！！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuHvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリマインドですが明日の会議はありません！！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U06LGHETAFP",
+                    "U06M7SETDKJ",
+                    "U06M7SPUVEC",
+                    "U06LK0E89MH",
+                    "U06L4GLJVKR"
+                ],
+                "count": 6
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06M7SETDKJ",
+                    "U06LJRSQDC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F078EBWV3U6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3MF9FC",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1718709267.805439",
+        "client_msg_id": "23a290d6-a9a2-4d54-9166-913d87004147"
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1718714179.020529",
+        "client_msg_id": "1CD0355B-718B-4BA1-9BE7-D83590AD9232",
+        "text": "<!channel> \nここにESあります！期限厳守でお願い:pleading_face:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ts\/D2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nここにESあります！期限厳守でお願い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

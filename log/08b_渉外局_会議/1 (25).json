@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U071M6YLJRE",
+        "type": "message",
+        "ts": "1714394289.365149",
+        "client_msg_id": "B9CFE2EE-4BDB-4C1F-A8AE-5F0BC7CD55D0",
+        "text": "急遽7日の午後、祖父母の実家に帰ることになり、行けなくなりました。申し訳ないです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "aab4ecdcf8ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-17\/8041442849267_aab4ecdcf8baa1fd101e_72.png",
+            "first_name": "櫛田玲菜",
+            "real_name": "櫛田玲菜",
+            "display_name": "Kushida.Reina",
+            "team": "T06L90YHJF8",
+            "name": "ichigo6425",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714363651.759409",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ir7Bz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急遽7日の午後、祖父母の実家に帰ることになり、行けなくなりました。申し訳ないです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1714399716.782109",
+        "client_msg_id": "70069FB5-1658-46B1-8F6D-C9F81BF71CBF",
+        "text": "帰省する為欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714363651.759409",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Z\/bC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "帰省する為欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

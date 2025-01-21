@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1717769973.625039",
+        "client_msg_id": "7a2dee9f-c23b-4f00-b102-72a800e9d501",
+        "text": "<@U06L97X3V6J> 内容大丈夫？パワポ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0W0Vj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 内容大丈夫？パワポ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

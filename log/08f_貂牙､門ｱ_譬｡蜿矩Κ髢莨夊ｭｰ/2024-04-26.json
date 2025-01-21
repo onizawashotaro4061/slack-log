@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1714119222.943159",
+        "client_msg_id": "E94A3C2B-8C18-4F2E-BF23-8C7D054DD210",
+        "text": "すいません風邪気味で体がだるいので欠席致します :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zyvZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません風邪気味で体がだるいので欠席致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1714119251.577439",
+        "client_msg_id": "555855DB-7EA9-4059-A90C-4403BEA258E2",
+        "text": "Zoomとかで聞けそうなら聞きたいです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCwXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zoomとかで聞けそうなら聞きたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

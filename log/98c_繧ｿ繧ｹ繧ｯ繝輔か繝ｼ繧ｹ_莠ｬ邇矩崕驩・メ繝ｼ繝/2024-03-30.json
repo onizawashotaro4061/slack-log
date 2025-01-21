@@ -1,0 +1,85 @@
+[
+    {
+        "text": "*<!channel>*\nお疲れ様です。広報局の城戸です。\n0322_第1回京王電鉄チーム会議議事録を\nOneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞3月＞0328\nにアップロードしました。\n議題は、\n1. 諸連絡（意思共有）\n2. 一般企画書の敲きについて（意見交換・決定）\n3. 内容の詳細詰め（意見交換）\nです。\nご確認のほどよろしくお願いします。\n以下にPDFを添付しました。",
+        "files": [
+            {
+                "id": "F06S3KFE866",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wue++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。広報局の城戸です。\n0322_第1回京王電鉄チーム会議議事録を\nOneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞3月＞0328\nにアップロードしました。\n議題は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一般企画書の敲きについて（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "内容の詳細詰め（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。\nご確認のほどよろしくお願いします。\n以下にPDFを添付しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711858148.810589",
+        "client_msg_id": "56092e70-7c63-4edd-81f6-55e56c9be562"
+    }
+]

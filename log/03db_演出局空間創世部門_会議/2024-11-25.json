@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1732522487.953639",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1732772598.000000"
+        },
+        "client_msg_id": "f58d045c-8431-407c-9f50-741b8d7fb96b",
+        "text": "<!channel>\n部門集会連絡！\n【時間】11\/28(木) 19:00～21:40（までは教室使える）\n【場所】LS503\n【内容】(予定)\n\n1.質問 or 明大生の輝きってなんだと思う...？\n2.引き継ぎ...って何だっけ...？\n3.次年度明実として何になりたいか、何をしたいか宣言。辞める予定の人は将来の夢発表。\n4.原点回帰ito\n5.好きなことしよう（プロジェクター・モルック・お菓子パーティ・人狼）\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1732781217.529109",
+        "reply_users": [
+            "U070RQ0DUBG",
+            "U071B39SGQH",
+            "U06M7T7SSDN",
+            "U070YDCB30A",
+            "U0710TSE9TN"
+        ],
+        "replies": [
+            {
+                "user": "U070RQ0DUBG",
+                "ts": "1732522658.428499"
+            },
+            {
+                "user": "U071B39SGQH",
+                "ts": "1732758715.511539"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1732766782.420499"
+            },
+            {
+                "user": "U070YDCB30A",
+                "ts": "1732780414.859499"
+            },
+            {
+                "user": "U0710TSE9TN",
+                "ts": "1732781217.529109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5+yf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n部門集会連絡！\n【時間】11\/28(木) 19:00～21:40（までは教室使える）\n【場所】LS503\n【内容】(予定)\n\n1.質問 or 明大生の輝きってなんだと思う...？\n2.引き継ぎ...って何だっけ...？\n3.次年度明実として何になりたいか、何をしたいか宣言。辞める予定の人は将来の夢発表。\n4.原点回帰ito\n5.好きなことしよう（プロジェクター・モルック・お菓子パーティ・人狼）\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "コッシー",
+                "users": [
+                    "U070HS35ECX",
+                    "U06LG6EJPE1",
+                    "U06LXNY0MHP",
+                    "U071B3917S5",
+                    "U0710T40TFW"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0DUBG",
+        "type": "message",
+        "ts": "1732522658.428499",
+        "client_msg_id": "FDACFAD0-8AEB-4575-B11B-0D74CF194671",
+        "text": "バイトで欠席です…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "59ccd257a091",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7760887307424_59ccd257a091eb3d7d5b_72.png",
+            "first_name": "吉田瞬",
+            "real_name": "吉田瞬",
+            "display_name": "Yoshida.Shun",
+            "team": "T06L90YHJF8",
+            "name": "yoshidashun.aousagi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x1WlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで欠席です…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U071B3C42Q1",
+                    "U0710T40TFW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,323 @@
+[
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729657417.349289",
+        "client_msg_id": "90A232D2-1BB6-4B14-A91E-36D9A0FD9390",
+        "text": "<!channel>\n【迷Q伝説テストプレイについて】\nお疲れ様です！開発局彩明部門迷Q伝説企画統括の甲斐です！\n\n迷Q伝説とは、謎やクイズを解きながら校舎内をまわる企画で、ありがたいことに例年多くの来場者が参加してくださっています:sparkles:\n\nそこで、本企画のテストプレイに参加してくださる方を募集します！\nテストプレイは、*明日10月24日(木)19：00〜*を予定しております。\n\n協力してくださる方がいらっしゃいましたら、SlackのDMで私にご連絡ください！\nよろしくお願いします:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxCZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【迷Q伝説テストプレイについて】\nお疲れ様です！開発局彩明部門迷Q伝説企画統括の甲斐です！\n\n迷Q伝説とは、謎やクイズを解きながら校舎内をまわる企画で、ありがたいことに例年多くの来場者が参加してくださっています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nそこで、本企画のテストプレイに参加してくださる方を募集します！\nテストプレイは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日10月24日(木)19：00〜",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を予定しております。\n\n協力してくださる方がいらっしゃいましたら、SlackのDMで私にご連絡ください！\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おねむきどこう城戸",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06LMH49MQU",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U06LCE809L6",
+                    "U06L4GH4ETH",
+                    "U071B38HAM7",
+                    "U06LCE4EV2A"
+                ],
+                "count": 12
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK04QJ0K",
+                    "U06TU27FX08",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06LK3KA09G",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U06L4GH4ETH",
+                    "U071B38HAM7",
+                    "U06LCE4EV2A",
+                    "U0710T0NBFE"
+                ],
+                "count": 13
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06TU27FX08",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U071B38HAM7",
+                    "U06LCE4EV2A",
+                    "U0710T0NBFE"
+                ],
+                "count": 11
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06TU27FX08",
+                    "U06LK04QJ0K",
+                    "U06M7TE180Y",
+                    "U06LXNY8KMF",
+                    "U070VFQM2N9",
+                    "U06L4GKC9N3",
+                    "U06LK3MPZ34",
+                    "U06LY5XNLBT",
+                    "U06LMGM3CG4",
+                    "U0710T3MCUC",
+                    "U06LK3LKR9Q",
+                    "U071M740R32",
+                    "U06LG6B2NA1",
+                    "U06LXP1JG0Z",
+                    "U06LE249H0V",
+                    "U06LCE9JG3G",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06LCE809L6",
+                    "U06M7SZ5WG0",
+                    "U070VFTRR61",
+                    "U070HS3T3D5",
+                    "U0710T04DU4",
+                    "U071B3CV89X",
+                    "U07194G87BL"
+                ],
+                "count": 26
+            },
+            {
+                "name": "再履きど",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK04QJ0K",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U071B38HAM7"
+                ],
+                "count": 8
+            },
+            {
+                "name": "広報_学外広報_フリー素材きどこう",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06LK04QJ0K",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U071B38HAM7"
+                ],
+                "count": 8
+            },
+            {
+                "name": "甲斐キャノン",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06TU27FX08",
+                    "U06L4GKC9N3",
+                    "U06LMH3952Q",
+                    "U06LK3KA09G",
+                    "U06LK04QJ0K",
+                    "U06LMGM3CG4",
+                    "U06LXNY8KMF",
+                    "U06LXNWG67K",
+                    "U06LK3LKR9Q",
+                    "U071B3GT7FT",
+                    "U06LE249H0V",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U071M6X5M16",
+                    "U06M7ST2WTA",
+                    "U06L4GM57JT",
+                    "U06LCE7524E",
+                    "U0710SZA5J8",
+                    "U070VFQM2N9",
+                    "U06LK7K9ALA",
+                    "U0710SZT276",
+                    "U06LMH49UQL",
+                    "U06LCE9HTP0",
+                    "U06M7TE180Y",
+                    "U070HS3T3D5",
+                    "U0710T04DU4",
+                    "U07194G87BL"
+                ],
+                "count": 28
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06TU27FX08",
+                    "U06LMH3952Q",
+                    "U06LK04QJ0K",
+                    "U06LMGM3CG4",
+                    "U06LXNY8KMF",
+                    "U06LK3LKR9Q",
+                    "U071B3GT7FT",
+                    "U06LXP1JG0Z",
+                    "U06LCE9JG3G",
+                    "U071M6X5M16",
+                    "U06M7ST2WTA",
+                    "U06L4GM57JT",
+                    "U06LCE7524E",
+                    "U0710SZA5J8",
+                    "U070VFQM2N9",
+                    "U06LK7K9ALA",
+                    "U0710SZT276",
+                    "U06LMH49UQL",
+                    "U06LCE9HTP0",
+                    "U06M7TE180Y",
+                    "U06LCE4EV2A",
+                    "U06LXNWG67K",
+                    "U070HS3T3D5",
+                    "U0710T04DU4",
+                    "U07194G87BL"
+                ],
+                "count": 27
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCE9JG3G",
+                    "U071M6X5M16",
+                    "U06LCE7524E",
+                    "U06LK3HUVTL",
+                    "U06LMH49UQL",
+                    "U06LCE9HTP0",
+                    "U0710T04DU4"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCE9JG3G",
+                    "U06M7SUSYNL",
+                    "U06L4GM57JT",
+                    "U06LCE7524E",
+                    "U06LMH49UQL",
+                    "U06M7TE180Y",
+                    "U070HS3T3D5",
+                    "U06LY5XNLBT"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCE9JG3G",
+                    "U06M7SUSYNL",
+                    "U06L4GM57JT",
+                    "U06LCE7524E",
+                    "U06LMH49UQL",
+                    "U070HS3T3D5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA",
+                    "U06LK3KA09G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ウリムーもえ",
+                "users": [
+                    "U071B3GT7FT",
+                    "U06LCE9JG3G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06M7SETDKJ",
+        "old_name": "00b_みんなからのお知らせ",
+        "name": "000-00b_みんなからのお知らせ",
+        "text": "チャンネル名を「00b_みんなからのお知らせ」から「000-00b_みんなからのお知らせ」に変更しました",
+        "type": "message",
+        "ts": "1729661621.710749"
+    }
+]

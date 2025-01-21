@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070YD7KHLJ",
+        "type": "message",
+        "ts": "1733121098.772089",
+        "client_msg_id": "88E9F4C6-0068-4152-B722-6E2CA24AF899",
+        "text": "体調優れないのでお休みしますごめんなさい:smiling_face_with_tear:‎\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3980c70cf89f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-10\/7690864035495_3980c70cf89f12731c70_72.png",
+            "first_name": "鈴木晴太郎",
+            "real_name": "鈴木晴太郎",
+            "display_name": "Suzuki.Harutaro",
+            "team": "T06L90YHJF8",
+            "name": "haru20050815",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732964814.741629",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruOkJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調優れないのでお休みしますごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "‎\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U070YDB48GJ",
+        "type": "message",
+        "ts": "1714465569.694739",
+        "client_msg_id": "A8F640E5-6D0C-44B1-B810-8ADCA876E702",
+        "text": "予定があるため欠席させて頂きます。来週からの会議は参加します。すみません:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c5d0f79419c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7029544599861_0c5d0f79419c2062e6b2_72.png",
+            "first_name": "松浦真央",
+            "real_name": "松浦真央",
+            "display_name": "Matsuura.Mao",
+            "team": "T06L90YHJF8",
+            "name": "mao0501mao0501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714376561.925039",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVBA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席させて頂きます。来週からの会議は参加します。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1714470621.298419",
+        "client_msg_id": "145C96C2-AC44-46DE-B96E-50573A114835",
+        "text": "<!channel> \n今日の教室LS601です！ :+1::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vU2V7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日の教室LS601です！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

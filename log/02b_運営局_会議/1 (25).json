@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1719796067.438199",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1719796368.000000"
+        },
+        "client_msg_id": "f72fc78a-e8c1-4096-9628-6ec6eb027300",
+        "text": "<!channel>\n0704_第21回運営局会議\n【時間】\n19：10〜20：40（19：00集合）\n【場所】\nLS402\n【議題】\n1. 各種報告（意思共有）\n2. キャンデザを決めよう⑥（意見交換・決定）\n3. 諸連絡（意思共有）\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n春学期最後の会議です！！\nこれ終わると1ヶ月会えなくなるから、なるべくみんな来てほしいよ！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CBSdy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0704_第21回運営局会議\n【時間】\n19：10〜20：40（19：00集合）\n【場所】\nLS402\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "キャンデザを決めよう⑥（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n春学期最後の会議です！！\nこれ終わると1ヶ月会えなくなるから、なるべくみんな来てほしいよ！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG66Q84D",
+                    "U071M6YPYM6",
+                    "U06LG61QB3P",
+                    "U070RQ20K8W",
+                    "U071M749KPS",
+                    "U06LK0FUAHZ",
+                    "U06LK5HCSE6",
+                    "U06LXP3HYQH",
+                    "U06LK0FC935",
+                    "U071B3ARX5F",
+                    "U06M7SX52RW",
+                    "U06L4GL3Z9V",
+                    "U070YD9TXBL",
+                    "U06LCEA6J1L",
+                    "U06LG61PW7P",
+                    "U06LM2P58KC",
+                    "U070HS3D85D",
+                    "U06LK3MMALA",
+                    "U071B3C838R",
+                    "U06LMH8Q2TW",
+                    "U06LMH6PR9S",
+                    "U06LG62V1FX",
+                    "U06LKJS20KC",
+                    "U06ME05BLJW",
+                    "U070Y9TREE7",
+                    "U06LCE7DY6S",
+                    "U070HS7MJH5",
+                    "U06M7SQPKL0",
+                    "U06L4GHLP2B",
+                    "U070YD8A2EN",
+                    "U06LCE8F5PG",
+                    "U071M74S2TS",
+                    "U06LG66LXAR",
+                    "U070YDE27A6",
+                    "U071B3B4UJV",
+                    "U0710T04SUC",
+                    "U070RQRKAGN",
+                    "U06LK3MRV98",
+                    "U06LK0EQS59"
+                ],
+                "count": 39
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06LK3MMALA",
+                    "U06LG61QB3P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "とうまpassion",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "し_しんか1",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "マタドガス",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "財_たふと",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

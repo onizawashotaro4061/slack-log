@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1732089813.380059",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1732090566.000000"
+        },
+        "client_msg_id": "105ef998-c488-472a-8f14-7d2ca940c4f2",
+        "text": "大学に行くとしたら何時頃にいればよろしいでしょうか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732073984.087729",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejU27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大学に行くとしたら何時頃にいればよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1732155303.034709",
+        "client_msg_id": "7bc9719b-0507-4efe-86e8-edc654676f30",
+        "text": "<@U06L97X3V6J>とりあえずまだ預かってます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732073984.087729",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wN0Nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とりあえずまだ預かってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

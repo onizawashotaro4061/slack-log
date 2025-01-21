@@ -1,0 +1,131 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710578775.739729"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH9MBFW",
+        "text": "<@U06LMH9MBFW>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.211989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3L6B4J",
+        "text": "<@U06LK3L6B4J>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.292019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH5ACE8",
+        "text": "<@U06LMH5ACE8>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.358259"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0DN10T",
+        "text": "<@U06LK0DN10T>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.425779"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0BP1TM",
+        "text": "<@U06LK0BP1TM>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.493959"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3K88SW",
+        "text": "<@U06LK3K88SW>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578886.575199"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L97X3V6J",
+        "text": "<@U06L97X3V6J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710579939.631389"
+    },
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1710646174.123539",
+        "client_msg_id": "aed47c2b-8c77-4a0f-bd32-e68b4a92270e",
+        "text": "お疲れ様です\nOneDriveにビジョン広告をまとめるExcel 作ったので良かったら使ってください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhYx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です\nOneDriveにビジョン広告をまとめるExcel 作ったので良かったら使ってください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH5ACE8",
+                    "U06LK3L6B4J"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH5ACE8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH5ACE8",
+                    "U06LK3L6B4J",
+                    "U06LMH9MBFW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

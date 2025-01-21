@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1722482628.039459",
+        "client_msg_id": "D44EF984-F61D-485B-87CA-554974764E3E",
+        "text": "<!channel> \n横入りごめんなさい\n橋本ですー\nじつぼ番の名簿が守衛所に共有されたので、担当の人は鍵を借りることができるようになったよっていう報告です！\nじつぼ番よろしくお願いします:palms_up_together:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0+YA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n横入りごめんなさい\n橋本ですー\nじつぼ番の名簿が守衛所に共有されたので、担当の人は鍵を借りることができるようになったよっていう報告です！\nじつぼ番よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06M7SPUVEC",
+                    "U06LK0FUAHZ",
+                    "U06LXNYUX7T",
+                    "U06LJ0SKMEZ",
+                    "U06LXNYCLJV",
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP",
+                    "U06LK0F2RC3",
+                    "U06L4GH4ETH"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06M7SPUVEC",
+                    "U06LK0FUAHZ",
+                    "U06LXNYUX7T",
+                    "U06LJ0SKMEZ",
+                    "U06LXNYCLJV",
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP",
+                    "U06LG62V1FX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "教室部門主義",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6",
+                    "U06LXNYCLJV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

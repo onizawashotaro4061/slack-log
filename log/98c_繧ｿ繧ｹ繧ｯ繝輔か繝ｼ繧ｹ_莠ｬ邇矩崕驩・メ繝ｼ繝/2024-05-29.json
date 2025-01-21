@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1716992242.747039",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1716992306.000000"
+        },
+        "client_msg_id": "5aff60b8-cfbb-4b61-b0da-26d5456f326a",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！遅くなってしまってすみません:pray:\n0530_第7回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室2\n【時間】17:30〜18:50（最大）\n【議題】\n1.各種依頼書について（意見交換）\n2.企画考案について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ON7uY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！遅くなってしまってすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0530_第7回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室2\n【時間】17:30〜18:50（最大）\n【議題】\n1.各種依頼書について（意見交換）\n2.企画考案について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4J69HV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

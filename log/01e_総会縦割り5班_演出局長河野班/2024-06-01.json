@@ -1,0 +1,38 @@
+[
+    {
+        "text": "<!channel> 俺追加してねん",
+        "files": [
+            {
+                "id": "F076SKJN02U",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L2DCDLF9",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PlGUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 俺追加してねん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717225618.312109",
+        "client_msg_id": "FC69813A-35C0-456A-A7A8-7DE37CB02E69"
+    }
+]

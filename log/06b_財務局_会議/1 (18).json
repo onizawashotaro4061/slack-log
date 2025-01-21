@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06LK0JTYD9",
+        "type": "message",
+        "ts": "1712649106.163879",
+        "client_msg_id": "058527AE-9247-4D4F-8149-5337D841CC20",
+        "text": "説明会でおくれますすまん！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d21f96ab8f1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7974993939267_d21f96ab8f1d6c870d10_72.png",
+            "first_name": "大導寺優光",
+            "real_name": "大導寺優光",
+            "display_name": "Daidoji.Masamitsu",
+            "team": "T06L90YHJF8",
+            "name": "masamitu224",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712451609.467559",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YaZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "説明会でおくれますすまん！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

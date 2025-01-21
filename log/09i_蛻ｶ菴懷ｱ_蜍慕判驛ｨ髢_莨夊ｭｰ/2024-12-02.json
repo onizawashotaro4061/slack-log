@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1733126721.821709",
+        "client_msg_id": "90911118-3D31-4A53-9228-DF298A094CC8",
+        "text": "わたしも体調不良でやすみますごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732964814.741629",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vanZc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わたしも体調不良でやすみますごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

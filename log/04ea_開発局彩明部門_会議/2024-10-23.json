@@ -1,0 +1,624 @@
+[
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1729736950.027959",
+        "client_msg_id": "95626FB9-605A-4DED-8898-08C185D8CFAA",
+        "text": "<!channel>\n【1024第24回開発局彩明部門会議】について\nお疲れ様でっさ。\n本祭前最後！？　泣きそ\n\nラリーのテストプレイの関係で早めに始めます。各自作業あるかもだけど45分に教室にはいてね。\n\n\n【時間】\n18:45  (教室は5限から)\n\n【場所】\nM505\n\n【持ち物】\nパソコン\n台本\n\n\n【議題】\n1.各種共有(意思共有）\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n見たらスタンプ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729736950.027959",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1729751110.299159",
+        "reply_users": [
+            "U06LCEJ5HHU",
+            "U06LCE809L6",
+            "U070RQ167FG",
+            "U070VFQM2N9"
+        ],
+        "replies": [
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1729736984.194279"
+            },
+            {
+                "user": "U06LCE809L6",
+                "ts": "1729736997.507379"
+            },
+            {
+                "user": "U070RQ167FG",
+                "ts": "1729743544.739039"
+            },
+            {
+                "user": "U070VFQM2N9",
+                "ts": "1729751110.299159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIe5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【1024第24回開発局彩明部門会議】について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様でっさ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本祭前最後！？　泣きそ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ラリーのテストプレイの関係で早めに始めます。各自作業あるかもだけど45分に教室にはいてね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "18:45  (教室は5限から)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "M505"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【持ち物】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パソコン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "台本"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.各種共有(意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻・欠席・早退は早めに教えてくだされ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "見たらスタンプ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LCE809L6",
+                    "U0710SZT276",
+                    "U06LCEJ5HHU",
+                    "U0710SZA5J8",
+                    "U06LK7K9ALA",
+                    "U070HS5043H",
+                    "U07194G87BL",
+                    "U070HS3T3D5"
+                ],
+                "count": 8
+            },
+            {
+                "name": "今だなつきハイドロポンプ",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK7K9ALA",
+                    "U070Y9U9QEP",
+                    "U07194G87BL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK7K9ALA",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LMH49UQL",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCEJ5HHU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "当たり前だぁあ",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK7K9ALA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ではここでー",
+                "users": [
+                    "U06LCEJ5HHU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "正味あり",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "まさようおはよう",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "まさようみたよう",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なつくん話長い",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "か＿全力疾走なつくん煌めく汗",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK7K9ALA",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "開_なつくん",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "出ましたなつくんお得意のキレ芸",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK7K9ALA",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_インフラ_なつ冷めないで",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_インフラ_なつ_なっつん",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_なつ_ナツ",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U071B3GT7FT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ちいかわのうさぎ",
+                "users": [
+                    "U071B3GT7FT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_ながしゅん_踊るブンカッキー",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U071B3GT7FT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "埼玉県民",
+                "users": [
+                    "U07194G87BL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCEJ5HHU",
+        "type": "message",
+        "ts": "1729736984.194279",
+        "client_msg_id": "4D95B0D1-9D23-4792-9100-4E2316DA8C18",
+        "text": "お疲れ様です。5限あるので遅刻します。大変申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3d6eb478bab5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-15\/7407123671111_3d6eb478bab567bf0cb7_72.png",
+            "first_name": "大坂悠真",
+            "real_name": "大坂悠真",
+            "display_name": "Osaka.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yumaosakasoccerwater",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729736950.027959",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVGfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。5限あるので遅刻します。大変申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1729736997.507379",
+        "client_msg_id": "F15E5B64-9921-41E7-98DA-3AF69AEC9438",
+        "text": "お疲れ様です！\n5限があるので遅れるかもです、急いで向かいます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729736950.027959",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B36G\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n5限があるので遅れるかもです、急いで向かいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ167FG",
+        "type": "message",
+        "ts": "1729743544.739039",
+        "client_msg_id": "2E82AD1D-377A-4A0E-B33A-1CB2A48475CE",
+        "text": "お疲れ様です！\n5限があるのでおそらく遅れます…\nよろしくお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e28bf1bce965",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8071426280144_e28bf1bce9650350ad4f_72.png",
+            "first_name": "山本",
+            "real_name": "山本 菜々子",
+            "display_name": "Yamamoto.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "san.2007.09.06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729736950.027959",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KuB\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n5限があるのでおそらく遅れます…\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFQM2N9",
+        "type": "message",
+        "ts": "1729751110.299159",
+        "client_msg_id": "7ACDBD86-98A4-4017-972D-B0772B682614",
+        "text": "お疲れ様です。\nバイトがあるので少し遅れます。\n申し訳ございません。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17387da8df8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7105997571655_17387da8df8acc8270df_72.png",
+            "first_name": "眞野栞",
+            "real_name": "眞野栞",
+            "display_name": "Mano.Shiori",
+            "team": "T06L90YHJF8",
+            "name": "mano.05poppy1114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729736950.027959",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Py9Lx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\nバイトがあるので少し遅れます。\n申し訳ございません。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

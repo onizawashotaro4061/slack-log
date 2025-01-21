@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1729323141.513319",
+        "client_msg_id": "7A35D4F5-FE94-4009-B6C1-E359141AB42F",
+        "text": "鍵持ってエントラ通しリハ:key:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJd56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鍵持ってエントラ通しリハ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "key",
+                                "unicode": "1f511"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U070Y9QMUSX",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1729377723.035619",
+        "client_msg_id": "BDF6C65A-3F38-49D0-B34D-4472653AF037",
+        "text": "かりあけてます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSoUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6",
+                    "U06LK0FUAHZ",
+                    "U06LY5XNLBT",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

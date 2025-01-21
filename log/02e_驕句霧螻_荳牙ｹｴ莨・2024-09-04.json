@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1725439809.447759",
+        "client_msg_id": "B6D30F5E-7CC5-457A-9371-623BA704ACF7",
+        "text": "<!channel> \n0905_運営局三年会会議\n【時間】\n17:10〜18:50\n【場所】\n第一校舎のどこか\n【議題】\n1.リハーサル（意思共有）\n\n特に議事録とかは要らないんですが、\n動画撮るので、そこだけお願いします！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1JSx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n0905_運営局三年会会議\n【時間】\n17:10〜18:50\n【場所】\n第一校舎のどこか\n【議題】\n1.リハーサル（意思共有）\n\n特に議事録とかは要らないんですが、\n動画撮るので、そこだけお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GHLP2B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

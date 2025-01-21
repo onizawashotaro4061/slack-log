@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1728718751.515089",
+        "client_msg_id": "14e1c3da-51c7-437a-a1a9-e91a05aa9086",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL> お疲れ様です。開発局ツアー企画統括の倉内です。\n明治大解剖ツアーのSNS広報依頼書を提出しました。\nご報告が遅くなり、申し訳ございません。よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728718751.515089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1728720223.536099",
+        "reply_users": [
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1728720223.536099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWQwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。開発局ツアー企画統括の倉内です。\n明治大解剖ツアーのSNS広報依頼書を提出しました。\nご報告が遅くなり、申し訳ございません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1728720139.931629",
+        "edited": {
+            "user": "U06LK3L6B4J",
+            "ts": "1728720185.000000"
+        },
+        "client_msg_id": "AFF1F11B-2CEB-4482-BBFA-39382C418887",
+        "text": "<@U06LCE9JG3G>\nお疲れ様です。\nお話しした投稿数で、両方とも学外広報部門で受理します、！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728641142.471889",
+        "parent_user_id": "U06LCE9JG3G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnZYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9JG3G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nお話しした投稿数で、両方とも学外"
+                            },
+                            {
+                                "type": "text",
+                                "text": "広報部門"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で受理します、！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U06LCE9JG3G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1728720169.925509",
+        "client_msg_id": "A88AA460-DFC6-45DC-86F5-36747F57274C",
+        "text": "<@U06LXNWG67K> \nお疲れ様です。\nお話しした投稿数で、学外広報部門で受理します、！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728648910.175349",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQBzO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNWG67K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\nお話しした投稿数で、学外広報部門で受理します、！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1728720223.536099",
+        "client_msg_id": "A1D1DA56-4B4D-4544-AF49-EB25F595B4A6",
+        "text": "<@U06LCE809L6> \nお疲れ様です！\nお話しした投稿数で、学外広報部門で受理します、！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728718751.515089",
+        "parent_user_id": "U06LCE809L6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFdpc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE809L6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お話しした投稿数で、学外広報部門で受理します、！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1732845380.593159",
+        "client_msg_id": "8DC41C23-CDD0-4E8C-845A-7C4E14ECC699",
+        "text": "【委員長立候補予定の方へのリマインド】\n<!channel> \nお疲れ様です。橋本です。\n第141回明大祭実行委員会委員長へ立候補される方は明日、11月30日(土) 23：59が資料の提出期限となっております。\n以下の資料3点をギガファイル便でご提出ください。\n①第141回明大祭実行委員会委員長選挙演説資料（PowerPoint形式）\n②第141回明大祭実行委員会構想資料（Word書式で作成し、PDFに変換したもの）\n③第141回明大祭実行委員会委員長選挙演説動画（MP4）\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIHfn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【委員長立候補予定の方へのリマインド】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。橋本です。\n第141回明大祭実行委員会委員長へ立候補される方は明日、11月30日(土) 23：59が資料の提出期限となっております。\n以下の資料3点をギガファイル便でご提出ください。\n①第141回明大祭実行委員会委員長選挙演説資料（PowerPoint形式）\n②第141回明大祭実行委員会構想資料（Word書式で作成し、PDFに変換したもの）\n③第141回明大祭実行委員会委員長選挙演説動画（MP4）\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMQR40J0",
+                    "U06LXNY0MHP",
+                    "U06LY5XNLBT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ぱぱ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK0FPH2P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GM5C87"
+                ],
+                "count": 2
+            },
+            {
+                "name": "アツい",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

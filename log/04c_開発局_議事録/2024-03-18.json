@@ -1,0 +1,93 @@
+[
+    {
+        "text": "<!channel>\nお疲れさまです！\n*議事録をワンドラにあげるときはPDFでお願いします！*\n明日も会議頑張りましょう！！！\n\n第1回開発局役職会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞02_役職会議＞3月\nにアップロードしました。\n議題は\n1.部門について（意見交換）\nです。ご確認お願いします！",
+        "files": [
+            {
+                "id": "F06PKPDMRFZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SBFPFS",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9zRa\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議事録をワンドラにあげるときはPDFでお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日も会議頑張りましょう！！！\n\n第1回開発局役職会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞02_役職会議＞3月\nにアップロードしました。\n議題は\n1.部門について（意見交換）\nです。ご確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710752064.108889",
+        "edited": {
+            "user": "U06M7SBFPFS",
+            "ts": "1710769665.000000"
+        },
+        "client_msg_id": "0bac5047-8459-462c-8348-52f9676e7169",
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06M7SBFPFS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LG63FJUD",
+                    "U06LCE9JG3G",
+                    "U06LCE8C51U",
+                    "U06LK3ZBCN6",
+                    "U06LMGM3CG4",
+                    "U06LK7K9ALA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMGM3CG4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LMGM3CG4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

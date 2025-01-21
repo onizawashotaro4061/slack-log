@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U06LXNZJBFT",
+        "type": "message",
+        "ts": "1714193062.628819",
+        "client_msg_id": "A649929D-56AB-44CD-8718-5BA8CF61ED40",
+        "text": "重要な日に本当にすみません :sweat_drops: :woman-bowing: 体調不良のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30f77d3d9864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6752550180912_30f77d3d9864b8f106d3_72.png",
+            "first_name": "岡部ちひろ",
+            "real_name": "岡部ちひろ",
+            "display_name": "Okabe.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "shiera.0122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714008681.545299",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yITBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "重要な日に本当にすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 体調不良のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LVK2FU1X",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LVK2FU1X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

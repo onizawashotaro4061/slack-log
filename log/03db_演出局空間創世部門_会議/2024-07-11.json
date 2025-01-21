@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U070RQ0DUBG",
+        "type": "message",
+        "ts": "1720689977.587079",
+        "client_msg_id": "F9CE347C-893A-4B89-BD1B-AED0BF517041",
+        "text": "塾講バイトのためお休みさせてください。\n申し訳ございません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "59ccd257a091",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7760887307424_59ccd257a091eb3d7d5b_72.png",
+            "first_name": "吉田瞬",
+            "real_name": "吉田瞬",
+            "display_name": "Yoshida.Shun",
+            "team": "T06L90YHJF8",
+            "name": "yoshidashun.aousagi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720675319.860639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvgL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "塾講バイトのためお休みさせてください。\n申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

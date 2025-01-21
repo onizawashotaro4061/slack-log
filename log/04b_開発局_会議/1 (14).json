@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1710492971.869919",
+        "client_msg_id": "5EF62A9D-998F-4B4C-B941-E82F10070099",
+        "text": "法事で休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710369988.872479",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZBdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "法事で休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custard",
+                "users": [
+                    "U06LE249H0V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

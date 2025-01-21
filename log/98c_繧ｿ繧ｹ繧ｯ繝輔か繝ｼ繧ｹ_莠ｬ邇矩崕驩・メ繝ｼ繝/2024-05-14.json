@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1715744705.866619",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1716830539.000000"
+        },
+        "client_msg_id": "3330ee9e-3ed3-4205-a20d-bd5df6574630",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！\n0514_第6回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室1\n【時間】17:30〜18:50（最大）\n【議題】\n1.京王との打ち合わせ内容について（意思共有）\n2.タスク振り分けについて（意思共有）\n3.企画考案について（意見交換）\n4.新規について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715744705.866619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715768606.844009",
+        "reply_users": [
+            "U06LCE9HTP0"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9HTP0",
+                "ts": "1715768606.844009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNLmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！\n0514_第6回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室1\n【時間】17:30〜18:50（最大）\n【議題】\n1.京王との打ち合わせ内容について（意思共有）\n2.タスク振り分けについて（意思共有）\n3.企画考案について（意見交換）\n4.新規について（意見交換）\n※議題変わる可能性あり\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4J69HV5",
+                    "U06LK3Q6Y2W",
+                    "U06LCE9HTP0",
+                    "U06LXNZDHFT",
+                    "U06LCEA6J1L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LCE9HTP0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LCEA6J1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

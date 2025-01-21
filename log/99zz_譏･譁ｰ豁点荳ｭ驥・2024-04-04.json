@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1712242185.695689",
+        "client_msg_id": "C66EFF30-85B8-4752-9672-3968022FB804",
+        "text": "<!channel> \n夜遅くにごめんなさい！\n明日の午前シフトの人集合時間9：20で大丈夫です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gwf9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n夜遅くにごめんなさい！\n明日の午前シフトの人集合時間9：20で大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LG61PW7P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1712289904.007999",
+        "client_msg_id": "28D67009-1839-4B76-8C6A-B76B5C8B7813",
+        "text": "<!channel> \n午後のシフトの子着いたらゆっくりしててください:bow:\n25分までにきてくれれば大丈夫です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4aIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n午後のシフトの子着いたらゆっくりしててください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n25分までにきてくれれば大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06M7SZ5WG0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

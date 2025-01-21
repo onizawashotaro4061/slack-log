@@ -1,0 +1,242 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1725934216.312749",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1725934254.000000"
+        },
+        "client_msg_id": "B1EE918D-F0E8-4A61-A659-D7A5BE3119A2",
+        "text": "<!channel>\nおつかれ:sunny:会議連絡だよ :ballot_box_with_check:\n\n【時間】9\/10 (火) 14:00-17:00\n【場所】第一校舎202教室\n【議題】\n1. リハ期について\n終わったらチーム会議 :triangular_flag_on_post:\n夏休みも残りわずかだよ〜〜〜\nみんな楽しもうね :crying_cat_face: :crying_cat_face:\n\n欠席、遅刻、早退はスレッドへ :shaved_ice::umbrella_on_ground::watermelon::sunflower:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725934216.312749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725942883.968739",
+        "reply_users": [
+            "U071B3ELL7K"
+        ],
+        "replies": [
+            {
+                "user": "U071B3ELL7K",
+                "ts": "1725942883.968739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1\/M8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡だよ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n【時間】9\/10 (火) 14:00-17:00\n【場所】第一校舎202教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "リハ期について"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n終わったらチーム会議 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "triangular_flag_on_post",
+                                "unicode": "1f6a9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夏休みも残りわずかだよ〜〜〜\nみんな楽しもうね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shaved_ice",
+                                "unicode": "1f367"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_on_ground",
+                                "unicode": "26f1-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "watermelon",
+                                "unicode": "1f349"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunflower",
+                                "unicode": "1f33b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U070YDB48GJ",
+                    "U06LCECJD8W",
+                    "U06LK67B9PC",
+                    "U071M6XB9DE",
+                    "U070Y9RH075",
+                    "U06LG63FM1B",
+                    "U070RQ4E91U"
+                ],
+                "count": 7
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCECJD8W",
+                    "U070YDB48GJ",
+                    "U071M6XB9DE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U071B3ELL7K",
+        "type": "message",
+        "ts": "1725942883.968739",
+        "client_msg_id": "4150724f-bd43-42e0-8820-f972962a96c5",
+        "text": "バイトの時間が長くなってしまったので、30分ほど遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f803406dfcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-01\/7049807702596_3f803406dfcf4d435221_72.jpg",
+            "first_name": "吉田大地",
+            "real_name": "吉田大地",
+            "display_name": "Yoshida.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "yoshida2005kiha110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725934216.312749",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4\/sH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトの時間が長くなってしまったので、30分ほど遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

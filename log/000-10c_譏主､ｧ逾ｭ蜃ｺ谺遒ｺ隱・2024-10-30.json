@@ -1,0 +1,2435 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323802.565069",
+        "client_msg_id": "b9702968-53f5-479c-b7fd-28ab34437610",
+        "text": "≪事前準備日≫\n【執行部】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmcwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "≪事前準備日≫\n【執行部】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "000_委員長",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCUTBMU5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "000_副委員長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LDT584J1",
+                    "U06LE9EH9QV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323806.557279",
+        "client_msg_id": "3e9e2a41-4e02-4378-99df-0b991cdde41d",
+        "text": "【運営局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323806.557279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730335232.672829",
+        "reply_users": [
+            "U06L4GHLP2B"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GHLP2B",
+                "ts": "1730335232.672829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pmlm0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【運営局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LKHN3RE0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "001_運営_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LK3LHG0J",
+                    "U06L4GKK0CF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "001_運営_三年会",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L4GHAANB",
+                    "U06L4H8CGQP",
+                    "U06L4GPFEQ7",
+                    "U06LG66LXAR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "運営_安全対策",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LG62V1FX",
+                    "U070RQ20K8W",
+                    "U071B3B4UJV",
+                    "U06LK0FC935",
+                    "U0710T2VD28",
+                    "U0710T09B1S",
+                    "U06LCE6E64W",
+                    "U071M74S2TS",
+                    "U06LG61PW7P",
+                    "U070YDE27A6",
+                    "U06LK3MRV98",
+                    "U0710T04SUC",
+                    "U070RQ6FHF0",
+                    "U06L4GL3Z9V",
+                    "U070RQ2NG2J",
+                    "U070RQJKSDU",
+                    "U070HS439RV",
+                    "U070HS3URN3",
+                    "U06LK0H5FEX",
+                    "U06LMH7PM60"
+                ],
+                "count": 21
+            },
+            {
+                "name": "運営_インフラ",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LK0FUAHZ",
+                    "U06LG61QB3P",
+                    "U06LK5HCSE6",
+                    "U070YD8A2EN",
+                    "U0710T03ZS8",
+                    "U06LM2P58KC",
+                    "U071B3ARX5F",
+                    "U06LG66Q84D",
+                    "U070Y9VUDL3",
+                    "U071B3AKPPT",
+                    "U06LEAGKTSS",
+                    "U071B3C838R",
+                    "U070Y9TREE7",
+                    "U070HS7MJH5",
+                    "U06ME05BLJW",
+                    "U070HS3D85D",
+                    "U071M71AWJU",
+                    "U07T6A03676",
+                    "U06M7SQPKL0",
+                    "U06LCE7DY6S",
+                    "U070HS49ZD5"
+                ],
+                "count": 22
+            },
+            {
+                "name": "運営_備品",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LK0EQS59",
+                    "U06LMH6PR9S",
+                    "U071M749KPS",
+                    "U06LK3LKR9Q",
+                    "U06M7SX52RW",
+                    "U070RQ2MWVC",
+                    "U06LKJS20KC",
+                    "U071M6Y794Y",
+                    "U06LK3MMALA",
+                    "U06LCE8F5PG",
+                    "U070YD9TXBL",
+                    "U06LXP3HYQH",
+                    "U0729E5V687",
+                    "U06LCEA6J1L",
+                    "U0710T2V2HJ",
+                    "U070Y9U42DR",
+                    "U071M6YPYM6"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323809.262929",
+        "client_msg_id": "0befc35e-bdb3-4ece-b05a-54fc9df98ee2",
+        "text": "【演出局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323809.262929",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1730329199.526749",
+        "reply_users": [
+            "U06LMHBUVT6",
+            "U06LMH4T528",
+            "U070VFSETUM"
+        ],
+        "replies": [
+            {
+                "user": "U06LMHBUVT6",
+                "ts": "1730328033.188539"
+            },
+            {
+                "user": "U06LMH4T528",
+                "ts": "1730328904.950579"
+            },
+            {
+                "user": "U070VFSETUM",
+                "ts": "1730329199.526749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISSCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【演出局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "002_演出_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L2DCDLF9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "002_演出_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LMHBUVT6",
+                    "U06LTN26EFL",
+                    "U06L4GSPRHV"
+                ],
+                "count": 4
+            },
+            {
+                "name": "002_演出_三年会",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06M7T3TQ0Y",
+                    "U06L4GRJ2LF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "演出_響創",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LG63FM1B",
+                    "U070VFNR337",
+                    "U070RQ4E91U",
+                    "U06LK3MF9FC",
+                    "U070HS2V7SB",
+                    "U071M6YB4MN",
+                    "U06L4GM9N5V",
+                    "U06L4GKF78F",
+                    "U070YDB48GJ",
+                    "U071M6XB9DE",
+                    "U070VFPTCF7",
+                    "U06LK0G74NP",
+                    "U070Y9RH075",
+                    "U071A394WUB",
+                    "U06LK67B9PC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 17
+            },
+            {
+                "name": "演出_空創",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LXNY0MHP",
+                    "U070HS2GY5V",
+                    "U06LCE9AKQW",
+                    "U071M771YMN",
+                    "U070YDCB30A",
+                    "U070YE174KC",
+                    "U070HS35ECX",
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U0710TJSETW",
+                    "U06M7T7SSDN",
+                    "U070RQ0DUBG",
+                    "U06LMHDAZKN",
+                    "U06LMH5ACGL",
+                    "U071B39SGQH",
+                    "U0710T40TFW",
+                    "U071B3C42Q1",
+                    "U06LK3L32MQ",
+                    "U071B3917S5",
+                    "U0710TSE9TN"
+                ],
+                "count": 21
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323811.650879",
+        "client_msg_id": "6abc40c7-289d-4c84-8d58-2060e96d103c",
+        "text": "【開発局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323811.650879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1730333134.907969",
+        "reply_users": [
+            "U071B3EHX6D",
+            "U06LK3ZBCN6"
+        ],
+        "replies": [
+            {
+                "user": "U071B3EHX6D",
+                "ts": "1730333045.105999"
+            },
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1730333134.907969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdVc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【開発局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "003_開発_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LE249H0V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "003_開発_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06M7SBFPFS",
+                    "U06LMGM3CG4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "開発_彩明",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LXNWG67K",
+                    "U06LCE809L6",
+                    "U06LCEJ5HHU",
+                    "U06LCE8C51U",
+                    "U0710T04DU4",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070Y9U9QEP",
+                    "U0710SZA5J8",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LMH49UQL",
+                    "U0710SZT276",
+                    "U07194G87BL",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA",
+                    "U070RQ167FG",
+                    "U070HS55A8P",
+                    "U071B3GT7FT",
+                    "U06LVUKD658"
+                ],
+                "count": 21
+            },
+            {
+                "name": "開発_対外",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LK04QJ0K",
+                    "U06LCE4EV2A",
+                    "U071M6X5M16",
+                    "U06L4GM57JT",
+                    "U070HT2C5KR",
+                    "U06LK3ZBCN6",
+                    "U0710T14PU4",
+                    "U070Y9TS5T5",
+                    "U070Y9SJQH1",
+                    "U070YD83MD0",
+                    "U071B3EHX6D",
+                    "U070RQ1EK2S",
+                    "U06LG63FJUD",
+                    "U070VFUEQKF",
+                    "U06L4GKGXB9",
+                    "U06LCE7524E",
+                    "U070YDBG6N6",
+                    "U070HT0V363",
+                    "U070HVCHZRD",
+                    "U06LXP1JG0Z"
+                ],
+                "count": 21
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323814.254609",
+        "client_msg_id": "4330fd47-d2f9-4406-87bd-3bbc8639aa64",
+        "text": "【広報局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323814.254609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1730337928.424309",
+        "reply_users": [
+            "U06LMH3GJKE",
+            "U0710T0NBFE"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH3GJKE",
+                "ts": "1730333034.161259"
+            },
+            {
+                "user": "U0710T0NBFE",
+                "ts": "1730337928.424309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8p+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【広報局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "004_広報_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LVK2FU1X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "004_広報_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J"
+                ],
+                "count": 3
+            },
+            {
+                "name": "004_広報_三・四年会",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LJBVA2DS",
+                    "U06LK0BP1TM",
+                    "U06LK0EBWRH",
+                    "U06LMH412CU",
+                    "U06LG60SFEH"
+                ],
+                "count": 6
+            },
+            {
+                "name": "広報_学外",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LY5XNLBT",
+                    "U06LCEF912S",
+                    "U06TU27FX08",
+                    "U06LCE9HTP0",
+                    "U070VFQGRNZ",
+                    "U071B38EX0R",
+                    "U06LCE78Y94",
+                    "U070VG0DP0D",
+                    "U070YD75PJ6",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 12
+            },
+            {
+                "name": "広報_学内",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L4GL1CUF",
+                    "U06LMH3952Q",
+                    "U070Y9RLJTV",
+                    "U070HS55GQP",
+                    "U071B38HAM7",
+                    "U06LXNWSGPK",
+                    "U070Y9RMP7D",
+                    "U06LK3KA09G",
+                    "U070VFY94H3",
+                    "U070HS202UX",
+                    "U070Y9UKJV9",
+                    "U06LXNZJBFT",
+                    "U06LMH3GJKE",
+                    "U06LXNY8KMF",
+                    "U070HS2FRT9"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323816.679089",
+        "client_msg_id": "3f7be9dd-09e5-4f05-a288-f1dbe86d2b19",
+        "text": "【財務局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323816.679089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730334789.431329",
+        "reply_users": [
+            "U06LK0JTYD9"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0JTYD9",
+                "ts": "1730334789.431329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCZ9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【財務局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "財務_実務",
+                "users": [
+                    "U06M7SQ7QL8",
+                    "U06LXNXNWGH",
+                    "U06LK0K4XGT",
+                    "U06LMH3BZ8C",
+                    "U06LK3KJNJE",
+                    "U071M700E48",
+                    "U070YD6M598",
+                    "U071M6XN2GG",
+                    "U0710SZ77V2",
+                    "U071B3A03PB",
+                    "U070YD6A6CA",
+                    "U06LXNX1XPB",
+                    "U070Y9TMG11",
+                    "U071M6X48E4",
+                    "U06LK3NH9MG",
+                    "U0710SZT2S0"
+                ],
+                "count": 16
+            },
+            {
+                "name": "005_財務_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LKEPTCA0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "005_財務_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L4GJ031V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "005_財務_sfo",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323819.388039",
+        "client_msg_id": "c29c07bc-477b-4f94-ad4b-7c196c9487d9",
+        "text": "【参加団体局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DG1\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【参加団体局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "006_参加団体_局長",
+                "users": [
+                    "U06LKTXCZL4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "006_参加団体_三年会",
+                "users": [
+                    "U06M7SVCUGY",
+                    "U06LXNX5673"
+                ],
+                "count": 2
+            },
+            {
+                "name": "006_参加団体_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L64D8E0P",
+                    "U06LK0DLEQ3",
+                    "U06LY8E3XA5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "参団_教室部門",
+                "users": [
+                    "U070VFTRR61",
+                    "U06L4GKC9N3",
+                    "U06M7SUULGY",
+                    "U0714V5MYTW",
+                    "U06LK0GM50T",
+                    "U070Y9RP1J7",
+                    "U070RQ26JMU",
+                    "U070RQ20GCE",
+                    "U06LMH666BE",
+                    "U070Y9VAKAP",
+                    "U0728FVKU2V",
+                    "U070HS379EK",
+                    "U071M70GW00",
+                    "U06LCE8K98E",
+                    "U070YDB0DEW",
+                    "U06LK3LT89Y",
+                    "U06LMH5UFC4",
+                    "U0710SZN03W",
+                    "U06L4GMANMD"
+                ],
+                "count": 19
+            },
+            {
+                "name": "参団_模擬店",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06L4GLRPF1",
+                    "U06LK18Q06P",
+                    "U071B3AV8HX",
+                    "U072CKF0VFS",
+                    "U06LXR4BPS5",
+                    "U06LG6DR26R",
+                    "U070Y9YKE2F",
+                    "U070YD71E0J",
+                    "U06L4GJDNUX",
+                    "U06LG63910V",
+                    "U070VFQKEH3",
+                    "U06M7SUB2GY",
+                    "U071B3BMG9X",
+                    "U06LK3RVDGA",
+                    "U070RQ92CTY",
+                    "U071B3D5A9F",
+                    "U071B3ANM8R",
+                    "U070RQ2EQ86",
+                    "U070RQ26LBY"
+                ],
+                "count": 20
+            },
+            {
+                "name": "参団_屋外",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U071B3ACZPT",
+                    "U06LK3PHPQA",
+                    "U06LK3Q6Y2W",
+                    "U06LK0FPH2P",
+                    "U070YA6CQLB",
+                    "U071M7KHNRW",
+                    "U071M6ZSSLQ",
+                    "U070HS3G355",
+                    "U06LG655N21",
+                    "U070YD8Q5GA",
+                    "U071B3A1G4R",
+                    "U071M6X0B4Y",
+                    "U0710SYRRAQ",
+                    "U06L4GJ4H9D",
+                    "U070Y9U7WRZ",
+                    "U06LMH8RNBE",
+                    "U06LXP05G3B",
+                    "U06LXNZG6HX",
+                    "U06M7SW8GAU"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323821.977489",
+        "client_msg_id": "c24024aa-9803-4264-af0d-791dfd254c8e",
+        "text": "【渉外局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1730336626.453549",
+        "reply_users": [
+            "U06LG610ADB",
+            "U070YD7LVT4",
+            "U0710T4CBHS",
+            "U06L4J69HV5",
+            "U06M7SU83G8"
+        ],
+        "replies": [
+            {
+                "user": "U06LG610ADB",
+                "ts": "1730325725.818449"
+            },
+            {
+                "user": "U070YD7LVT4",
+                "ts": "1730331306.465529"
+            },
+            {
+                "user": "U0710T4CBHS",
+                "ts": "1730333996.338919"
+            },
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1730336037.338599"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1730336626.453549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EwMKQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【渉外局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "007_渉外_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            },
+            {
+                "name": "007_渉外_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L4CMKY8P",
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "007_渉外_三・四年会",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LCDQ2W6A",
+                    "U06LK0RAA7M",
+                    "U06LK3NPUQ2",
+                    "U06LMGND6EQ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "渉外_界隈",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06M7SPUVEC",
+                    "U070Y9WCHH9",
+                    "U071M740R32",
+                    "U070YD778SE",
+                    "U070RQ5918W",
+                    "U071B3CNHQR",
+                    "U06L4GLJVKR",
+                    "U071M6YLJRE",
+                    "U06LXNL2ZS5",
+                    "U0710T3MCUC",
+                    "U06LCED6ZK8",
+                    "U06LK0E89MH",
+                    "U06LGHETAFP"
+                ],
+                "count": 14
+            },
+            {
+                "name": "渉外_企業",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LG5XQGS1",
+                    "U070RQ0VCP8",
+                    "U06LCE9EA3G",
+                    "U071M6XCB5W",
+                    "U070RQ3ND38",
+                    "U070HS5NT63",
+                    "U070VFTLATX",
+                    "U06L4GH4ETH",
+                    "U071B3CV89X",
+                    "U06LK0HTVQT",
+                    "U070VFRCQBF",
+                    "U06LK3K88SW",
+                    "U070Y9UEAAF",
+                    "U06M7SETDKJ"
+                ],
+                "count": 15
+            },
+            {
+                "name": "渉外_校友",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06M7ST2WTA",
+                    "U071B3Q87ED",
+                    "U06M7SUSYNL",
+                    "U06LXNYUXS5",
+                    "U070HS93JUX",
+                    "U070HS31CP9",
+                    "U070VFRN7PX",
+                    "U06LXNYUX7T",
+                    "U06L4GLRAK1",
+                    "U071B3BRGN5",
+                    "U070Y9UPJG3",
+                    "U070Y9SLJJX",
+                    "U06L4J69HV5"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323824.463309",
+        "client_msg_id": "d86123de-1926-4e6b-9146-17e6daa7c875",
+        "text": "【制作局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323824.463309",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1730333936.485809",
+        "reply_users": [
+            "U06LXNZFWDP",
+            "U071B3A7ERX",
+            "U070HS3CTQX"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNZFWDP",
+                "ts": "1730332456.495909"
+            },
+            {
+                "user": "U071B3A7ERX",
+                "ts": "1730333601.645689"
+            },
+            {
+                "user": "U070HS3CTQX",
+                "ts": "1730333936.485809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zjlM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【制作局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "008_制作_副局",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06L4GM463H",
+                    "U06LMH9MBFW",
+                    "U06LCE8L8LW",
+                    "U06LK3M7VGA"
+                ],
+                "count": 5
+            },
+            {
+                "name": "制作_gd",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06L4GM5C87",
+                    "U070Y9S1CRH",
+                    "U06LMH4MXDJ",
+                    "U071B3F2KLH",
+                    "U071M6YAERE",
+                    "U070YDPESTC",
+                    "U06LXNZFWDP",
+                    "U06LG61U9QD",
+                    "U070RQ1RR3Q",
+                    "U071M71R0EL",
+                    "U070Y9T5W4B",
+                    "U06M7SSDQQG"
+                ],
+                "count": 13
+            },
+            {
+                "name": "制作_動画",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LJ0SKMEZ",
+                    "U06LXNYGGHX",
+                    "U070Y9S80D9",
+                    "U070YD7KHLJ",
+                    "U070Y9QMUSX",
+                    "U071B3BQRR7",
+                    "U06LXNUQ989",
+                    "U070YD7LPR8",
+                    "U070HS3CTQX"
+                ],
+                "count": 10
+            },
+            {
+                "name": "制作_装飾",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U071B3CMYKT",
+                    "U070YD8ST18",
+                    "U06LK0FAL83",
+                    "U06L4GPGUMV",
+                    "U070RQ1TLSJ",
+                    "U070Y9SAKC3",
+                    "U06LK0FP02F",
+                    "U06LP6ZTYA1",
+                    "U06LG6F13M3",
+                    "U0710SYN1B6",
+                    "U071M6YAX2L",
+                    "U070RQFLLR4",
+                    "U070RQ3G5DL",
+                    "U06LMHSCW1J",
+                    "U06LK0F2RC3",
+                    "U06LXP316UR"
+                ],
+                "count": 17
+            },
+            {
+                "name": "制作_web",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LK0JCFHR",
+                    "U0710SYJ892",
+                    "U06LCE69DRU",
+                    "U06LG6Q48SZ",
+                    "U06LJB446QL",
+                    "U071B3EMJCR",
+                    "U071B3A7ERX",
+                    "U070YDCRM1Q",
+                    "U0710T0UFQC"
+                ],
+                "count": 10
+            },
+            {
+                "name": "008_制作_三年会",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06L4TGH30F",
+                    "U06LK0DN10T",
+                    "U06LK3L8RNE",
+                    "U06LK0G7VCK",
+                    "U06LG62UXPX",
+                    "U06LK0EUE75",
+                    "U06L4GT8LNT",
+                    "U06M7SSUS0G"
+                ],
+                "count": 9
+            },
+            {
+                "name": "008_制作_局長",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730323826.747899",
+        "client_msg_id": "c62d0b35-c20e-4a15-897b-ad9e1bc0208e",
+        "text": "【総務局】",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323826.747899",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1730346546.487109",
+        "reply_users": [
+            "U06LMLKREUU",
+            "U06LXNX1A57",
+            "U0710T39SS0"
+        ],
+        "replies": [
+            {
+                "user": "U06LMLKREUU",
+                "ts": "1730335868.823939"
+            },
+            {
+                "user": "U06LXNX1A57",
+                "ts": "1730340703.820719"
+            },
+            {
+                "user": "U0710T39SS0",
+                "ts": "1730346546.487109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60pGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【総務局】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "009_総務_局長",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06L2CSPXV5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "009_総務_副局",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06M7TE180Y",
+                    "U06LCFWR494"
+                ],
+                "count": 3
+            },
+            {
+                "name": "009_総務_三年会",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LMH5ACE8",
+                    "U06LM0QJV3L",
+                    "U06LMLKREUU",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "総務_総務",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06LG62FNP7",
+                    "U071M6ZDDQ8",
+                    "U06LK3MPZ34",
+                    "U06LS7G3G0M",
+                    "U070RQ001V4",
+                    "U070VFZF6BF",
+                    "U070Y9Q9151",
+                    "U06LG6B2NA1",
+                    "U070YD72JPL",
+                    "U070VFP05K7",
+                    "U070YD8BGRG",
+                    "U070HS28L15",
+                    "U070HS23XV5",
+                    "U06M7SZ5WG0",
+                    "U071B38LED7"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730324422.640839",
+        "client_msg_id": "85D33A96-3914-4F34-996E-04B45AF3B9D7",
+        "text": "おはようございますー\n昨年のシステムをわかってる方が早く押してくれたので順番が揃ってない部分もあるんですけど、こんな感じにそれぞれのスタンプがあるのでシフト開始時間に問題なく来られる場合はスタンプを押してください！\nやむを得ず遅刻・欠席する場合は自局のとこにスレッドで理由を添えてご返信ください！\n何も反応がないとそれぞれのボスから鬼電がきますのでよろしくお願いします:palms_up_together:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2UK8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございますー\n昨年のシステムをわかってる方が早く押してくれたので順番が揃ってない部分もあるんですけど、こんな感じにそれぞれのスタンプがあるのでシフト開始時間に問題なく来られる場合はスタンプを押してください！\nやむを得ず遅刻・欠席する場合は自局のとこにスレッドで理由を添えてご返信ください！\n何も反応がないとそれぞれのボスから鬼電がきますのでよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U070VFTRR61",
+                    "U06LXK3RF7B",
+                    "U06LK3MF9FC",
+                    "U06LXNY0MHP",
+                    "U06LH4PDAQ3",
+                    "U06LJRSQDC3",
+                    "U06LK0DK7R9",
+                    "U06LMH9MBFW",
+                    "U06LCE4EV2A",
+                    "U06LJB446QL",
+                    "U070YD778SE",
+                    "U06LCE8L8LW",
+                    "U06LK0DLEQ3",
+                    "U06M7SBFPFS",
+                    "U06LY8E3XA5",
+                    "U0710T3MCUC",
+                    "U070RQ20K8W",
+                    "U06M7TE180Y",
+                    "U070Y9Q9151",
+                    "U071B3AKPPT",
+                    "U070HVCHZRD",
+                    "U071B3GT7FT",
+                    "U06LM0QJV3L",
+                    "U06LHACMG91",
+                    "U06LY5XNLBT",
+                    "U06LG61QB3P"
+                ],
+                "count": 27
+            }
+        ]
+    },
+    {
+        "user": "U06LG610ADB",
+        "type": "message",
+        "ts": "1730325725.818449",
+        "edited": {
+            "user": "U06LG610ADB",
+            "ts": "1730325745.000000"
+        },
+        "client_msg_id": "76C52438-D51F-4303-B169-A48A3DEB2448",
+        "text": "扁桃周囲膿瘍により、お医者さんから安静にするよう指示があり欠席させていただきます。申し訳ありません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788dd27e8352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7946327606705_788dd27e83521855f665_72.png",
+            "first_name": "鈴木来哉",
+            "real_name": "鈴木来哉",
+            "display_name": "Suzuki.Raiya",
+            "team": "T06L90YHJF8",
+            "name": "rrraai1214",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKrbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "扁桃周囲膿瘍"
+                            },
+                            {
+                                "type": "text",
+                                "text": "により、お医者さんから安静にするよう指示があり欠席させていただきます。申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3",
+                    "U071B3CV89X",
+                    "U06LK3K88SW",
+                    "U06M7SPUVEC",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06LMHBUVT6",
+        "type": "message",
+        "ts": "1730328033.188539",
+        "client_msg_id": "0268CBB7-A708-4723-BB18-D6A2710D573D",
+        "text": "予定があるので遅れて行きます。申し訳ないです:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51fad438f0e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-31\/7656365925237_51fad438f0e4f464f7b0_72.png",
+            "first_name": "佐藤里帆",
+            "real_name": "佐藤里帆",
+            "display_name": "Sato.Riho",
+            "team": "T06L90YHJF8",
+            "name": "riho500m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323809.262929",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8eByF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるので遅れて行きます。申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1730328904.950579",
+        "client_msg_id": "68D7E630-1996-4A0A-BE75-63E6E2965AD8",
+        "text": "家庭の事情で遅れて行きます！申し訳ございません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323809.262929",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAdb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家庭の事情で遅れて行きます！申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070VFSETUM",
+        "type": "message",
+        "ts": "1730329199.526749",
+        "client_msg_id": "0301EE13-6F14-4FD1-8871-DA6E31D95028",
+        "text": "急遽、病院に行くことになったので遅れて行きます。連絡が遅れてしまい申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a127703d36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7103811785985_6a127703d36c4fc7fa4c_72.png",
+            "first_name": "林朋緒",
+            "real_name": "林朋緒",
+            "display_name": "Hayashi.Tomoo",
+            "team": "T06L90YHJF8",
+            "name": "tomoo0918",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323809.262929",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TnIhW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急遽、病院に行くことになったので遅れて行きます。連絡が遅れてしまい申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LVT4",
+        "type": "message",
+        "ts": "1730331306.465529",
+        "client_msg_id": "18D6B356-D775-4D3E-A65C-D1641FAD061A",
+        "text": "諸用で北海道に行くので2日まで欠席します。\n申し訳ありませんがよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3a8161c098cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-13\/7895122038496_3a8161c098cd9c7f1118_72.png",
+            "first_name": "荒怜樹",
+            "real_name": "荒怜樹",
+            "display_name": "Ara.Renju",
+            "team": "T06L90YHJF8",
+            "name": "ren.1225.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiN6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "諸用で北海道に行くので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2日まで欠席します。\n申し訳ありませんがよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U070RQ3ND38",
+                    "U070VFTLATX",
+                    "U071B3CV89X",
+                    "U070HS5NT63",
+                    "U06LK0HTVQT",
+                    "U071B3CNHQR",
+                    "U070VFRCQBF",
+                    "U06LXK3RF7B",
+                    "U071M6YLJRE",
+                    "U06LK3K88SW",
+                    "U0710T3MCUC",
+                    "U06M7SPUVEC",
+                    "U06LCED6ZK8",
+                    "U070Y9UEAAF",
+                    "U06LGHETAFP"
+                ],
+                "count": 15
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LCE9EA3G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U070Y9UEAAF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LXNZFWDP",
+        "type": "message",
+        "ts": "1730332456.495909",
+        "client_msg_id": "0F9F0197-57D9-4C32-B59B-1002372DC5C0",
+        "text": "体調不良で遅刻します :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "34c175b7ca4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6700410419106_34c175b7ca4bc80cf834_72.png",
+            "first_name": "上山千尋",
+            "real_name": "上山千尋",
+            "display_name": "Kamiyama.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chiroruchako_12103",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323824.463309",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAkmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1730333034.161259",
+        "client_msg_id": "99390E10-C843-4C59-B503-510AF01A7091",
+        "text": "頭痛くて頭痛薬飲んで様子みてから行こうと思うので、遅れます。申し訳ないです :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323814.254609",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lRwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "頭痛くて頭痛薬飲んで様子みてから行こうと思うので、遅れます。申し訳ないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LMH3952Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LMH3952Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3EHX6D",
+        "type": "message",
+        "ts": "1730333045.105999",
+        "client_msg_id": "3B48A61C-AF7C-43CD-B853-6104E7202022",
+        "text": "家の事情で30分程遅れます、すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9507bf74773",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-22\/7154356299618_b9507bf747739feacb66_72.png",
+            "first_name": "吉本",
+            "real_name": "吉本 優吾",
+            "display_name": "Yoshimoto.Yugo",
+            "team": "T06L90YHJF8",
+            "name": "yugoal1016",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323811.650879",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xlNbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家の事情で30分程遅れます、すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06M7SBFPFS",
+                    "U06LMGM3CG4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1730333134.907969",
+        "client_msg_id": "ADEF53B1-703B-4B43-B899-37B956261BBE",
+        "text": "マジですみません\n集合時間勘違いしてたので少し遅れます\n意識低いことして申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323811.650879",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjAwE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マジですみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n集合時間勘違いしてたので少し遅れます\n意識低いことして申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06M7SBFPFS",
+                    "U06LCE9JG3G",
+                    "U06LMH49UQL",
+                    "U06LXNWG67K",
+                    "U06L4GKGXB9",
+                    "U06LMGM3CG4",
+                    "U06LCE8C51U"
+                ],
+                "count": 7
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LMGM3CG4",
+                    "U06LCE8C51U"
+                ],
+                "count": 3
+            },
+            {
+                "name": "罷免",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LMGM3CG4",
+                    "U06L4GL1CUF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3A7ERX",
+        "type": "message",
+        "ts": "1730333601.645689",
+        "client_msg_id": "863741D0-1556-472F-9CF9-EBAF9CB7C54F",
+        "text": "電車の遅延で15分ほど遅れます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0317e73738c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-25\/7171007244629_0317e73738c08ad1fb92_72.png",
+            "first_name": "武田三都紀",
+            "real_name": "武田三都紀",
+            "display_name": "Takeda. Mitsuki",
+            "team": "T06L90YHJF8",
+            "name": "2mitsuki8fura11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323824.463309",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RLEyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の遅延で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15分ほど遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS3CTQX",
+        "type": "message",
+        "ts": "1730333936.485809",
+        "edited": {
+            "user": "U070HS3CTQX",
+            "ts": "1730333980.000000"
+        },
+        "client_msg_id": "BE2E993E-EC3F-4219-B49A-0AC67CD63576",
+        "text": "バイトのため30分ほど遅刻します:man-bowing:申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5befff26f5d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-10\/7993263644919_5befff26f5d7c67a49a1_72.png",
+            "first_name": "河合洋飛",
+            "real_name": "河合洋飛",
+            "display_name": "Kawai.Hiroto",
+            "team": "T06L90YHJF8",
+            "name": "hrtkawai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323824.463309",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6ogy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトのため30分ほど遅刻します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T4CBHS",
+        "type": "message",
+        "ts": "1730333996.338919",
+        "client_msg_id": "bb278bc5-f9cd-447d-82b4-99fc97b54d87",
+        "text": "アレルギー発作と風邪が併発しているため、欠席させていただきます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d9961b157216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8132416925493_d9961b157216c0d503e7_72.jpg",
+            "first_name": "岡本英孝",
+            "real_name": "岡本英孝",
+            "display_name": "Okamoto.Hidetaka",
+            "team": "T06L90YHJF8",
+            "name": "ohidewakaba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMWzG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アレルギー発作と風邪が併発しているため、欠席させていただきます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP",
+                    "U06M7SPUVEC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LK0JTYD9",
+        "type": "message",
+        "ts": "1730334789.431329",
+        "client_msg_id": "4498D931-283D-4892-ADE3-CD1416B2624E",
+        "text": "ごめん腹痛くて遅れるー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d21f96ab8f1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7974993939267_d21f96ab8f1d6c870d10_72.png",
+            "first_name": "大導寺優光",
+            "real_name": "大導寺優光",
+            "display_name": "Daidoji.Masamitsu",
+            "team": "T06L90YHJF8",
+            "name": "masamitu224",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323816.679089",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgJc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん腹痛くて遅れるー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK0RAA7M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730335232.672829",
+        "client_msg_id": "F22989A0-7A1B-410B-A941-56B1AAFB9722",
+        "text": "電車微妙に遅れてて50分間に合いません。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323806.557279",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/oUeS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車微妙に遅れてて50分間に合いません。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMLKREUU",
+        "type": "message",
+        "ts": "1730335868.823939",
+        "client_msg_id": "8BA608B5-6AFF-47C2-AC70-B44CEA36FEC2",
+        "text": "体調不良で遅刻します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "187e5c5d4848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7608428887142_187e5c5d48483957e932_72.png",
+            "first_name": "三塚夏鈴",
+            "real_name": "三塚夏鈴",
+            "display_name": "Mitsuzuka.Karin",
+            "team": "T06L90YHJF8",
+            "name": "karin.mimi0728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323826.747899",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XfXCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で遅刻します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1730336037.338599",
+        "client_msg_id": "1A2CD23D-5538-43ED-B253-28103A6EAF09",
+        "text": "寝坊で少し遅れます。申し訳ありません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VFXZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊で少し遅れます。申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1730336626.453549",
+        "client_msg_id": "C078B3A4-D0A9-4156-AD53-1E33660DBC37",
+        "text": "すみません商店街と確認があるため遅れます:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323821.977489",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P6B+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません商店街と確認があるため遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T0NBFE",
+        "type": "message",
+        "ts": "1730337928.424309",
+        "client_msg_id": "F0098855-15D1-4CE6-AD9A-ADFE9ED81BCD",
+        "text": "電車遅延しちゃったので15分くらい遅れます。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51ee0ee94008",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7918716969653_51ee0ee940082e160799_72.png",
+            "first_name": "小島快秀",
+            "real_name": "小島快秀",
+            "display_name": "Kojima.Kaishu",
+            "team": "T06L90YHJF8",
+            "name": "kaisyu0603",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323814.254609",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYjAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅延しちゃったので15分くらい遅れます。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNX1A57",
+        "type": "message",
+        "ts": "1730340703.820719",
+        "client_msg_id": "6E22135D-2C92-4CF2-9AED-6D03F8AFCA7E",
+        "text": "体調不良のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c7047e104ff9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7704209341270_c7047e104ff9716eb557_72.png",
+            "first_name": "中宮拓斗",
+            "real_name": "中宮拓斗",
+            "display_name": "Nakamiya.Takuto",
+            "team": "T06L90YHJF8",
+            "name": "abcdefgace.wmd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323826.747899",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQCi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T39SS0",
+        "type": "message",
+        "ts": "1730346546.487109",
+        "client_msg_id": "5e5eca35-bcc3-48d1-a1c4-8e3e49a01890",
+        "text": "予定があるので遅刻します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a72ac06499a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-21\/7148625253490_a72ac06499a994f2ab4d_72.jpg",
+            "first_name": "西川　慧",
+            "real_name": "西川　慧",
+            "display_name": "Nishikawa.Kei",
+            "team": "T06L90YHJF8",
+            "name": "watashihamomonga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730323826.747899",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3FD1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるので遅刻します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U070RQ0TU6A",
+        "type": "message",
+        "ts": "1724139058.287019",
+        "client_msg_id": "28A64294-74DB-44CE-970B-765768251EA5",
+        "text": "インターンが17:00まであるため、欠席させていただきます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65e8d35ea5ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-08\/7244308317812_65e8d35ea5baf3f8498c_72.png",
+            "first_name": "古川芽生",
+            "real_name": "古川芽生",
+            "display_name": "Furukawa.Mei",
+            "team": "T06L90YHJF8",
+            "name": "may.f0505.30",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724127298.998029",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFRuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンが17:00まであるため、欠席させていただきます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD8BGRG",
+        "type": "message",
+        "ts": "1724154563.377459",
+        "client_msg_id": "40fcf476-3929-4d69-bbea-ff67ca6d9d3a",
+        "text": "家庭の事情で欠席します。来週の会議も同じ理由で欠席になりそうです。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "13fb1e913b84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7720286708229_13fb1e913b84f7c24d15_72.png",
+            "first_name": "古田",
+            "real_name": "古田 真夕",
+            "display_name": "Furuta.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "furuta.mayu05ic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724127298.998029",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o1ocV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家庭の事情で欠席します。来週の会議も同じ理由で欠席になりそうです。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710T39SS0",
+        "type": "message",
+        "ts": "1724200475.265029",
+        "client_msg_id": "b7070797-6419-497f-baae-9c4e2f2e4983",
+        "text": "予定が入ってしまっているため欠席します。当日での連絡で申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a72ac06499a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-21\/7148625253490_a72ac06499a994f2ab4d_72.jpg",
+            "first_name": "西川　慧",
+            "real_name": "西川　慧",
+            "display_name": "Nishikawa.Kei",
+            "team": "T06L90YHJF8",
+            "name": "watashihamomonga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724127298.998029",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEaCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が入ってしまっているため欠席します。当日での連絡で申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1714460813.874109",
+        "client_msg_id": "305FA616-C4C7-4649-A579-675491879995",
+        "text": "ありがとう:blush:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714460374.203599",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YwJCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！タスクフォース明大前ジャックチーム長石井です。\n同じく！まだ！ジャックチーム新メンバー募集中です！！\n本祭中の活動がメインになるのですが、明大前商店街の方々、世田谷区役所の方々など、*外部の人と関わるチャンス*です！\n新規のみなさん、エントリーお待ちしております！\n\n・興味のある点、聞きたいことなどあれば気軽に私石井（ <@U06M7SU83G8>） までDMをしてください。\n・募集締め切りは6\/7(金)23：59とさせていただいておりますが、迷っている人は随時相談受け付けます。",
+        "files": [
+            {
+                "id": "F076EG237GF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAnpn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！タスクフォース明大前ジャックチーム長石井です。\n同じく！まだ！ジャックチーム新メンバー募集中です！！\n本祭中の活動がメインになるのですが、明大前商店街の方々、世田谷区役所の方々など、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "外部の人と関わるチャンス",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！\n新規のみなさん、エントリーお待ちしております！\n\n・興味のある点、聞きたいことなどあれば気軽に私石井（ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "） までDMをしてください。\n・募集締め切りは6\/7(金)23：59とさせていただいておりますが、迷っている人は随時相談受け付けます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717663413.639069",
+        "client_msg_id": "4578654f-9d28-48c9-955d-c9ddeb948236",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LXNY8KMF",
+                    "U06TU27FX08",
+                    "U06LCE9HTP0",
+                    "U06LK0FUAHZ",
+                    "U070YD778SE",
+                    "U070RQ20K8W",
+                    "U06LK0E89MH",
+                    "U070HS7MJH5",
+                    "U071B3AKPPT",
+                    "U0710T3MCUC",
+                    "U06LJ4HJLMS",
+                    "U06LK3Q6Y2W",
+                    "U06L4GLRAK1",
+                    "U06L4GH3T7H",
+                    "U06LXR4BPS5",
+                    "U06LGHETAFP"
+                ],
+                "count": 17
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U070YD778SE",
+                    "U06LK0E89MH",
+                    "U06LCE9HTP0",
+                    "U06LMH49MQU",
+                    "U06L4GLRAK1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LCUTBMU5",
+                    "U06LMH49MQU",
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

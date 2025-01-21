@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730436489.289449",
+        "client_msg_id": "198A2457-14EF-44E0-BC5E-57D39937FCC1",
+        "text": "<!channel> \n準備日みなさまお疲れさまです！！\n\n14:00〜のステージ警備備品運搬のタスクに入ってる方は、その時間に運営本部集合でお願いしますー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCJhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n準備日みなさまお疲れさまです！！\n\n14:00〜のステージ警備備品運搬のタスクに入ってる方は、その時間に運営本部集合でお願いしますー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071B3AKPPT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

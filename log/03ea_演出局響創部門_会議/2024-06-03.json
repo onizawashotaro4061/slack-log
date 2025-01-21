@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1717469024.534619",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1717469051.000000"
+        },
+        "client_msg_id": "10AE8C89-442E-433C-98BF-EB9217894102",
+        "text": "<!channel> \n会議連絡〜\n\n【時間】6\/4 (火) 局会議後\n【場所】のちほど記入\n【議題】\n1. 各種共有（意思共有）\nほかあれば追記！そのあとチーム会議\n\n引越し可能日が、今の家の引き渡し日より遅くて一時的にウィークリーマンションに住むことになりそうです、とほほ\n\nスタンプ押してね :ballot_box_with_check:\n欠席、遅刻、早退はスレッドへ :house:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCX9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n会議連絡〜\n\n【時間】6\/4 (火) 局会議後\n【場所】のちほど記入\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nほかあれば追記！そのあとチーム会議\n\n引越し可能日が、今の家の引き渡し日より遅くて一時的にウィークリーマンションに住むことになりそうです、とほほ\n\nスタンプ押してね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "house",
+                                "unicode": "1f3e0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LG63FM1B",
+                    "U06L4GKF78F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

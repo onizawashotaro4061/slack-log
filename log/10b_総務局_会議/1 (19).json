@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1713222449.756099",
+        "client_msg_id": "CDD4054A-ABD3-4612-9A74-3685EB1D1783",
+        "text": "声帯がイカれててグループワークに参加できなさそうです:man-bowing:ごめんなさい:pray:対応策を検討中です。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713157472.895459",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bCmaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "声帯がイカれててグループワークに参加できなさそうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応策を検討中です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "先輩まじやべーっす",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06LCE9NLP8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

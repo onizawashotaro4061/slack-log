@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1728292620.053419",
+        "client_msg_id": "bd9a0d2e-a91f-4b1f-a381-5d473034aeb3",
+        "text": "授業で遅れますm(__)m",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728179673.420269",
+        "parent_user_id": "U06LG6B2NA1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqUHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業で遅れますm(__)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1728294441.710509",
+        "client_msg_id": "7fdedbbb-fff1-4600-a231-f7713fbf6a00",
+        "text": "授業のため遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728179673.420269",
+        "parent_user_id": "U06LG6B2NA1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4FHZ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業のため遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

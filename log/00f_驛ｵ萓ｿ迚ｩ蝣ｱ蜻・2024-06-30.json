@@ -1,0 +1,303 @@
+[
+    {
+        "text": "<@U06LKEPTCA0>\nおつかれさまです！郵便物来てたので共有しておきます\nこれって財務局の管轄であってますかー？",
+        "files": [
+            {
+                "id": "F07AHR0246Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWG5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LKEPTCA0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！郵便物来てたので共有しておきます\nこれって財務局の管轄であってますかー？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719806403.378809",
+        "client_msg_id": "9c4cadd2-7d4a-4a44-9fe4-a768e702cf99",
+        "thread_ts": "1719806403.378809",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1719808137.213439",
+        "reply_users": [
+            "U06LKEPTCA0",
+            "U06L4GL1CUF"
+        ],
+        "replies": [
+            {
+                "user": "U06LKEPTCA0",
+                "ts": "1719807852.605149"
+            },
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1719808137.213439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "text": "<@U06LKHN3RE0> \nお疲れ様です！郵便物きてました！\nこの管轄運営ですかね、、？",
+        "files": [
+            {
+                "id": "F07AFC123FU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNYCLJV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ipaIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LKHN3RE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！郵便物きてました！\nこの管轄運営ですかね、、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719807210.838119",
+        "client_msg_id": "1D43B439-1B83-4AED-A664-51AFA47A041F",
+        "thread_ts": "1719807210.838119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1719807285.829729",
+        "reply_users": [
+            "U06LKHN3RE0"
+        ],
+        "replies": [
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1719807285.829729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1719807285.829729",
+        "client_msg_id": "DE283610-2B33-431E-A574-96B7B82E9CF2",
+        "text": "<@U06LXNYCLJV>\n運営の管轄だねー\n運営局のレターボックスに入れておいてー\nありがとう:blush:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719807210.838119",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ebk8e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNYCLJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n運営の管轄だねー\n運営局のレターボックスに入れておいてー\nありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LCE9NLP8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ぱぱ",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1719807852.605149",
+        "client_msg_id": "FCE073E4-9B4F-4AD0-B11C-03C17AE8E779",
+        "text": "<@U06L4GL1CUF> うちのです！財務局のレターボックスに入れといてもらえると助かります、ありがとう:blush:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719806403.378809",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJK5+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GL1CUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " うちのです！財務局のレターボックスに入れといてもらえると助かります、ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1719808137.213439",
+        "client_msg_id": "118950d5-9474-4e74-958c-2169b4e853bd",
+        "text": "<@U06LXNY0MHP>お願いします:bow::arrow_heading_down:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719806403.378809",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R+Wez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNY0MHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_heading_down",
+                                "unicode": "2935-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

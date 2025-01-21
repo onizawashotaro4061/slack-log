@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1715947242.490519",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1715947263.000000"
+        },
+        "client_msg_id": "6f402c1f-b397-440e-970f-c1b1a1367112",
+        "text": "<!channel>\nZoom ミーティングに参加する\n<https:\/\/us05web.zoom.us\/j\/89838829769?pwd=x9O1a3vBuUk8cq1mZxjLba1u2jHUmc.1>\n\nミーティング ID： 898 3882 9769\nパスコード： ph4VFN\n\n本日のやつです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r63n5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nZoom ミーティングに参加する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/89838829769?pwd=x9O1a3vBuUk8cq1mZxjLba1u2jHUmc.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID： 898 3882 9769\nパスコード： ph4VFN\n\n本日のやつです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1714089603.190419",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1714140635.000000"
+        },
+        "client_msg_id": "80c22578-51c9-4d7e-b676-dd42c2472a29",
+        "text": "<!channel>\n*【0427_第14回渉外局会議】*\n【時間】15:00～17:00（総会後）\n【場所】第1校舎415教室\n【議題】\n・新規合流アイスブレイク（意見交換）\n・渉外局紹介（意思共有）\n・Slackについて（意思共有）\n\n総会終わったら移動してね！ついに新規くるぞぉぉぉ\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714089603.190419",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1714197390.283059",
+        "reply_users": [
+            "U06L4GLJVKR",
+            "U06LXNL2ZS5",
+            "U06LXK3RF7B"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1714113741.713009"
+            },
+            {
+                "user": "U06LXNL2ZS5",
+                "ts": "1714184583.192299"
+            },
+            {
+                "user": "U06LXK3RF7B",
+                "ts": "1714197390.283059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tDqVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0427_第14回渉外局会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】15:00～17:00（総会後）\n【場所】第1校舎415教室\n【議題】\n・新規合流アイスブレイク（意見交換）\n・渉外局紹介（意思共有）\n・Slackについて（意思共有）\n\n総会終わったら移動してね！ついに新規くるぞぉぉぉ\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LK3K88SW",
+                    "U06M7SETDKJ",
+                    "U06LMGND6EQ",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06LXNYUX7T",
+                    "U06LK0E89MH",
+                    "U06LG610ADB"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1714113741.713009",
+        "client_msg_id": "12F527E5-E3DB-4E1F-9B15-9FA00A4C7918",
+        "text": "バイトの休みが取れなかったためお休みさせていただきます。\n私的な理由でのお休みになってしまい本当に申し訳ありません。\nよろしくお願いいたします。\nメロン許さない。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714089603.190419",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clBKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトの休みが取れなかったためお休みさせていただきます。\n私的な理由でのお休みになってしまい本当に申し訳ありません。\nよろしくお願いいたします。\nメロン許さない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "melon",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

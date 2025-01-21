@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LK3NH9MG",
+        "type": "message",
+        "ts": "1715075677.567889",
+        "client_msg_id": "4E5931A9-21F7-468B-9160-EFEB8F3AC3C1",
+        "text": "京王線が少し遅れてるので遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9006d2675710",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/8013814017552_9006d267571081f27ed6_72.png",
+            "first_name": "小川大翔",
+            "real_name": "小川大翔",
+            "display_name": "Ogawa.Yamato",
+            "team": "T06L90YHJF8",
+            "name": "daxiangxiaochuan99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714994234.545429",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+Gdx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王線が少し遅れてるので遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071M700E48",
+        "type": "message",
+        "ts": "1715075698.591149",
+        "client_msg_id": "009A47AF-1BF2-40E8-A997-02F7F6FE2575",
+        "text": "自分も京王線が遅れてるため遅刻します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5b8c50e3f718",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-05\/7529727964180_5b8c50e3f718313e1e7b_72.png",
+            "first_name": "広石陽",
+            "real_name": "広石陽",
+            "display_name": "hiroishi.hinata",
+            "team": "T06L90YHJF8",
+            "name": "itabashihouse.fan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714994234.545429",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOKte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も京王線が遅れてるため遅刻します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1732768495.415519",
+        "edited": {
+            "user": "U06M7SPUVEC",
+            "ts": "1732769090.000000"
+        },
+        "client_msg_id": "D1182CF7-49EB-4785-B0DE-9CCF1340D88F",
+        "text": "<!channel>\nリリース遅くてごめんなさい\n【第25回界隈部門会議】\n【場所】LS403\n【時間】19:00-20:40\n【議題】\n    ・協賛活動反省\n     ・りくさんコンテンツ\n　・諸連絡\n欠席、遅刻、早退は理由と共にスレッドに！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732768495.415519",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1732874224.483809",
+        "reply_users": [
+            "U06LG62T3MK",
+            "U06LK0E89MH",
+            "U070YDYBFGA"
+        ],
+        "replies": [
+            {
+                "user": "U06LG62T3MK",
+                "ts": "1732864996.741729"
+            },
+            {
+                "user": "U06LK0E89MH",
+                "ts": "1732868146.590789"
+            },
+            {
+                "user": "U070YDYBFGA",
+                "ts": "1732874224.483809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6RC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリリース遅くてごめんなさい\n【第25回界隈部門会議】\n【場所】LS403\n【時間】19:00-20:40\n【議題】\n    ・協賛活動反省"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n     ・りくさんコンテンツ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　・諸連絡\n欠席、遅刻、早退は理由と共にスレッドに！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U071B3CNHQR",
+                    "U06L4GLJVKR",
+                    "U070RQ5918W",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U06LXNL2ZS5",
+                    "U071M740R32"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06L4GLJVKR",
+                    "U071B3CNHQR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U06LXNL2ZS5",
+                    "U071M740R32"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ちっひー",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06L4GLJVKR",
+                    "U071B3CNHQR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U06LXNL2ZS5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ちひろ沸騰",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06L4GLJVKR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U06LXNL2ZS5",
+                    "U0710T4CBHS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ちひろ落単",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06L4GLJVKR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U0710T4CBHS",
+                    "U0710T3MCUC"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ちひろ激熱",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06L4GLJVKR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE"
+                ],
+                "count": 5
+            },
+            {
+                "name": "渉外_界隈",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "さすが部門長",
+                "users": [
+                    "U071B3CNHQR",
+                    "U06LGHETAFP",
+                    "U071M6YLJRE",
+                    "U070YD778SE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "部門長田島",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LGHETAFP",
+                    "U071B3CNHQR",
+                    "U071M6YLJRE",
+                    "U070YD778SE",
+                    "U0710T4CBHS"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U071M6YLJRE",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちひろ冷たい",
+                "users": [
+                    "U070YD778SE",
+                    "U06LXK3RF7B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "りく",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "りくパパ",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "とみー",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

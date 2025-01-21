@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711435504.387069",
+        "client_msg_id": "D6AA6461-91BA-467F-8DEE-E2E829D985F7",
+        "text": "<@U06LJ4HJLMS>\nおつかれさまです！\n追加の意見がきてましたー↓↓\n• スタンプ作れるようにする\n• 現状の機能でも満足はしていますが、Notionの機能も同じアプリ内で完結できれば便利かなと思います。Trelloだと誰がどれだけのタスクを行なっているのか分かりづらいなと思います。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Noxq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LJ4HJLMS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\n追加の意見がきてましたー↓↓"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "スタンプ作れるようにする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現状の機能でも満足はしていますが、Notionの機能も同じアプリ内で完結できれば便利かなと思います。Trelloだと誰がどれだけのタスクを行なっているのか分かりづらいなと思います。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1724976007.862619",
+        "client_msg_id": "ED8E8496-21B9-4A9B-B332-DB7B1F7B7927",
+        "text": "おつかれーー\n局会議が早まった関係で月曜の部門会議も14:45〜に変更するので把握お願いしやす\nまじ急でごめんねー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XbSt9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おつかれーー\n局会議が早まった関係で月曜の部門会議も14:45〜に変更するので把握お願いしやす\nまじ急でごめんねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U070YD83MD0",
+                    "U071M6X5M16"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U070YD83MD0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LXP1JG0Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LXP1JG0Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

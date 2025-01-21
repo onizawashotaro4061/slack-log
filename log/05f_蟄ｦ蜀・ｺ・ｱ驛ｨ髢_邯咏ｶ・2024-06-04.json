@@ -1,0 +1,67 @@
+[
+    {
+        "text": "<!channel> おつかれさまです\nチェック通ったんでSNS広報依頼書添付しておきます。\nMV関連で演出局が参加団体説明会で説明するのでその広報をSNSでやってほしいとのことですね\n明日の会議で分担決めるんで把握お願いします",
+        "files": [
+            {
+                "id": "F076LTB3ESF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IflKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさまです\nチェック通ったんでSNS広報依頼書添付しておきます。\nMV関連で演出局が参加団体説明会で説明するのでその広報をSNSでやってほしいとのことですね\n明日の会議で分担決めるんで把握お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717558249.937479",
+        "client_msg_id": "fcf63e67-0ea4-4895-9711-63e7bb58c2cd",
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK",
+                    "U06LXNZJBFT",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LK3HUVTL",
+                    "U06LXNZJBFT",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

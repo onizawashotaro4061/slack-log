@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1715335196.845399",
+        "client_msg_id": "DFB1C164-C25F-4451-A166-FD9D4DF2353A",
+        "text": "LS403なはず！！メディア使えません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715324369.714859",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qATdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LS403なはず！！メディア使えません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1715335228.746009",
+        "client_msg_id": "ECFA4F76-B510-458D-816B-F0BF322F78DF",
+        "text": "ごめんそうですぅー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715324369.714859",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48aLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんそうですぅー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

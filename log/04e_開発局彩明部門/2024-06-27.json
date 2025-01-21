@@ -1,0 +1,74 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。\nチーム希望ESをリリースします。締め切りは7\/5(金）23:59(厳守）でお願いいたします。\n送信先が部門のメアドなので注意事項の欄の確認お願いいたします。",
+        "files": [
+            {
+                "id": "F07A477J0UC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNWG67K",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFAiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nチーム希望ESをリリースします。締め切りは7\/5(金）23:59(厳守）でお願いいたします。\n送信先が部門のメアドなので注意事項の欄の確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719493028.582259",
+        "client_msg_id": "e9e91c9e-1263-4047-918e-faad1c3eec57",
+        "reactions": [
+            {
+                "name": "なつくん話長い",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LCE8C51U",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ167FG",
+                    "U0710SZA5J8",
+                    "U071B3GT7FT",
+                    "U070HS55A8P",
+                    "U06LCE8C51U"
+                ],
+                "count": 5
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE8C51U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

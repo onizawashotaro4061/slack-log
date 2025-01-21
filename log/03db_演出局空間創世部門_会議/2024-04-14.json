@@ -1,0 +1,343 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1713095671.061519",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1713143248.000000"
+        },
+        "client_msg_id": "707f3725-bc88-4dff-85d9-3148f42773a2",
+        "text": "*<!channel>* \n会議連絡！\n【時間】4\/15(月) 22:00～\n【場所】Zoom\n【議題】(予定)\n1.部門活動企画書について(意思共有)\n2.部門名考案(意見交換)\n3.新企画について(意見交換)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ふうか、敲き→ゆりか、たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713095671.061519",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1713184491.277139",
+        "reply_users": [
+            "U06LG6EJPE1",
+            "U06LCE9AKQW",
+            "U06M7T7SSDN",
+            "U06LMHDAZKN",
+            "U06LXNY0MHP"
+        ],
+        "replies": [
+            {
+                "user": "U06LG6EJPE1",
+                "ts": "1713143121.594459"
+            },
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1713147882.897909"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1713168444.025669"
+            },
+            {
+                "user": "U06LMHDAZKN",
+                "ts": "1713184382.306809"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1713184434.911499"
+            },
+            {
+                "user": "U06LMHDAZKN",
+                "ts": "1713184491.277139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EjlOT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】4\/15(月) 22:00～\n【場所】Zoom\n【議題】(予定)\n1.部門活動企画書について(意思共有)\n2.部門名考案(意見交換)\n3.新企画について(意見交換)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ふうか、敲き→ゆりか、たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LCE9AKQW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "餃子屋みんみん",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "死にたくない",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ふっかちゃん",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "がんばる",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK3L32MQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG6EJPE1",
+        "type": "message",
+        "ts": "1713143121.594459",
+        "client_msg_id": "3722DA87-8BFE-46C8-89B0-FCC474E2F89F",
+        "text": "バイトで遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "97632c70aa39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-09\/7708266742385_97632c70aa39d3318ddb_72.png",
+            "first_name": "信田悠里加",
+            "real_name": "信田悠里加",
+            "display_name": "Shida.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yuri.shida12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713095671.061519",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XALi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LCE9AKQW",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9AKQW",
+        "type": "message",
+        "ts": "1713147882.897909",
+        "client_msg_id": "3CC71433-14C8-40B4-BE78-104E30E4B32C",
+        "text": "バイトで遅刻します！間に合わなかったら欠席しますごめんなさい :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2472c8032b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-14\/7568192270150_2472c8032b52ec9d5a6d_72.png",
+            "first_name": "田島こむぎ",
+            "real_name": "田島こむぎ",
+            "display_name": "Tajima.Komugi",
+            "team": "T06L90YHJF8",
+            "name": "komugi.t0201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713095671.061519",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/8T5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで遅刻します！間に合わなかったら欠席しますごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "user": "U070RQ0VCP8",
+        "type": "message",
+        "ts": "1725266834.532039",
+        "client_msg_id": "BD350368-1AF6-4D4C-A7D7-9E0EFC5B3896",
+        "text": "<@U06LXNZDHFT> ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e0006047569a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106125655458_e0006047569a1f33acb3_72.png",
+            "first_name": "星野莉亜",
+            "real_name": "星野莉亜",
+            "display_name": "Hoshino.Ria",
+            "team": "T06L90YHJF8",
+            "name": "hoshino.ria.29",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725245925.097989",
+        "parent_user_id": "U06LXNZDHFT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJjL6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZDHFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNZDHFT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNZDHFT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0VCP8",
+        "type": "message",
+        "ts": "1725266892.775519",
+        "client_msg_id": "1F65BA1B-1749-4D56-BC87-E39F7B189249",
+        "text": "<@U06LXNZDHFT> こちらもありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e0006047569a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106125655458_e0006047569a1f33acb3_72.png",
+            "first_name": "星野莉亜",
+            "real_name": "星野莉亜",
+            "display_name": "Hoshino.Ria",
+            "team": "T06L90YHJF8",
+            "name": "hoshino.ria.29",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725250565.270929",
+        "parent_user_id": "U06LXNZDHFT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A45yJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZDHFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらもありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNZDHFT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNZDHFT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U070VFRCQBF> \nお疲れさまです！\n荷物届いてました\nじつぼ入り口のパインサイダーの上置いときます :relaxed: \n",
+        "files": [
+            {
+                "id": "F07KZLVMNKB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG62V1FX",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCXsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070VFRCQBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れさまです！\n荷物届いてました\nじつぼ入り口のパインサイダーの上置いときます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725333487.059209",
+        "client_msg_id": "EE09837B-3228-4B78-BAB1-01C5E3136781",
+        "thread_ts": "1725333487.059209",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725358198.565489",
+        "reply_users": [
+            "U070VFRCQBF"
+        ],
+        "replies": [
+            {
+                "user": "U070VFRCQBF",
+                "ts": "1725358198.565489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06L4GH4ETH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_かいと_うみんちゅ",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06L4GH4ETH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

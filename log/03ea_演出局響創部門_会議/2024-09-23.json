@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1727080571.971359",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1727164341.000000"
+        },
+        "client_msg_id": "2C90BFC7-4429-433B-8DB0-A455365C25D5",
+        "text": "<!channel>\n会議連絡だよ〜\n\n【時間】9\/24 (火) 局会議後\n【場所】LS405\n【議題】\n1. スライドの動かし方講座\n2. リハ期について (新規のお仕事やスケ確)\n3. 本番の役割について\n\n終わったらチーム会議！\n\nできればみんな揃いたいな :face_holding_back_tears: :face_holding_back_tears:\n欠席、遅刻、早退はスレッドへ 〜〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le6Ns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよ〜\n\n【時間】9\/24 (火) 局会議後\n【場所】LS405\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "スライドの動かし方講座"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "リハ期について (新規のお仕事やスケ確)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本番の役割について"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n終わったらチーム会議！\n\nできればみんな揃いたいな "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n欠席、遅刻、早退はスレッドへ 〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LCECJD8W",
+                    "U070Y9RH075",
+                    "U06LG63FM1B",
+                    "U06LMH4T528"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LMH4T528",
+                    "U071B3ELL7K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCECJD8W",
+                    "U070RQ4E91U",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "遅刻厳禁＿ひだ",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "べちこ",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

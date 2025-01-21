@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U06M7SBFPFS",
+        "type": "message",
+        "ts": "1725676593.108599",
+        "client_msg_id": "5C7FB72C-BB74-474F-8ACB-72A4602C3AFA",
+        "text": "<@U06LXP1JG0Z> ゆうたろうも留学先まで追いかけるよ、、、、！！！！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6eda6720b151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7988044218854_6eda6720b151f1efc218_72.png",
+            "first_name": "鬼追華奈",
+            "real_name": "鬼追華奈",
+            "display_name": "Kioi.Hana",
+            "team": "T06L90YHJF8",
+            "name": "kyomomonom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725429550.331249",
+        "parent_user_id": "U06M7SBFPFS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYctW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXP1JG0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ゆうたろうも留学先まで追いかけるよ、、、、！！！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

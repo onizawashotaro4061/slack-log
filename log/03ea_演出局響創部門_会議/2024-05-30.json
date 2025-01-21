@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06LCECJD8W",
+        "type": "message",
+        "ts": "1717064170.766719",
+        "client_msg_id": "70D07CEB-DD50-4B70-921B-A8AE46AFD1E6",
+        "text": "頭痛がひどいので欠席します。本当にごめんなさい :woman-bowing::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fec49a6469cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7204615728544_fec49a6469cda795384d_72.png",
+            "first_name": "阿部裕佳",
+            "real_name": "阿部裕佳",
+            "display_name": "Abe.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "abuyujia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716932847.724229",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHKJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "頭痛がひどいので欠席します。本当にごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

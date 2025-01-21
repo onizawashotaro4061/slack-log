@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U0710SZT2S0",
+        "type": "message",
+        "ts": "1718618688.892539",
+        "client_msg_id": "93B7C0C9-BE2A-4D22-BC50-DD963A85EC75",
+        "text": "用事があるので欠席させていただきます:sweat_drops:すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "16cbb4bcf140",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7967603719302_16cbb4bcf1400cabf9d3_72.png",
+            "first_name": "西村海明",
+            "real_name": "西村海明",
+            "display_name": "Nishimura.Kaimei",
+            "team": "T06L90YHJF8",
+            "name": "kaimei24kaimei24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718592628.332119",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aHDHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるので欠席させていただきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06L4GJ031V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

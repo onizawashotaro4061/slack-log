@@ -1,0 +1,126 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！\n\n*昨日のFSR代表者会議で決まったことをまとめてあるので各自目を通して欲しいです！*\n\n「次回までに決めること」をもとに次のタスクフォース会で話し合おうと思います。議題決めたらまた連絡します～～\n\n質問くれた人はありがとう！昨日の会議で代表者の方に渡したので、回答得られるまで少し待っててください!!",
+        "files": [
+            {
+                "id": "F0726LDELAU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH412CU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u33cU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "昨日のFSR代表者会議で決まったことをまとめてあるので各自目を通して欲しいです！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n「次回までに決めること」をもとに次のタスクフォース会で話し合おうと思います。議題決めたらまた連絡します～～\n\n質問くれた人はありがとう！昨日の会議で代表者の方に渡したので、回答得られるまで少し待っててください!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714574530.943919",
+        "edited": {
+            "user": "U06LMH412CU",
+            "ts": "1714574549.000000"
+        },
+        "client_msg_id": "aae6d706-dcef-45f1-905a-f9a3ca378860",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GH4ETH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GH4ETH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE9EH9QV",
+        "text": "<@U06LE9EH9QV>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1714574601.750799"
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1714574614.176579",
+        "client_msg_id": "54F9061D-215E-487C-9512-218E74C7F94A",
+        "text": "<@U06LE9EH9QV> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHQbO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

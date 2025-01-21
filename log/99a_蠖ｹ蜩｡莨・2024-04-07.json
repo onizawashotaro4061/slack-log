@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1712487683.528349",
+        "client_msg_id": "2B20EAF3-2F2F-47D1-8DCE-34DCFFC69126",
+        "text": "屋外ステージ部門、教室部門の企画書もお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710919057.556439",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMHn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "屋外ステージ部門、教室部門の企画書もお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1712495318.842949",
+        "client_msg_id": "72D9938B-13C1-4A8B-8FF8-1E0D1C020F12",
+        "text": "GD部門、Web部門、装飾部門、動画部門もやりたいです！時間なかったらずらしたりも考えます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710919057.556439",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qX39M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GD部門、Web部門、装飾部門、動画部門もやりたいです！時間なかったらずらしたりも考えます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

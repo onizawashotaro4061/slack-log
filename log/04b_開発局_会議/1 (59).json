@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U070Y9U9QEP",
+        "type": "message",
+        "ts": "1727769765.277299",
+        "client_msg_id": "46E9DCAC-DFBE-4B11-8F35-A26F3F17B923",
+        "text": "ゼミナビに登壇するので少し遅れます。\nすみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "24f5f7840b3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8044558128550_24f5f7840b3f9d0ec440_72.png",
+            "first_name": "山田至恩",
+            "real_name": "山田至恩",
+            "display_name": "Yamada.Shion",
+            "team": "T06L90YHJF8",
+            "name": "ymd_4on",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727671561.813909",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kWgb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミナビに登壇するので少し遅れます。\nすみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1727774447.394469",
+        "client_msg_id": "80B43484-C016-4143-A9AA-D9FF239D1AB1",
+        "text": "電車の遅れで、若干の遅刻を免れない状況にあります。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727671561.813909",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CypNy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車の遅れで、若干の遅刻を免れない状況にあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

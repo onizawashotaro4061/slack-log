@@ -1,0 +1,193 @@
+[
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1725321602.379149",
+        "client_msg_id": "cf7b3022-578e-48e8-8b54-fe16b2cb0ba1",
+        "text": "<!channel> みなさまお疲れ様です！\n今日校友連携事務室にお手伝いにきてくださる方の人数を正式に伝えました！このチャンネルに入ってくださっている人数で確定したのでここから欠席になる人は私のSlackのDMに理由付きで送っていただけると有難いです！よろしくおねがいします:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kj6Cp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みなさまお疲れ様です！\n今日校友連携事務室にお手伝いにきてくださる方の人数を正式に伝えました！このチャンネルに入ってくださっている人数で確定したのでここから欠席になる人は私のSlackのDMに理由付きで送っていただけると有難いです！よろしくおねがいします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LJRSQDC3",
+                    "U06LXR4BPS5",
+                    "U06LCUTBMU5",
+                    "U06LKEPTCA0",
+                    "U06L4GKC9N3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-要確認",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LJRSQDC3",
+                    "U06LXR4BPS5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LXR4BPS5",
+                    "U06L4GKC9N3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1725328610.114129",
+        "client_msg_id": "e6a0d2fc-b1c7-4c28-96f6-adfea4d143d4",
+        "text": "<!channel> お疲れ様です！\nすみません:sweat_drops:\n本日校友連携事務室に連絡したところ今の人数は絶対確保しないといけないため、カレンダーに予定をいれていただき、今後参加できないことがないようにお願いします！\nみなさまほんとうに感謝しています:sparkles:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GI23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\nすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日校友連携事務室に連絡したところ今の人数は絶対確保しないといけないため、カレンダーに予定をいれていただき、今後参加できないことがないようにお願いします！\nみなさまほんとうに感謝しています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U070Y9RLJTV",
+                    "U06LK3HUVTL",
+                    "U070RQ3ND38",
+                    "U070VFTLATX",
+                    "U06LXR4BPS5",
+                    "U06LY5XNLBT"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LJRSQDC3",
+                    "U070RQ0VCP8",
+                    "U06LG610ADB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3",
+                    "U06L4GM5C87"
+                ],
+                "count": 3
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LCDQ2W6A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "校友ワンチーム",
+                "users": [
+                    "U06LK0RAA7M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

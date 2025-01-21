@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1716881288.189189",
+        "client_msg_id": "1DA7E437-1C61-4ACE-8350-82FE1BCAEB8E",
+        "text": "熱出ちゃったので欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716807483.982589",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+SQe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱出ちゃったので欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1716888028.337849",
+        "client_msg_id": "A23D7A35-2194-41A9-B45C-982DA13A2CAF",
+        "text": "頭痛いので遅刻します。もしかしたら欠席するかもですすみません :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "19dc4cb2d333",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-25\/6847930732262_19dc4cb2d333d736bf3f_72.png",
+            "first_name": "中山優梨",
+            "real_name": "中山優梨",
+            "display_name": "Nakayama.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yu03240na",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716807483.982589",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eI9wD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "頭痛いので遅刻します。もしかしたら欠席するかもですすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

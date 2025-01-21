@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1715352798.490179",
+        "thread_ts": "1715352798.490179",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715353911.432839",
+        "reply_users": [
+            "U06LMH5UFC4"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH5UFC4",
+                "ts": "1715353911.432839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SUB2GY",
+                    "U06L4GKC9N3",
+                    "U06LXP05G3B",
+                    "U06M7SUULGY",
+                    "U06LK0FPH2P",
+                    "U06L4GMANMD",
+                    "U06L64D8E0P",
+                    "U06L4GLRPF1",
+                    "U06LXR4BPS5"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SUB2GY",
+                    "U06LK0FPH2P",
+                    "U06L4GMANMD",
+                    "U06L64D8E0P",
+                    "U06L4GLRPF1",
+                    "U06LXR4BPS5"
+                ],
+                "count": 6
+            },
+            {
+                "name": "かずきズキズキ",
+                "users": [
+                    "U06LK0GM50T",
+                    "U06LK0FPH2P",
+                    "U06L4GMANMD",
+                    "U06L64D8E0P",
+                    "U06L4GLRPF1",
+                    "U06LXR4BPS5"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMH5UFC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "若干不備があったので直しました。こっちでお願いします！",
+        "files": [
+            {
+                "id": "F072X6WSFFD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH5UFC4",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vtRcs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "若干不備があったので直しました。こっちでお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715353911.432839",
+        "client_msg_id": "8b68a9f3-9ee0-451c-b7cd-233d4145c888",
+        "thread_ts": "1715352798.490179",
+        "parent_user_id": "USLACKBOT"
+    }
+]

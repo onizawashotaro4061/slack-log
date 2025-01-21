@@ -1,0 +1,176 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1728520036.582179",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1728520639.000000"
+        },
+        "client_msg_id": "5e02bb7d-3474-480e-a986-45f5d55e89d6",
+        "text": "<!channel>\n*【1011_第24回校友部門会議】*\n【時間】19:00〜20:40\n【場所】食堂3階\n【議題】\n• みんなの進捗報告会（意思共有）\n• 校友歓迎スペース&ホムカ制作物制作（作業）\n継続との日程調整がどうしてもできなかった人に限り、会議の合間にリハしてもおけです。\n\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n秋は待ち遠しいと言いましたが、冬はまだ呼んでません。\n寒すぎるんで冬服調達してきます:cold_face:\n\n*欠席、遅刻の際は理由とともにスレッドに書いてください。*\n見たらスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728520036.582179",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1728638158.530159",
+        "reply_users": [
+            "U06LXNYUXS5",
+            "U06M7SUSYNL"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1728617696.199459"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1728638158.530159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWXuz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【1011_第24回校友部門会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "食堂3階"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの進捗報告会（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "校友歓迎スペース&ホムカ制作物制作（作業）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "継続との日程調整がどうしてもできなかった人に限り、会議の合間にリハしてもおけです。\n\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n秋は待ち遠しいと言いましたが、冬はまだ呼んでません。\n寒すぎるんで冬服調達してきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_face",
+                                "unicode": "1f976"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻の際は理由とともにスレッドに書いてください。",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見たらスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U070HS31CP9",
+                    "U071B3BRGN5",
+                    "U06L4J69HV5",
+                    "U06M7ST2WTA"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U070HS31CP9",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "intj-建築家-",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U070HS31CP9",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

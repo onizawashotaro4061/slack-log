@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711945177.379779",
+        "client_msg_id": "6880dacb-709e-448b-9977-fb6a413cc225",
+        "text": "<!channel>\nおつかれさまです！\nSlackチームの吉良です。\nプロフィールの役職のところに（〇〇チーム）もしくは（〇〇チーム長）と書いていただきたいです。\nお手数おかけいたしますが、よろしくお願いいたします :woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1rUc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nSlackチームの吉良です。\nプロフィールの役職のところに（〇〇チーム）もしくは（〇〇チーム長）と書いていただきたいです。\nお手数おかけいたしますが、よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U06LJ4HJLMS",
+                    "U06LK0E89MH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LJ4HJLMS",
+                    "U06LK0E89MH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

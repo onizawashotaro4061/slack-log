@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1711129115.009079",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1711129254.000000"
+        },
+        "client_msg_id": "b11fa3ed-6967-4010-ae9e-1ed3116deb95",
+        "text": "*<!channel>*\n*【0323_第8回渉外局会議】*\n【時間】10:00～17:00\n【場所】LS403\n【議題】\n・既存企画について（意見交換・決定）\n・新協賛新賛助について（意見交換・決定）\n\n*事前準備提出期限：局長結城の140渉外局のSlackのDMに3月23日(土)の朝8:00まで*\n予定していた物品協賛の局タスク化の議題なんですけど、\nそもそも抽選企画（仮）が実施するってなる→企業部門として企画を拡大する方向になる→物品協賛局タスク化する！？\nって感じの流れで、企業部門で企画について話してもらったあとなので、もうちょい話すのはあとになりそうです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711129115.009079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711129394.128269",
+        "reply_users": [
+            "U06LXK3RF7B"
+        ],
+        "replies": [
+            {
+                "user": "U06LXK3RF7B",
+                "ts": "1711129394.128269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cA1\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0323_第8回渉外局会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】10:00～17:00\n【場所】LS403\n【議題】\n・既存企画について（意見交換・決定）\n・新協賛新賛助について（意見交換・決定）\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "事前準備提出期限：局長結城の140渉外局のSlackのDMに3月23日(土)の朝8:00まで",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n予定していた物品協賛の局タスク化の議題なんですけど、\nそもそも抽選企画（仮）が実施するってなる→企業部門として企画を拡大する方向になる→物品協賛局タスク化する！？\nって感じの流れで、企業部門で企画について話してもらったあとなので、もうちょい話すのはあとになりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06L9S67MEJ",
+                    "U06LHACMG91",
+                    "U06LJRSQDC3",
+                    "U06M7SETDKJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "わらび",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1711129394.128269",
+        "client_msg_id": "9254d2bf-c25b-4f37-bc27-29c66674c1ba",
+        "text": "深夜にメンションすまぬ（なんで起きてるのりあゆうと、早く寝なね笑）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711129115.009079",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PeVpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "深夜にメンションすまぬ（なんで起きてるのりあゆうと、早く寝なね笑）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

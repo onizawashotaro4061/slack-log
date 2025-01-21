@@ -1,0 +1,149 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。\n第1回大型ビジョンチーム会議議事録をOneDriveにアップロードしました。\n場所は\n<https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!14162&amp;cid=93481e220b586380&amp;CT=1712831073126&amp;OR=ItemsView|OneDrive＞自分のファイル＞タスクフォース＞06_ビジョンチーム＞02_議事録>\nです。\n議題は\n1.  タスクフォースビジョンチーム一般企画書について（意見交換・決定）\nです。\n大変遅くなりました:woman-bowing:\n以前決定事項のみ共有しましたが、意見もまとめたので見てくださいー",
+        "files": [
+            {
+                "id": "F06TE4A4PSB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0DN10T",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJDGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n第1回大型ビジョンチーム会議議事録をOneDriveにアップロードしました。\n場所は\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!14162&cid=93481e220b586380&CT=1712831073126&OR=ItemsView",
+                                "text": "OneDrive＞自分のファイル＞タスクフォース＞06_ビジョンチーム＞02_議事録"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n議題は\n1.  タスクフォースビジョンチーム一般企画書について（意見交換・決定）\nです。\n大変遅くなりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以前決定事項のみ共有しましたが、意見もまとめたので見てくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712831282.760969",
+        "client_msg_id": "ae34b8ac-7c23-46fc-8b97-78323c3be310",
+        "thread_ts": "1712831282.760969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712833087.328259",
+        "reply_users": [
+            "U06LK0BP1TM"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1712833087.328259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW",
+                    "U06LMH5ACE8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW",
+                    "U06LMH5ACE8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW",
+                    "U06LMH5ACE8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1712833087.328259",
+        "client_msg_id": "C2622E85-CA6B-4FE8-943F-48A62F531954",
+        "text": "ありがとう:pray:\nお疲れさま！！せんきゅ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712831282.760969",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s7fOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさま！！せんきゅ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

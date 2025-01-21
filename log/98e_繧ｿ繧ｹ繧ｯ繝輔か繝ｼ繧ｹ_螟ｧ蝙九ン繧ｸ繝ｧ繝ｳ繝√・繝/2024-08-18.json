@@ -1,0 +1,61 @@
+[
+    {
+        "text": "ごめんなさいメモ私でしたかね\n表記やばいかもしれないごめんなさい確認お願いしますう",
+        "files": [
+            {
+                "id": "F07HG99MN6Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3L6B4J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhYsg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいメモ私でしたかね\n表記やばいかもしれないごめんなさい確認お願いしますう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1723991126.050139",
+        "client_msg_id": "7d784836-8f85-480b-8f5a-0e9524021647",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW",
+                    "U06LMH5ACE8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U070HS35ECX",
+                    "U070RQ0TU6A"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

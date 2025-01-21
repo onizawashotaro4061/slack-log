@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1727924578.644169",
+        "client_msg_id": "30d5336d-718d-4151-bcf6-1afdae14924b",
+        "text": "<!channel>\n垂れ幕の制作依頼書\nポスターの制作依頼書\n誰か書いてくれる人いませんか？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727924578.644169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1728024823.853929",
+        "reply_users": [
+            "U06LG62T3MK"
+        ],
+        "replies": [
+            {
+                "user": "U06LG62T3MK",
+                "ts": "1728024823.853929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qpfP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n垂れ幕の制作依頼書\nポスターの制作依頼書\n誰か書いてくれる人いませんか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

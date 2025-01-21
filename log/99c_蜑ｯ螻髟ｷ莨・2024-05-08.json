@@ -1,0 +1,455 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1715234850.611909",
+        "client_msg_id": "3866cafb-6f93-42ac-b328-f1aa5ceb5947",
+        "text": "<!channel>\nお疲れさまです。副委員長の我那覇天空です！\n5月11日(土)第2回副局長会について連絡です。\n\n【時間】\n10：00～12：00\n【場所】\n第一校舎317教室\n【議題】\n1. 新規教育について（意見交換）\n2. 継続との向き合い方（意見交換）\n3. 諸連絡（意思共有）\n【持ち物】\nパソコン\n\n*遅刻早退欠席などはスレッドにお願いします！*\nここに何か一言書こうと思ったんですけど近況とか何もなくて……今日なんか秋っぽい季節感ですね！くらいしか、、、:cry:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "reply_count": 14,
+        "reply_users_count": 14,
+        "latest_reply": "1715389135.361709",
+        "reply_users": [
+            "U06LMH9MBFW",
+            "U06LXK3RF7B",
+            "U06LMHBUVT6",
+            "U06LK0DLEQ3",
+            "U06L4GSPRHV",
+            "U06M7SBFPFS",
+            "U06LK3L6B4J",
+            "U06M7TE180Y",
+            "U06LTN26EFL",
+            "U06L4GKK0CF",
+            "U06LY8E3XA5",
+            "U06LCFWR494",
+            "U06LK3M7VGA",
+            "U06L64D8E0P"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH9MBFW",
+                "ts": "1715235743.348299"
+            },
+            {
+                "user": "U06LXK3RF7B",
+                "ts": "1715235830.584479"
+            },
+            {
+                "user": "U06LMHBUVT6",
+                "ts": "1715236467.567869"
+            },
+            {
+                "user": "U06LK0DLEQ3",
+                "ts": "1715237515.460619"
+            },
+            {
+                "user": "U06L4GSPRHV",
+                "ts": "1715268319.871269"
+            },
+            {
+                "user": "U06M7SBFPFS",
+                "ts": "1715330383.874789"
+            },
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1715338408.413649"
+            },
+            {
+                "user": "U06M7TE180Y",
+                "ts": "1715346690.163739"
+            },
+            {
+                "user": "U06LTN26EFL",
+                "ts": "1715358352.894399"
+            },
+            {
+                "user": "U06L4GKK0CF",
+                "ts": "1715385520.659119"
+            },
+            {
+                "user": "U06LY8E3XA5",
+                "ts": "1715386925.869629"
+            },
+            {
+                "user": "U06LCFWR494",
+                "ts": "1715388011.263189"
+            },
+            {
+                "user": "U06LK3M7VGA",
+                "ts": "1715388974.834979"
+            },
+            {
+                "user": "U06L64D8E0P",
+                "ts": "1715389135.361709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irtGN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです。副委員長の我那覇天空です！\n5月11日(土)第2回副局長会について連絡です。\n\n【時間】\n10：00～12：00\n【場所】\n第一校舎317教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規教育について（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "継続との向き合い方（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\nパソコン\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここに何か一言書こうと思ったんですけど近況とか何もなくて……今日なんか秋っぽい季節感ですね！くらいしか、、、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06LK3LHG0J",
+                    "U06LY8E3XA5",
+                    "U06LMH49MQU",
+                    "U06LXK3RF7B",
+                    "U06LK0DLEQ3",
+                    "U06L4GM463H",
+                    "U06LCE8L8LW",
+                    "U06LK3HUVTL",
+                    "U06LJRSQDC3",
+                    "U06L64D8E0P",
+                    "U06LK3M7VGA",
+                    "U06LK3L6B4J",
+                    "U06LCFWR494",
+                    "U06M7TE180Y",
+                    "U06L4GHLP2B"
+                ],
+                "count": 16
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06LY8E3XA5",
+                    "U06LK3LHG0J",
+                    "U06LK0DLEQ3",
+                    "U06L4GM463H",
+                    "U06LCE8L8LW",
+                    "U06LK3HUVTL",
+                    "U06LJRSQDC3",
+                    "U06L4GKK0CF",
+                    "U06M7TE180Y"
+                ],
+                "count": 10
+            },
+            {
+                "name": "そらganaha_sky",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06LY8E3XA5",
+                    "U06LK3LHG0J",
+                    "U06LK0DLEQ3",
+                    "U06L4GM463H",
+                    "U06LCE8L8LW",
+                    "U06LK3HUVTL",
+                    "U06LJRSQDC3",
+                    "U06LMHBUVT6",
+                    "U06M7TE180Y"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06LXK3RF7B",
+                    "U06LMHBUVT6",
+                    "U06LK3L6B4J",
+                    "U06M7TE180Y"
+                ],
+                "count": 5
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LTN26EFL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LK3HUVTL",
+                    "U06LY8E3XA5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "maple_leaf",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LY8E3XA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1715235743.348299",
+        "client_msg_id": "B0F3BC8F-02D7-4D7F-AF27-FB303DBA37F5",
+        "text": "タスクフォース会のため欠席します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9SRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タスクフォース会のため欠席します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1715235830.584479",
+        "client_msg_id": "f4e15d90-3371-49e2-b894-546ffb7d83c9",
+        "text": "帰省するため欠席します。スミマセン、、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UO2x\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "帰省するため欠席します。スミマセン、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMHBUVT6",
+        "type": "message",
+        "ts": "1715236467.567869",
+        "client_msg_id": "DB33FCDA-CF02-485F-B912-D24F6794CE8C",
+        "text": "用事があるので欠席します、ごめんなさい:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51fad438f0e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-31\/7656365925237_51fad438f0e4f464f7b0_72.png",
+            "first_name": "佐藤里帆",
+            "real_name": "佐藤里帆",
+            "display_name": "Sato.Riho",
+            "team": "T06L90YHJF8",
+            "name": "riho500m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WaRiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるので欠席します、ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DLEQ3",
+        "type": "message",
+        "ts": "1715237515.460619",
+        "client_msg_id": "1908CC31-82F7-42E4-86D7-22E936A278C2",
+        "text": "私用のため欠席しますすみません :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b2a12254a03d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-06\/6776772180784_b2a12254a03d3d8a656f_72.png",
+            "first_name": "立岩百叶",
+            "real_name": "立岩百叶",
+            "display_name": "Tateiwa.Momoka",
+            "team": "T06L90YHJF8",
+            "name": "snowwhite1614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRJ\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席しますすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

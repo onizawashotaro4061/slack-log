@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1727614338.189799",
+        "client_msg_id": "B16A8B0C-1D13-4D1A-A2DA-4B51045BAED7",
+        "text": "しめかえし！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Riqr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06L4GH3T7H"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1727659898.432889",
+        "client_msg_id": "8A30E6C7-973B-4EDE-A511-FA41092041C4",
+        "text": "印刷かりあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhPFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印刷かりあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "かっこいい",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

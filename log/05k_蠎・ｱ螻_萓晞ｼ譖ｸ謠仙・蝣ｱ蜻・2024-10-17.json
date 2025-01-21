@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06LCE9EA3G",
+        "type": "message",
+        "ts": "1729174245.740249",
+        "client_msg_id": "55682a49-9981-4a2e-a3eb-5a3e2a0887c1",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\n夜分遅くに失礼します。\n渉外局企業部門継続2年の出口です。\n只今企業ブースSNS依頼を提出いたしました。\n提出が遅れ本当に申し訳ございません。ご確認いただけますと幸いです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "43d08710c2dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8042093764679_43d08710c2dd2722da43_72.png",
+            "first_name": "出口明輝",
+            "real_name": "出口明輝",
+            "display_name": "Deguchi.Haruki",
+            "team": "T06L90YHJF8",
+            "name": "haruki.deguchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729174245.740249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1729302728.628419",
+        "reply_users": [
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1729302728.628419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEsF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに失礼します。\n渉外局企業部門継続2年の出口です。\n只今企業ブースSNS依頼を提出いたしました。\n提出が遅れ本当に申し訳ございません。ご確認いただけますと幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

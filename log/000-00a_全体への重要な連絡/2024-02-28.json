@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709175962.537629",
+        "client_msg_id": "94D603B3-7E66-443D-957E-646817C40594",
+        "text": "変更点を連絡します！\nチームβを志望してくれる人が予想以上に多いので、チームβの定員も8名程度としたいと思います。γはまだまだ受付中です。\nよろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709013105.492979",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SnAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "変更点を連絡します！\nチームβを志望してくれる人が予想以上に多いので、チームβの定員も8名程度としたいと思います。γはまだまだ受付中です。\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709176117.972669",
+        "client_msg_id": "9F08BD55-D107-4692-A6BF-932C30CB80BF",
+        "text": "局間のバランスとか志望理由とかでメンバーは決定していきたいと思います。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709013105.492979",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PtQn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "局間のバランスとか志望理由とかでメンバーは決定していきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

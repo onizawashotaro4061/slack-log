@@ -1,0 +1,378 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1730530837.988499",
+        "client_msg_id": "81E5772B-F7FA-42AB-A697-7CAF3231D74A",
+        "text": "↑ <!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oMle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \n総合インフィブースにずっと置いてあるタオルです！持ち主の人は国交ラウンジに置いてあるので取ってってください！",
+        "files": [
+            {
+                "id": "F07UDGUGS1L",
+                "created": 1730539246,
+                "timestamp": 1730539246,
+                "name": "IMG_1426.jpg",
+                "title": "IMG_1426",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U06LCE8L8LW",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 1689327,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UDGUGS1L\/img_1426.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UDGUGS1L\/download\/img_1426.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_64.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_80.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_360.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_480.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_160.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_720.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_800.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_960.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UDGUGS1L-dcaca2564f\/img_1426_1024.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSzcyeXbk9zwKgtYlaPJGWBpLpt8wQdEFSW5KxMR60kNjjnfx9Ko34w6kj5vWr7fLKOeoqnqA+6e+avoR1Kq9KWmDgUuakot54LMevJqWBs26k9WcnHtUJieXCAgA9fpU8YGRx8vQUogxxfM2Se+Kgv+UBHTNTuo8zapxVe9wIgM55FWQU6KSipLNQEKpHdv0FPQDaMYIqNuTn1pw2iM9Cf1ppWJbGYLOTVe7B2jrwasKdo3Zxiq1xuIBz8vpTk+goohWNmGQKXyX9KVHZBgCnec\/pUln\/\/2Q==",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8L8LW\/F07UDGUGS1L\/img_1426.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07UDGUGS1L-66744d640f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8L8LW",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4OwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "総合インフィブースにずっと置いてあるタオルです！持ち主の人は国交ラウンジに置いてあるので取ってってください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730539258.084439",
+        "client_msg_id": "163EA2AD-3D39-4D3D-B435-B5D1867D841A",
+        "thread_ts": "1730539258.084439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730543649.459079",
+        "reply_users": [
+            "U06LMH412CU"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH412CU",
+                "ts": "1730543649.459079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1730543649.459079",
+        "client_msg_id": "f14dafa0-0d2c-4a54-b8b0-37dda0761083",
+        "text": "ぼくですごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730539258.084439",
+        "parent_user_id": "U06LCE8L8LW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9g9bA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぼくですごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1730590269.409149",
+        "edited": {
+            "user": "U06LK3HUVTL",
+            "ts": "1730614309.000000"
+        },
+        "client_msg_id": "89dd6883-3fe3-43c9-96b0-b10a53446c05",
+        "text": "<!channel>\nお疲れ様です！インフォメーションブース統括の川口です！\n来場者対応方法について3点共有です！\n\n・朝礼でも連絡があった通り、*Meidaisai Championshipの屋外ステージ部門は無くなってる*ので来場者に聞かれたとき気をつけてください！\n・開発局受験生企画の「今日、明治好きになりました」には*大学ガイドブックや学部別パンフレットも用意がある*ので、守衛所横ではなく企画を案内してOKです！（昨日私が間違えて伝えちゃった子いたらごめんね泣）\n・今日と明日は*校内のATM稼働していない*ので注意です！校外のATMをご案内してください！\n\n昨日は雨の中色々と対応していただき本当にありがとうございました:relieved:今日も笑顔で対応頑張りましょー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHyJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！インフォメーションブース統括の川口です！\n来場者対応方法について3点共有です！\n\n・朝礼でも連絡があった通り、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Meidaisai Championshipの屋外ステージ部門は無くなってる",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ので来場者に聞かれたとき気をつけてください！\n・開発局受験生企画の「今日、明治好きになりました」には"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大学ガイドブックや学部別パンフレットも用意がある",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ので、守衛所横ではなく企画を案内してOKです！（昨日私が間違えて伝えちゃった子いたらごめんね泣）\n・今日と明日は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "校内のATM稼働していない",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ので注意です！校外のATMをご案内してください！\n\n昨日は雨の中色々と対応していただき本当にありがとうございました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日も笑顔で対応頑張りましょー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK3M7VGA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LG60SFEH",
+                    "U06LE9EH9QV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "聖母-みちるさん",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LE9EH9QV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "みちる",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730594922.280349",
+        "client_msg_id": "1cb56994-ae87-4ef1-8c8c-71b1d96ebdad",
+        "text": "<!channel>\nお疲れ様です！\n\n*パンフレット管理の本部が国交ラウンジから第一校舎401教室に変更になりました。*\n国交ラウンジにおいてあるパンフレットは、映画企画が裁断済みのものになるので、持ち出すことのないよう気をつけてください。パンフレットが必要な場合は、Zelloで連絡か401に来てください。\nお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EF+Om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パンフレット管理の本部が国交ラウンジから第一校舎401教室に変更になりました。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n国交ラウンジにおいてあるパンフレットは、映画企画が裁断済みのものになるので、持ち出すことのないよう気をつけてください。パンフレットが必要な場合は、Zelloで連絡か401に来てください。\nお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06M7SSUS0G",
+                    "U06LXNZFWDP",
+                    "U06LH4PDAQ3",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1716284708.220929",
+        "client_msg_id": "7B9AA41F-420F-4FC7-A9B1-171C5BF5FF45",
+        "text": "電車寝過ごしたんで10分程度遅れます\nすいません :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716163201.558019",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftjHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車寝過ごしたんで10分程度遅れます\nすいません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "angry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG610ADB",
+        "type": "message",
+        "ts": "1716285202.251889",
+        "client_msg_id": "B5CE4751-C62A-4744-A6F3-79927FD0761A",
+        "text": "電車間違えてしまって10分ほど遅れます。本当にすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788dd27e8352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7946327606705_788dd27e83521855f665_72.png",
+            "first_name": "鈴木来哉",
+            "real_name": "鈴木来哉",
+            "display_name": "Suzuki.Raiya",
+            "team": "T06L90YHJF8",
+            "name": "rrraai1214",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716163201.558019",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/6IA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車間違えてしまって10分ほど遅れます。本当にすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK0RAA7M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

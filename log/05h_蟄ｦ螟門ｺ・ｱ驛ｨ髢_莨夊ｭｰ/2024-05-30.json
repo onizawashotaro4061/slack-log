@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1717059148.675299",
+        "edited": {
+            "user": "U06TU27FX08",
+            "ts": "1717059169.000000"
+        },
+        "client_msg_id": "FAF655D9-9CDF-4E46-B340-18AA2BD9B5F2",
+        "text": "バイトで怒られたので遅刻します5分待って発表 :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717030888.591599",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoE5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで怒られたので遅刻します5分待って発表 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1717059719.539379",
+        "edited": {
+            "user": "U06LY5XNLBT",
+            "ts": "1717059816.000000"
+        },
+        "client_msg_id": "07F6DA5A-05BD-4808-84CE-B51BA81C153F",
+        "text": "<@U06TU27FX08>\nしぬ 強く生きて",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717030888.591599",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4HPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TU27FX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nしぬ 強く生きて"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

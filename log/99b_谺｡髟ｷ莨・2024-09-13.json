@@ -1,0 +1,772 @@
+[
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1726216083.952489",
+        "client_msg_id": "7B4D200F-1E72-4F34-A652-5D9F51E39298",
+        "text": "スケジュールが出る前から予定してた旅行があるのでお休みします、ごめんなさい:disappointed:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r29NB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スケジュールが出る前から予定してた旅行があるのでお休みします、ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06L4GKC9N3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP",
+                    "U06LK3ZBCN6",
+                    "U06LXNYUX7T",
+                    "U06LCEA6J1L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1726272426.194239",
+        "client_msg_id": "83FDA3F2-D209-44D4-B52E-9039520BCAFE",
+        "text": "お弁当作ってたのでちょっとだけ遅刻します\n大変申し訳ございません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/J3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お弁当作ってたのでちょっとだけ遅刻します\n大変申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GKC9N3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP",
+                    "U06L4GL1CUF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GM5C87",
+                    "U06LCEA6J1L"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1726273842.976869",
+        "edited": {
+            "user": "U06LXNZDHFT",
+            "ts": "1726273856.000000"
+        },
+        "client_msg_id": "A484B108-5C2B-49D9-9AF1-7EC7FF4169A1",
+        "text": "腹痛により15分程度遅れます:bow:\n申し訳ございません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3inO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛により15分程度遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申し訳ございません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GM5C87",
+                    "U06LCEA6J1L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1726274265.023599",
+        "client_msg_id": "BE2FFEBB-AE0C-4E6B-A302-6B169E0EAD27",
+        "text": "LS403ですー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bynm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LS403ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNYUX7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1726274331.532619",
+        "client_msg_id": "48A155A2-C023-4580-8E7F-9965673DC39B",
+        "text": "がくじに用があるので少し遅れます :woman-bowing: \nすみません :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "505ccc9859c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7147585741537_505ccc9859c9433912a5_72.png",
+            "first_name": "木村優里",
+            "real_name": "木村優里",
+            "display_name": "Kimura.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yuri.0903star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4u+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "がくじに用があるので少し遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GM5C87",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LXNY0MHP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1726274367.149909",
+        "edited": {
+            "user": "U06L4GKC9N3",
+            "ts": "1726275683.000000"
+        },
+        "client_msg_id": "F5CD683D-F004-4940-B164-B709AD28D270",
+        "text": "道が渋滞しているので、15分程度遅れます:bow:\n大変申し訳ございません:bow:\n無理でした",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNSIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "道が渋滞しているので、15分程度遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大変申し訳ございません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n無理でした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LE9EH9QV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GM5C87",
+                    "U06LCEA6J1L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1726274468.421559",
+        "client_msg_id": "AEAAF60E-6A19-4483-8844-09EE13FC6926",
+        "text": "ゆっくり準備しすぎました。\n10分遅れます :man-bowing: \n申し訳ないです :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BI4MV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゆっくり準備しすぎました。\n10分遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n申し訳ないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GM5C87",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06L4GL1CUF"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK0FUAHZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06L4GL1CUF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1726275136.615519",
+        "client_msg_id": "2CB41960-18E6-49F0-9DA6-B170EA724B71",
+        "text": "LUUP充電が途中で切れまして、今手押しでして15分遅れます申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NgUvM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LUUP充電が途中で切れまして、今手押しでして15分遅れます申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おい笑える",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ",
+                    "U06LXNYUX7T",
+                    "U06LXNY0MHP"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1726275297.229099",
+        "client_msg_id": "972375EF-BEDB-477B-B255-6D450213DF84",
+        "text": "自分も少し遅れます！すみません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjTgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も少し遅れます！すみません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GL1CUF",
+                    "U06L4GKC9N3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GL1CUF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1726275480.352919",
+        "client_msg_id": "BBC3BD49-441B-4D26-8747-D1173D802B97",
+        "text": "お疲れ様です！\n電車少し止まって乗り換え乗れなかったので5分程度遅れます :bow::skin-tone-2: 申し訳ありません :bow::skin-tone-2: :bow::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726194810.149429",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9OHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n電車少し止まって乗り換え乗れなかったので5分程度遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " 申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06L4GKC9N3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

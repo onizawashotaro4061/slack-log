@@ -1,0 +1,1259 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06L2CSPXV5",
+        "text": "<@U06L2CSPXV5>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767072.558019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "inviter": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1729767085.585839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MPZ34",
+        "text": "<@U06LK3MPZ34>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767184.667999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNY0MHP",
+        "text": "<@U06LXNY0MHP>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767196.015109"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HS28L15",
+        "text": "<@U070HS28L15>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767197.127919"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNYCLJV",
+        "text": "<@U06LXNYCLJV>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767200.092419"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG6B2NA1",
+        "text": "<@U06LG6B2NA1>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767203.761579"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767207.507039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH5ACE8",
+        "text": "<@U06LMH5ACE8>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767208.019469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3CV89X",
+        "text": "<@U071B3CV89X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767208.948519"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710SZCKS8",
+        "text": "<@U0710SZCKS8>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767210.895999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9Q9151",
+        "text": "<@U070Y9Q9151>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767213.063879"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710T39SS0",
+        "text": "<@U0710T39SS0>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767213.907129"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070VFRCQBF",
+        "text": "<@U070VFRCQBF>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767213.988329"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE8C51U",
+        "text": "<@U06LCE8C51U>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767264.799079"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HS3T3D5",
+        "text": "<@U070HS3T3D5>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767306.982949"
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729767324.756889",
+        "client_msg_id": "2e4cc93f-6cfc-4ee2-bbe5-6461a14551f9",
+        "text": "どこからか声が聞こえる…。\n「雄大なる氷の精霊――」\n何かはわからないが、そろそろ起きよう。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5LoPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこからか声が聞こえる…。\n「雄大なる氷の精霊――」\n何かはわからないが、そろそろ起きよう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3GT7FT",
+        "text": "<@U071B3GT7FT>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767329.726489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMGM3CG4",
+        "text": "<@U06LMGM3CG4>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729767372.428679"
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729767539.208519",
+        "client_msg_id": "4AFE5E71-2E63-4BC6-BD6B-1DDE8FA1C95F",
+        "text": "目が覚めたら、異世界の知らない王国にいた。\nそこで、「別世界へ行けるアイテムが迷宮にある」という噂が聞こえてきた。\nそのアイテムを手に入れれば、元の世界へ戻れるかもしれない！\n魔術を覚えて、装備を整えて、いざ、迷宮へ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02ase",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "目が覚めたら、異世界の知らない王国にいた。\nそこで、「別世界へ行けるアイテムが迷宮にある」という噂が聞こえてきた。\nそのアイテムを手に入れれば、元の世界へ戻れるかもしれない！\n魔術を覚えて、装備を整えて、いざ、迷宮へ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729767557.408339",
+        "client_msg_id": "796AB108-67E4-4425-8F54-6DCCAECECB2C",
+        "text": "迷宮に到着した。\n少し進むと、目の前に大きなスライムが現れた！\n街で覚えた氷の魔術でスライムを倒して、宝箱をゲットした！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrqV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "迷宮に到着した。\n少し進むと、目の前に大きなスライムが現れた！\n街で覚えた氷の魔術でスライムを倒して、宝箱をゲットした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729767583.105159",
+        "client_msg_id": "C92B0D41-11B5-403A-8F2C-2D9E7BE74092",
+        "text": "しかし、宝箱には謎の魔法がかかっているようだ。\n問題を解いて宝箱を開けよう！\n \n和泉ラーニングスクエアLS506教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zonfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しかし、宝箱には謎の魔法がかかっているようだ。\n問題を解いて宝箱を開けよう！\n \n和泉ラーニングスクエアLS506教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07SWPGSD1V",
+                "created": 1729767743,
+                "timestamp": 1729767743,
+                "name": "IMG_2543.png",
+                "title": "IMG_2543",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 1235206,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07SWPGSD1V\/img_2543.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07SWPGSD1V\/download\/img_2543.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWPGSD1V-ee046001cf\/img_2543_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbQJ54\/WjLeo\/KlHuuPxpOPT9aLIBQRml3Cmggn7uPxp2BQBGx+fpzQacUB9aRoxjvQA2Nt3\/6qfSRqASBUmKAG5HrRuUH71GMZyxpMqf4\/1oAfij8aQDHeigD\/2Q==",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07SWPGSD1V\/img_2543.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07SWPGSD1V-f1af27381b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729767749.872129",
+        "client_msg_id": "BA6BBB14-5BF5-4DF0-9197-1F8B5F66A01C"
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729767876.528979",
+        "client_msg_id": "BCEC82C0-E229-4EC4-8848-E9D89D5B78F1",
+        "text": "問題が現れた！\nヒントがほしい人は和泉ラーニングスクエアLS302教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBf5+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "問題が現れた！\nヒントがほしい人は和泉ラーニングスクエアLS302教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07TBAP26D8",
+                "created": 1729768019,
+                "timestamp": 1729768019,
+                "name": "IMG_2544.png",
+                "title": "IMG_2544",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 1346461,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBAP26D8\/img_2544.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBAP26D8\/download\/img_2544.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBAP26D8-424f965a16\/img_2544_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbRIOeMfjR8wHal49aMj+9QAgIz70uaMUuKAIwT3wfpSd+n6CkAIJ4PPtRyex\/KgBd5xwTRvPv+VMSIheTTvL+tMZNRTMHHLn9KcGX+8PzpCDvRS0UAf\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07TBAP26D8\/img_2544.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07TBAP26D8-234cb30eb4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729768024.122299",
+        "client_msg_id": "5D906010-3A4A-47B6-A737-67B3EDA06E1D"
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729768087.113899",
+        "client_msg_id": "6F39E2FF-2D4B-41CB-98DB-254CEB9130C0",
+        "text": "正解！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pMQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正解！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729768090.623869",
+        "client_msg_id": "019A07D3-F089-4CCF-AABD-5BBB473EBEE3",
+        "text": "宝箱が開いた！\n中から謎の魔導書が出てきた。\n強い魔術が書かれていそうだ。しかし、固く閉ざされていて開かない！\nとりあえず先に進もう。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/dd6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "宝箱が開いた！\n中から謎の魔導書が出てきた。\n強い魔術が書かれていそうだ。しかし、固く閉ざされていて開かない！\nとりあえず先に進もう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729768100.253559",
+        "client_msg_id": "87AD3DC7-8F04-4FC4-9C70-1FA2E60F5124",
+        "text": "歩いていると、誰かが住んでいたような部屋を見つけた。\n何かないか探してみると、魔術の威力を上げる杖を見つけた！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qArAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "歩いていると、誰かが住んでいたような部屋を見つけた。\n何かないか探してみると、魔術の威力を上げる杖を見つけた！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729768132.864119",
+        "client_msg_id": "93520917-2132-42A6-B3DE-8937F7130B6E",
+        "text": "しかし、杖は封印されているようだ。\n封印を解くために謎を解こう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7J4vj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しかし、杖は封印されているようだ。\n封印を解くために謎を解こう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729768155.179789",
+        "client_msg_id": "C70E7915-9DB4-48BF-9B6D-8A96ED81A398",
+        "text": "メディア棟M516教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiL4b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メディア棟M516教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07TBB83X34",
+                "created": 1729768311,
+                "timestamp": 1729768311,
+                "name": "スクリーンショット 2024-10-24 201128.png",
+                "title": "スクリーンショット 2024-10-24 201128.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 551948,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBB83X34\/____________________________2024-10-24_201128.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBB83X34\/download\/____________________________2024-10-24_201128.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 533,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBB83X34-da2fe9053d\/____________________________2024-10-24_201128_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 683,
+                "original_w": 1536,
+                "original_h": 1024,
+                "thumb_tiny": "AwAgADB5sLdWwQ34E0q6fbsMgN+Jq4ccA5\/Km\/L6nn60DK39mwejf99Uh06Hsrf99VZIGD149jShRjrx170AVf7Oh7q3\/fVH9nQ+jf8AfVW\/LGf\/ANdG0hfvc4oARmwe5OOmaTzARn+tVv7Rg4yW\/Kj+0Lb0P\/fNAFnzPY59KDIB2z+NVTqFuecEn6Ufb7bH3f8Ax2gRcDZ7H86OShyMcetVP7Qt\/Q5+lA1G3AwMj8KAP\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07TBB83X34\/____________________________2024-10-24_201128.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07TBB83X34-1441986669",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729768319.265519",
+        "client_msg_id": "5518049a-1120-44be-b0be-9e0a4a07cc3d"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07U05EURQ8",
+                "created": 1729768434,
+                "timestamp": 1729768434,
+                "name": "スクリーンショット 2024-10-24 201339.png",
+                "title": "スクリーンショット 2024-10-24 201339.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 821133,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U05EURQ8\/____________________________2024-10-24_201339.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U05EURQ8\/download\/____________________________2024-10-24_201339.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 207,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 276,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 414,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 460,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 552,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U05EURQ8-780c663f25\/____________________________2024-10-24_201339_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 588,
+                "original_w": 1279,
+                "original_h": 735,
+                "thumb_tiny": "AwAbADC8wbPDYFGWAGQCfrTu1RuxH\/1qYxwPHzAA+xprNnGDgH2puSRySc9RijLHnke2KQXDJHfIHX1pwYHv+tC5780pRAv3R+VO47jx0prD5T9KSjNArDCQG5I\/GnAf7wpG6H6UZO3qaAsPHTrSn7tRZO0cn86BnI5PX1pCP\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07U05EURQ8\/____________________________2024-10-24_201339.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07U05EURQ8-d5f915ba55",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729768442.702869",
+        "client_msg_id": "dd4303d6-5447-4c4b-94c3-49f651d8ad96"
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1729768505.943849",
+        "client_msg_id": "C20045A9-8448-4D65-A77F-AA634868CB9F",
+        "text": "正解！\n威力を倍増してくれる杖を手に入れた！\nこれで強い敵にも立ち向かえる。\n\n奥に進んでいくと、大きな門が見えてきた。\n門を開けると、中から熱風が押し寄せてきた！\n\nここはボス部屋だ！中には炎をまとった大蛇がいた！\nさっき手に入れた威力を倍増してくれる杖で攻撃する！\n \nしかし、大蛇はまとった炎でバリアを作り、攻撃を防御された…。\nん？よく見ると、バリアに謎が書いてある！\nあの謎を解けば、バリアを壊せるかもしれない！\n \nメディア棟M405教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zik8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正解！\n威力を倍増してくれる杖を手に入れた！\nこれで強い敵にも立ち向かえる。\n\n奥に進んでいくと、大きな門が見えてきた。\n門を開けると、中から熱風が押し寄せてきた！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nここはボス部屋だ！中には炎をまとった大蛇がいた！\nさっき手に入れた威力を倍増してくれる杖で攻撃する！\n \nしかし、大蛇はまとった炎でバリアを作り、攻撃を防御された…。\nん？よく見ると、バリアに謎が書いてある！\nあの謎を解けば、バリアを壊せるかもしれない！\n \nメディア棟M405教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07TBBUJH26",
+                "created": 1729768624,
+                "timestamp": 1729768624,
+                "name": "スクリーンショット 2024-10-24 201654.png",
+                "title": "スクリーンショット 2024-10-24 201654.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 756095,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBBUJH26\/____________________________2024-10-24_201654.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07TBBUJH26\/download\/____________________________2024-10-24_201654.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 413,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 459,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 550,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07TBBUJH26-06907b89e5\/____________________________2024-10-24_201654_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 587,
+                "original_w": 1275,
+                "original_h": 731,
+                "thumb_tiny": "AwAbADC8wYHK96XP+w1KDUZD7yQ5wf0oGOzn+FhSMDkYyB7ClcgfxkE9AKRd2DuJ56e1MLjcMPUj6c0ZGcZGadHkAbiTx3pHxnkZouO44Hmk2\/vA2eMYxmlxRigLCFQT94g47GlA2jJYn6mkKjFIVGKCbDU2AglhwPWnHB980uPlowKAP\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07TBBUJH26\/____________________________2024-10-24_201654.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07TBBUJH26-b62d5e72b0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729768631.674919",
+        "client_msg_id": "37c0e370-26af-43b5-972f-cb66f9f341df"
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1729768730.908309",
+        "client_msg_id": "2286925F-11B5-48D3-8960-E1C9D9440CA7",
+        "text": "ヒントがほしい人は第一校舎306教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYg2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ヒントがほしい人は第一校舎306教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9U9QEP",
+        "text": "<@U070Y9U9QEP>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1729768858.915669"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07T8H2D6CV",
+                "created": 1729769194,
+                "timestamp": 1729769194,
+                "name": "スクリーンショット 2024-10-24 201734.png",
+                "title": "スクリーンショット 2024-10-24 201734.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 810934,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07T8H2D6CV\/____________________________2024-10-24_201734.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07T8H2D6CV\/download\/____________________________2024-10-24_201734.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 409,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 454,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 545,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07T8H2D6CV-1b3c001c8d\/____________________________2024-10-24_201734_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 581,
+                "original_w": 1268,
+                "original_h": 720,
+                "thumb_tiny": "AwAbADC8wYHK80pP+y1KDUYEgcndlc5\/+tQMeMHqCPrTXHTBPPoKGJyQrkn044obdhcE8HnHemFxnI55IHXI5pQyn+IfnT92Eyx+uajXbsXIB4ouO5KDTQAHZs9feikoCwfJnGWz9TQQCq\/1pD+NA7UE2DAEW0YFJGv7sA04k4HNOU8mkB\/\/2Q==",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07T8H2D6CV\/____________________________2024-10-24_201734.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07T8H2D6CV-a47e541a7a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729769200.412419",
+        "client_msg_id": "8410838c-d935-4421-86c7-b96d50537360"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07U06Y24D6",
+                "created": 1729769228,
+                "timestamp": 1729769228,
+                "name": "スクリーンショット 2024-10-24 201751.png",
+                "title": "スクリーンショット 2024-10-24 201751.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 811191,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U06Y24D6\/____________________________2024-10-24_201751.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U06Y24D6\/download\/____________________________2024-10-24_201751.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 269,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 404,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 449,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 539,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U06Y24D6-1d3df24d41\/____________________________2024-10-24_201751_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 575,
+                "original_w": 1276,
+                "original_h": 716,
+                "thumb_tiny": "AwAaADC8Qc5BAzTselIWAxkL+JpAyLkjaPXFMYEH0pu1j2IHtUm5fUUnmL6j86AuR7WHQE+xpTwMnipN6\/3hSORs7Gi4XEboOKZjjpxTsn1oyfU0WHYaEYjlfpzTgh6kZ9OaaxO08npSbjtHJ7UCsP28fcP50pGExjA+tNBO0cmjJ9aQj\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07U06Y24D6\/____________________________2024-10-24_201751.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07U06Y24D6-e89ccb97de",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729769234.621209",
+        "client_msg_id": "073d97fe-f8ac-44aa-820a-29ee4e3778e1"
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1729769297.343809",
+        "client_msg_id": "3811B529-18B6-473F-9700-793B525724A3",
+        "text": "正解！\nバリアを壊せた！攻撃は効いているようだ！\nしかし、大蛇の反撃で頭がクラクラする…。\n \nまずい、攻撃がくる…！\n\nすると、最初に見つけた魔道書が突然開き、シールドを張って守ってくれた！\n開かれた魔導書を見ると謎が書いてある。\nこの謎を解いたら、魔導書の魔術を使えるかもしれない！\n \n第一校舎313教室へ行って、キーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1RFe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正解！\nバリアを壊せた！攻撃は効いているようだ！\nしかし、大蛇の反撃で頭がクラクラする…。\n \nまずい、攻撃がくる…！\n\nすると、最初に見つけた魔道書が突然開き、シールドを張って守ってくれた！\n開かれた魔導書を見ると謎が書いてある。\nこの謎を解いたら、魔導書の魔術を使えるかもしれない！\n \n第一校舎313教室へ行って、キーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07SWSVS0BH",
+                "created": 1729769455,
+                "timestamp": 1729769455,
+                "name": "スクリーンショット 2024-10-24 203041.png",
+                "title": "スクリーンショット 2024-10-24 203041.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LCE8C51U",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 801785,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07SWSVS0BH\/____________________________2024-10-24_203041.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07SWSVS0BH\/download\/____________________________2024-10-24_203041.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 406,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 451,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 542,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07SWSVS0BH-4dfff7218d\/____________________________2024-10-24_203041_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 578,
+                "original_w": 1267,
+                "original_h": 715,
+                "thumb_tiny": "AwAbADC6wfcSG47Cg7t3UYp\/aoiu3Jzx9TQMcw772H5UgwAMsxz601ic4DD8f\/10KCc8\/rQArH05A6+tAZT3H504DBzn9aVgNnIFO4XFzxSN90\/SkpKLDsNP3iKcnA5pr\/dP0pCfloFYk3p\/fX86XIKdc1Xydo5pQTuHJ60hH\/\/Z",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LCE8C51U\/F07SWSVS0BH\/____________________________2024-10-24_203041.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07SWSVS0BH-e6c0533110",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE8C51U",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1729769495.186459",
+        "client_msg_id": "6d08083c-96c2-4eb3-846c-3831fb6bdbed"
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1729769654.817589",
+        "client_msg_id": "53FDE3E0-9613-48E2-94FC-725203422C04",
+        "text": "正解！\n \n魔導書に文字が浮かび上がった。ここに書かれているのは…。\n「雄大なる氷の精霊にして天を潤わせし氷帝よ！」\nそう唱えると、魔導書は魔術を放ち大蛇を凍らせた。\n \n大蛇に勝てたようだ！\n勝った安心感からか、だんだん眠くなってきた…。\n \nここは…。\n目が覚めると、元いた世界のベッドの上に寝ていた。\nなんだ、あれは夢だったのか。\n \nゴール教室（メディア棟M512教室）に行って、最後のキーワードを手に入れよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJ8Oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正解！\n \n魔導書に文字が浮かび上がった。ここに書かれているのは…。\n「雄大なる氷の精霊にして天を潤わせし氷帝よ！」\nそう唱えると、魔導書は魔術を放ち大蛇を凍らせた。\n \n大蛇に勝てたようだ！\n勝った安心感からか、だんだん眠くなってきた…。\n \nここは…。\n目が覚めると、元いた世界のベッドの上に寝ていた。\nなんだ、あれは夢だったのか。\n \nゴール教室（メディア棟M512教室）に行って、最後のキーワードを手に入れよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1729782990.363329",
+        "client_msg_id": "C115F648-9E8E-4259-B2CC-05801706CE17",
+        "text": "夜遅くに失礼いたします。\n本日はテストプレイにご協力いただき本当にありがとうございます。\n\nまずは長い間お待たせしてしまい、大変申し訳ございませんでした。\n本祭当日の形式とは異なってしまいましたが、少しでも迷Ｑ伝説の雰囲気を知ってもらえたなら幸いです。\n\nとても参考になる意見をお聞きすることができ、私たちとしては本当にありがたい機会となりました。みなさまの意見を参考にして改善していきたいと思います。\n\n改めて、本日はありがとうございました。\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bDozz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜遅くに失礼いたします。\n本日はテストプレイにご協力いただき本当にありがとうございます。\n\nまずは長い間お待たせしてしまい、大変申し訳ございませんでした。\n本祭当日の形式とは異なってしまいましたが、少しでも迷Ｑ伝説の雰囲気を知ってもらえたなら幸いです。\n\nとても参考になる意見をお聞きすることができ、私たちとしては本当にありがたい機会となりました。みなさまの意見を参考にして改善していきたいと思います。\n\n改めて、本日はありがとうございました。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U071B3CV89X",
+                    "U06LK3MPZ34",
+                    "U06LXNY0MHP",
+                    "U070Y9Q9151",
+                    "U06L2CSPXV5",
+                    "U070HS3T3D5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LK3MPZ34",
+                    "U06LXNY0MHP",
+                    "U06LG6B2NA1",
+                    "U0710T39SS0",
+                    "U070HS3T3D5"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LXNY0MHP",
+                    "U06L2CSPXV5",
+                    "U070HS3T3D5"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

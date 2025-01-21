@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LK0EBWRH",
+        "type": "message",
+        "ts": "1709291405.717919",
+        "client_msg_id": "DEDCE6DE-6E84-480F-94C7-8D19B9406E0B",
+        "text": "旅行をしてるため欠席しました。\n忘れていました。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f01833712a76",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721924555664_f01833712a7695be16e0_72.png",
+            "first_name": "小林昌博",
+            "real_name": "小林昌博",
+            "display_name": "Kobayashi.Akihiro",
+            "team": "T06L90YHJF8",
+            "name": "jinngu16kajuri1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709185904.123289",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u+3eY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行をしてるため欠席しました。\n忘れていました。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

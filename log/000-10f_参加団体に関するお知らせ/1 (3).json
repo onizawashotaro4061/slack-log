@@ -1,0 +1,275 @@
+[
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730530869.203879",
+        "edited": {
+            "user": "U06LY8E3XA5",
+            "ts": "1730531678.000000"
+        },
+        "client_msg_id": "90421a2c-f8b1-4404-a413-7cf2a7293824",
+        "text": "*<!channel>*\n※16：10～16：30\nパフォーマンスエリア企画：中野ダンスサークルSIGN\n雨天のため、業者・実行委員から要請し*【企画中止】*となりました。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fS\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※16：10～16：30\nパフォーマンスエリア企画：中野ダンスサークルSIGN\n雨天のため、業者・実行委員から要請し"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1730587200.769509",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1730589883.000000"
+        },
+        "client_msg_id": "c5eecc88-faa3-4689-ad02-32e0bef98464",
+        "text": "<!channel>\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\n11月2日（昨日）22時現在のチケット状況は以下のとおりです。\n\n• 参加団体名\n企画実施日時\n企画実施教室\nチケット状況\n\n\n• 紫紺の会\n企画実施日時：12：30～14：00\n企画実施教室：第一校舎211教室\nチケット状況：残数123枚（11：00まで販売予定）\n\n• 駿台企画研究会　俳優企画\n企画実施日時12：00～13：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：残数109枚（販売時間10：30～11：50）\n\n• 東方明治楼\n企画実施日時：13：10～16：50\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：A席117枚（2500円で販売）\n　　　　　　　S席：*完売*\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOr28",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\n11月2日（昨日）22時現在のチケット状況は以下のとおりです。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "参加団体名"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時\n企画実施教室\nチケット状況\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "紫紺の会"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：12：30～14：00\n企画実施教室：第一校舎211教室\nチケット状況：残数123枚（11：00まで販売予定）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "駿台企画研究会　俳優企画"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時12：00～13：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：残数109枚（販売時間10：30～11：50）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "東方明治楼"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：13：10～16：50\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：A席117枚（2500円で販売）\n　　　　　　　S席："
+                            },
+                            {
+                                "type": "text",
+                                "text": "完売",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070Y9Q9151"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1730613267.611649",
+        "client_msg_id": "3fd19c57-06cf-4061-81b7-c22c2135ab7d",
+        "text": "<!channel>\n教室企画に関するお知らせです。\n以下の団体は商品売り切れのため、本日は企画を終了いたしました。\n\n「ご当地物産展at明治大学」\n団体名：マーケティング研究会\n場所：第一校舎209教室\n\n明日は通常通り企画実施予定です。\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flqNe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n教室企画に関するお知らせです。\n以下の団体は商品売り切れのため、本日は企画を終了いたしました。\n\n「ご当地物産展at明治大学」\n団体名：マーケティング研究会\n場所：第一校舎209教室\n\n明日は通常通り企画実施予定です。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

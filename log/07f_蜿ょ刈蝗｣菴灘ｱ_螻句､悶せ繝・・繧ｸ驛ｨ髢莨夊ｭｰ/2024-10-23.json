@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1729741091.679809",
+        "client_msg_id": "96A3A7F2-F219-4F44-A02E-131FFB4B25BB",
+        "text": "<!channel>\n1024_第23回屋外ステージ部門会議\n【場所】あとでいう\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.直前リハーサル・サウンドチェックについて（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責：あとできめる！\n                    チェック： <@U06LK3Q5M0S> <@U06LK0FPH2P>\n\n\nリリースめっちゃ遅くなってしまってすみません。\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ucSDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1024_第23回屋外ステージ部門会議\n【場所】あとでいう\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.直前リハーサル・サウンドチェックについて（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責：あとできめる！\n                    チェック： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3Q5M0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0FPH2P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nリリースめっちゃ遅くなってしまってすみません。\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U071B3A1G4R",
+                    "U071M6ZSSLQ",
+                    "U070YA6CQLB",
+                    "U070HS3G355",
+                    "U06L4GJ4H9D",
+                    "U070Y9U7WRZ",
+                    "U06LK0FPH2P"
+                ],
+                "count": 8
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U070HS3G355",
+                    "U070Y9U7WRZ",
+                    "U06LK0FPH2P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U071M6ZSSLQ",
+                    "U070YA6CQLB",
+                    "U070HS3G355",
+                    "U070Y9U7WRZ",
+                    "U06LK0FPH2P"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U070Y9U7WRZ",
+                    "U06LK0FPH2P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U06LK0FPH2P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "はる",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U06LXNZG6HX",
+                    "U070Y9U7WRZ",
+                    "U06LK0FPH2P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "やってんなぁ",
+                "users": [
+                    "U071M6ZSSLQ",
+                    "U070Y9U7WRZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

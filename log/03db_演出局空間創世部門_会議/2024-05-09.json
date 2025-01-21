@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1715248855.588099",
+        "client_msg_id": "8e34dc25-64ec-4b02-b341-897a23b67634",
+        "text": "踏切が開かなかったんで少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715153213.581449",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47G5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "踏切が開かなかったんで少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

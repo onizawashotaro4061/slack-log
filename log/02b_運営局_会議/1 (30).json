@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1726560057.090359",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1727190051.000000"
+        },
+        "client_msg_id": "7e6c843b-e080-460d-b2f3-b1e8d37e648a",
+        "text": "<!channel>\n0919_第25回運営局会議\n【時間】\n15：20〜18：00\n【場所】\nLS402\n【議題】\n1. 各種報告（意思共有）\n2. 役員インタビュー発表（意思共有）\n3. 副局長コンテンツ【Zello講習会】（意思共有）\n4. 諸連絡（意思共有）\n持ち物】\nパソコン・Zello入れてきてね〜〜\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nZello講習会は副局長たちが色々考えてます！！\n楽しみにね〜〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/olW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0919_第25回運営局会議\n【時間】\n15：20〜18：00\n【場所】\nLS402\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "役員インタビュー発表（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "副局長コンテンツ【Zello講習会】（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "持ち物】\nパソコン・Zello入れてきてね〜〜\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nZello講習会は副局長たちが色々考えてます！！\n楽しみにね〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LK3MMALA",
+                    "U06LG61QB3P",
+                    "U06LK0FC935",
+                    "U06L4GHLP2B",
+                    "U070RQ20K8W",
+                    "U06LG62V1FX",
+                    "U06M7SX52RW",
+                    "U071B3C838R",
+                    "U06LCE7DY6S",
+                    "U06LK0EQS59",
+                    "U06LEAGKTSS",
+                    "U070HS7MJH5",
+                    "U070Y9TREE7"
+                ],
+                "count": 14
+            },
+            {
+                "name": "ニャッキ",
+                "users": [
+                    "U06LK0FUAHZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営局_あんじゅ_ありが",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U06LK0JTYD9",
+        "type": "message",
+        "ts": "1719305486.777709",
+        "client_msg_id": "2F3AFD75-E62D-4D49-A08A-ADE27C9CEB39",
+        "text": "体調おかしくなったのでお休みをいただきます。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d21f96ab8f1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7974993939267_d21f96ab8f1d6c870d10_72.png",
+            "first_name": "大導寺優光",
+            "real_name": "大導寺優光",
+            "display_name": "Daidoji.Masamitsu",
+            "team": "T06L90YHJF8",
+            "name": "masamitu224",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719236591.621709",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uansu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調おかしくなったのでお休みをいただきます。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK3NH9MG",
+                    "U06LKEPTCA0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LK3NH9MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3NH9MG",
+        "type": "message",
+        "ts": "1719309115.177129",
+        "client_msg_id": "8EA5A068-C365-434C-ABDD-E230330E28D8",
+        "text": "広石、小川、京王線が非常停止ボタン押されたので少し遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9006d2675710",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/8013814017552_9006d267571081f27ed6_72.png",
+            "first_name": "小川大翔",
+            "real_name": "小川大翔",
+            "display_name": "Ogawa.Yamato",
+            "team": "T06L90YHJF8",
+            "name": "daxiangxiaochuan99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719236591.621709",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVbON",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "広石、小川、京王線が非常停止ボタン押されたので少し遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK3NH9MG",
+                    "U06LKEPTCA0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

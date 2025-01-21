@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U0710T4CBHS",
+        "type": "message",
+        "ts": "1728032772.499379",
+        "client_msg_id": "7d0fe281-0964-4529-bec8-937ce4c72cf9",
+        "text": "界隈店舗に出向くため少々遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d9961b157216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8132416925493_d9961b157216c0d503e7_72.jpg",
+            "first_name": "岡本英孝",
+            "real_name": "岡本英孝",
+            "display_name": "Okamoto.Hidetaka",
+            "team": "T06L90YHJF8",
+            "name": "ohidewakaba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728017574.444479",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+n5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "界隈店舗に出向くため少々遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1728035642.712239",
+        "client_msg_id": "586599B1-CA1F-4C4E-9911-794FB613959B",
+        "text": "<@U0710T4CBHS> どこいくの？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728017574.444479",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mymX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0710T4CBHS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どこいくの？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

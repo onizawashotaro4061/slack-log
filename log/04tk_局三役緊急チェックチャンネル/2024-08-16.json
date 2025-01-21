@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1723819146.795139",
+        "client_msg_id": "b34c8da7-d3ef-41ba-bbec-c990922e8fe0",
+        "text": "<@U06LE249H0V> <@U06LMGM3CG4> <@U06M7SBFPFS>\nお疲れ様です。Notion02_依頼書\n今日❝明治❞好きになりました。企画ロゴ制作依頼書<https:\/\/www.notion.so\/0817_-038c011219da40579f0df28d176d9f55?pvs=4>\nパンフレット、ビラに載せたい企画ロゴの制作依頼書です。緊急ですみませんよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723819146.795139",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1723819203.281019",
+        "reply_users": [
+            "U06LMGM3CG4"
+        ],
+        "replies": [
+            {
+                "user": "U06LMGM3CG4",
+                "ts": "1723819203.281019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htZE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE249H0V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMGM3CG4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SBFPFS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。Notion02_依頼書\n今日❝明治❞好きになりました。企画ロゴ制作依頼書"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/0817_-038c011219da40579f0df28d176d9f55?pvs=4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパンフレット、ビラに載せたい企画ロゴの制作依頼書です。緊急ですみませんよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LE249H0V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "本間これから見る",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1723819203.281019",
+        "client_msg_id": "fa79c749-ab7a-4704-82fc-2c07e13759f1",
+        "text": "先陣切ります",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723819146.795139",
+        "parent_user_id": "U06LXP1JG0Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWdtO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先陣切ります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か_本間すまん",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LE249H0V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXP1JG0Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1710339867.318219",
+        "client_msg_id": "B954E5B9-5172-46E6-8F6A-906491B38A77",
+        "text": "<!channel>\nお疲れ様です。\n3月14日(木)の第6回総務局会議について連絡です。\n\n【時間】\n13:00〜17:00\n【場所】\n和泉ラーニングスクエアLS606教室\n【議題】\n1. 各種報告(意思共有)\n2. 報告書講座（意見交換）\n3. 総務局のいいとこ伝えたい（意見交換）\n4. 諸連絡\n【持ち物】\nパソコン\n【議事録】\nはくと\n\n遅刻早退欠席などはスレッドにお願いします！\n夜遅くにごめんね、ちゃんと早めに連絡します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710339867.318219",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710344758.186719",
+        "reply_users": [
+            "U06LMLKREUU",
+            "U06LMH5ACE8"
+        ],
+        "replies": [
+            {
+                "user": "U06LMLKREUU",
+                "ts": "1710343146.291299"
+            },
+            {
+                "user": "U06LMH5ACE8",
+                "ts": "1710344758.186719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EYDfp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3月1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日("
+                            },
+                            {
+                                "type": "text",
+                                "text": "木"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")の第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回総務局会議について連絡です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "13:00〜17:00"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "和泉ラーニングスクエアLS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "606"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教室"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "報告書講座"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "総務局のいいとこ伝えたい"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パソコン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議事録】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nはくと\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜遅くにごめんね、ちゃんと早めに連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LK3MPZ34",
+                    "U06M7SZ5WG0",
+                    "U06LMLKREUU",
+                    "U06LM0QJV3L",
+                    "U06M7TE180Y",
+                    "U06LCFWR494",
+                    "U06LXNX1A57",
+                    "U06LG6B2NA1",
+                    "U06LG668093"
+                ],
+                "count": 10
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LM0QJV3L",
+                    "U06LG6B2NA1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "総務＿けいた２",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LM0QJV3L",
+                    "U06LG6B2NA1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LG6B2NA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-huh",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LG6B2NA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LG6B2NA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LG6B2NA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LG6B2NA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMLKREUU",
+        "type": "message",
+        "ts": "1710343146.291299",
+        "client_msg_id": "FFB76212-B0E6-4B82-AFC6-C84AB368BFDB",
+        "text": "旅行に行くため欠席いたします。お土産買ってきます、申し訳ありません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "187e5c5d4848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7608428887142_187e5c5d48483957e932_72.png",
+            "first_name": "三塚夏鈴",
+            "real_name": "三塚夏鈴",
+            "display_name": "Mitsuzuka.Karin",
+            "team": "T06L90YHJF8",
+            "name": "karin.mimi0728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710339867.318219",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bsz9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行に行くため欠席いたします。お土産買ってきます、申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH5ACE8",
+        "type": "message",
+        "ts": "1710344758.186719",
+        "client_msg_id": "193A0BF7-B787-40BA-A3F6-A5D078F7F9DD",
+        "text": "急用のため欠席します。ほんとうにすみません :bow: :bow: :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3cc4026d18e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7722141759041_3cc4026d18e851f0f49c_72.png",
+            "first_name": "小堀聡太",
+            "real_name": "小堀聡太",
+            "display_name": "Kobori.Sohta",
+            "team": "T06L90YHJF8",
+            "name": "sohtakobori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710339867.318219",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdSCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急用のため欠席します。ほんとうにすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

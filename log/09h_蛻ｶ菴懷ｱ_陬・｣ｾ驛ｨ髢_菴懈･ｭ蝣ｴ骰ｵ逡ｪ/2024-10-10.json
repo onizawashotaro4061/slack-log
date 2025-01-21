@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1728570217.142679",
+        "client_msg_id": "54959FB6-7532-4B6F-ACC1-264D580E52D7",
+        "text": "しめしめ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mv6xb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめしめ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "すごい",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1728611709.117359",
+        "client_msg_id": "458B5C36-19C7-479B-BF3B-8B036C5AEB30",
+        "text": "遅くなってごめんなさいかりあけー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/8oh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅くなってごめんなさいかりあけー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "イラレの申し子",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

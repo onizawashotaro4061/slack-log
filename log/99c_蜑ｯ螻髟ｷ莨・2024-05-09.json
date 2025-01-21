@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06L4GSPRHV",
+        "type": "message",
+        "ts": "1715268319.871269",
+        "client_msg_id": "9D68C2D9-F516-475E-82F0-6281C0FF0803",
+        "text": "私用のため欠席します :sweat_drops: すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6cd192bdc6ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6711819185841_6cd192bdc6ad9ff867e9_72.png",
+            "first_name": "神戸春穂",
+            "real_name": "神戸春穂",
+            "display_name": "Kanbe.Haruho",
+            "team": "T06L90YHJF8",
+            "name": "kh0117hk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715234850.611909",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GUTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

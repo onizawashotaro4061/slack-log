@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1711103452.171559",
+        "client_msg_id": "6C32DFC8-65C5-4E94-9616-CC840686B49E",
+        "text": "<@U06LK3K88SW> \n気づいてないかもだから一応メンションするね〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710739337.441779",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jw4TP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3K88SW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n気づいてないかもだから一応メンションするね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U0710T0NBFE",
+        "type": "message",
+        "ts": "1727165288.620549",
+        "client_msg_id": "6590BAB3-907F-4C5F-A049-F1F886D08332",
+        "text": "体調不良のため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51ee0ee94008",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7918716969653_51ee0ee940082e160799_72.png",
+            "first_name": "小島快秀",
+            "real_name": "小島快秀",
+            "display_name": "Kojima.Kaishu",
+            "team": "T06L90YHJF8",
+            "name": "kaisyu0603",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727093245.702079",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAG5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMH412CU",
+                    "U06LK0EBWRH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U071M6ZVDMW",
+        "type": "message",
+        "ts": "1727168591.519729",
+        "client_msg_id": "4962C4EE-3862-423E-A49E-9DD88494116B",
+        "text": "体調がすぐれないため欠席します、直前に申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "601f32957eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-25\/7627731631396_601f32957eb808d60d13_72.png",
+            "first_name": "近藤里結",
+            "real_name": "近藤里結",
+            "display_name": "Kondo.Riyu",
+            "team": "T06L90YHJF8",
+            "name": "riyu0628",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727093245.702079",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYMt+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調がすぐれないため欠席します、直前に申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

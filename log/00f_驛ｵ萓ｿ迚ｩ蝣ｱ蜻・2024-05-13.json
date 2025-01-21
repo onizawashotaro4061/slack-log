@@ -1,0 +1,218 @@
+[
+    {
+        "text": "<@U06LHACMG91>　渉外局宛に郵便物が届いていたので自由部屋の机に置いておきました！",
+        "files": [
+            {
+                "id": "F073YP6UQHE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jM5rA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　渉外局宛に郵便物が届いていたので自由部屋の机に置いておきました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715659283.641269",
+        "client_msg_id": "609339f5-c818-4533-9e23-1f623fdb4a08",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYUX7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "郵便物が届いていたのですが宛先がわからないのでこちらも自由部屋に置いています！",
+        "files": [
+            {
+                "id": "F073YPAMHBJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJ0kS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "郵便物が届いていたのですが宛先がわからないのでこちらも自由部屋に置いています！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715659339.090539",
+        "client_msg_id": "b70cb7b6-41c4-4b93-b0d4-55af532c5e84",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1715667166.209899",
+        "client_msg_id": "BDF64FC5-33BD-4999-8FC6-694D75A59218",
+        "text": "<@U06LHACMG91> すみません！上記2点の郵便物渉外局のレターケースに移しておきました！把握お願いします〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715667166.209899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715667321.575239",
+        "reply_users": [
+            "U06LHACMG91"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1715667321.575239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8lGQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません！上記2点の郵便物渉外局のレターケースに移しておきました！把握お願いします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0F2RC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1715667321.575239",
+        "client_msg_id": "4D0D9346-6408-467A-A68E-41811C36DE37",
+        "text": "にゃいす！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715667166.209899",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEmwy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "にゃいす！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "当たり前だぁあ",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

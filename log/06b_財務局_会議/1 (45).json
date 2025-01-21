@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U0710SZT2S0",
+        "type": "message",
+        "ts": "1727761647.097699",
+        "client_msg_id": "1DA3F2CE-A789-49DC-A4F1-7137EBF7B59B",
+        "text": "大変申し訳ございませんが、本日どうしても外せない用事があり、誠に恐縮ではございますが、欠席させていただきたく存じます。何卒ご理解のほど、よろしくお願い申し上げます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "16cbb4bcf140",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7967603719302_16cbb4bcf1400cabf9d3_72.png",
+            "first_name": "西村海明",
+            "real_name": "西村海明",
+            "display_name": "Nishimura.Kaimei",
+            "team": "T06L90YHJF8",
+            "name": "kaimei24kaimei24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727230638.537349",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IK6vF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大変申し訳ございませんが、本日どうしても外せない用事があり、誠に恐縮ではございますが、欠席させていただきたく存じます。何卒ご理解のほど、よろしくお願い申し上げます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3NH9MG",
+                    "U071M6X48E4",
+                    "U070YD6M598"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1727764246.654249",
+        "client_msg_id": "0193B158-659D-4E50-AA8B-FDF4ED817707",
+        "text": "<@U0710SZT2S0> 「どうしても外せない用事」が何なのか、ここでも個チャでもいいので証拠と一緒に俺に伝えてください。局会議の日程は事前に連絡しているので、本当に大事な用事があるならその時点で伝えられているはずです。できないのであれば嘘とみなし、相応の対応を取ります。よろしくね。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727230638.537349",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ni9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0710SZT2S0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 「どうしても外せない用事」が何なのか、ここでも個チャでもいいので証拠と一緒に俺に伝えてください。局会議の日程は事前に連絡しているので、本当に大事な用事があるならその時点で伝えられているはずです。できないのであれば嘘とみなし、相応の対応を取ります。よろしくね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

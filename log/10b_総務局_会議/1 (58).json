@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U070RQ0TU6A",
+        "type": "message",
+        "ts": "1726488579.559979",
+        "client_msg_id": "D3625992-B98F-4065-B059-53D2057C5D42",
+        "text": "他サークルの外せない会議があるため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65e8d35ea5ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-08\/7244308317812_65e8d35ea5baf3f8498c_72.png",
+            "first_name": "古川芽生",
+            "real_name": "古川芽生",
+            "display_name": "Furukawa.Mei",
+            "team": "T06L90YHJF8",
+            "name": "may.f0505.30",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726445918.064429",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWouM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他サークルの外せない会議があるため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1726504424.129449",
+        "client_msg_id": "F4D50D2E-F313-4610-B76C-499EEA203345",
+        "text": "時間的に出れることが判明しました。早めに切り上げることは許してください:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726445918.064429",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STpGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "時間的に出れることが判明しました。早めに切り上げることは許してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

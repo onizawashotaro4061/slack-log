@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1711177530.445489",
+        "client_msg_id": "f717b979-27df-4976-b49e-04cf0aef5531",
+        "text": "<!channel>\n【第2回会議】\n時間：3月28日09：00ｰ\n場所：LS305（渉外の教室借りますた）\n議題：企画内容考案・懸念事項対策\n朝早いよがんばろうね～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711177530.445489",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711582859.352509",
+        "reply_users": [
+            "U06LCECJD8W",
+            "U06M7SU83G8"
+        ],
+        "replies": [
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1711582724.098729"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1711582859.352509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HyxCw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第2回会議】\n時間：3月28日09：00ｰ\n場所：LS305（渉外の教室借りますた）\n議題：企画内容考案・懸念事項対策\n朝早いよがんばろうね～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06LK5HCSE6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

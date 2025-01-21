@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1712400530.544259",
+        "client_msg_id": "FE00C4D0-D538-44E9-A27E-D287B2E1E567",
+        "text": "新歓おつかれさまー\nしめかえし\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSFzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新歓おつかれさまー\nしめかえし\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06LCE9NLP8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1712449775.553209",
+        "client_msg_id": "13A7F2A3-AF21-4406-BE27-674294797FA6",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1712459064.786019",
+        "client_msg_id": "21056F53-13D9-456F-AED4-1B8884554A11",
+        "text": "締めてごはん:rice:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gfzgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締めてごはん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rice",
+                                "unicode": "1f35a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LKTXCZL4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

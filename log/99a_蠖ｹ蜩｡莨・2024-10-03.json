@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1728007984.261119",
+        "client_msg_id": "0C4B8D3B-3F98-4448-BEC4-66E0A1BB5941",
+        "text": "レッドブルの企画書完全承認13の週だったんですけど、20に変更お願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyWhW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レッドブルの企画書完全承認13の週だったんですけど、20に変更お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1728012839.469519",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1728375884.000000"
+        },
+        "client_msg_id": "B1DFA924-2432-4F4F-A7D1-F82D858B4B83",
+        "text": "前リハーサルってことは、役員会いないってこと？\nマニュアル運搬のため、何時着になるかわかりません、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511352.364149",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyh0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前リハーサルってことは、役員会いないってこと？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマニュアル運搬のため、何時着になるかわかりません、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

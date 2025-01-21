@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U070HS3ELF9",
+        "type": "message",
+        "ts": "1720494394.517439",
+        "client_msg_id": "1bbccfa9-25b5-4040-9340-95cd7e826109",
+        "text": "ドイツ語の勉強をしないと単位が怪しいので、本当に\n勉強させてください。（切実）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "63255c9c5b67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7167174594144_63255c9c5b67a10408bf_72.png",
+            "first_name": "宮森崇大",
+            "real_name": "宮森崇大",
+            "display_name": "Miyamori.Souta",
+            "team": "T06L90YHJF8",
+            "name": "souta.miyamori1021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720250238.159239",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CqJtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドイツ語の勉強をしないと単位が怪しいので、本当に\n勉強させてください。（切実）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "angry",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3",
+                    "U06M7SETDKJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070YDYBFGA",
+        "type": "message",
+        "ts": "1720507961.186929",
+        "client_msg_id": "AE9B4F0D-3F43-4742-917A-B9D1CF70EE0B",
+        "text": "今日の中国語のテストで、次満点じゃなかったら単位ありませんと言われたので、勉強します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acfee07457a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055264968576_acfee07457a5589f1b27_72.png",
+            "first_name": "井田礼香",
+            "real_name": "井田礼香",
+            "display_name": "Ida .Reika",
+            "team": "T06L90YHJF8",
+            "name": "idareika2005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720250238.159239",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83vC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の中国語のテストで、次満点じゃなかったら単位ありませんと言われたので、勉強します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "angry",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

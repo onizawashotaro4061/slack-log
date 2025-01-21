@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U070HS2GY5V",
+        "type": "message",
+        "ts": "1718867341.652999",
+        "client_msg_id": "3efee7dd-d8b3-4b24-bcdd-1a08868c8673",
+        "text": "習い事のため欠席させてください。すみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10e42254d341",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7017905306551_10e42254d3418983cc64_72.jpg",
+            "first_name": "本村つくし",
+            "real_name": "本村つくし",
+            "display_name": "Motomura.Tsukushi",
+            "team": "T06L90YHJF8",
+            "name": "tsukushibencun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718858858.297889",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cEao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "習い事のため欠席させてください。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0DUBG",
+        "type": "message",
+        "ts": "1718870421.805749",
+        "client_msg_id": "DD2933DE-8631-4BF7-8927-17A86E09BC5E",
+        "text": "塾講バイトのため欠席します。申し訳ございません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "59ccd257a091",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7760887307424_59ccd257a091eb3d7d5b_72.png",
+            "first_name": "吉田瞬",
+            "real_name": "吉田瞬",
+            "display_name": "Yoshida.Shun",
+            "team": "T06L90YHJF8",
+            "name": "yoshidashun.aousagi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718858858.297889",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7G4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "塾講バイトのため欠席します。申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

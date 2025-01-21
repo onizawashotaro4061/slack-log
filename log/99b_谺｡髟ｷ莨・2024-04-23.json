@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1713893189.843789",
+        "client_msg_id": "ee851c3c-2895-4a5f-a423-93711a42ee91",
+        "text": "<@U06LK0F2RC3> <@U06LXNZDHFT> お忙しい中申し訳ないのですが、ご協力お願いいたします:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712109893.661039",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6xV4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0F2RC3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZDHFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お忙しい中申し訳ないのですが、ご協力お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1713917614.977369",
+        "client_msg_id": "55B5C951-3DFB-4DAE-8F73-CB7D0A07F76C",
+        "text": "すみません！！すぐに追加します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712109893.661039",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQKxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません！！すぐに追加します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1713921490.936529",
+        "client_msg_id": "C61FB9CD-8783-4A7F-833C-2D2450E0EE68",
+        "text": "すみません！変更します！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "03e01b98e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876950106419_03e01b98e2515aaf86c7_72.png",
+            "first_name": "工藤大智",
+            "real_name": "工藤大智",
+            "display_name": "Kudo.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "cat.daichij31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712109893.661039",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnOPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません！変更します！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

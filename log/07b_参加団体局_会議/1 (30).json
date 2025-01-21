@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1724732811.177689",
+        "client_msg_id": "8BDFA562-EF9E-48E7-8158-D1CB059DCAC8",
+        "text": "教室208教室です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724640065.691969",
+        "parent_user_id": "U06LKTXCZL4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPuwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教室208教室です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1724732830.666119",
+        "client_msg_id": "4F91FE19-007F-4707-9152-E47BE426D7EA",
+        "text": "<!channel> 教室208第一校舎教室です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ltky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 教室208第一校舎教室です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

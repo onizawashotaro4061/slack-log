@@ -1,0 +1,654 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717750426.300189",
+        "client_msg_id": "73c11326-abc8-4e1d-b15c-f32d14822067",
+        "text": "<!channel>\n電話掛けの結果とか共有してねー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5tHNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n電話掛けの結果とか共有してねー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3K88SW",
+        "type": "message",
+        "ts": "1717751461.149129",
+        "client_msg_id": "1e3da401-2254-4f55-b0fb-1553a62a995b",
+        "text": "<!channel> お疲れ様です。\n本日、電話かけした結果、ビジョンを出すことはできるそうです！！\nその後の流れです。\n①ZOOMで打ち合わせを行なう\n②動画を提出する\n③ビジョンを出す\nという流れになります。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1e0fbe87530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-24\/6837071252135_b1e0fbe87530bfba116b_72.png",
+            "first_name": "清水皓介",
+            "real_name": "清水皓介",
+            "display_name": "Shimizu.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "kosukesh.traintrain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1717752114.219079",
+        "reply_users": [
+            "U06L97X3V6J",
+            "U06LK3K88SW"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717751520.984669"
+            },
+            {
+                "user": "U06LK3K88SW",
+                "ts": "1717751801.922569"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717751822.623519"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717751842.556699"
+            },
+            {
+                "user": "U06LK3K88SW",
+                "ts": "1717751933.299319"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717752001.689189"
+            },
+            {
+                "user": "U06LK3K88SW",
+                "ts": "1717752065.416179"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717752086.177689"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717752101.607249"
+            },
+            {
+                "user": "U06LK3K88SW",
+                "ts": "1717752114.219079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Uq73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。\n本日、電話かけした結果、ビジョンを出すことはできるそうです！！\nその後の流れです。\n①ZOOMで打ち合わせを行なう\n②動画を提出する\n③ビジョンを出す\nという流れになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717751520.984669",
+        "client_msg_id": "17648455-8992-4a04-be27-4aed5959604e",
+        "text": "渋谷も新宿も？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNv7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "渋谷も新宿も？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3K88SW",
+        "type": "message",
+        "ts": "1717751801.922569",
+        "client_msg_id": "fa4fd3ef-2c99-4254-af25-9b6c18d8a781",
+        "text": "値段次第ですね。でも渋谷、新宿どちらもだせます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1e0fbe87530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-24\/6837071252135_b1e0fbe87530bfba116b_72.png",
+            "first_name": "清水皓介",
+            "real_name": "清水皓介",
+            "display_name": "Shimizu.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "kosukesh.traintrain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BnZ9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "値段次第ですね。でも渋谷、新宿どちらもだせます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717751822.623519",
+        "client_msg_id": "7fae3dba-8e71-4600-b1ef-13f6014836f7",
+        "text": "なるほどね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/af8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717751842.556699",
+        "client_msg_id": "74827a73-4780-40ea-b452-b86e8435f899",
+        "text": "値段は事前に調べてたとおり？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6hnx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "値段は事前に調べてたとおり？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3K88SW",
+        "type": "message",
+        "ts": "1717751933.299319",
+        "edited": {
+            "user": "U06LK3K88SW",
+            "ts": "1717751957.000000"
+        },
+        "client_msg_id": "1632894f-408e-4738-9fa2-a5e277453314",
+        "text": "それ含めて打ち合わせで決めます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1e0fbe87530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-24\/6837071252135_b1e0fbe87530bfba116b_72.png",
+            "first_name": "清水皓介",
+            "real_name": "清水皓介",
+            "display_name": "Shimizu.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "kosukesh.traintrain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFy1G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それ含めて打ち合わせで決めます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717752001.689189",
+        "client_msg_id": "30972f59-d8b9-42aa-91db-f75f3aa97bd6",
+        "text": "なるほどね日程は今後調節？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IB1wT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどね日程は今後調節？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3K88SW",
+        "type": "message",
+        "ts": "1717752065.416179",
+        "client_msg_id": "19ab0738-7dac-4a29-960b-7e7ac597432e",
+        "text": "そうですね。\nメールで日調していきます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1e0fbe87530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-24\/6837071252135_b1e0fbe87530bfba116b_72.png",
+            "first_name": "清水皓介",
+            "real_name": "清水皓介",
+            "display_name": "Shimizu.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "kosukesh.traintrain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LC3Tn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。\nメールで日調していきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717752086.177689",
+        "client_msg_id": "cb65a07f-db4c-42c9-96a5-e7719e2a7bfe",
+        "text": "ほい！りょーかいせんきゅ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eLet",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほい！りょーかいせんきゅ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717752101.607249",
+        "client_msg_id": "da7142b7-fe33-4782-b991-a5d6cfb9818f",
+        "text": "メアドはタスクフォースの使ってね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUGUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メアドはタスクフォースの使ってね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3K88SW",
+        "type": "message",
+        "ts": "1717752114.219079",
+        "client_msg_id": "8ddadff3-9131-4338-bb0f-5001b807989e",
+        "text": "はい！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1e0fbe87530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-24\/6837071252135_b1e0fbe87530bfba116b_72.png",
+            "first_name": "清水皓介",
+            "real_name": "清水皓介",
+            "display_name": "Shimizu.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "kosukesh.traintrain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717751461.149129",
+        "parent_user_id": "U06LK3K88SW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dd71T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LMH9MBFW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1717818403.508719",
+        "edited": {
+            "user": "U06LK0BP1TM",
+            "ts": "1717834025.000000"
+        },
+        "client_msg_id": "D354F7BA-3E15-4A4B-AEF3-5ECB55563CA6",
+        "text": "<!channel> \nお疲れ様です、昨日までにうちのチームの希望を出してくれていた方たちです！\n渉外局企業部門新規1年　栗原　幸輝くん\n演出局響創部門長　金子　紗千さん\n総務局総務部門新規1年　古川　芽生さん\n開発局新規1年　黒田　若葉さん\n演出局空間創生部門新規1年　森下　真帆さん\nの5名（一応広報局長うめもとようへいくん）です！\n全員希望通り加入という形でよろしいですかね？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5FrS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です、昨日までにうちのチームの希望を出してくれていた方たちです！\n渉外局企業部門新規1年　栗原　幸輝くん\n演出局響創部門長　金子　紗千さん\n総務局総務部門新規1年　古川　芽生さん\n開発局新規1年　黒田　若葉さん\n演出局空間創生部門新規1年　森下　真帆さん\nの5名（一応広報局長うめもとようへいくん）です！\n全員希望通り加入という形でよろしいですかね？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LK3K88SW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW",
+                    "U06LK3K88SW",
+                    "U06LK3L6B4J"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

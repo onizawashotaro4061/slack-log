@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1733443207.891879",
+        "client_msg_id": "937828D4-8DFD-4C81-8C2A-D64E4F136268",
+        "text": "<!channel> \n【事前質問の募集に関するリマインド】\nお疲れ様です。橋本です。\n委員長立候補者に対して質問がある場合、時間の関係上できるだけ事前質問を活用していただきますようお願いいたします。\nまた、立候補者が質問への回答を考える時間も考慮して本日中にフォームに送信していただけると助かります。\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ucea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【事前質問の募集に関するリマインド】\nお疲れ様です。橋本です。\n委員長立候補者に対して質問がある場合、時間の関係上できるだけ事前質問を活用していただきますようお願いいたします。\nまた、立候補者が質問への回答を考える時間も考慮して本日中にフォームに送信していただけると助かります。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06M7SPUVEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LXNY0MHP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

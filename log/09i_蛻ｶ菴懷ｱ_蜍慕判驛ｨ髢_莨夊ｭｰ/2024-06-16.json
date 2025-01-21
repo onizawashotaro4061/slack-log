@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U071B3BQRR7",
+        "type": "message",
+        "ts": "1718548725.515819",
+        "client_msg_id": "EC73C33C-A5D1-49A4-B4E1-25BB6D0AE973",
+        "text": "明大生の事件簿に出席するので遅刻します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "85ea0f1e7b81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7186373562848_85ea0f1e7b81f4eab113_72.png",
+            "first_name": "樋口澄",
+            "real_name": "樋口澄",
+            "display_name": "Higuchi.Sumire",
+            "team": "T06L90YHJF8",
+            "name": "sumi2mimi9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718450906.776459",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGy\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明大生の事件簿に出席するので遅刻します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1718549404.575819",
+        "client_msg_id": "A3CB2136-A508-4FA0-B3D4-DA7BBB8B0BAC",
+        "text": "なんだそれおもろ笑笑",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718450906.776459",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uSJRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんだそれおもろ笑笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

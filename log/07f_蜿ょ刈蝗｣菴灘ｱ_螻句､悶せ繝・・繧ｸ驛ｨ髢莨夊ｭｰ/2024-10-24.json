@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1729757751.218799",
+        "client_msg_id": "F241507F-B03C-438B-8BF8-6195F3F5FBA1",
+        "text": "<!channel> メディア棟M712教室",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0oqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メディア棟M712教室"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

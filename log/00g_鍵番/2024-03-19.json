@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1710890144.591659",
+        "client_msg_id": "B6CF0D47-1121-41DB-A141-1CE2FF9ABA77",
+        "text": "一瞬かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmAzV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一瞬かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-対応中",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

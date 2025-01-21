@@ -1,0 +1,329 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！タスクフォース京王電鉄チーム長の城戸です。\n同じくタスクフォースからの連絡となるのですが、京王電鉄チームもまだ新メンバー募集中です！鉄道が好きな人はもちろん、外部の大きな企業と連携して企画を打ってみたい人など、ぜひうちのチームで待ってます！ビジョンチームとは異なり、*新規のみ*の募集とさせていますがエントリーの方、お待ちしております！\n\nエントリーはもちろん、質問などもSlackのDMで受け付けていますので自分のDM（<@U06LCE9HTP0> ）までお気軽にお尋ねください！\n※締切日時は今週金曜日の23時59分となっていますのでご注意ください。",
+        "files": [
+            {
+                "id": "F0776DX0Z3K",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kXRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！タスクフォース京王電鉄チーム長の城戸です。\n同じくタスクフォースからの連絡となるのですが、京王電鉄チームもまだ新メンバー募集中です！鉄道が好きな人はもちろん、外部の大きな企業と連携して企画を打ってみたい人など、ぜひうちのチームで待ってます！ビジョンチームとは異なり、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "新規のみ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の募集とさせていますがエントリーの方、お待ちしております！\n\nエントリーはもちろん、質問などもSlackのDMで受け付けていますので自分のDM（"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ）までお気軽にお尋ねください！\n※締切日時は今週金曜日の23時59分となっていますのでご注意ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717644600.838049",
+        "client_msg_id": "86fdcdb9-d043-4ec4-8fd6-1a9c3564aa3e",
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3Q6Y2W",
+                    "U06LCVDE88N",
+                    "U06LK0DK7R9",
+                    "U06LH4PDAQ3",
+                    "U06LXNZDHFT",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L"
+                ],
+                "count": 8
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LXNXNWGH",
+                    "U06M7SU83G8",
+                    "U070VFSR12R",
+                    "U06L4GJBJP9",
+                    "U06LK0DK7R9",
+                    "U06LK3ZBCN6",
+                    "U06LH4PDAQ3",
+                    "U06LXNZDHFT",
+                    "U06LK3KA09G",
+                    "U06LK3MF9FC",
+                    "U06LK5HCSE6",
+                    "U070HS7MJH5",
+                    "U070HS3G355",
+                    "U06LCEA6J1L"
+                ],
+                "count": 15
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U070RQ20K8W",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06L4GH3T7H",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06TU27FX08",
+                    "U06LK0FUAHZ",
+                    "U06L4GJBJP9",
+                    "U06LK0DK7R9",
+                    "U06LK3LKR9Q",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W",
+                    "U06LK3KA09G",
+                    "U06LK5HCSE6",
+                    "U070Y9RLJTV",
+                    "U06LCEA6J1L"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LK0DK7R9",
+                    "U06LK3ZBCN6",
+                    "U06LK3Q6Y2W",
+                    "U06LK5HCSE6",
+                    "U070Y9S389Z",
+                    "U06LCEA6J1L"
+                ],
+                "count": 7
+            },
+            {
+                "name": "京王",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LK3ZBCN6",
+                    "U06LMH49MQU",
+                    "U06LCUTBMU5",
+                    "U06LH4PDAQ3",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W",
+                    "U06LK3MF9FC",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L",
+                    "U06LXNYUX7T"
+                ],
+                "count": 11
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LY5XNLBT",
+                    "U06LK0DK7R9",
+                    "U06LXNY8KMF",
+                    "U06LK3Q6Y2W",
+                    "U06LK3KA09G",
+                    "U06TU27FX08",
+                    "U06LCEA6J1L",
+                    "U06LXNYUX7T"
+                ],
+                "count": 9
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1717649901.314889",
+        "client_msg_id": "b50b7405-a271-408b-9b4e-95d7d6cf4d5c",
+        "text": "<!channel>\n【制作局への撮影依頼について:camera_with_flash:】\nお疲れ様です！制作局副局長の大野です。\n撮影依頼フォームを作成いたしましたので、制作局に対して撮影の依頼をされる方は\n『イベントの3週間前まで』\nにこちらのフォームにご回答の上、制作局副局長大野のDMまでご連絡ください。\nよろしくお願いいたします。\n<https:\/\/docs.google.com\/forms\/d\/1_yS7Z1wZOM8arfxPXKXi7cKNJwVwwlD5t3EOI7aX6yE\/edit>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "reeFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【制作局への撮影依頼について"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\nお疲れ様です！制作局副局長の大野です。\n撮影依頼フォームを作成いたしましたので、制作局に対して撮影の依頼をされる方は\n『イベントの3週間前まで』\nにこちらのフォームにご回答の上、制作局副局長大野のDMまでご連絡ください。\nよろしくお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/1_yS7Z1wZOM8arfxPXKXi7cKNJwVwwlD5t3EOI7aX6yE\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LJRSQDC3",
+                    "U06L4GM463H",
+                    "U06LK0DN10T",
+                    "U06LK0BP1TM",
+                    "U06L4GM5C87",
+                    "U06LMHSCW1J",
+                    "U070RQ20K8W",
+                    "U06LJ4HJLMS",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 10
+            },
+            {
+                "name": "大野友也",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LXNUQ989",
+                    "U06L4GM463H",
+                    "U06LK0DN10T",
+                    "U06LMH49MQU",
+                    "U06LK0DK7R9",
+                    "U06LMHSCW1J",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "おおのともや",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LJRSQDC3",
+                    "U06L4GM463H",
+                    "U06LK3M7VGA",
+                    "U06LXNUQ989",
+                    "U06LK0DN10T",
+                    "U06LK0BP1TM",
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LCUTBMU5",
+                    "U06LMHSCW1J",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 12
+            },
+            {
+                "name": "008_制作_制",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LK3MF9FC",
+                    "U06LXNUQ989",
+                    "U06LK0DN10T",
+                    "U06LK0BP1TM",
+                    "U06LK0DK7R9",
+                    "U06LMHSCW1J",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "camera_with_flash",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LXNUQ989",
+                    "U06LK0DN10T",
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LMHSCW1J",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 7
+            },
+            {
+                "name": "おおのともやさん",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LMHSCW1J",
+                    "U06LK0DN10T"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

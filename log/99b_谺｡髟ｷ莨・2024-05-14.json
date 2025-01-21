@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1715743303.635669",
+        "client_msg_id": "04a107ab-df62-41d6-818f-7d4425dab26e",
+        "text": "<!channel>\nお疲れさまです！\n以前、こちらでお知らせした教室枠での企画エントリー方法について詳細な話を「みんなからのお知らせ」で流しました。\n再度、ご確認お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hRYCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです！\n以前、こちらでお知らせした教室枠での企画エントリー方法について詳細な話を「みんなからのお知らせ」で流しました。\n再度、ご確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GH4ETH",
+                    "U06LXNZDHFT",
+                    "U06LK3MF9FC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_インフラ_ありがとチャンネル",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06L4GH4ETH",
+                    "U06LK3MF9FC",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SPUVEC",
+                    "U06LY5XNLBT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

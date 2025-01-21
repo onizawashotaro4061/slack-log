@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1715909839.564839",
+        "client_msg_id": "1EC98033-C95C-4A7F-A979-A5D01A32CB8D",
+        "text": "演出局A部門中夜祭一般企画書（15時くらいにしてあげれたらお願い！） <@U06L97X3V6J> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715306840.612369",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/SowC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "演出局A部門中夜祭一般企画書（15時くらいにしてあげれたらお願い！） "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

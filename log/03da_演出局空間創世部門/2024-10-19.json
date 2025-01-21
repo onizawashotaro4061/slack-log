@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1729344291.781289",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1729348115.000000"
+        },
+        "client_msg_id": "6fa9a11b-c412-403c-9345-206285e7fdeb",
+        "text": "<!channel>\nおつかれリハーサル連絡！\n【時間】10\/20(日) 11:00集合、12:00開始\n【場所】食堂3階\n【議題】(予定)\n\n1.中夜祭リハ！\n2.中夜祭通しリハーサル(15:00～)\n\n台本印刷数(中夜祭)\n→明日言いますー\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729344291.781289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1729387308.562889",
+        "reply_users": [
+            "U070YE174KC"
+        ],
+        "replies": [
+            {
+                "user": "U070YE174KC",
+                "ts": "1729387308.562889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHSMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれリハーサル連絡！\n【時間】10\/20(日) 11:00集合、12:00開始\n【場所】食堂3階\n【議題】(予定)\n\n1.中夜祭リハ！\n2.中夜祭通しリハーサル(15:00～)\n\n台本印刷数(中夜祭)\n→明日言いますー\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ゆりか",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "full_moon_with_face",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YE174KC",
+        "type": "message",
+        "ts": "1729387308.562889",
+        "client_msg_id": "2d7b2749-0d14-49f3-8491-9382da076d6d",
+        "text": "電車一本乗り遅れまして\n15分程度遅刻します。\n大変申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5e4cad7e14c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7044316637411_5e4cad7e14c01b6209d7_72.jpg",
+            "first_name": "岡崎　哲汰",
+            "real_name": "岡崎　哲汰",
+            "display_name": "Okazaki.Tetsuta",
+            "team": "T06L90YHJF8",
+            "name": "11tetu25ta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729344291.781289",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtSft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車一本乗り遅れまして\n15分程度遅刻します。\n大変申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

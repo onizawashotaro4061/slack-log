@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1716970535.275069",
+        "edited": {
+            "user": "U06LKEPTCA0",
+            "ts": "1716970634.000000"
+        },
+        "client_msg_id": "73eff3ae-b2ef-43ab-b482-36ac59b4a42a",
+        "text": "<!channel>\n*【新規のみ】*【名簿登録用アンケート回答のお願い】\nお疲れ様です！財務局長の佐久間です。新規のみなさんもそろそろ明実の生活に慣れてきたころでしょうか？\nそんな新規のみなさんにおかれましては、正式な入会手続きとしてみなさんの情報を入れた名簿を大学に提出する必要があるので、お手数ですが必要情報について下のGoogleフォームに回答していただきたいです。10秒ぐらいで終わる簡単なものなのでよろしくお願いします:woman-bowing:\n*6\/1(土)の総会*までにご回答いただけると助かります！:pray:\n*※継続は回答しないでください！*\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScSVzrsjIiAwvWRCuwF4TXZju_zq8G65RNZPH994KhlHHfMbw\/viewform?usp=sf_link>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZEeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【新規のみ】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "【名簿登録用アンケート回答のお願い】\nお疲れ様です！財務局長の佐久間です。新規のみなさんもそろそろ明実の生活に慣れてきたころでしょうか？\nそんな新規のみなさんにおかれましては、正式な入会手続きとしてみなさんの情報を入れた名簿を大学に提出する必要があるので、お手数ですが必要情報について下のGoogleフォームに回答していただきたいです。10秒ぐらいで終わる簡単なものなのでよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6\/1(土)の総会",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までにご回答いただけると助かります！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※継続は回答しないでください！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScSVzrsjIiAwvWRCuwF4TXZju_zq8G65RNZPH994KhlHHfMbw\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U071M740R32",
+                    "U0710T46M3N",
+                    "U06L4CMKY8P",
+                    "U070RQ167FG",
+                    "U0710T3MCUC",
+                    "U071M6X48E4",
+                    "U070Y9VV7MZ",
+                    "U070Y9UEAAF",
+                    "U070Y9TMG11",
+                    "U070Y9TS5T5",
+                    "U0710T14PU4",
+                    "U070HS7MJH5",
+                    "U06L4GH3T7H",
+                    "U0710T04SUC",
+                    "U070RQFLLR4",
+                    "U06LMH49MQU",
+                    "U071B3DFWLR",
+                    "U071B3AKPPT",
+                    "U071B3GT7FT",
+                    "U070VG0DP0D",
+                    "U070RQ20K8W",
+                    "U070RQ0TU6A",
+                    "U071B3C838R",
+                    "U06LHACMG91",
+                    "U0710T4CBHS"
+                ],
+                "count": 26
+            },
+            {
+                "name": "財_たふと",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "財_たふにき",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

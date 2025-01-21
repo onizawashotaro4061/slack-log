@@ -1,0 +1,315 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE7DY6S",
+        "text": "<@U06LCE7DY6S>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.044929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK5HCSE6",
+        "text": "<@U06LK5HCSE6>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.112219"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06ME05BLJW",
+        "text": "<@U06ME05BLJW>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.179819"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG61QB3P",
+        "text": "<@U06LG61QB3P>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.252049"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LEAGKTSS",
+        "text": "<@U06LEAGKTSS>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.321899"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LM2P58KC",
+        "text": "<@U06LM2P58KC>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.389569"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SQPKL0",
+        "text": "<@U06M7SQPKL0>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.455789"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG66Q84D",
+        "text": "<@U06LG66Q84D>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.558339"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH8Q2TW",
+        "text": "<@U06LMH8Q2TW>さんがチャンネルに参加しました",
+        "inviter": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711027952.627929"
+    },
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711037178.452719",
+        "edited": {
+            "user": "U06LK0FUAHZ",
+            "ts": "1711041565.000000"
+        },
+        "client_msg_id": "854aa55e-820a-416e-bee9-f474faef03e4",
+        "text": "<!channel>\n0322 第1回運営局インフラ整備部門会議\n【時間】\n13 : 30~17 : 00\n【場所】\n未定（後ほど確認して連絡します）\n【議題】\n1.部門内の係を決めよう！（意見交換・決定）\n2.今年度のインフラ整備部門について（意思共有）\n3.部門定義について（意見交換・決定）\n4.部門方針について（意見交換・決定）\n5.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\nリリース遅くなってごめんなさい。\n今年度初めての部門会議ですね！　いろいろ思うところもあるかもしれませんが、最初が肝心です！　頑張っていこうね～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PeJ0Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0322 第1回運営局インフラ整備部門会議\n【時間】\n13 : 30~17 : 00\n【場所】\n未定（後ほど確認して連絡します）\n【議題】\n1.部門内の係を決めよう！（意見交換・決定）\n2.今年度のインフラ整備部門について（意思共有）\n3.部門定義について（意見交換・決定）\n4.部門方針について（意見交換・決定）\n5.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\nリリース遅くなってごめんなさい。\n今年度初めての部門会議ですね！　いろいろ思うところもあるかもしれませんが、最初が肝心です！　頑張っていこうね～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_インフラ_チームインフラ",
+                "users": [
+                    "U06LCE7DY6S",
+                    "U06LEAGKTSS",
+                    "U06LG61QB3P",
+                    "U06LK5HCSE6",
+                    "U06M7SQPKL0",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW",
+                    "U06LM2P58KC",
+                    "U06L4GL1CUF",
+                    "U06L4H8CGQP",
+                    "U06LMH8Q2TW"
+                ],
+                "count": 11
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG61QB3P",
+                    "U06LEAGKTSS",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LEAGKTSS",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LEAGKTSS",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LEAGKTSS",
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "turtle",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ok_woman",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06ME05BLJW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LCEA6J1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LCEA6J1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1711076105.196279",
+        "client_msg_id": "D0BA7F44-5ABB-430E-97A0-3CA3B1B70254",
+        "text": "<!channel>\n本日の会議場所は図書館のグループ閲覧室2です。学生証ないと入れないから忘れないでね！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSXnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日の会議場所は図書館のグループ閲覧室2です。学生証ないと入れないから忘れないでね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LG61QB3P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_なおきくんさぁ",
+                "users": [
+                    "U06LG66Q84D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_インフラ_やや転びなおき",
+                "users": [
+                    "U06LG66Q84D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_キャバクラ通いはほどほどに_なおき",
+                "users": [
+                    "U06LG66Q84D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_不遇ななおきくん",
+                "users": [
+                    "U06LG66Q84D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06LG60SFEH",
+        "type": "message",
+        "ts": "1714468855.733089",
+        "client_msg_id": "DA84E577-70B0-451E-B0B9-9E330F390FF5",
+        "text": "体調が悪くて大学休んだので、会議もお休みします連絡遅くなっちゃってごめん :woman-bowing: :woman-bowing: :pray::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e05d20e652a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7177185164149_e05d20e652a4e4b9a686_72.png",
+            "first_name": "田中琴葉",
+            "real_name": "田中琴葉",
+            "display_name": "Tanaka.Kotoha",
+            "team": "T06L90YHJF8",
+            "name": "nmaru8645",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714372182.044949",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "twc\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪くて大学休んだので、会議もお休みします連絡遅くなっちゃってごめん "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK3HUVTL",
+                    "U06LJBVA2DS",
+                    "U06LK3KA09G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK3HUVTL",
+                    "U06LJBVA2DS",
+                    "U06LK3KA09G",
+                    "U06LMH412CU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U06LJBVA2DS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

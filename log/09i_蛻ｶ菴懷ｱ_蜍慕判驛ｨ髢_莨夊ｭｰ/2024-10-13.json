@@ -1,0 +1,281 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1728806815.672799",
+        "edited": {
+            "user": "U06LJ0SKMEZ",
+            "ts": "1728874917.000000"
+        },
+        "client_msg_id": "7A3A327F-0B34-44C4-BA77-1B27B5D5360D",
+        "text": "<!channel>\n【第20回動画部門会議】\n日時:10月14日（月）19:00-\n場所:ls303\n持ち物:パソコン\n議事録:出席スタンプ最後の人\n\n議題\n1.作業時間\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n:grin: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728806815.672799",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1728877782.141999",
+        "reply_users": [
+            "U070Y9S80D9",
+            "U071B3BQRR7",
+            "U06LK0DK7R9",
+            "U070YD7LPR8"
+        ],
+        "replies": [
+            {
+                "user": "U070Y9S80D9",
+                "ts": "1728822444.909409"
+            },
+            {
+                "user": "U071B3BQRR7",
+                "ts": "1728864218.644379"
+            },
+            {
+                "user": "U06LK0DK7R9",
+                "ts": "1728865121.696639"
+            },
+            {
+                "user": "U070YD7LPR8",
+                "ts": "1728877782.141999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zaUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第20回動画部門会議】\n日時:10月14日（月）19:00-\n場所:ls303\n持ち物:パソコン\n議事録:出席スタンプ最後の人\n\n議題\n1.作業時間\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070YD7KHLJ",
+                    "U06LXNUQ989",
+                    "U06LXNYGGHX",
+                    "U06LJ0SKMEZ",
+                    "U070HS3CTQX"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U070Y9S80D9",
+                    "U06LK0DK7R9",
+                    "U071B3BQRR7",
+                    "U070YD7LPR8",
+                    "U070Y9QMUSX"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U070Y9S80D9",
+        "type": "message",
+        "ts": "1728822444.909409",
+        "client_msg_id": "89E9E0FC-689A-4911-BB40-7B68FFB9C23C",
+        "text": "ごめんなさいバイト入って欲しいと土下座されたので行けないですごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ce7400c1c674",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8034245277127_ce7400c1c67454d2ba1d_72.png",
+            "first_name": "田口莉子",
+            "real_name": "田口莉子",
+            "display_name": "Taguchi.Riko",
+            "team": "T06L90YHJF8",
+            "name": "riko10050422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728806815.672799",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4HWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいバイト入って欲しいと土下座されたので行けないですごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3BQRR7",
+        "type": "message",
+        "ts": "1728864218.644379",
+        "client_msg_id": "A4A648B1-AAAC-468E-A662-1422A7CCB743",
+        "text": "家族でごはんに行くのでお休みさせていただきます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "85ea0f1e7b81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7186373562848_85ea0f1e7b81f4eab113_72.png",
+            "first_name": "樋口澄",
+            "real_name": "樋口澄",
+            "display_name": "Higuchi.Sumire",
+            "team": "T06L90YHJF8",
+            "name": "sumi2mimi9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728806815.672799",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vlbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家族でごはんに行くのでお休みさせていただきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DK7R9",
+        "type": "message",
+        "ts": "1728865121.696639",
+        "client_msg_id": "F31FBF9B-C7EF-41EA-82D5-EF94986610DB",
+        "text": "帰省します:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab581055a4dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8060428663063_ab581055a4dd6481617f_72.png",
+            "first_name": "白川泰晟",
+            "real_name": "白川泰晟",
+            "display_name": "Shirakawa.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "shirakappa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728806815.672799",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXvvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "帰省します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1728877782.141999",
+        "client_msg_id": "F1B3E9FD-44DE-43C1-9F0B-AE1CED285170",
+        "text": "すみません猫を去勢させにいくことになったのでおやすみします:crying_cat_face:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728806815.672799",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9AvGX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません猫を去勢させにいくことになったのでおやすみします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

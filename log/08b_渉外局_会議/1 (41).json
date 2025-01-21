@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U070RQ5918W",
+        "type": "message",
+        "ts": "1718059935.811639",
+        "client_msg_id": "984AEA93-9B08-4853-8708-35EEC42F3F33",
+        "text": "体調不良のため、病院に行くので欠席します :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1c20409fed1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025848424998_1c20409fed1a31f90b47_72.png",
+            "first_name": "熊倉あい",
+            "real_name": "熊倉あい",
+            "display_name": "Kumakura.Ai",
+            "team": "T06L90YHJF8",
+            "name": "ai.1220.smile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717923534.038779",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZ0gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため、病院に行くので欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LVT4",
+        "type": "message",
+        "ts": "1718068201.504489",
+        "client_msg_id": "9DA1FCA6-6CA0-439A-B6AF-2E9D3D077017",
+        "text": "掛け持ちのサークルの練習試合があるので欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3a8161c098cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-13\/7895122038496_3a8161c098cd9c7f1118_72.png",
+            "first_name": "荒怜樹",
+            "real_name": "荒怜樹",
+            "display_name": "Ara.Renju",
+            "team": "T06L90YHJF8",
+            "name": "ren.1225.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717923534.038779",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dfZUg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "掛け持ちのサークルの練習試合があるので欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

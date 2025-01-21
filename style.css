@@ -1,0 +1,68 @@
+/* 基本のレイアウト */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: row; /* 横並び */
+  height: 100vh; /* 全画面表示 */
+}
+
+/* タブのスタイル */
+#tabs {
+  width: 300px; /* タブ部分の固定幅 */
+  background-color: #f4f4f4;
+  border-right: 1px solid #ccc;
+  overflow-y: auto; /* 縦スクロール対応 */
+}
+
+.tab {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #ddd;
+}
+
+.tab.active {
+  background-color: #e0e0e0;
+  font-weight: bold;
+}
+
+/* メッセージコンテナのスタイル */
+#messages-container {
+  flex: 1; /* 残りの幅を占有 */
+  padding: 20px;
+  overflow-y: auto; /* 縦スクロール対応 */
+  display: flex;
+  flex-direction: column;
+}
+
+/* メッセージのスタイル */
+.message {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.message img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.message-content {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.message-header {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message-time {
+  font-size: 0.8em;
+  color: #888;
+  margin-top: 5px;
+}

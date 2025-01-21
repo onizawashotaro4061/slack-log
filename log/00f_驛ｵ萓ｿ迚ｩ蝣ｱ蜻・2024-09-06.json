@@ -1,0 +1,127 @@
+[
+    {
+        "text": "<@U06LXNXNWGH>\nお届け物ですー\n仕事部屋の方に移動させてます",
+        "files": [
+            {
+                "id": "F07LLNGB57T",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L2CSPXV5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y622O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNXNWGH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお届け物ですー\n仕事部屋の方に移動させてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725610251.346529",
+        "client_msg_id": "B053AB33-6780-4083-B870-BA95CEB5E2B2",
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06LXNXNWGH",
+                    "U06LMH49MQU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1725614496.537079",
+        "client_msg_id": "4526D4FE-CBA7-4F58-AE71-B09EAA8A2784",
+        "text": "<@U06LCUTBMU5> お疲れ様ですー！ありがとうございます :confounded: :confounded: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725597260.827439",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8fjUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCUTBMU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様ですー！ありがとうございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

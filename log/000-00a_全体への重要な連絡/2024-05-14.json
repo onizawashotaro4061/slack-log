@@ -1,0 +1,148 @@
+[
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1715754703.494189",
+        "client_msg_id": "eaeecc0d-4020-4542-87be-e86b751cc805",
+        "text": "<!channel>\n【Notionについて】\nお疲れ様です！Notionチーム長の鬼沢です！\n様々な方のご協力を得て、ついにNotionの整備が完了いたしました！\n\n今日から*新しいカードはNotionでの作成*をお願いします！\nTrelloでチェック途中のカードはTrelloのままで大丈夫です。\n\n何かわからないことがあれば、いつでもご連絡ください！\n今後ともよろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJqZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【Notionについて】\nお疲れ様です！Notionチーム長の鬼沢です！\n様々な方のご協力を得て、ついにNotionの整備が完了いたしました！\n\n今日から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "新しいカードはNotionでの作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "をお願いします！\nTrelloでチェック途中のカードはTrelloのままで大丈夫です。\n\n何かわからないことがあれば、いつでもご連絡ください！\n今後ともよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXR4BPS5",
+                    "U06LK3MF9FC",
+                    "U0710T3MCUC",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06LCE69DRU",
+                    "U06LK3KJNJE",
+                    "U06LK3M7VGA",
+                    "U06LXK3RF7B",
+                    "U070Y9VV7MZ",
+                    "U06M7SETDKJ",
+                    "U06L4GJBJP9",
+                    "U06LK3ZBCN6",
+                    "U06LH4PDAQ3",
+                    "U06L4GM5C87",
+                    "U06L4GLJVKR",
+                    "U06LHACMG91",
+                    "U06LK3MMALA",
+                    "U070HS7MJH5",
+                    "U06M7TE180Y",
+                    "U070YD778SE",
+                    "U06LJRSQDC3",
+                    "U06L4GKC9N3",
+                    "U06L4GM463H",
+                    "U071M6XULE4",
+                    "U06L4GLRAK1",
+                    "U06LK0E89MH",
+                    "U06M7SSUS0G",
+                    "U06LG62UXPX",
+                    "U06TU27FX08",
+                    "U06LY8E3XA5",
+                    "U06LCE7DY6S",
+                    "U06LCE9NLP8",
+                    "U06L4GJ031V",
+                    "U070HS3G355",
+                    "U06LCED6ZK8",
+                    "U070RQ20K8W",
+                    "U06LJ4HJLMS",
+                    "U06LP6ZTYA1",
+                    "U06L2CSPXV5",
+                    "U06L9S67MEJ",
+                    "U06LXNY8KMF",
+                    "U06LCFWR494",
+                    "U06LK0DK7R9",
+                    "U06LXNY0MHP",
+                    "U06LCEA6J1L",
+                    "U06LXNX1A57",
+                    "U070RQFLLR4",
+                    "U070VFTNHNZ"
+                ],
+                "count": 49
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LCE69DRU",
+                    "U06LK3KJNJE",
+                    "U06LK3M7VGA",
+                    "U06LK3ZBCN6",
+                    "U06LH4PDAQ3",
+                    "U06LCUTBMU5",
+                    "U06M7TE180Y",
+                    "U06LK3HUVTL",
+                    "U06LJRSQDC3",
+                    "U06L4GM463H",
+                    "U06L4GLRAK1",
+                    "U06M7SSUS0G",
+                    "U06LG62UXPX",
+                    "U06TU27FX08",
+                    "U06LCE9NLP8",
+                    "U06L4GJ031V",
+                    "U06L9S67MEJ",
+                    "U06LXNY8KMF",
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L"
+                ],
+                "count": 21
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06L9S67MEJ",
+                    "U06LXNY8KMF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1712647755.005439",
+        "client_msg_id": "A95EAA0B-13B8-471B-A622-1C05B31731FC",
+        "text": "中野で健康診断なので、少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548484.970539",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYSO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中野で健康診断なので、少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3NPUQ2",
+        "type": "message",
+        "ts": "1712648431.386819",
+        "client_msg_id": "CA6AC7BC-D197-43FA-98F0-9475374C3AB8",
+        "text": "家庭がごたついているので、1時間遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "166eec50e217",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6737106609027_166eec50e217c93d1caf_72.png",
+            "first_name": "安井統悟",
+            "real_name": "安井統悟",
+            "display_name": "Yasui.Togo",
+            "team": "T06L90YHJF8",
+            "name": "togotogo0428",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548484.970539",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FaF0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家庭がごたついているので、1時間遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1715237781.907229",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1715238101.000000"
+        },
+        "client_msg_id": "A4D27D72-1153-497E-A892-FBFC753EB8D2",
+        "text": "<!channel>\n0514_第8回運営局備品管理部門会議\n【時間】\n17:10 ~ 20:40\n【場所】\nM711\n【議題】\n1.各種報告（意思共有）\n2.大学備品タスク大枠決め(意見交換)\n3.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n結局5限からやることになりました:cry:\nとてもとても長いけどお菓子とか沢山持ち寄って頑張ろうね:muscle:\n\n今受けている統計学の授業がとてもつまらないです。ウトウトするなよただひかり:bangbang:\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPOci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0514_第8回運営局備品管理部門会議\n【時間】\n17:10 ~ 20:40\n【場所】\nM711\n【議題】\n1.各種報告（意思共有）\n2.大学備品タスク大枠決め(意見交換)\n3.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n結局5限からやることになりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとてもとても長いけどお菓子とか沢山持ち寄って頑張ろうね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n今受けている統計学の授業がとてもつまらないです。ウトウトするなよただひかり"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sleepy",
+                "users": [
+                    "U06LXP3HYQH",
+                    "U06LCEA6J1L",
+                    "U06LMH6PR9S",
+                    "U06LK3MMALA"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_ひかり_ヒカキン",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK3LKR9Q",
+                    "U06LXP3HYQH",
+                    "U06LMH6PR9S",
+                    "U06LK3MMALA",
+                    "U06M7SX52RW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "運営_ひかり_多田光らない",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK3LKR9Q",
+                    "U06LXP3HYQH",
+                    "U06LMH6PR9S",
+                    "U06LK3MMALA",
+                    "U06LK0EQS59",
+                    "U06M7SX52RW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "male-singer",
+                "users": [
+                    "U06LCEA6J1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_symbols_on_mouth",
+                "users": [
+                    "U06LMH6PR9S",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "angel",
+                "users": [
+                    "U06LMH6PR9S",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0EQS59",
+                    "U06LKJS20KC",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_備品_bkb",
+                "users": [
+                    "U06LK0EQS59",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1720162780.245889",
+        "client_msg_id": "3f309463-83f7-4686-b06e-e6dc61437e74",
+        "text": "<!channel>\n※リマインド\nチーム長は各自準備をすすめてね。よろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3bW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※リマインド\nチーム長は各自準備をすすめてね。よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LCE9HTP0",
+                    "U06LMH412CU",
+                    "U06L4GH3T7H"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

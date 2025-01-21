@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U070YDYBFGA",
+        "type": "message",
+        "ts": "1732614130.339429",
+        "client_msg_id": "67051667-C2E5-4737-9036-8815B4D893E6",
+        "text": "体調不良のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acfee07457a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055264968576_acfee07457a5589f1b27_72.png",
+            "first_name": "井田礼香",
+            "real_name": "井田礼香",
+            "display_name": "Ida .Reika",
+            "team": "T06L90YHJF8",
+            "name": "idareika2005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732492804.921589",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQCi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

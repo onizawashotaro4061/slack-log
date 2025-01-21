@@ -1,0 +1,48 @@
+[
+    {
+        "text": "<!channel> \nこれ全員確認してチームごとに対応して！",
+        "files": [
+            {
+                "id": "F07J25KUYDN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L97X3V6J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o3V\/j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこれ全員確認してチームごとに対応して！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1723969320.977139",
+        "client_msg_id": "26F5762F-50C4-4093-B979-DC4B607DBC5F",
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06M7SU83G8",
+                    "U06LCE9HTP0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

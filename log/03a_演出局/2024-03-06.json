@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U06LMHBUVT6",
+        "type": "message",
+        "ts": "1709772839.432059",
+        "client_msg_id": "30B9001F-CC3D-4266-BD4B-C9C56E430D1F",
+        "text": "<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51fad438f0e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-31\/7656365925237_51fad438f0e4f464f7b0_72.png",
+            "first_name": "佐藤里帆",
+            "real_name": "佐藤里帆",
+            "display_name": "Sato.Riho",
+            "team": "T06L90YHJF8",
+            "name": "riho500m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

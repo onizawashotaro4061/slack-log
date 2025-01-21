@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1709858331.722999",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1709864511.000000"
+        },
+        "client_msg_id": "fb05490b-9dfa-4294-9ab9-b452ecb965d3",
+        "text": "<!channel>\nおつかれさまです！\nSlackチームの吉良です。\nこれからSlackのスタンプよく使うと思うのでどんどん追加しちゃってください！\n下のURLからスタンプ作って、Slackの“絵文字を追加する“のところに入れるだけです！\n<https:\/\/zk-phi.github.io\/MEGAMOJI\/|https:\/\/zk-phi.github.io\/MEGAMOJI\/>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709858331.722999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709864471.017649",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1709864471.017649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/zk-phi.github.io\/MEGAMOJI\/ogp.webp",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 255122,
+                "from_url": "https:\/\/zk-phi.github.io\/MEGAMOJI\/",
+                "service_icon": "https:\/\/zk-phi.github.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zk-phi.github.io\/MEGAMOJI\/",
+                "fallback": "MEGAMOJI - カスタム絵文字メーカー",
+                "text": "カスタム絵文字をサクッと作れる:cat:",
+                "title": "MEGAMOJI - カスタム絵文字メーカー",
+                "title_link": "https:\/\/zk-phi.github.io\/MEGAMOJI\/",
+                "service_name": "zk-phi.github.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mhwof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nSlackチームの吉良です。\nこれからSlackのスタンプよく使うと思うのでどんどん追加しちゃってください！\n下のURLからスタンプ作って、Slackの“絵文字を追加する“のところに入れるだけです！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zk-phi.github.io\/MEGAMOJI\/",
+                                "text": "https:\/\/zk-phi.github.io\/MEGAMOJI\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06LHACMG91",
+                    "U06L4GH3T7H",
+                    "U06LCUTBMU5",
+                    "U06LXR4BPS5",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP",
+                    "U06M7SU83G8",
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06L9S67MEJ",
+                    "U06LJ4HJLMS",
+                    "U06LMH49MQU"
+                ],
+                "count": 14
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06LK3K88SW",
+                    "U06L4GH3T7H",
+                    "U06LCUTBMU5",
+                    "U06M7SUULGY",
+                    "U06LXNYUX7T",
+                    "U06M7SU83G8",
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06L9S67MEJ",
+                    "U06LJ4HJLMS",
+                    "U06LCE9EA3G"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709864471.017649",
+        "client_msg_id": "CC3F51FA-C88F-4A96-B6E5-42F69C83F01E",
+        "text": "みんなのスタンプ楽しみにしてるね。\nいっぱいおもろいのお願いします！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709858331.722999",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQiJH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みんなのスタンプ楽しみにしてるね。\nいっぱいおもろいのお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

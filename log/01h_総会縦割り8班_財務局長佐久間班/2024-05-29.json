@@ -1,0 +1,47 @@
+[
+    {
+        "text": "<!channel>\nこんにちは！こちらは総会縦割り班のチャンネルです！\nみなさんは8班（財務局長佐久間班）に配属となりました、よろしくお願いします:wink:\n添付のQRは縦割りのLINEグループなので、みなさん入っていただけるとありがたいです！\nいろいろあって入れませんとかあったら総会で直接招待します！\n\nというわけで、初回の縦割りコンテンツは6\/1(土)の総会です、みんなきてね～",
+        "files": [
+            {
+                "id": "F076E68SC2C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKEPTCA0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pXlBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこんにちは！こちらは総会縦割り班のチャンネルです！\nみなさんは8班（財務局長佐久間班）に配属となりました、よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n添付のQRは縦割りのLINEグループなので、みなさん入っていただけるとありがたいです！\nいろいろあって入れませんとかあったら総会で直接招待します！\n\nというわけで、初回の縦割りコンテンツは6\/1(土)の総会です、みんなきてね～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717046486.829929",
+        "client_msg_id": "55264db3-df51-47f2-ab6a-53096f58a50d"
+    }
+]

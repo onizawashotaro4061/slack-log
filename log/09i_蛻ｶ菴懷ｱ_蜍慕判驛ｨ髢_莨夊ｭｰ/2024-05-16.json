@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1715843528.231459",
+        "edited": {
+            "user": "U06LJ0SKMEZ",
+            "ts": "1715843539.000000"
+        },
+        "client_msg_id": "FC540B27-5729-4D84-A851-E74470373336",
+        "text": "<!channel>\n【第5回動画部門会議】\n日時:5月20日（月）19:00～\n場所:グループ閲覧室2\n持ち物:パソコン\n議事録:じゃんけん\n\n議題\n1.雰囲気創出動画企画書たたき(意見交換)\n2.プレ技術伝達(意見交換)\n3.部門体験コンテンツ反省(意見交換)\n4.アイスブレイク内容決定(意見交換)\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715843528.231459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716191291.153669",
+        "reply_users": [
+            "U06LXNYGGHX",
+            "U06LXNUQ989"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNYGGHX",
+                "ts": "1715845651.773549"
+            },
+            {
+                "user": "U06LXNUQ989",
+                "ts": "1716191291.153669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8o64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第5回動画部門会議】\n日時:5月20日（月）19:00～\n場所:グループ閲覧室2\n持ち物:パソコン\n議事録:じゃんけん\n\n議題\n1.雰囲気創出動画企画書たたき(意見交換)\n2.プレ技術伝達(意見交換)\n3.部門体験コンテンツ反省(意見交換)\n4.アイスブレイク内容決定(意見交換)\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LXNUQ989",
+                    "U06LK0DK7R9",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LXNYGGHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYGGHX",
+        "type": "message",
+        "ts": "1715845651.773549",
+        "client_msg_id": "56F29E9B-EB4C-4A70-B5AD-3BAC9F8527B1",
+        "text": "ゼミの新歓でお休みします :woman-bowing: 2週連続欠席でご迷惑おかけします :pray: :pray: :pray: :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f8dec73f090b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8018265108613_f8dec73f090b0fbc3fca_72.png",
+            "first_name": "髙田凜",
+            "real_name": "髙田凜",
+            "display_name": "Takada.Rin",
+            "team": "T06L90YHJF8",
+            "name": "t.rinrin0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715843528.231459",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BG0dv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの新歓でお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2週連続欠席でご迷惑おかけします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

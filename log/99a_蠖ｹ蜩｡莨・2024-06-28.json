@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1719582695.925089",
+        "client_msg_id": "BE957B03-F14A-4BF4-BB52-8DDADD923603",
+        "text": "なるせが16時からバイトの関係でグラフィックデザイン部門活動企画書とステッカー企画(仮)一般企画書を早めに扱いたいです :man-bowing: \nいけますかね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718686235.342629",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luQsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるせが16時からバイトの関係でグラフィックデザイン部門活動企画書とステッカー企画(仮)一般企画書を早めに扱いたいです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nいけますかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

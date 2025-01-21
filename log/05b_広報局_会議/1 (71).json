@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1730181070.715849",
+        "client_msg_id": "FD4D3C86-14A5-4BB4-A685-51923510A24B",
+        "text": "授業で遅れます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730097723.937029",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFAyZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業で遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

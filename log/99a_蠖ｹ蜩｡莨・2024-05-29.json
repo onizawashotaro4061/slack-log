@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1716998859.406219",
+        "client_msg_id": "3F5060D2-DA7E-4E69-8B67-1FCEEB57756E",
+        "text": "チャンフェスもいけたらやりたい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716944928.034279",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zu1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チャンフェスもいけたらやりたい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "inviter": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1725873398.779309"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3K88SW",
+        "text": "<@U06LK3K88SW>さんがチャンネルに参加しました",
+        "inviter": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1725873413.350959"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9UEAAF",
+        "text": "<@U070Y9UEAAF>さんがチャンネルに参加しました",
+        "inviter": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1725874014.870379"
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1725874760.896479",
+        "client_msg_id": "87fa9441-1c05-43be-be81-715ef89d39cc",
+        "text": "<!channel> \nお疲れ様です。\n皆さんのご協力のおかげで、\n参加メンバーが決定しました。\n\n重複しますが、\n日時: 9月18日(水)\n場所: 株式会社会社ユニークピース\n(〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 3F)\n\n13時～18時まで空けていただければ大丈夫です！\n当日は3時間を想定しておりますので、\n開始時間が決まりましたらまたご連絡いたします。\n\n本イベントでの協賛金は約10万円です！\n激アツです！\n協賛活動ではございますが、皆様の就活に役立つと思いますので、ご協力の程よろしくお願いいたします！\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLQ3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n皆さんのご協力のおかげで、\n参加メンバーが決定しました。\n\n重複しますが、\n日時: 9月18日(水)\n場所: 株式会社会社ユニークピース\n(〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 3F)\n\n13時～18時まで空けていただければ大丈夫です！\n当日は3時間を想定しておりますので、\n開始時間が決まりましたらまたご連絡いたします。\n\n本イベントでの協賛金は約10万円です！\n激アツです！\n協賛活動ではございますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "皆様の就活に役立つと思いますので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご協力の程よろしくお願いいたします！\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LK3K88SW",
+                    "U070RQ0VCP8",
+                    "U06LHACMG91",
+                    "U06LH4PDAQ3",
+                    "U070Y9UEAAF"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1722062562.481149",
+        "client_msg_id": "7d3461d6-94f2-4353-8c97-2aedb6dfbd14",
+        "text": "<!channel>\nお疲れ様です！\n救命救急講習会の実施については、実施不可となりました。そのため8月1日は何もございません。\nよろしくお願いします。\n連絡が遅くなったこと、深くお詫び申し上げます。\n誠に申し訳ございませんでした。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QtDd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n救命救急講習会の実施については、実施不可となりました。そのため8月1日は何もございません。\nよろしくお願いします。\n連絡が遅くなったこと、深くお詫び申し上げます。\n誠に申し訳ございませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LK0F2RC3",
+                    "U06LCUTBMU5",
+                    "U06LE249H0V",
+                    "U06LK3HUVTL",
+                    "U06LMH49MQU",
+                    "U06LKTXCZL4",
+                    "U06LCE8L8LW",
+                    "U06LK0FPH2P",
+                    "U06M7SX52RW",
+                    "U06LK3ZBCN6",
+                    "U06LY5XNLBT",
+                    "U06L4GM463H"
+                ],
+                "count": 13
+            },
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LE249H0V",
+                    "U06LKTXCZL4",
+                    "U06LCE8L8LW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

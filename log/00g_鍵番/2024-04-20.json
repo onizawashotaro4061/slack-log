@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1713606794.216669",
+        "client_msg_id": "2380F58C-DA62-44F5-953D-C389B8380524",
+        "text": "閉め返し！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omaHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉め返し！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCE9HTP0",
+                    "U06LXNZDHFT",
+                    "U06LKJS20KC",
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6",
+                    "U06LXNYUX7T"
+                ],
+                "count": 7
+            },
+            {
+                "name": "運営_インフラ_やや転びなおき",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCE9HTP0",
+                    "U06LXNZDHFT",
+                    "U06LK3LHG0J",
+                    "U06LK3ZBCN6",
+                    "U06LKHN3RE0"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

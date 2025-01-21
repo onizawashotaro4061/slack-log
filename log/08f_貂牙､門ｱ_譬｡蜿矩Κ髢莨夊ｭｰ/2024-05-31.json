@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1717143812.807019",
+        "client_msg_id": "447F7D41-6449-4401-A1B6-B3FC1C4B6405",
+        "text": "体調不良のため欠席します。みんなごめん:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717137166.887659",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOhdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。みんなごめん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1717144567.411079",
+        "client_msg_id": "A44359D2-8951-48F9-8243-EA737376F6B1",
+        "text": "体調が悪いので欠席します。ごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717137166.887659",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJVOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪いので欠席します。ごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

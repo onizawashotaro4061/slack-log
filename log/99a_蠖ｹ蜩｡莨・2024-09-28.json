@@ -1,0 +1,609 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1727508714.959899",
+        "client_msg_id": "11A98B77-B5F3-4D3D-B805-6C5A5B7BAD69",
+        "text": "もう一回事故のときとかの確認したい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725323055.537279",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVqO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう一回事故のときとかの確認したい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727511303.322479",
+        "text": "",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511303.322479",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1727581649.775169",
+        "reply_users": [
+            "U06LE9EH9QV"
+        ],
+        "replies": [
+            {
+                "user": "U06LE9EH9QV",
+                "ts": "1727575552.115149"
+            },
+            {
+                "user": "U06LE9EH9QV",
+                "ts": "1727581649.775169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "ts": "1725323055.537279",
+                "author_id": "U06L97X3V6J",
+                "channel_id": "C06NJQFJCKD",
+                "channel_team": "T06L90YHJF8",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06L90YHJF8",
+                        "channel": "C06NJQFJCKD",
+                        "ts": "1725323055.537279",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "NBfUD",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "0929_第31回役員会\n場所　じつぼ\n時間　13:00-17:00\n議題\n13:00-13:30 界隈部門活動\n13:30-14:00校友部門活動\n14:00-14:30ホムカ\n14:30-15:00企画効果測定\n15:00-15:30局長報告\n15:30-村川とゆうすけの\n-17:00終了"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/140meidisai.slack.com\/archives\/C06NJQFJCKD\/p1725323055537279?thread_ts=1725323055.537279&cid=C06NJQFJCKD",
+                "is_share": true,
+                "fallback": "[September 3rd, 2024 9:24 AM] maetouma: 0929_第31回役員会\n場所　じつぼ\n時間　13:00-17:00\n議題\n13:00-13:30 界隈部門活動\n13:30-14:00校友部門活動\n14:00-14:30ホムカ\n14:30-15:00企画効果測定\n15:00-15:30局長報告\n15:30-村川とゆうすけの\n-17:00終了",
+                "text": "0929_第31回役員会\n場所　じつぼ\n時間　13:00-17:00\n議題\n13:00-13:30 界隈部門活動\n13:30-14:00校友部門活動\n14:00-14:30ホムカ\n14:30-15:00企画効果測定\n15:00-15:30局長報告\n15:30-村川とゆうすけの\n-17:00終了",
+                "author_name": "前冬磨",
+                "author_link": "https:\/\/140meidisai.slack.com\/team\/U06L97X3V6J",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_48.png",
+                "author_subname": "前冬磨",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727511309.239739",
+        "client_msg_id": "0D8F7467-B7A5-43A6-AA15-FFA13F19B4B6",
+        "text": "<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727511339.294649",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1727587231.000000"
+        },
+        "client_msg_id": "61D60B8D-C5F5-4AC3-B985-F1E6EEFACBFC",
+        "text": "1006_第32回役員会",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511339.294649",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1728106892.523619",
+        "reply_users": [
+            "U06LKEPTCA0",
+            "U06LH4PDAQ3",
+            "U06L2DCDLF9",
+            "U06LHACMG91",
+            "U06LDT584J1",
+            "U06LKHN3RE0"
+        ],
+        "replies": [
+            {
+                "user": "U06LKEPTCA0",
+                "ts": "1727587889.894109"
+            },
+            {
+                "user": "U06LH4PDAQ3",
+                "ts": "1727679103.076649"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1727771093.004349"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727844050.486829"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727844053.690289"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1727866057.706869"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1727930758.725489"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1728032083.844109"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1728032094.288989"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1728033395.087289"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1728045568.437379"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1728094474.682339"
+            },
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1728106892.523619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIoCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1006_第32回役員会"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727511352.364149",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1728449463.000000"
+        },
+        "client_msg_id": "4C5E80D0-53A6-4FD1-B982-278AC0B3A286",
+        "text": "1013_第33回役員会\n時間：10時～12時",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511352.364149",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1728453215.522939",
+        "reply_users": [
+            "U06LHACMG91",
+            "U06L97X3V6J",
+            "U06LKHN3RE0",
+            "U06LDT584J1"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727587423.620769"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727844071.818179"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1727844152.767169"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727844297.678809"
+            },
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1728012839.469519"
+            },
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1728448778.606299"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1728449705.734529"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1728451771.725869"
+            },
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1728453215.522939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BEzW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1013_第33回役員会\n時間：10時～12時"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1727575552.115149",
+        "edited": {
+            "user": "U06LE9EH9QV",
+            "ts": "1727581642.000000"
+        },
+        "client_msg_id": "A1788AA7-24EF-446A-A169-272EE422492C",
+        "text": "前用が押してて少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511303.322479",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vz\/qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前用が押してて少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1727581649.775169",
+        "client_msg_id": "FED6DD39-C0A8-46D4-B279-2ED2876D9E35",
+        "text": "かなりおしてますほんとにごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511303.322479",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1L4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かなりおしてますほんとにごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727587266.786549",
+        "client_msg_id": "2438e2a0-b423-4d81-b888-24b2b60dfeb1",
+        "text": "1020_第34回役員会",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727587266.786549",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1729384475.160199",
+        "reply_users": [
+            "U06LHACMG91",
+            "U06L2DCDLF9"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727844083.441669"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1727846640.636549"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1729384475.160199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/bII",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1020_第34回役員会"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1727587423.620769",
+        "client_msg_id": "8850E00B-E8CD-4673-A6CE-427FB149214A",
+        "text": "ブックフェスタ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511352.364149",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpgcz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブックフェスタ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1727587889.894109",
+        "client_msg_id": "A6128881-C26D-483F-8BDE-2224CA384461",
+        "text": "財務局実務部門活動企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727511339.294649",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rj\/Rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "財務局実務部門活動企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

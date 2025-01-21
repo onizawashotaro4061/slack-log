@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1712889547.086039",
+        "client_msg_id": "18305040-5764-4E94-BBB4-E1E1C1079588",
+        "text": "0428_第12回役員会議\n・参加団体局活動企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712889547.086039",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1713534771.080059",
+        "reply_users": [
+            "U06LDT584J1",
+            "U06L97X3V6J",
+            "U06LCUTBMU5"
+        ],
+        "replies": [
+            {
+                "user": "U06LDT584J1",
+                "ts": "1712920452.788409"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1712993891.291999"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713005447.526349"
+            },
+            {
+                "user": "U06LCUTBMU5",
+                "ts": "1713228299.476309"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713324460.070939"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713490992.026149"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713531752.503959"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713534771.080059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvxvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0428_第12回役員会議\n・参加団体局活動企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1712889608.251549",
+        "client_msg_id": "8D058B30-839C-44BA-A75D-2E3C009C9AB4",
+        "text": "とうまに伝えたけど、演出局活動企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710568335.639799",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQ\/5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とうまに伝えたけど、演出局活動企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

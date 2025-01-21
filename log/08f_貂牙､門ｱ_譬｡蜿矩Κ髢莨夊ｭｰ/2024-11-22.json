@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1732265834.890709",
+        "client_msg_id": "6D19ED17-B448-4699-9672-40EC8A2F6068",
+        "text": "今日のインタビュー説明は自分のパソコンを繋いでやりたいんですが、接続用ハブを家に忘れてしまったため5限の後取りに帰ってから会議参加します。ちょい遅れます:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732190548.352569",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/\/7QO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日のインタビュー説明は自分のパソコンを繋いでやりたいんですが、接続用ハブを家に忘れてしまったため5限の後取りに帰ってから会議参加します。ちょい遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1728474923.840689",
+        "edited": {
+            "user": "U06M7SW8GAU",
+            "ts": "1729740952.000000"
+        },
+        "client_msg_id": "F91D896B-2269-48DB-9F26-3B97D7CF35BA",
+        "text": "<!channel>\n1010_第22回屋外ステージ部門会議\n【場所】あとでいう\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.系統について（意思共有）\n                3.第4回参加団体説明会について（意思共有・決定）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U070Y9U7WRZ>\n                    チェック：  <@U06LG655N21> <@U06LXNZG6HX>\n\n\n希來くんごめんなさい明日渡します✩\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLXLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1010_第22回屋外ステージ部門会議\n【場所】あとでいう\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.系統について（意思共有）\n                3.第4回参加団体説明会について（意思共有・決定）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9U7WRZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                    チェック：  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG655N21"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZG6HX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n希來くんごめんなさい明日渡します✩\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070YA6CQLB",
+                    "U071B3A1G4R",
+                    "U06LK3Q5M0S",
+                    "U070HS3G355",
+                    "U06LMH8RNBE",
+                    "U071M6ZSSLQ",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070YA6CQLB",
+                    "U06LK3Q5M0S",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "enfp-広報運動家-",
+                "users": [
+                    "U06LG655N21",
+                    "U06LK3Q6Y2W",
+                    "U071M6ZSSLQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "isfj-擁護者-",
+                "users": [
+                    "U06LK3Q5M0S",
+                    "U06LK3PHPQA",
+                    "U06LXNZG6HX",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "esfj-領事館-",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "anger",
+                "users": [
+                    "U0710SYRRAQ",
+                    "U06LXNZG6HX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

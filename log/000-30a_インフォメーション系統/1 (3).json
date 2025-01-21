@@ -1,0 +1,821 @@
+[
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730459977.521689",
+        "client_msg_id": "82a7064a-c818-4e0a-95f0-f7ec0df0b5a2",
+        "text": "<!channel>\nお疲れ様です。パンフレット管理副担当の前田です。\n明日についての連絡です。\n\n今後明日（11\/2）のシフトがリリースされると思いますが、*パンフレット運搬*と*パンフレット配布シフト*のシフトに入っている方は、必ず*レインコートとタオル（雨を拭く用）*を持参してください。\n\n雨が降っていてもこの二つのシフトは実行してもらう形になるので、風邪をひかないように必ず持参お願いします:umbrella_with_rain_drops:️\n\nご協力お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XzB4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。パンフレット管理副担当の前田です。\n明日についての連絡です。\n\n今後明日（11\/2）のシフトがリリースされると思いますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パンフレット運搬",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パンフレット配布シフト",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "のシフトに入っている方は、必ず"
+                            },
+                            {
+                                "type": "text",
+                                "text": "レインコートとタオル（雨を拭く用）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を持参してください。\n\n雨が降っていてもこの二つのシフトは実行してもらう形になるので、風邪をひかないように必ず持参お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_with_rain_drops",
+                                "unicode": "2614"
+                            },
+                            {
+                                "type": "text",
+                                "text": "️\n\nご協力お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばる",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06M7SSUS0G",
+                    "U06LXNZFWDP",
+                    "U06LG61U9QD",
+                    "U06LH4PDAQ3",
+                    "U06LJRSQDC3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "まえだゆう",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06LK3HUVTL",
+                    "U06L4CMKY8P",
+                    "U06L4GM5C87"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_インフラ_みいな_誇り高き逗子市民笑",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4CMKY8P",
+        "type": "message",
+        "ts": "1730472615.629499",
+        "edited": {
+            "user": "U06L4CMKY8P",
+            "ts": "1730472883.000000"
+        },
+        "client_msg_id": "47F2B3EC-955D-4BA0-8FAE-71D956D590C8",
+        "text": "<!channel> \nお疲れ様です。インフォメーション本部記録統括の清野です。\n\n明日からさっそく本部記録シフトに入る子が多くいるかと思います。\n大事なので改めてリマインドですが、本部記録担当と本部記録補佐ともに、*必ず充電済みのパソコンを持ってくる*ようにしてください！！\n充電するところはないです！\n\n例年以上にインフォメーション系統Zelloの稼働率が高くなる予想ですので、一緒に気合入れてタイピングしましょう！\n\n（大雨の場合のみ国交ラウンジを拠点としてインフォ本部記録シフトを行う可能性があります。その場合は私から連絡しますので確認をお願いいたします。）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b660bcd576fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7979995051652_b660bcd576fd7ddb68dc_72.png",
+            "first_name": "清野琴弓",
+            "real_name": "清野琴弓",
+            "display_name": "Seino.Kotomi",
+            "team": "T06L90YHJF8",
+            "name": "s.koto.0320",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOAMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。インフォメーション本部記録統括の清野です。\n\n明日からさっそく本部記録シフトに入る子が多くいるかと思います。\n大事なので改めてリマインドですが、本部記録担当と本部記録補佐ともに、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "必ず充電済みのパソコンを持ってくる",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ようにしてください！！\n充電するところはないです！\n\n例年以上にインフォメーション系統"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zello"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の稼働率が高くなる予想ですので、一緒に気合入れてタイピングしましょう！\n\n（大雨の場合のみ国交ラウンジを拠点としてインフォ本部記録シフトを行う可能性があります。その場合は私から連絡しますので確認をお願いいたします。）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06L4GM5C87",
+                    "U06LXNY8KMF",
+                    "U06LK0BP1TM",
+                    "U06LY5XNLBT",
+                    "U06LK3HUVTL",
+                    "U06LJRSQDC3",
+                    "U070RQFLLR4"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LY5XNLBT",
+                    "U06LJRSQDC3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1730476004.514289",
+        "client_msg_id": "D044EAC2-3F16-429B-B0A8-1184014F7911",
+        "text": "<!channel> \nおつかれさまです。夜分遅くにすみません、インフォブース統括の川口です。\n\nマニュアル講習会でもお話しした通り、インフォブースのシフトでも*必ず充電済みのパソコンを持ってくる*ようにしてください！！充電はできません！\n\nシフトに入る際、*人員が揃って準備ができたら必ず私にZelloで報告*してください！シフトが終わったタイミングでの報告はする必要ありませんが、*1日の最後のシフトの人（17:30〜の人）はシフトが終わったタイミングでもZelloで報告*し、私が該当ブースに行くまでその場で待っていてください、！\n\n特に屋外インフォブースは雨で明日どうなるかまだわかりませんが、状況を見てまた連絡します！天気は雨でもこっちは笑顔で来場者対応がんばりましょ〜 :relieved: :rain_cloud: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9pdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです。夜分遅くにすみません、インフォブース統括の川口です。\n\nマニュアル講習会でもお話しした通り、インフォブースのシフトでも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "必ず充電済みのパソコンを持ってくる",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ようにしてください！！充電はできません！\n\nシフトに入る際、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "人員が揃って準備ができたら必ず私にZelloで報告",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "してください！シフトが終わったタイミングでの報告はする必要ありませんが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1日の最後のシフトの人（17:30〜の人）はシフトが終わったタイミングでもZelloで報告",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "し、私が該当ブースに行くまでその場で待っていてください、！\n\n特に屋外インフォブースは雨で明日どうなるかまだわかりませんが、状況を見てまた連絡します！天気は雨でもこっちは笑顔で来場者対応がんばりましょ〜 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rain_cloud",
+                                "unicode": "1f327-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LJRSQDC3",
+                    "U06LXK3RF7B",
+                    "U06LH4PDAQ3",
+                    "U06LK3M7VGA",
+                    "U06LK3L6B4J"
+                ],
+                "count": 6
+            },
+            {
+                "name": "みちる",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LH4PDAQ3",
+                    "U06LJBVA2DS",
+                    "U06L4GJBJP9",
+                    "U06LK3L6B4J"
+                ],
+                "count": 5
+            },
+            {
+                "name": "聖母-みちるさん",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LH4PDAQ3",
+                    "U06L4GM5C87"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \nお疲れ様です。広報局副局長の橋本です。\n\nインフォメーション系統マニュアルのデータ版の共有をします。\n確認お願いします！",
+        "files": [
+            {
+                "id": "F07UCN6D7D4",
+                "created": 1730502573,
+                "timestamp": 1730502573,
+                "name": "第140回明大祭_インフォメーション系統マニュアル.pdf",
+                "title": "第140回明大祭_インフォメーション系統マニュアル",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06LK3L6B4J",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 1314558,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UCN6D7D4\/___140_____________________________________________________________.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UCN6D7D4\/download\/___140_____________________________________________________________.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UCN6D7D4-1224f767e7\/___140______________________________________________________________thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LK3L6B4J\/F07UCN6D7D4\/___140_____________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07UCN6D7D4-a7576e45db",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3L6B4J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+QYql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。広報局副局長の橋本です。\n\nインフォメーション系統マニュアルのデータ版の共有をします。\n確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730502576.482679",
+        "client_msg_id": "77E30433-A7A8-4553-85C3-2AD90ACE8D49",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06L4GM5C87",
+                    "U06LK3HUVTL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LG62UXPX",
+        "type": "message",
+        "ts": "1730507352.732019",
+        "client_msg_id": "7E928EBB-D035-48DB-BCF3-99851A3F16FC",
+        "text": "<!channel> グッズ販売のシフトに入る方はこのZelloに入るようお願いします！\n5分前に来れない方はZelloで連絡してください。\n11時からのシフトの方は10分前にお願いします。\n集合場所変更等もZelloで連絡します。\n\n\nZello のチャンネル グッズ販売シフト をチェックしてください。\n<https:\/\/zello.me\/k\/iQNGa|https:\/\/zello.me\/k\/iQNGa>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4811f0cc3f6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7742240370241_4811f0cc3f6b6b565c6c_72.png",
+            "first_name": "左中瑠奈",
+            "real_name": "左中瑠奈",
+            "display_name": "Sanaka.Runa",
+            "team": "T06L90YHJF8",
+            "name": "runa_924_sanakaru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zello.me\/k\/iQNGa",
+                "service_icon": "https:\/\/zello.com\/img\/plain_57x57.png",
+                "thumb_url": "http:\/\/zello.com\/myy\/c\/iQNGa\/profile.jpeg?1730507116&ssl=1",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "id": 1,
+                "original_url": "https:\/\/zello.me\/k\/iQNGa",
+                "fallback": "Zello channels: グッズ販売シフト",
+                "text": "Zello channel",
+                "title": "グッズ販売シフト",
+                "title_link": "https:\/\/zello.me\/k\/iQNGa",
+                "service_name": "Zello channels"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWSY0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " グッズ販売のシフトに入る方はこのZelloに入るようお願いします！\n5分前に来れない方はZelloで連絡してください。\n11時からのシフトの方は10分前にお願いします。\n集合場所変更等もZelloで連絡します。\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zello のチャンネル グッズ販売シフト をチェックしてください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zello.me\/k\/iQNGa",
+                                "text": "https:\/\/zello.me\/k\/iQNGa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730509404.242519",
+        "client_msg_id": "8a67b705-f999-44b1-b1e8-547b0e43480f",
+        "text": "<!channel>\nお疲れ様です！パンフレット管理副担当の前田です。\n\n裁断済みのパンフレットを今日配り切りたいのですが、雨なのであまりパンフレットが捌けないことが予測されます:umbrella_with_rain_drops:️\n余ったら捨てるしかないので、*パンフレット配布シフトの方は、頑張って1人でも多くの人に配ってほしいです！*:fire:雨なので大変だと思いますが、ご協力お願いします:umbrella_with_rain_drops:️\nまたインフォメーションブースのシフトに入っている方はパンフレットが入った*袋を持っていない来場者の方にも積極的に配ってほしいです！*:fire:\n\n雨なので大変だと思いますが、ご協力お願いします！:umbrella_with_rain_drops:\n\nグラフィックデザイン部門員一同より",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9FZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！パンフレット管理副担当の前田です。\n\n裁断済みのパンフレットを今日配り切りたいのですが、雨なのであまりパンフレットが捌けないことが予測されます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_with_rain_drops",
+                                "unicode": "2614"
+                            },
+                            {
+                                "type": "text",
+                                "text": "️\n余ったら捨てるしかないので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パンフレット配布シフトの方は、頑張って1人でも多くの人に配ってほしいです！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "雨なので大変だと思いますが、ご協力お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_with_rain_drops",
+                                "unicode": "2614"
+                            },
+                            {
+                                "type": "text",
+                                "text": "️\nまたインフォメーションブースのシフトに入っている方はパンフレットが入った"
+                            },
+                            {
+                                "type": "text",
+                                "text": "袋を持っていない来場者の方にも積極的に配ってほしいです！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n雨なので大変だと思いますが、ご協力お願いします！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_with_rain_drops",
+                                "unicode": "2614"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nグラフィックデザイン部門員一同より"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1730511200.614479",
+        "client_msg_id": "59B850F2-42ED-43E6-BB4B-2286392BDE28",
+        "text": "<!channel> \nお疲れ様です！明大前ジャックチーム長石井です。\n\n校外インフォブースシフトに入る方、\nシフト前に明大前ジャック全体Zelloに入ってください！普段はオフでOKです！\n校外の用事を緊急で伝える場合、こちらで報告をお願いします！\n\nZello のチャンネル 明大前ジャック・全体 をチェックしてください。\n<https:\/\/zello.me\/k\/iQIh8|https:\/\/zello.me\/k\/iQIh8>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zello.me\/k\/iQIh8",
+                "service_icon": "https:\/\/zello.com\/img\/plain_57x57.png",
+                "thumb_url": "http:\/\/zello.com\/img\/shared.zello.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/zello.me\/k\/iQIh8",
+                "fallback": "Zello channels: 明大前ジャック・全体",
+                "text": "Zello channel",
+                "title": "明大前ジャック・全体",
+                "title_link": "https:\/\/zello.me\/k\/iQIh8",
+                "service_name": "Zello channels"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6A\/4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！明大前ジャックチーム長石井です。\n\n校外インフォブースシフトに入る方、\nシフト前に明大前ジャック全体Zelloに入ってください！普段はオフでOKです！\n校外の用事を緊急で伝える場合、こちらで報告をお願いします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nZello のチャンネル 明大前ジャック・全体 をチェックしてください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zello.me\/k\/iQIh8",
+                                "text": "https:\/\/zello.me\/k\/iQIh8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1730515047.559559",
+        "client_msg_id": "ce075625-8f3e-4456-b8bd-597882b7b045",
+        "text": "<!channel>\n今後インフォブースのシフトに入る方！\nシフトに入る際のZelloでの連絡は、インフォメーション系統のチャンネルではなくて、*インフォメーションブース関連のチャンネル*で報告するようにお願いします！:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWbqB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今後インフォブースのシフトに入る方！\nシフトに入る際のZelloでの連絡は、インフォメーション系統のチャンネルではなくて、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "インフォメーションブース関連のチャンネル",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "で報告するようにお願いします！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4CMKY8P",
+        "type": "message",
+        "ts": "1730520228.746959",
+        "client_msg_id": "42324AB4-8EA7-45CA-881B-A4EC642BF329",
+        "text": "<!channel> \nインフォメーション系統本部記録は、総合インフォではなく国交ラウンジに変更しました。\n国交ラウンジに直接きてください！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b660bcd576fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7979995051652_b660bcd576fd7ddb68dc_72.png",
+            "first_name": "清野琴弓",
+            "real_name": "清野琴弓",
+            "display_name": "Seino.Kotomi",
+            "team": "T06L90YHJF8",
+            "name": "s.koto.0320",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYKsz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nインフォメーション系統本部記録は、総合インフォではなく国交ラウンジに変更しました。\n国交ラウンジに直接きてください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1730530292.727599",
+        "client_msg_id": "ABC1283E-06D4-4961-8D56-6B0FCCE30297",
+        "text": "【重要】\n本日の食堂横インフォブースは中止にします。\n16：00〜、17：30〜のシフトはフリーにします。\nご確認のほどよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eu9aV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【重要】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日の食堂横インフォブースは中止にします。\n16：00〜、17：30〜のシフトはフリーにします。\nご確認のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1733108518.066429",
+        "client_msg_id": "9D732A45-C9CF-4E29-955D-DAC5D2E3A649",
+        "text": "【各候補者への質問募集】\n<!channel> \nお疲れ様です。橋本です。\n委員長立候補者に対する事前質問を募集します。\n以下のフォームより送信してください。\n質問募集に関しての詳細はフォームのトップに記しておりますのでそちらをご確認ください。\nまた、選管から候補者に質問を共有するという形を取るため、選挙日直前に送られてきた質問に対応できなくなる可能性がございます。ゆとりを持って送信していただきますようお願いいたします。\n<https:\/\/forms.gle\/UBT882xEWgaaD9JR9|https:\/\/forms.gle\/UBT882xEWgaaD9JR9>\n\n昨年度の委員長選挙は当日の質疑応答にかなりの時間を要しておりました。\n教室の使用可能時間などの制約もございますので、できる限り事前質問をしていただければと思います。\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh6.googleusercontent.com\/LWIjtrKvErJoKjusS-r6L0OBDzJ4JwF0ULFRIAFC_BLxVmH_sjjsrCgqqrIon3M-yeZOpW3-Do4",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 50601,
+                "from_url": "https:\/\/forms.gle\/UBT882xEWgaaD9JR9",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/UBT882xEWgaaD9JR9",
+                "fallback": "Google Docs: 委員長立候補者に対する質問",
+                "text": "第141回明大祭実行委員会委員長選挙の立候補者に対する質問を募集します。\nフォームは誹謗中傷などを避けるため記名式としていますが、立候補者へは匿名で共有されます。\nなお、質問文はフォームの回答のとおり、原文のまま共有されます。",
+                "title": "委員長立候補者に対する質問",
+                "title_link": "https:\/\/forms.gle\/UBT882xEWgaaD9JR9",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5EVXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【各候補者への質問募集】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。橋本です。\n委員長立候補者に対する事前質問を募集します。\n以下のフォームより送信してください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n質問募集に関しての詳細はフォームのトップに記しておりますのでそちらをご確認ください。\nまた、選管から候補者に質問を共有するという形を取るため、選挙日直前に送られてきた質問に対応できなくなる可能性がございます。ゆとりを持って送信していただきますようお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/UBT882xEWgaaD9JR9",
+                                "text": "https:\/\/forms.gle\/UBT882xEWgaaD9JR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n昨年度の委員長選挙"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は当日の質疑応答にかなりの時間を要しておりました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教室の使用可能時間などの制約もございますので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、できる限り事前質問をしていただければと思います。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U06L4GH3T7H",
+                    "U0710T3MCUC",
+                    "U070RQ0VCP8",
+                    "U06LXNY0MHP",
+                    "U06LK3MF9FC",
+                    "U06L2DCDLF9"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LDT584J1",
+        "text": "<@U06LDT584J1>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564535.119319"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L2DCDLF9",
+        "text": "<@U06L2DCDLF9>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1710564545.851049"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH412CU",
+        "text": "<@U06LMH412CU>さんがチャンネルに参加しました",
+        "inviter": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710565021.758279"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LY8E3XA5",
+        "text": "<@U06LY8E3XA5>さんがチャンネルに参加しました",
+        "inviter": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710565021.846319"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GKK0CF",
+        "text": "<@U06L4GKK0CF>さんがチャンネルに参加しました",
+        "inviter": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710565021.920159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMQR40J0",
+        "text": "<@U06LMQR40J0>さんがチャンネルに参加しました",
+        "inviter": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710565021.992459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SU83G8",
+        "text": "<@U06M7SU83G8>さんがチャンネルに参加しました",
+        "inviter": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710565022.076189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GH4ETH",
+        "text": "<@U06L4GH4ETH>さんがチャンネルに参加しました",
+        "inviter": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1710565054.919099"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG6Q48SZ",
+        "text": "<@U06LG6Q48SZ>さんがチャンネルに参加しました",
+        "inviter": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1710565055.000209"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE7524E",
+        "text": "<@U06LCE7524E>さんがチャンネルに参加しました",
+        "inviter": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1710565079.495099"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH8Q2TW",
+        "text": "<@U06LMH8Q2TW>さんがチャンネルに参加しました",
+        "inviter": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1710565091.853069"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MPZ34",
+        "text": "<@U06LK3MPZ34>さんがチャンネルに参加しました",
+        "inviter": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1710565101.994709"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LVUKD658",
+        "text": "<@U06LVUKD658>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1710565123.218809"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXP316UR",
+        "text": "<@U06LXP316UR>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1710565123.295769"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SUSYNL",
+        "text": "<@U06M7SUSYNL>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1710565123.365229"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3LT89Y",
+        "text": "<@U06LK3LT89Y>さんがチャンネルに参加しました",
+        "inviter": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1710565167.503589"
+    },
+    {
+        "text": "LINEやってる人はお願いします",
+        "files": [
+            {
+                "id": "F06PVGZ8KAN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMQR40J0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayeqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LINEやってる人はお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710565181.699899",
+        "client_msg_id": "9E1A0915-770A-4E41-9FD6-F028C60EC21A"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH5ACGL",
+        "text": "<@U06LMH5ACGL>さんがチャンネルに参加しました",
+        "inviter": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1710565228.722879"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNY8KMF",
+        "text": "<@U06LXNY8KMF>さんがチャンネルに参加しました",
+        "inviter": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1710565981.677549"
+    }
+]

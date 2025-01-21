@@ -1,0 +1,206 @@
+[
+    {
+        "user": "U070VFRCQBF",
+        "type": "message",
+        "ts": "1725358198.565489",
+        "client_msg_id": "D227261C-F4CF-4001-BE24-A76936AF548D",
+        "text": "<@U06LG62V1FX> お疲れ様です！ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d68a03d646b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-24\/7170384639332_d68a03d646b5c916b607_72.png",
+            "first_name": "田村優真",
+            "real_name": "田村優真",
+            "display_name": "Tamura.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yuma.tamura114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725333487.059209",
+        "parent_user_id": "U06LG62V1FX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vegK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LG62V1FX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG62V1FX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LG62V1FX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U06LH4PDAQ3> \nお疲れ様です！制作局夏のしおりが届いたので自由部屋入ってすぐ左の机に置いておきました！\nご確認お願いします:woman-bowing:",
+        "files": [
+            {
+                "id": "F07KW7CHCTW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LY5XNLBT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+W0f2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LH4PDAQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！制作局夏のしおりが届いたので自由部屋入ってすぐ左の机に置いておきました！\nご確認お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725423031.545399",
+        "client_msg_id": "825058BF-1A92-4EB4-A18D-430DA4C051E4",
+        "thread_ts": "1725423031.545399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725426726.708549",
+        "reply_users": [
+            "U06LH4PDAQ3"
+        ],
+        "replies": [
+            {
+                "user": "U06LH4PDAQ3",
+                "ts": "1725426726.708549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "しばはるいつもありがとう",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LCE69DRU",
+                    "U06LK0DK7R9",
+                    "U06L4GH3T7H",
+                    "U06LK3LM7AN",
+                    "U06LH4PDAQ3",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06LK3LM7AN",
+                    "U06LG61U9QD",
+                    "U06LG6F13M3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1725426726.708549",
+        "client_msg_id": "B4B281C9-1FBE-45AD-B3ED-7F5C3B7CEB09",
+        "text": "<@U06LY5XNLBT> ありがとーう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725423031.545399",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNItW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LY5XNLBT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとーう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3LM7AN",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

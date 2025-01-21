@@ -1,0 +1,275 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070YD778SE",
+        "text": "<@U070YD778SE>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1727250234.903569"
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1727267328.210719",
+        "client_msg_id": "6dcd5e3d-1e28-4467-a397-f94bde412f44",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J>\nお疲れ様です！演出局響創部門長の金子です。\n明治紺白大合戦SNS広報依頼書、明愛祭SNS広報依頼書、明愛祭SNS動画広報依頼書、Ending SNS広報依頼書、Meidaisai Championship SNS広報依頼書、計5つの依頼書をOneDriveの依頼書窓口に提出いたしました。\nまとめての報告になってしまい申し訳ございません。ご確認お願いいたします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727267328.210719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727269695.703089",
+        "reply_users": [
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1727269695.703089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dujxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！演出局響創部門長の金子です。\n明治紺白大合戦SNS広報依頼書、明愛祭SNS広報依頼書、明愛祭SNS動画広報依頼書、Ending SNS広報依頼書、Meidaisai Championship SNS広報依頼書、計5つの依頼書をOneDriveの依頼書窓口に提出いたしました。\nまとめての報告になってしまい申し訳ございません。ご確認お願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1727269695.703089",
+        "edited": {
+            "user": "U06LK3L6B4J",
+            "ts": "1727272357.000000"
+        },
+        "client_msg_id": "84A76550-8571-46EA-B670-23AE6D6FB205",
+        "text": "<@U06LK3MF9FC>\nおつかれ！ありがとう！\n今回は全部まとめて学外で受理します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727267328.210719",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCNUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3MF9FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれ！ありがとう！\n今回は全部まとめて学外で受理します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1727281165.306399",
+        "client_msg_id": "E90AB2FE-F422-4830-8812-71DD198C4340",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J> \nお疲れ様です！\n界隈部門長の田島です。\n界隈部門の抽選企画sns広報依頼書を提出いたしました。\nご確認お願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727281165.306399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727335977.727989",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727335977.727989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHNhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n界隈部門長の田島です。\n界隈部門の抽選企画sns広報依頼書を提出いたしました。\nご確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1727313544.246759",
+        "client_msg_id": "322408D2-2137-410A-BAD6-3819BB0CB79A",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL> \nお疲れ様です！\n備品管理部門長の柴崎龍星です。\nテント講習会広報依頼書をOneDriveに提出致しました。\n期限に遅れてしまい大変申し訳ございません。受理して頂ければ幸いです。\nよろしくお願い致します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727313544.246759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727336032.884339",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727336032.884339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Rdki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n備品管理部門長の柴崎龍星です。\nテント講習会広報依頼書をOneDriveに提出致しました。\n期限に遅れてしまい大変申し訳ございません。受理して頂ければ幸いです。\nよろしくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

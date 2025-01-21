@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1712899816.199309",
+        "client_msg_id": "33FA924E-5B74-48D3-BD74-DE3A9E6DEC7C",
+        "text": "<!channel> \nタスクフォース会ってやつに入って欲しい！\n全員",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vobpv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nタスクフォース会ってやつに入って欲しい！\n全員"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GH3T7H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1712899994.727829",
+        "client_msg_id": "62A9305F-0721-49CC-AF4E-210D513D69D6",
+        "text": "全員入ったよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ws3Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全員入ったよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

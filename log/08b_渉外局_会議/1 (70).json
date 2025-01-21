@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LGHETAFP",
+        "type": "message",
+        "ts": "1727770366.332569",
+        "client_msg_id": "5B0B2ED8-1669-4483-8360-07321400A035",
+        "text": "5限終わりに抽選企画の件で店舗に行ってくるので、少し遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9bab61174165",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-08\/6768871456099_9bab6117416542efb768_72.png",
+            "first_name": "小宮令衣",
+            "real_name": "小宮令衣",
+            "display_name": "Komiya.Rei",
+            "team": "T06L90YHJF8",
+            "name": "komiyarei538",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727654403.279039",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x1wmw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5限終わりに抽選企画の件で店舗に行ってくるので、少し遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

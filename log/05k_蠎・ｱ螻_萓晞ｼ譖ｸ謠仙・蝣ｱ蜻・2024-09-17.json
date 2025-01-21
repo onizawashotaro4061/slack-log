@@ -1,0 +1,86 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNYCLJV",
+        "text": "<@U06LXNYCLJV>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1726619430.198629"
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1726619486.835009",
+        "thread_ts": "1726619486.835009",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1726636735.367009",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1726636735.367009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1726636735.367009",
+        "client_msg_id": "91657F45-15C2-42BC-909D-AB3A63BD9CE1",
+        "text": "<@U06LXNYCLJV> ゆうりおつかれさま！！この依頼書ってnotion の役員会依頼書ボードにあげてチェックってもらった、、？この依頼書をチェックした記憶がなくって、、 :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726619486.835009",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dfvGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNYCLJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ゆうりおつかれさま！！この依頼書ってnotion の役員会依頼書ボードにあげてチェックってもらった、、？この依頼書をチェックした記憶がなくって、、 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

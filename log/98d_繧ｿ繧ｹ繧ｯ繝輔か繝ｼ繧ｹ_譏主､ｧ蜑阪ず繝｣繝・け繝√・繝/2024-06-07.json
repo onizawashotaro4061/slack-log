@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717750568.271699",
+        "client_msg_id": "1f0b738a-782e-4fdc-b25a-4ff7655980fc",
+        "text": "<@U06M7SU83G8>\nいろいろがんばれ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750568.271699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717817956.666909",
+        "reply_users": [
+            "U06M7SU83G8"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1717817956.666909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwwoh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nいろいろがんばれ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1717817956.666909",
+        "client_msg_id": "14B2BD61-C26C-4622-8A0A-BB690D2F5327",
+        "text": "きあいいれろ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750568.271699",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HMG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きあいいれろ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

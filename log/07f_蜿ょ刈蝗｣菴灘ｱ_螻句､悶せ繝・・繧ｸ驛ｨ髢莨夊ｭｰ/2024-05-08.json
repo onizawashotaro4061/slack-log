@@ -1,0 +1,421 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1715218965.826619",
+        "client_msg_id": "F819DF24-4F23-4500-8082-6413B08EC716",
+        "text": "<!channel>\n0509_第7回屋外ステージ部門会議\n【場所】\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.ハトビについて（意思共有・決定）\n　　　　3.募集説明会シフトについて（意思共有）\n　　　　4.エントリー確定後の流れについて（意思共有）\n　　　　5.第1回参加団体説明会関連（意思共有・決定）\n　　　　6.新規教育コンテンツについて（意思共有・決定）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U06LK3Q5M0S>\n                    チェック： <@U06LXP05G3B> <@U06M7SW8GAU>\n\n局アパのフォームの面白エピソード書くことなさすぎてないって書いて出しました佐久間です\n確認したらリアクションお願い！！\n遅刻・欠席・早退は自分に連絡お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkgSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "509"
+                            },
+                            {
+                                "type": "text",
+                                "text": "_第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回屋外ステージ部門会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所"
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19：00～20：40"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】1.共有事項（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　　　　2."
+                            },
+                            {
+                                "type": "text",
+                                "text": "ハトビについて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・決定"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　3.募集説明会シフトについて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　4.エントリー確定後の流れについて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　5.第1回参加団体説明会関連"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・決定"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　6.新規教育コンテンツについて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有・決定）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【持ち物】パソコン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　　　　　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議事録】文責："
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3Q5M0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    チェック："
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXP05G3B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SW8GAU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n局アパのフォームの面白エピソード書くことなさすぎてないって書いて出しました佐久間です\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認したらリアクションお願い！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻・欠席・早退は自分に連絡お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LKTXCZL4",
+                    "U06LK3Q5M0S",
+                    "U06LK3Q6Y2W",
+                    "U06LXP05G3B"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "はる",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "はると",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3PHPQA",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かいと",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "まいこ",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "克彦",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LMH8RNBE",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ひらいかえで",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ふみきゅん",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3PHPQA",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "宏大",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W",
+                    "U06L4GJ4H9D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "みさき2",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "たくみ",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W",
+                    "U06L4GJ4H9D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1715218972.784119",
+        "client_msg_id": "40D2F7FC-2A35-46D2-881C-B6E5954F5B51",
+        "text": "あ場所入れ忘れた",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NT17P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ場所入れ忘れた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1715226952.646369",
+        "client_msg_id": "7C343F9A-4719-42EC-AEB3-350C16A439FF",
+        "text": "<!channel> メディア棟M611教室ですー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G9GJ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メディア棟M611教室ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

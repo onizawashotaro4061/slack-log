@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1729589015.655419",
+        "client_msg_id": "8E01FA69-F9D5-4C03-B9AA-88741FF47724",
+        "text": "前の予定が長引いたので少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnxEZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前の予定が長引いたので少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS5NT63",
+        "type": "message",
+        "ts": "1729589035.534189",
+        "client_msg_id": "2F41E3F5-7FAB-4433-A925-94F1AD0167C3",
+        "text": "リハーサルが会議後に変更になったので時間通りに参加します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "43b819b79bf7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7518928395159_43b819b79bf76e633ea9_72.png",
+            "first_name": "佐藤怜人",
+            "real_name": "佐藤怜人",
+            "display_name": "Sato.Ryoto",
+            "team": "T06L90YHJF8",
+            "name": "ryoto0318",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5mayZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リハーサルが会議後に変更になったので時間通りに参加します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1729591228.771759",
+        "client_msg_id": "A994400D-CE0C-447F-A506-6E6BCAFADA91",
+        "text": "10分ほど遅刻します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729491721.001939",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7OqGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10分ほど遅刻します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1730879272.562909",
+        "client_msg_id": "8D7D9022-7B0B-4C29-A4F2-E8E769A59EA9",
+        "text": "図書館閉まっちゃうのでかりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAjU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "図書館閉まっちゃうのでかりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1717137166.887659",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1717137203.000000"
+        },
+        "client_msg_id": "89328dca-d6a2-4c7c-b8c0-e45afa8ef6f2",
+        "text": "*<!channel>* \n*【0531_第10回校友部門会議】*\n【時間】19:00〜20:40\n【場所】LS405\n【議題】\n• みんなの今（意思共有）\n• メール体制について（意思共有・意見交換）\n• 総務局質問内容（意見交換）\n• 新規配属後の動きについて（意思共有・意見交換）\n• 諸連絡（意思共有）\n歯の治療のせいで水と白いものしか食べられないの辛いです。\n明日の夜は何か美味しいもの食べたいですね。\n欠席、遅刻、早退は*具体的な理由*とともにスレッドに書いてください。\n見たらスタンプ押してねー↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717137166.887659",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1717144567.411079",
+        "reply_users": [
+            "U06L4J69HV5",
+            "U06M7SUSYNL"
+        ],
+        "replies": [
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1717143812.807019"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1717144567.411079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1IJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0531_第10回校友部門会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】LS405\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの今（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メール体制について（意思共有・意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "総務局質問内容（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規配属後の動きについて（意思共有・意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n歯の治療のせいで水と白いものしか食べられないの辛いです。\n明日の夜は何か美味しいもの食べたいですね。\n欠席、遅刻、早退は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "具体的な理由",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "とともにスレッドに書いてください。\n見たらスタンプ押してねー↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06LXNYUXS5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "スシロー",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ハッピー",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

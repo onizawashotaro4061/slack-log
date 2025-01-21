@@ -1,0 +1,172 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710579875.432389",
+        "client_msg_id": "63BB0D1B-67BF-48A0-83F3-45F92E4B1501",
+        "text": "<!channel> \nおつかれさまです！\n各チームのSlackチャンネルを作ったのでぜひ活用してください！\n全員入れたはずなんですけど、間違ってたり入ってない人がいたら教えてください :pray::skin-tone-2:\n遅れてしまい申し訳ないです :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbz8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです！\n各チームのSlackチャンネルを作ったのでぜひ活用してください！\n全員入れたはずなんですけど、間違ってたり入ってない人がいたら教えてください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅れてしまい申し訳ないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06L4GLRAK1",
+                    "U06LJ4HJLMS",
+                    "U06LCE9HTP0",
+                    "U06LXNY0MHP",
+                    "U06L4GJ031V",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LK3L6B4J",
+                    "U06LK0BP1TM",
+                    "U06L4GLRAK1",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06LFKRD4MQ",
+                    "U06LK3K88SW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1710598616.644999",
+        "client_msg_id": "9AB3E061-B7BB-4D11-B54F-3B766EF52A4F",
+        "text": "<!channel> \nみんな今日はお疲れ様！\nいい会にできたと思います。ありがとう。\n各チーム長(仮)はそれぞれのチームのslackで挨拶して今後の流れを共有してほしいなと思います。みんなが頼りなのでよろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sqwwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nみんな今日はお疲れ様！\nいい会にできたと思います。ありがとう。\n各チーム長(仮)はそれぞれのチームのslackで挨拶して今後の流れを共有してほしいなと思います。みんなが頼りなのでよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06LCE9HTP0",
+                    "U06LG62UXPX",
+                    "U06LMH9MBFW",
+                    "U06LMH412CU",
+                    "U06LXNY0MHP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH9MBFW",
+                    "U06M7SU83G8",
+                    "U06LMH412CU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "text": "お疲れ様です。\n<@U06LKEPTCA0> 財務局宛ての郵便物があったので、財務局のレターケースに入れておきます。",
+        "files": [
+            {
+                "id": "F07169HFN6R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHok2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LKEPTCA0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 財務局宛ての郵便物があったので、財務局のレターケースに入れておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714460374.203599",
+        "client_msg_id": "a3f42ae6-6912-43d4-9498-e8f88852210f",
+        "thread_ts": "1714460374.203599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714460813.874109",
+        "reply_users": [
+            "U06LKEPTCA0"
+        ],
+        "replies": [
+            {
+                "user": "U06LKEPTCA0",
+                "ts": "1714460813.874109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

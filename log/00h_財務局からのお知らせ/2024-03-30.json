@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U06LK3KJNJE",
+        "type": "message",
+        "ts": "1711857546.528719",
+        "client_msg_id": "E75EC75C-C605-47F1-AA0A-3EC2E80EC37D",
+        "text": "<!channel>\n【リマインド】\nお疲れ様です、財務局足立です！\n\n3月分の領収書・交通費の申請は*本日まで*です。\n\n申請メールの宛先は引き続き\n<mailto:jitsumu139@gmail.com|jitsumu139@gmail.com>\nまでよろしくお願い致します☺︎\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b962914616f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-03\/7668026566596_b962914616f7aa66543e_72.png",
+            "first_name": "足立光琉",
+            "real_name": "足立光琉",
+            "display_name": "Adachi.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hikarururu81204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4GzW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【リマインド】\nお疲れ様です、財務局足立です！\n\n3月分の領収書・交通費の申請は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。\n\n申請メールの宛先は引き続き\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jitsumu139@gmail.com",
+                                "text": "jitsumu139@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまでよろしくお願い致します☺︎\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06LXNXNWGH",
+                    "U06LCUTBMU5",
+                    "U06LXNX1XPB",
+                    "U06LMH49MQU",
+                    "U06LK0JTYD9",
+                    "U06LM0QJV3L",
+                    "U06LKEPTCA0"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNXNWGH",
+                    "U06L4GH3T7H",
+                    "U06M7SETDKJ",
+                    "U06LK3HUVTL",
+                    "U06LK3MF9FC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNXNWGH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNX1XPB",
+                    "U06LMH49MQU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しゃしゃんな",
+                "users": [
+                    "U06LK0FAL83",
+                    "U06LK0JTYD9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

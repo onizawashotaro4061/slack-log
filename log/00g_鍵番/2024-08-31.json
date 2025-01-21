@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1725091181.605399",
+        "client_msg_id": "213154E0-270E-463A-84B9-7996A2A7ACFD",
+        "text": "かえしました〜\n模擬のみんな説明会お疲れ様〜:bangbang:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAKJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かえしました〜\n模擬のみんな説明会お疲れ様〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06LXNXNWGH",
+                    "U06M7SETDKJ",
+                    "U06LK0FPH2P",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV",
+                    "U06LXNYUX7T"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06LXNXNWGH",
+                    "U06M7SETDKJ",
+                    "U06LK0FPH2P",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06L4GKC9N3",
+                    "U06LK7K9ALA",
+                    "U06LY8E3XA5",
+                    "U070YA6CQLB",
+                    "U06LK3ZBCN6",
+                    "U06LXNYCLJV",
+                    "U06LXNYUX7T"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06L4GKC9N3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06LK0FPH2P",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV"
+                ],
+                "count": 8
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV"
+                ],
+                "count": 6
+            },
+            {
+                "name": "alphabet-white-g",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06LXNYUX7T"
+                ],
+                "count": 5
+            },
+            {
+                "name": "alphabet-yellow-i",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06LXNYUX7T"
+                ],
+                "count": 5
+            },
+            {
+                "name": "alphabet-white-n",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L",
+                    "U06LG62V1FX",
+                    "U06L4GKC9N3",
+                    "U06LXNYUX7T"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

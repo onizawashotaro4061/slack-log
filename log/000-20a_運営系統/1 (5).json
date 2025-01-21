@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1730625314.589229",
+        "client_msg_id": "529C747A-3269-4D30-927D-19A617CAC23C",
+        "text": "<!channel> \n道路封鎖終了につき、*これ以降のシフトはなし*でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/P46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n道路封鎖終了につき、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これ以降のシフトはなし",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

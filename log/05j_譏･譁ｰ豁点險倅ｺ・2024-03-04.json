@@ -1,0 +1,308 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615624.126869"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GJBJP9",
+        "text": "<@U06L4GJBJP9>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615773.846249"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE9HTP0",
+        "text": "<@U06LCE9HTP0>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615923.304319"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE78Y94",
+        "text": "<@U06LCE78Y94>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615932.569609"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCVDE88N",
+        "text": "<@U06LCVDE88N>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615965.746039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNWSGPK",
+        "text": "<@U06LXNWSGPK>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709615971.487739"
+    },
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1709617677.842789",
+        "edited": {
+            "user": "U06L4GJBJP9",
+            "ts": "1709618119.000000"
+        },
+        "client_msg_id": "9E0FDBA4-1762-43E0-B6C9-4ECAA8C572EB",
+        "text": "〇2021\n:one::star:例年の活動、どのような活動をしているか\n・年間スケジュール\n・やりがいや魅力\n:four::star:局の雰囲気、レク何してるか\n:three::star:局活動によって身につくこと、1年生の時から成長したこと\n・新１，２年生に向けてメッセージ\n\n〇委員長\n・得られた経験\n・大学生活における明大祭実行委員会の存在\n\n〇部門長\n・どのような明大祭にしたいか\n・明大祭への抱負\n\n〇実行委員の噂\n明大祭後の達成感がすごいらしい\n就職に有利らしい\nコミュニケーション能力があがるらしい\n恋愛が盛んらしい\n\n〇2022\n・なぜ明大祭実行委員会に入ったのか\n:two::star:なぜこの局を選んだのか\n・１年過ごしてどうだったか\n・カップルはいるか\n・成績はどうか、単位は取れているか\n・一言",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pw75L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "〇2021\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "例年の活動、どのような活動をしているか\n・年間スケジュール\n・やりがいや魅力\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "four",
+                                "unicode": "0034-fe0f-20e3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "局の雰囲気、レク何してるか\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "局活動によって身につくこと、1年生の時から成長したこと\n・新１，２年生に向けてメッセージ\n\n〇委員長\n・得られた経験\n・大学生活における明大祭実行委員会の存在\n\n〇部門長\n・どのような明大祭にしたいか\n・明大祭への抱負\n\n〇実行委員の噂\n明大祭後の達成感がすごいらしい\n就職に有利らしい\nコミュニケーション能力があがるらしい\n恋愛が盛んらしい\n\n〇2022\n・なぜ明大祭実行委員会に入ったのか\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なぜこの局を選んだのか\n・１年過ごしてどうだったか\n・カップルはいるか\n・成績はどうか、単位は取れているか\n・一言"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1709617700.784889",
+        "edited": {
+            "user": "U06L4GJBJP9",
+            "ts": "1709617888.000000"
+        },
+        "client_msg_id": "41AB9697-AFF6-4E8A-A05E-581C8833C6C5",
+        "text": "↑\n例年の質問集\n（:star:＝質問決定したもの）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/pPU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑\n例年の質問集\n（"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "＝質問決定したもの）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH412CU",
+        "text": "<@U06LMH412CU>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709620862.119149"
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1709620908.307969",
+        "client_msg_id": "79146bb4-4979-4a65-afc0-979dbadf5b01",
+        "text": "noteテストアカウント\nパス:umeume140",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQ0iw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "noteテストアカウント\nパス:umeume140"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1709621975.200059",
+        "edited": {
+            "user": "U06L4GJBJP9",
+            "ts": "1709625102.000000"
+        },
+        "client_msg_id": "4CDC7D95-DCD4-4598-B0E6-5C6DAC29E80D",
+        "text": "【noteテンプレ】\n<https:\/\/editor.note.com\/notes\/n93c917bd2976\/edit\/|https:\/\/editor.note.com\/notes\/n93c917bd2976\/edit\/>\n\n:arrow_up:入れない場合、noteの下書きに入ってます！\nアイコン左の投稿→下書きの1番上",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6tL1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【noteテンプレ】\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/editor.note.com\/notes\/n93c917bd2976\/edit\/",
+                                "text": "https:\/\/editor.note.com\/notes\/n93c917bd2976\/edit\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up",
+                                "unicode": "2b06-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "入れない場合、noteの下書きに入ってます！\nアイコン左の投稿→下書きの1番上"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LXNWSGPK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

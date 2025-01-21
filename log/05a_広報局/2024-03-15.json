@@ -1,0 +1,77 @@
+[
+    {
+        "text": "<!channel>\n遅くなってごめんね部門配属ESです！\n詳細はファイルにあるのでよく読んでES書いてくださいねえ\n\n期限は:warning:*3月20日(水)23：59*:warning:です！ので！\n遅れずに出してねー！！！！！提出遅れ厳禁ですようっ\n\nなにかわからないことあれば局三役まで！",
+        "files": [
+            {
+                "id": "F06PVEL7P6W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3HUVTL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bw4hZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなってごめんね部門配属ESです！\n詳細はファイルにあるのでよく読んでES書いてくださいねえ\n\n期限は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3月20日(水)23：59",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！ので！\n遅れずに出してねー！！！！！提出遅れ厳禁ですようっ\n\nなにかわからないことあれば局三役まで！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710560984.512019",
+        "client_msg_id": "225b6eb7-ad0c-4e4d-98f8-104463a7f8d0",
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N",
+                    "U06LK3KA09G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3L6B4J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

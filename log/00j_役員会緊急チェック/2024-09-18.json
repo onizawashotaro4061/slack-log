@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U06LK7K9ALA",
+        "type": "message",
+        "ts": "1726655336.111859",
+        "edited": {
+            "user": "U06LK7K9ALA",
+            "ts": "1726655390.000000"
+        },
+        "client_msg_id": "889e9a7c-76f1-4699-9616-48a0e6a28b72",
+        "text": "<@U06L97X3V6J> <@U06LCUTBMU5> <@U06LE9EH9QV> <@U06LDT584J1>\nお疲れ様です。\n開発局彩明部門の岡村匠真です。\n9\/19の12時に参加団体に対して使用する企画説明の資料です。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いします。\n<https:\/\/www.notion.so\/0918_-cherry-goose-10515196ff8c809ca28ccade58f26ba0?pvs=4>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f30f97123fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-29\/7173633678983_f30f97123fbe12c9a3e3_72.png",
+            "first_name": "岡村　匠真",
+            "real_name": "岡村　匠真",
+            "display_name": "Okamura.Takuma",
+            "team": "T06L90YHJF8",
+            "name": "takuma_okm2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cw47o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCUTBMU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LDT584J1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n開発局彩明部門の岡村匠真です。\n9\/19の12時に参加団体に対して使用する企画説明の資料です。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/0918_-cherry-goose-10515196ff8c809ca28ccade58f26ba0?pvs=4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "橋本",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

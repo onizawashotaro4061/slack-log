@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1713429850.319329",
+        "client_msg_id": "4B4FE7C2-D212-45C0-8321-FC5618AEF45F",
+        "text": "ちょっと遅れるかも:heart:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713341190.185149",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xzZUx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと遅れるかも"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

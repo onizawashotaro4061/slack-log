@@ -1,0 +1,469 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726664394.550619",
+        "client_msg_id": "5d04af3e-0f9f-4db8-9605-18d3d0811c4e",
+        "text": "<!channel>\n会議連絡！\n【時間】9\/19(木) 14:00～19:00\n【場所】LS301\n【議題】(予定)\n\n1.タスク頑張る:muscle:\n\nタスク終わった人から帰ってもいいよ(笑)\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1726721498.932929",
+        "reply_users": [
+            "U06LG64U8DB",
+            "U06LXNY0MHP",
+            "U06LCE9AKQW",
+            "U0710T40TFW",
+            "U070YE174KC",
+            "U071B3C42Q1",
+            "U071B39SGQH",
+            "U06LK3L32MQ"
+        ],
+        "replies": [
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1726664940.404159"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1726665065.605349"
+            },
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1726665131.121989"
+            },
+            {
+                "user": "U0710T40TFW",
+                "ts": "1726703314.785799"
+            },
+            {
+                "user": "U070YE174KC",
+                "ts": "1726713875.968089"
+            },
+            {
+                "user": "U071B3C42Q1",
+                "ts": "1726719454.287389"
+            },
+            {
+                "user": "U071B39SGQH",
+                "ts": "1726719591.794119"
+            },
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1726721498.932929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGywo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】9\/19(木) 14:00～19:00\n【場所】LS301\n【議題】(予定)\n\n1.タスク頑張る"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nタスク終わった人から帰ってもいいよ(笑)\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LG64U8DB",
+        "type": "message",
+        "ts": "1726664940.404159",
+        "client_msg_id": "72FD3C1C-2ADA-47E4-8328-F975D8370754",
+        "text": "私用のため欠席します。行けそうだったら行きます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9e4ba1901d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6812397244962_9e4ba1901d3baf101920_72.png",
+            "first_name": "福田至",
+            "real_name": "福田至",
+            "display_name": "Fukuda.Itaru",
+            "team": "T06L90YHJF8",
+            "name": "itaru.fkd1117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53nGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。行けそうだったら行きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726665065.605349",
+        "client_msg_id": "14b7aa73-240d-44bc-bc6f-e3e57a33dc37",
+        "text": "行けそうだったら行くって考えるの偉すぎ:+1::sparkles:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0QDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "行けそうだったら行くって考えるの偉すぎ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9AKQW",
+        "type": "message",
+        "ts": "1726665131.121989",
+        "client_msg_id": "5D0D69CB-2A5F-4CC8-8CC2-23D787F8A5B7",
+        "text": "バイトなので1時間くらい遅刻します。すみません（ ;  ; ）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2472c8032b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-14\/7568192270150_2472c8032b52ec9d5a6d_72.png",
+            "first_name": "田島こむぎ",
+            "real_name": "田島こむぎ",
+            "display_name": "Tajima.Komugi",
+            "team": "T06L90YHJF8",
+            "name": "komugi.t0201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tu989",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトなので1時間くらい遅刻します。すみません（ ;  ; ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T40TFW",
+        "type": "message",
+        "ts": "1726703314.785799",
+        "client_msg_id": "DC306C99-A993-47DD-B9F2-B01249F7B298",
+        "text": "私用のため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e68a071d3bef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-28\/7349217309092_e68a071d3bef85a1854d_72.png",
+            "first_name": "松川唯",
+            "real_name": "松川唯",
+            "display_name": "Matsukawa.Yui",
+            "team": "T06L90YHJF8",
+            "name": "matsu-yui42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4uzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YE174KC",
+        "type": "message",
+        "ts": "1726713875.968089",
+        "client_msg_id": "49309217-4354-4ed1-bf70-60c498173fa9",
+        "text": "私用のため遅刻する可能性があります。\n申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5e4cad7e14c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7044316637411_5e4cad7e14c01b6209d7_72.jpg",
+            "first_name": "岡崎　哲汰",
+            "real_name": "岡崎　哲汰",
+            "display_name": "Okazaki.Tetsuta",
+            "team": "T06L90YHJF8",
+            "name": "11tetu25ta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgkbM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため遅刻する可能性があります。\n申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3C42Q1",
+        "type": "message",
+        "ts": "1726719454.287389",
+        "client_msg_id": "29916E89-5842-418F-A2CA-BDAE06A47D8D",
+        "text": "私用のため欠席します。ごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dcd596434151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7037804831830_dcd596434151a47ebc1b_72.png",
+            "first_name": "山下暖大",
+            "real_name": "山下暖大",
+            "display_name": "yamashita.haruto",
+            "team": "T06L90YHJF8",
+            "name": "yamasita.haruto170505",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLVfY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。ごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B39SGQH",
+        "type": "message",
+        "ts": "1726719591.794119",
+        "client_msg_id": "019134EA-2C10-4DF8-B0D3-FB18677FB0D4",
+        "text": "私用のため欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3a5b786313bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-22\/7918442368116_3a5b786313bdb60484bc_72.png",
+            "first_name": "牧かやの",
+            "real_name": "牧かやの",
+            "display_name": "Maki.Kayano",
+            "team": "T06L90YHJF8",
+            "name": "kayano10ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CD2pD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1726721498.932929",
+        "client_msg_id": "a6d213f8-d464-42e7-9571-fc10046be024",
+        "text": "寝坊しました\n申し訳ございません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726664394.550619",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKeO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊しました\n申し訳ございません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0DUBG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "japanese_ogre",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

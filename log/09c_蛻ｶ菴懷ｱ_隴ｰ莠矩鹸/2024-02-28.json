@@ -1,0 +1,277 @@
+[
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1709178760.287619",
+        "client_msg_id": "B964977D-C7E2-4B2F-9E5B-6DFABD61BF62",
+        "text": "pdfのせてほしいかも",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708937876.125009",
+        "parent_user_id": "U06L4GH3T7H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlT12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pdfのせてほしいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "すみません、忘れてました",
+        "files": [
+            {
+                "id": "F06M6L4C5B4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GH3T7H",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NoD3E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、忘れてました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709179903.631969",
+        "client_msg_id": "3b74fc3a-4b2a-4272-b23e-fd52704668c2",
+        "thread_ts": "1708937876.125009",
+        "parent_user_id": "U06L4GH3T7H"
+    },
+    {
+        "text": "お疲れ様です！\n制作局継続2年の峯岸です。\n第1回制作局局会議議事録をOneDriveにアップロードしました。\n場所は、\n<https:\/\/onedrive.live.com\/?cid=93481E220B586380&amp;id=93481E220B586380%211433&amp;parId=93481E220B586380%21465&amp;o=OneUp|各局＞08_制作局＞03_議事録＞2月>\nです。\n議題は、\n1. 新歓期カラー発表\n2. 諸連絡\nです。\n皆さんは、春休みいかがお過ごしでしたか？139の繁忙期とは比べ物にならないくらい自由な時間がありますね！\n自分は、バイト、遊びのほかに、念願のディズニープラスに加入して、MARVELシリーズを見てました！将来は、ロバート・ダウニー・jr.みたいなイケおじになりたいです。お仕事頑張ります！",
+        "files": [
+            {
+                "id": "F06MKN5HXPT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SSDQQG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VeXkh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n制作局継続2年の峯岸です。\n第1回制作局局会議議事録をOneDriveにアップロードしました。\n場所は、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?cid=93481E220B586380&id=93481E220B586380%211433&parId=93481E220B586380%21465&o=OneUp",
+                                "text": "各局＞08_制作局＞03_議事録＞2月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n議題は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新歓期カラー発表"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。\n皆さんは、春休みいかがお過ごしでしたか？139の繁忙期とは比べ物にならないくらい自由な時間がありますね！\n自分は、バイト、遊びのほかに、念願のディズニープラスに加入して、MARVELシリーズを見てました！将来は、ロバート・ダウニー・jr.みたいなイケおじになりたいです。お仕事頑張ります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709188548.834539",
+        "client_msg_id": "46bd0699-e781-495f-a473-4def533133a0",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LH4PDAQ3",
+                    "U06LP6ZTYA1",
+                    "U06LXNUQ989",
+                    "U06LG61U9QD",
+                    "U06L4GM5C87",
+                    "U06LG6Q48SZ",
+                    "U06LK3LM7AN",
+                    "U06LXNZFWDP",
+                    "U06LJ4HJLMS",
+                    "U06M7SSUS0G",
+                    "U06L4GM463H",
+                    "U06LMH4MXDJ",
+                    "U06LK3M7VGA",
+                    "U06LK0DN10T",
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK0DK7R9",
+                    "U06LK3L8RNE",
+                    "U06LMHSCW1J",
+                    "U06LXP316UR",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR"
+                ],
+                "count": 23
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06L4GM5C87",
+                    "U06LG6Q48SZ",
+                    "U06LXNZFWDP",
+                    "U06LJ4HJLMS",
+                    "U06L4GM463H",
+                    "U06LK3M7VGA",
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK3L8RNE",
+                    "U06LMH4MXDJ",
+                    "U06LG62UXPX"
+                ],
+                "count": 12
+            },
+            {
+                "name": "ゆうせい",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06L4GM5C87",
+                    "U06LG6Q48SZ",
+                    "U06LXNZFWDP",
+                    "U06LJ4HJLMS",
+                    "U06M7SSUS0G",
+                    "U06LK0EUE75",
+                    "U06L4GM463H",
+                    "U06LMH4MXDJ",
+                    "U06LK3M7VGA",
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK0DK7R9",
+                    "U06LK3L8RNE",
+                    "U06LK0F2RC3",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR"
+                ],
+                "count": 17
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06L4GM5C87",
+                    "U06LG6Q48SZ",
+                    "U06LJ4HJLMS",
+                    "U06L4GM463H",
+                    "U06LK3M7VGA",
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LMH4MXDJ",
+                    "U06LG62UXPX"
+                ],
+                "count": 10
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK0DK7R9",
+                    "U06LMH4MXDJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK0DK7R9",
+                    "U06LMH4MXDJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LMH31QSG",
+                    "U06LK0DK7R9",
+                    "U06LMH4MXDJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "かっこいい",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

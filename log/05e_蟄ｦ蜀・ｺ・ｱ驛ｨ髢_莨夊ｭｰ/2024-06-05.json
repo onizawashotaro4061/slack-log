@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U070Y9UKJV9",
+        "type": "message",
+        "ts": "1717634003.214509",
+        "client_msg_id": "E0469B7F-43EB-4096-9FE5-BCA01984B9CA",
+        "text": "まだ熱が出ているため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "60542bdcf632",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7121141390819_60542bdcf632226dd57a_72.png",
+            "first_name": "野々村真優",
+            "real_name": "野々村真優",
+            "display_name": "Nonomura.Mahiro",
+            "team": "T06L90YHJF8",
+            "name": "happymappygogo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tM3Jl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ熱が出ているため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNY8KMF",
+                    "U06LXNWSGPK",
+                    "U070VFY94H3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "涙の数だけ強くなれる",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

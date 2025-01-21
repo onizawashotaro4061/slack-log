@@ -1,0 +1,964 @@
+[
+    {
+        "user": "U0710T0NBFE",
+        "type": "message",
+        "ts": "1732182106.480359",
+        "client_msg_id": "C5625C3A-5843-48B2-8B53-BB835BFC9925",
+        "text": "予定が遅れているので遅刻します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51ee0ee94008",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7918716969653_51ee0ee940082e160799_72.png",
+            "first_name": "小島快秀",
+            "real_name": "小島快秀",
+            "display_name": "Kojima.Kaishu",
+            "team": "T06L90YHJF8",
+            "name": "kaisyu0603",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nF9Vj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が遅れているので遅刻します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182495.773899",
+        "client_msg_id": "1D49BCDC-8367-4449-887D-BF1D4A8DC1F4",
+        "text": "京王線(京王新線？)が遅延しているため遅刻します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDWz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王線(京王新線？)が遅延しているため遅刻"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LK3KA09G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LK3KA09G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U06LCVDE88N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182690.332019",
+        "client_msg_id": "8D74E825-929E-42FC-A7F4-7F56B5203679",
+        "text": "ﾏｼﾞﾃﾞｵﾚﾉｾｲｼﾞｬﾅｲｺﾚﾊ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7JUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ﾏｼﾞﾃﾞｵﾚﾉｾｲｼﾞｬﾅｲｺﾚﾊ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3KA09G",
+        "text": "<@U06LK3KA09G>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1732182829.939999"
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1732182850.950619",
+        "client_msg_id": "EFE59DFA-312E-483A-9FDB-BA6A37BA55F0",
+        "text": "まじか、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6vppq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まじか、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1732182851.946489",
+        "client_msg_id": "E0B54ABA-54C3-4342-A502-A60572CE3AD3",
+        "text": "<@U06LCE9HTP0>\n余裕持たないのが悪い",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tf6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n余裕持たないのが悪い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCVDE88N",
+        "type": "message",
+        "ts": "1732182858.183939",
+        "client_msg_id": "60169D59-E056-4C4E-BE6F-F6D22021F2E4",
+        "text": "ゆりか、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "da6fd5c057cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7750579849344_da6fd5c057cfae0e1b67_72.png",
+            "first_name": "駒井一真",
+            "real_name": "駒井一真",
+            "display_name": "Komai.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmpoli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIWnp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゆりか、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1732182861.761269",
+        "client_msg_id": "A3CE1FC5-4E95-495B-8D47-A916163FC8D6",
+        "text": "髪切ってんのが悪い",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ymy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "髪切ってんのが悪い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1732182870.334629",
+        "client_msg_id": "5D0CB0FF-E8B3-415E-A207-2D3A6DDA8A0E",
+        "text": "おいだいち",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26uDC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おいだいち"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD75PJ6",
+        "type": "message",
+        "ts": "1732182884.734689",
+        "client_msg_id": "53A0FE0D-7BCF-4AD3-B1A1-27884958614F",
+        "text": "全く同じ理由で遅刻します。申し訳ないです。電車動かないです…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "95454a02abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032460592610_95454a02abe2d7eaa024_72.png",
+            "first_name": "高部粋",
+            "real_name": "高部粋",
+            "display_name": "Takabe.Sui",
+            "team": "T06L90YHJF8",
+            "name": "sui.tokyo.1001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVvZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全く同じ理由で遅刻します。申し訳ないです。電車動かないです…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182891.246729",
+        "client_msg_id": "C1C296B2-59EB-425B-9695-EB54C9E8CBA8",
+        "text": "みてたよゆりか、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oz\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みてたよゆりか、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNWSGPK",
+        "text": "<@U06LXNWSGPK>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1732182942.031329"
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182948.160629",
+        "client_msg_id": "4D861185-08BF-4CE3-9864-6CC8E4D02009",
+        "text": "すいどこ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLNrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいどこ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWSGPK",
+        "type": "message",
+        "ts": "1732182949.283769",
+        "client_msg_id": "D8901823-A208-455A-AC39-727DC4B6E17C",
+        "text": "すいは仕方ない",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2856085efad0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8048799450402_2856085efad03c5c10ae_72.png",
+            "first_name": "山岸華奈",
+            "real_name": "山岸華奈",
+            "display_name": "Yamagishi.Hana",
+            "team": "T06L90YHJF8",
+            "name": "anmitsuhime59",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNwbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいは仕方ない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1732182956.129569",
+        "client_msg_id": "D2DAE4E4-A4B6-49BA-BB18-F07BA25072E7",
+        "text": "仕方ない",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pt1Ff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "仕方ない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182956.189019",
+        "client_msg_id": "ADE61CB3-5B60-4CDB-8EF6-DE1DFF04883C",
+        "text": "笹塚から歩こう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87ESv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "笹塚から歩こう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCVDE88N",
+        "type": "message",
+        "ts": "1732182958.336679",
+        "client_msg_id": "530D77E1-4BC1-4C55-A79A-E0969B90F101",
+        "text": "すい気をつけて来てね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "da6fd5c057cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7750579849344_da6fd5c057cfae0e1b67_72.png",
+            "first_name": "駒井一真",
+            "real_name": "駒井一真",
+            "display_name": "Komai.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmpoli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4HO1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すい気をつけて来てね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732182963.900839",
+        "client_msg_id": "9EC89BF6-62AD-4401-9E34-911DB877B316",
+        "text": "おいお前ら",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnNtZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おいお前ら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD75PJ6",
+        "type": "message",
+        "ts": "1732182984.008239",
+        "client_msg_id": "9C5ECC3F-D8C4-424B-B8C8-0632F7C16903",
+        "text": "先輩方大好き♡",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "95454a02abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032460592610_95454a02abe2d7eaa024_72.png",
+            "first_name": "高部粋",
+            "real_name": "高部粋",
+            "display_name": "Takabe.Sui",
+            "team": "T06L90YHJF8",
+            "name": "sui.tokyo.1001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5Ib0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先輩方大好き♡"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1732183026.424429",
+        "client_msg_id": "3143ED19-C2C9-4CDF-8C17-57D1C72CE4DC",
+        "text": "すいゆっくりでいいから落ち着いてきてねえ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KzAHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいゆっくりでいいから落ち着いてきてねえ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732183092.878919",
+        "client_msg_id": "542791E1-D20B-4692-94BF-6DF529203966",
+        "text": "お前ら許さない",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rm2jE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お前ら許さない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732183096.453259",
+        "client_msg_id": "0C4B5CD9-03BF-4BFA-A466-EDF87922ECA3",
+        "text": "俺は被害者",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGgog",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "俺は被害者"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1732183183.665759",
+        "client_msg_id": "435FBDFD-D03D-41FE-A764-08C30DEC4F08",
+        "text": "きどこう何時着？？？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4c9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きどこう何時着？？？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1732183207.755939",
+        "client_msg_id": "9C6B36C1-C6AD-442A-9B8B-FAC86D51FFCD",
+        "text": "すいと合流したので笹塚から歩きます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732090879.434439",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJDsv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいと合流したので笹塚から歩きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

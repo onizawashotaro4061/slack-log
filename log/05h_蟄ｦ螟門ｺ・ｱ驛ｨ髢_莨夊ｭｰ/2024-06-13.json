@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U070VG0DP0D",
+        "type": "message",
+        "ts": "1718265083.296419",
+        "client_msg_id": "D3CC69B0-FC13-408F-9F40-7F95B95ED219",
+        "text": "病院に行きたいので欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2517cef1fb1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-03\/8115690062674_2517cef1fb1dcc16850e_72.png",
+            "first_name": "田嶋佳布子",
+            "real_name": "田嶋佳布子",
+            "display_name": "Tajima.Kanoko",
+            "team": "T06L90YHJF8",
+            "name": "kanoko.ren1124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718209982.949899",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TL6W9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "病院に行きたいので欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

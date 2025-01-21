@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U071M740R32",
+        "type": "message",
+        "ts": "1718352157.989599",
+        "edited": {
+            "user": "U071M740R32",
+            "ts": "1718352296.000000"
+        },
+        "client_msg_id": "A97C0A1B-4160-4B0A-B176-9CC0DB294F77",
+        "text": "すみません :sweat_drops: ちょっと今日熱中症気味で休みます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "876cf5e7cc35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7220379141713_876cf5e7cc353c8748d5_72.png",
+            "first_name": "草野佑太朗",
+            "real_name": "草野佑太朗",
+            "display_name": "Kusano.Yuutarou",
+            "team": "T06L90YHJF8",
+            "name": "k.yuuu118520",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718352157.989599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718352488.569769",
+        "reply_users": [
+            "U06M7SPUVEC"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SPUVEC",
+                "ts": "1718352488.569769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8uW2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちょっと今日熱中症気味で休みます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1718352488.569769",
+        "client_msg_id": "DE6FB7A5-C904-4A6E-AC03-A31F525B4E19",
+        "text": "了解です！\nお大事に！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718352157.989599",
+        "parent_user_id": "U071M740R32",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iDYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！\nお大事に！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T4CBHS",
+        "type": "message",
+        "ts": "1718358484.326719",
+        "client_msg_id": "c9f2e0a5-d8b7-41e7-b825-5b4bd38f60ab",
+        "text": "五分程度遅れます\nすみません！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d9961b157216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8132416925493_d9961b157216c0d503e7_72.jpg",
+            "first_name": "岡本英孝",
+            "real_name": "岡本英孝",
+            "display_name": "Okamoto.Hidetaka",
+            "team": "T06L90YHJF8",
+            "name": "ohidewakaba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718274696.313769",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJVjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "五分程度遅れます\nすみません！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

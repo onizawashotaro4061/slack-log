@@ -1,0 +1,84 @@
+[
+    {
+        "text": "<!channel> 　これ見てやってね☆",
+        "files": [
+            {
+                "id": "F06QK9DBAJV",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06Q00SNSRL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LY8E3XA5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4S\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　これ見てやってね☆"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710826286.475579",
+        "client_msg_id": "b4c3527b-5fc1-4dc1-9d6c-678bf611403d",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かじ",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "deposit",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LKTXCZL4",
+                    "U06LK0FPH2P"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1729066202.618099",
+        "client_msg_id": "254996b1-46f5-4b57-871f-bc1ecc7a9453",
+        "text": "<!channel>\nおつかれリハーサル連絡！\n【時間】10\/16(水) 19:00集合、19:10開始\n【場所】LS501教室\n【議題】(予定)\n\n1.OPリハ！\n(20:00より第140回明大祭実行委員会委員長、前冬磨さんがやってきます。がんばろぉ～)\n\n台本印刷数(OP)\n進行:23\nPA:7\n司会:6\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729066202.618099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1729066518.918659",
+        "reply_users": [
+            "U070HS2GY5V"
+        ],
+        "replies": [
+            {
+                "user": "U070HS2GY5V",
+                "ts": "1729066518.918659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMzta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれリハーサル連絡！\n【時間】10\/16(水) 19:00集合、19:10開始\n【場所】LS501教室\n【議題】(予定)\n\n1.OPリハ！\n(20:00より第140回明大祭実行委員会委員長、前冬磨さんがやってきます。がんばろぉ～)\n\n台本印刷数(OP)\n進行:23\nPA:7\n司会:6\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U070RQ0DUBG",
+                    "U06LMH5ACGL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070HS2GY5V",
+        "type": "message",
+        "ts": "1729066518.918659",
+        "client_msg_id": "4ed48d25-3c83-44ad-aac2-ee2442212215",
+        "text": "私用のため欠席させて下さい。すみません:bow::sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10e42254d341",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7017905306551_10e42254d3418983cc64_72.jpg",
+            "first_name": "本村つくし",
+            "real_name": "本村つくし",
+            "display_name": "Motomura.Tsukushi",
+            "team": "T06L90YHJF8",
+            "name": "tsukushibencun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729066202.618099",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYgm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席させて下さい。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

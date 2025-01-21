@@ -1,0 +1,527 @@
+[
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1733374102.844879",
+        "client_msg_id": "1DB873F0-5576-48E9-B469-1F24F81A4492",
+        "text": "<!channel>\n【1205第28回開発局彩明部門会議】について\nお疲れ様でっさ。\nここのSlackが流れるのもこれが最後です。\nお世話になりました。\n\n【時間】\n19:00(教室は5限から)\n\n【場所】\nLS607←19時から入れます。\nM606,607←5限から取ってるので、会議前はここで時間潰すなりして、時間になったら移動してください。\n\n【持ち物】\nパソコン\n締めくくりの言葉\n\n【議題】\n1.各種報告(意思共有）\n2.〜次年度コンテンツ〜byチーム長(意見交換)\n3.おわり\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n最後だからスタンプありったけ押しましょう。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733374102.844879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1733389117.681319",
+        "reply_users": [
+            "U070RQ167FG"
+        ],
+        "replies": [
+            {
+                "user": "U070RQ167FG",
+                "ts": "1733389117.681319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1GBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【1205第28回開発局彩明部門会議】について\nお疲れ様でっさ。\nここのSlackが流れるのもこれが最後です。\nお世話になりました。\n\n【時間】\n19:00(教室は5限から)\n\n【場所】\nLS607←19時から入れます。\nM606,607←5限から取ってるので、会議前はここで時間潰すなりして、時間になったら移動してください。\n\n【持ち物】\nパソコン\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "締めくくりの言葉\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n1.各種報告(意思共有）\n2.〜次年度コンテンツ〜byチーム長(意見交換)\n3.おわり\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n最後だからスタンプありったけ押しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3GT7FT",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070VFQM2N9",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 12
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U070RQ167FG",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "開発_彩明",
+                "users": [
+                    "U06LCE9JG3G",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "今だなつきハイドロポンプ",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3GT7FT",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 13
+            },
+            {
+                "name": "出ましたなつくんお得意のキレ芸",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3GT7FT",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U07194G87BL",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U06LCE4EV2A",
+                    "U0710T04DU4",
+                    "U070VFQM2N9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "か＿全力疾走なつくん煌めく汗",
+                "users": [
+                    "U06LCE9JG3G",
+                    "U071B3GT7FT",
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U070VFQM2N9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "夏くん不法入国",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U071B3GT7FT",
+                    "U07194G87BL",
+                    "U070VFQM2N9"
+                ],
+                "count": 9
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U071B3GT7FT",
+                    "U070VFQM2N9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "運営_ながしゅん_踊るブンカッキー",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U071B3CB42V",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U070HS3T3D5"
+                ],
+                "count": 5
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U071B3CB42V"
+                ],
+                "count": 4
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U071B3GT7FT",
+                    "U070VFQM2N9"
+                ],
+                "count": 5
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U0710SZT276",
+                    "U070HS3T3D5",
+                    "U0710SZA5J8",
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070VFQM2N9"
+                ],
+                "count": 9
+            },
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "grimacing",
+                "users": [
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "astonished",
+                "users": [
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U070HS55A8P",
+                    "U06LCEJ5HHU",
+                    "U071B3GT7FT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "なめこ栽培キット",
+                "users": [
+                    "U070RQ167FG",
+                    "U071B3GT7FT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "きすけ",
+                "users": [
+                    "U070RQ167FG",
+                    "U071B3GT7FT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U070RQ167FG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U0710SZA5J8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "魔のしおり",
+                "users": [
+                    "U0710SZA5J8",
+                    "U071B3GT7FT",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-r",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-i",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U070VFQM2N9",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-yellow-g",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-yellow-a",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-t",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-o",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-u",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070HS3T3D5",
+                    "U070HS5043H",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U06LCE9JG3G",
+                    "U0710SZA5J8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "開_なつくん",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3GT7FT",
+                    "U070VFQM2N9",
+                    "U071B3CB42V",
+                    "U0710SZA5J8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いぬ",
+                "users": [
+                    "U071B3GT7FT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U07194G87BL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

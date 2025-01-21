@@ -1,0 +1,748 @@
+[
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1725206947.878999",
+        "edited": {
+            "user": "U06LMGM3CG4",
+            "ts": "1725249480.000000"
+        },
+        "client_msg_id": "015c2933-6250-405d-af98-7302df2e081a",
+        "text": "<!channel>\n【0902第27回開発局会議について】\nあと2ヶ月で本祭です。そしてあと10回局会議をすると活動終了の予定です。もうジジイです。\n\n今年も局テストの季節がやってきました。赤点を取ると単位を落とすことよりも怖いことになります。（ちなみにちゃんと勉強すれば取れます。）\n\n【時間】\n*17:10〜18:50（時間早まってます）*\n\n【場所】\n第一校舎301教室\n\n【持ち物】\nパソコン\n*筆記用具（忘れたらテスト回答できないっす）*\n鬼追のテストに打ち勝つ気持ち\n\n【議題】\n1. 各種共有（意思共有）\n2. 局テスト（意思共有）\n3. マニュアル講座（意思共有）\n\n遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！\n\nスラックのスタンプってこの連絡をちゃんと見ているかの確認も兼ねているんですよね、ちゃんとなんでもいいからスタンプ押してください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1725265264.702669",
+        "reply_users": [
+            "U070RQ167FG",
+            "U06LMH49UQL",
+            "U070HS3T3D5",
+            "U070Y9SJQH1",
+            "U070VFQM2N9",
+            "U06LMGM3CG4",
+            "U070YDBG6N6",
+            "U07194G87BL"
+        ],
+        "replies": [
+            {
+                "user": "U070RQ167FG",
+                "ts": "1725207734.908839"
+            },
+            {
+                "user": "U06LMH49UQL",
+                "ts": "1725208178.944369"
+            },
+            {
+                "user": "U070HS3T3D5",
+                "ts": "1725234753.218499"
+            },
+            {
+                "user": "U070Y9SJQH1",
+                "ts": "1725239867.303099"
+            },
+            {
+                "user": "U070VFQM2N9",
+                "ts": "1725240883.322609"
+            },
+            {
+                "user": "U06LMGM3CG4",
+                "ts": "1725249561.277679"
+            },
+            {
+                "user": "U070YDBG6N6",
+                "ts": "1725250766.884269"
+            },
+            {
+                "user": "U07194G87BL",
+                "ts": "1725260412.917349"
+            },
+            {
+                "user": "U07194G87BL",
+                "ts": "1725265264.702669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+iF4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0902第27回開発局会議について】\nあと2ヶ月で本祭です。そしてあと10回局会議をすると活動終了の予定です。もうジジイです。\n\n今年も局テストの季節がやってきました。赤点を取ると単位を落とすことよりも怖いことになります。（ちなみにちゃんと勉強すれば取れます。）\n\n【時間】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:10〜18:50（時間早まってます）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n【場所】\n第一校舎301教室\n\n【持ち物】\nパソコン\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "筆記用具（忘れたらテスト回答できないっす）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n鬼追のテストに打ち勝つ気持ち\n\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "局テスト（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マニュアル講座（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！\n\nスラックのスタンプってこの連絡をちゃんと見ているかの確認も兼ねているんですよね、ちゃんとなんでもいいからスタンプ押してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LCE8C51U",
+                    "U07194G87BL",
+                    "U06LK7K9ALA",
+                    "U071M6X5M16",
+                    "U06LG63FJUD",
+                    "U071B3GT7FT",
+                    "U070YDBG6N6",
+                    "U06LCE4EV2A",
+                    "U0710SZA5J8",
+                    "U06L4GKGXB9",
+                    "U070HT2C5KR",
+                    "U070HS3T3D5",
+                    "U06LK3ZBCN6",
+                    "U070VFQM2N9",
+                    "U0710SZT276",
+                    "U070HS5043H",
+                    "U071B3EHX6D"
+                ],
+                "count": 18
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U071M6X5M16",
+                    "U071B3GT7FT",
+                    "U06LCE4EV2A",
+                    "U06L4GKGXB9",
+                    "U070YD83MD0",
+                    "U06LXNWG67K",
+                    "U07194G87BL"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071M6X5M16",
+                    "U071B3GT7FT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U0710T04DU4",
+                    "U071B3GT7FT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U070HS55A8P",
+                    "U071B3GT7FT",
+                    "U070Y9TS5T5",
+                    "U06LXP1JG0Z"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ジョージ2",
+                "users": [
+                    "U071B3GT7FT",
+                    "U071B3CB42V",
+                    "U070Y9U9QEP",
+                    "U07194G87BL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U070RQ167FG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ167FG",
+        "type": "message",
+        "ts": "1725207734.908839",
+        "client_msg_id": "F16DB984-08E9-42C6-918B-68AD280CCD41",
+        "text": "サークル合宿につき、欠席します…\nよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e28bf1bce965",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8071426280144_e28bf1bce9650350ad4f_72.png",
+            "first_name": "山本",
+            "real_name": "山本 菜々子",
+            "display_name": "Yamamoto.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "san.2007.09.06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4d51S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル合宿につき、欠席します…\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH49UQL",
+        "type": "message",
+        "ts": "1725208178.944369",
+        "client_msg_id": "25FC8F48-257E-4FB3-8C95-13A3630B6B60",
+        "text": "留学中のため休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dbe6f5d664d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-07\/7678635751815_dbe6f5d664d5226c2aaa_72.png",
+            "first_name": "佐藤花恋",
+            "real_name": "佐藤花恋",
+            "display_name": "Sato.Karen",
+            "team": "T06L90YHJF8",
+            "name": "s.karen160827",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWZc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "留学中のため休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1725234753.218499",
+        "client_msg_id": "5E13FC9A-55B5-4865-B8D5-88E68461DBBE",
+        "text": "体調不良のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQCi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SJQH1",
+        "type": "message",
+        "ts": "1725239867.303099",
+        "client_msg_id": "B681C379-44C8-404B-85E6-B6F2E218ED60",
+        "text": "熱が出てしまい休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1ced3ef2c793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7137437986758_1ced3ef2c7932018d882_72.png",
+            "first_name": "千葉澪未",
+            "real_name": "千葉澪未",
+            "display_name": "Chiba. Remi",
+            "team": "T06L90YHJF8",
+            "name": "rchiba39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBq0i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱が出てしまい休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFQM2N9",
+        "type": "message",
+        "ts": "1725240883.322609",
+        "client_msg_id": "C084F9A5-2020-449A-851B-72AD4B337697",
+        "text": "予定があるため、欠席させて頂きます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17387da8df8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7105997571655_17387da8df8acc8270df_72.png",
+            "first_name": "眞野栞",
+            "real_name": "眞野栞",
+            "display_name": "Mano.Shiori",
+            "team": "T06L90YHJF8",
+            "name": "mano.05poppy1114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZJsz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため、欠席させて頂きます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06LMGM3CG4",
+        "thread_ts": "1725206947.878999",
+        "root": {
+            "user": "U06LMGM3CG4",
+            "type": "message",
+            "ts": "1725206947.878999",
+            "edited": {
+                "user": "U06LMGM3CG4",
+                "ts": "1725249480.000000"
+            },
+            "client_msg_id": "015c2933-6250-405d-af98-7302df2e081a",
+            "text": "<!channel>\n【0902第27回開発局会議について】\nあと2ヶ月で本祭です。そしてあと10回局会議をすると活動終了の予定です。もうジジイです。\n\n今年も局テストの季節がやってきました。赤点を取ると単位を落とすことよりも怖いことになります。（ちなみにちゃんと勉強すれば取れます。）\n\n【時間】\n*17:10〜18:50（時間早まってます）*\n\n【場所】\n第一校舎301教室\n\n【持ち物】\nパソコン\n*筆記用具（忘れたらテスト回答できないっす）*\n鬼追のテストに打ち勝つ気持ち\n\n【議題】\n1. 各種共有（意思共有）\n2. 局テスト（意思共有）\n3. マニュアル講座（意思共有）\n\n遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！\n\nスラックのスタンプってこの連絡をちゃんと見ているかの確認も兼ねているんですよね、ちゃんとなんでもいいからスタンプ押してください。",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1725206947.878999",
+            "reply_count": 9,
+            "reply_users_count": 8,
+            "latest_reply": "1725265264.702669",
+            "reply_users": [
+                "U070RQ167FG",
+                "U06LMH49UQL",
+                "U070HS3T3D5",
+                "U070Y9SJQH1",
+                "U070VFQM2N9",
+                "U06LMGM3CG4",
+                "U070YDBG6N6",
+                "U07194G87BL"
+            ],
+            "replies": [
+                {
+                    "user": "U070RQ167FG",
+                    "ts": "1725207734.908839"
+                },
+                {
+                    "user": "U06LMH49UQL",
+                    "ts": "1725208178.944369"
+                },
+                {
+                    "user": "U070HS3T3D5",
+                    "ts": "1725234753.218499"
+                },
+                {
+                    "user": "U070Y9SJQH1",
+                    "ts": "1725239867.303099"
+                },
+                {
+                    "user": "U070VFQM2N9",
+                    "ts": "1725240883.322609"
+                },
+                {
+                    "user": "U06LMGM3CG4",
+                    "ts": "1725249561.277679"
+                },
+                {
+                    "user": "U070YDBG6N6",
+                    "ts": "1725250766.884269"
+                },
+                {
+                    "user": "U07194G87BL",
+                    "ts": "1725260412.917349"
+                },
+                {
+                    "user": "U07194G87BL",
+                    "ts": "1725265264.702669"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+iF4n",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【0902第27回開発局会議について】\nあと2ヶ月で本祭です。そしてあと10回局会議をすると活動終了の予定です。もうジジイです。\n\n今年も局テストの季節がやってきました。赤点を取ると単位を落とすことよりも怖いことになります。（ちなみにちゃんと勉強すれば取れます。）\n\n【時間】\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "17:10〜18:50（時間早まってます）",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n【場所】\n第一校舎301教室\n\n【持ち物】\nパソコン\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "筆記用具（忘れたらテスト回答できないっす）",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n鬼追のテストに打ち勝つ気持ち\n\n【議題】\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "各種共有（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "局テスト（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "マニュアル講座（意思共有）"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n\n遅刻・欠席・早退をされる方は改めてスレッドで必ず教えてください！\n\nスラックのスタンプってこの連絡をちゃんと見ているかの確認も兼ねているんですよね、ちゃんとなんでもいいからスタンプ押してください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1725249561.277679",
+        "client_msg_id": "c2688690-7dc5-4977-9706-8c7e527c0904",
+        "text": "今日の局会議は\n17:*10*〜18:50\n*第一校舎301教室*です！",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0IBS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の局会議は\n17:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "〜18:50\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第一校舎301教室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDBG6N6",
+        "type": "message",
+        "ts": "1725250766.884269",
+        "client_msg_id": "3E54CD95-F6A5-4A8D-AC2A-6D8E3894DFC6",
+        "text": "体調不良のため、欠席させていただきます。すみません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6292777e4e40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8151928727697_6292777e4e404bb1f438_72.png",
+            "first_name": "黒田若葉",
+            "real_name": "黒田若葉",
+            "display_name": "Kurota.Wakaba",
+            "team": "T06L90YHJF8",
+            "name": "uniwakabasamaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGceQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため、欠席させていただきます。すみません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sneezing_face",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

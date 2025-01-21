@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1715732867.637159",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1715732977.000000"
+        },
+        "client_msg_id": "774ded1f-3d7d-478d-9459-82bab5bcab2a",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/16(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.議事録敲きについて(意思共有)\n2.募集説明会資料進捗状況確認(意思共有)\n3.TrelloのNotion完全移行手続き\n4.チーム会議\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→こむぎ、敲き→たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5MgY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/16(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.議事録敲きについて(意思共有)\n2.募集説明会資料進捗状況確認(意思共有)\n3.TrelloのNotion完全移行手続き\n4.チーム会議\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→こむぎ、敲き→たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "a部門はえぇ部門",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB"
+                ],
+                "count": 6
+            },
+            {
+                "name": "餃子屋みんみん",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LCE9AKQW",
+                    "U06LG64U8DB"
+                ],
+                "count": 6
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB",
+                    "U06M7T7SSDN"
+                ],
+                "count": 6
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB",
+                    "U06LMHDAZKN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

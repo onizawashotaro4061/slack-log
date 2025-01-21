@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1727170114.530419",
+        "client_msg_id": "9D60A8FB-C403-4171-8B86-FE1CA2541289",
+        "text": "体調不良のため、欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727136145.123309",
+        "parent_user_id": "U06M7SBFPFS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxK8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため、欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1727170262.426669",
+        "client_msg_id": "CFF8E0BB-B605-46B8-B6CB-4EB95F3D3922",
+        "text": "熱気味なので欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727136145.123309",
+        "parent_user_id": "U06M7SBFPFS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uqodl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱気味なので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710T14PU4",
+        "type": "message",
+        "ts": "1727170832.257829",
+        "client_msg_id": "264D05C0-08DF-421F-B165-9876B68D30EF",
+        "text": "電車が遅延してるため遅れます、申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fc3fa55a4200",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8043086565669_fc3fa55a420035625947_72.png",
+            "first_name": "渡辺康介",
+            "real_name": "渡辺康介",
+            "display_name": "Kousuke.Watanabe",
+            "team": "T06L90YHJF8",
+            "name": "k.watanabe0504",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727136145.123309",
+        "parent_user_id": "U06M7SBFPFS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAtsU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅延してるため遅れます、申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

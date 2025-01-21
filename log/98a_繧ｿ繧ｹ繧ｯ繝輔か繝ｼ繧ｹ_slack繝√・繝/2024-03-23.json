@@ -1,0 +1,421 @@
+[
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711192862.827499",
+        "client_msg_id": "848a5917-aef0-41aa-a8df-51fa4d79f370",
+        "text": "<https:\/\/trello-clone-01-git-second-tomandmany.vercel.app\/members\/1>\n\nまだデータベースに接続してないからリロードしたら追加したデータ消えちゃうけど、それぞれのパソコン上ではデータを追加したらちゃんと画面に表示されるようにしました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DbuQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello-clone-01-git-second-tomandmany.vercel.app\/members\/1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nまだデータベースに接続してないからリロードしたら追加したデータ消えちゃうけど、それぞれのパソコン上ではデータを追加したらちゃんと画面に表示されるようにしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711194730.459939",
+        "client_msg_id": "ab6dc998-c6a1-4b64-8c5c-9a3efae1399a",
+        "text": "ごめん嘘ついてるかもしれないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qxbCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん嘘ついてるかもしれないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711203348.415369",
+        "client_msg_id": "fc53e34c-6a82-4b93-997c-b15960ffe870",
+        "text": "もしかしたらログイン必要になってたかもだけど今なら見れると思うから時間ある人いたら確認してみてー\nPCで見てもらえると嬉しいです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYso4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もしかしたらログイン必要になってたかもだけど今なら見れると思うから時間ある人いたら確認してみてー\nPCで見てもらえると嬉しいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711245053.973589",
+        "client_msg_id": "781191e6-66d9-4c37-8578-3d5cd990bfa4",
+        "text": "<@U06LJ4HJLMS>\nおつかれさまです！今のところこの9個です！\n• 局長と副局長を一括でメンションできるボタン\n• Adobe系のソフトと互換性があれば使いやすそう。\n• PDFをあげられたら嬉しい。\n• タイムツリーとスケジュールを連携できる機能\n• ボードにあるタスクの進捗が見える機能\n• メンションbot\n• パワポなどの重いデータを載せられるスペック\n• ボードを10個以上無料で作成できるスペック\n• メンションのリマインダー（確認していないメンションがあれば追って通知が来る）機能\n↓ 意見として書かれていましたー\nアプリ開発において基本設計、詳細設計、コード、テスト、リリースを4／8までに行うのは日程的に厳しいと考えます。またトレロの特性上似たアプリではデータベース、サーバー管理が必須です。最低でも4か月は視野に入れるべきです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rp4Af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LJ4HJLMS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！今のところこの9個です！\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "局長と副局長を一括でメンションできるボタン"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Adobe系のソフトと互換性があれば使いやすそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PDFをあげられたら嬉しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "タイムツリーとスケジュールを連携できる機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ボードにあるタスクの進捗が見える機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メンションbot"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "パワポなどの重いデータを載せられるスペック"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ボードを10個以上無料で作成できるスペック"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メンションのリマインダー（確認していないメンションがあれば追って通知が来る）機能"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n↓ 意見として書かれていましたー\nアプリ開発において基本設計、詳細設計、コード、テスト、リリースを4／8までに行うのは日程的に厳しいと考えます。またトレロの特性上似たアプリではデータベース、サーバー管理が必須です。最低でも4か月は視野に入れるべきです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711248070.604469",
+        "client_msg_id": "B9E95B5A-CE6C-4E8E-BE35-7D6049368BB0",
+        "text": "ありがと！てか有識者からの意見ももらえたのありがたいな\nアンケート答えてくれた人と直接話せたりしたら嬉しいんだけどさすがに匿名よね？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vq4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがと！てか有識者からの意見ももらえたのありがたいな\nアンケート答えてくれた人と直接話せたりしたら嬉しいんだけどさすがに匿名よね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711249226.968329",
+        "client_msg_id": "13BA22AE-0A9D-4413-94ED-46AF0AEE6AAB",
+        "text": "匿名の方が言いやすいかと思って匿名でやっちゃいましたー :cry: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tnABK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "匿名の方が言いやすいかと思って匿名でやっちゃいましたー "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711249593.836089",
+        "client_msg_id": "87E23FF4-3E17-4EAC-93F2-6F41975D508A",
+        "text": "絶対正しい判断だと思う！おかげでたくさん意見もらえたありがとう！\nただあと一つだけ、意見くれた人たちとイメージ共有したいから、「直接お話できる人いませんか？」みたいな文章送ってもらうのお願いしたいです:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBIeM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "絶対正しい判断だと思う！おかげでたくさん意見もらえたありがとう！\nただあと一つだけ、意見くれた人たちとイメージ共有したいから、「直接お話できる人いませんか？」みたいな文章送ってもらうのお願いしたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

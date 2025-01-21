@@ -1,0 +1,261 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1730673618.610249",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1730673963.000000"
+        },
+        "client_msg_id": "A8E7C33F-8F65-494A-BA0E-782567879A5F",
+        "text": "<!channel>\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\n11月4日（本日）7時現在のチケット状況は以下のとおりです。\n\n• 参加団体名\n企画実施日時\n企画実施教室\nチケット状況\n\n\n• AGESTOCK2024実行委員会\n企画実施日時：13：00～14：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：結構残数あるらしい（12:59までオンライン販売予定）\n\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DMffb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\n11月4日（"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）7時現在のチケット状況は以下のとおりです。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "参加団体名"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時\n企画実施教室\nチケット状況\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AGESTOCK2024実行委員会"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：13：00～14：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：結構残数あるらしい（12:59までオンライン販売予定）\n\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1730694954.247139",
+        "client_msg_id": "7fa8291c-a6b9-4389-a9e3-ebd70e407bd6",
+        "text": "<!channel>\n教室企画に関するお知らせです。\n以下の団体は商品売り切れのため、本日は企画を終了いたしました。\n来場者の方に聞かれた際にはこの旨をお伝えください。\n\n「ご当地物産展at明治大学」\n団体名：マーケティング研究会\n場所：第一校舎209教室\n\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MdhQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n教室企画に関するお知らせです。\n以下の団体は商品売り切れのため、本日は企画を終了いたしました。\n来場者の方に聞かれた際にはこの旨をお伝えください。\n\n「ご当地物産展at明治大学」\n団体名：マーケティング研究会\n場所：第一校舎209教室\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1730703157.498779",
+        "client_msg_id": "dfaefda9-d6d1-4d3e-a888-2ea737ac153e",
+        "text": "*<!channel>*\n教室企画に関するお知らせです。\n以下の団体が企画を*再開*いたしました。\n\n和泉ラーニングスクエアLS301教室\n団体名：情報処理研究会\n企画名：デジフロ展示会2024\n\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ldwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n教室企画に関するお知らせです。\n以下の団体が企画を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "再開",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしました。\n\n和泉ラーニングスクエアLS301教室\n団体名：情報処理研究会\n企画名：デジフロ展示会2024\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1730703770.295139",
+        "client_msg_id": "6344d353-2627-4a25-aef0-eb26342b41c3",
+        "text": "<!channel>\n教室企画に関するお知らせです。\n以下の団体は*企画終了*いたしました。\n\n第二学生会館　1階学生ラウンジ\n団体名：seekers\n企画名：LIVE LIVE LIVE !!!\n\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lf9I8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n教室企画に関するお知らせです。\n以下の団体は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画終了",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしました。\n\n第二学生会館　1階学生ラウンジ\n団体名：seekers\n企画名：LIVE LIVE LIVE !!!\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

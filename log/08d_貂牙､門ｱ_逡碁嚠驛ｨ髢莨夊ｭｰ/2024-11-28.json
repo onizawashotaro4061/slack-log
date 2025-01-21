@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LG62T3MK",
+        "type": "message",
+        "ts": "1732864996.741729",
+        "client_msg_id": "44fecc2d-04e4-4a45-97ae-b5e77be18f54",
+        "text": "ごめんなさい体調不良のため、今回の会議休ませていただきます。自分のコンテンツは来週やってくれるそうです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8fb1d222148e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6696596386453_8fb1d222148ec77d32c1_72.png",
+            "first_name": "富田陸",
+            "real_name": "富田陸",
+            "display_name": "Tomita.Riku",
+            "team": "T06L90YHJF8",
+            "name": "tomiriku60",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732768495.415519",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6yiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい体調不良のため、今回の会議休ませていただきます。自分のコンテンツは来週やってくれるそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

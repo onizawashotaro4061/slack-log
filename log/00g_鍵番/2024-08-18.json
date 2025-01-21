@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1723978173.925909",
+        "client_msg_id": "2FD716DB-6710-42D8-A054-EB8E49B2CFFF",
+        "text": "なつくん鍵閉めたよ〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVvD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なつくん鍵閉めたよ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K",
+                    "U06LK7K9ALA",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724030601.536549",
+        "edited": {
+            "user": "U06L4GM5C87",
+            "ts": "1724035504.000000"
+        },
+        "client_msg_id": "1ED7E2E4-C4FA-4C39-ACB7-19FE164895C7",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LK0FUAHZ",
+                    "U06LK3ZBCN6",
+                    "U06LK3MF9FC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724035491.420989",
+        "client_msg_id": "C9720913-4D00-440A-9143-403073A63BC7",
+        "text": "しめかえし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2P\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "誕生日おめでとう",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06L4GL1CUF",
+                    "U06L4GH3T7H",
+                    "U06LXNYCLJV",
+                    "U06LK3LKR9Q"
+                ],
+                "count": 5
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06L4GH3T7H",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1711496345.106049",
+        "client_msg_id": "CAEA9661-FEA6-45F5-9D7F-2E0327232CF2",
+        "text": "<!channel> \n役員会に出す前にたたきが入るから早めに01出して欲しい！5日前とかに01来てるとベストなイメージです！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WuPDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n役員会に出す前にたたきが入るから早めに01出して欲しい！5日前とかに01来てるとベストなイメージです！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

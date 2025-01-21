@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1715670740.381839",
+        "client_msg_id": "EB8F8979-6ECA-4951-A6A0-4BCDD04FE9A0",
+        "text": "@会議休む人\n分担金7000円は来週おねがいします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4f2Jn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@会議休む人\n分担金7000円は来週おねがいします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070YD75PJ6",
+                    "U06LMH412CU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "まゆ-門限シンデレラ",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

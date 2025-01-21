@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LG610ADB",
+        "type": "message",
+        "ts": "1714917494.999549",
+        "client_msg_id": "1165C16D-D68E-409E-A4C7-2A800E7809BA",
+        "text": "すみません、今から土曜の参加のみに変更してもいいですか、、、？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788dd27e8352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7946327606705_788dd27e83521855f665_72.png",
+            "first_name": "鈴木来哉",
+            "real_name": "鈴木来哉",
+            "display_name": "Suzuki.Raiya",
+            "team": "T06L90YHJF8",
+            "name": "rrraai1214",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709885208.879489",
+        "parent_user_id": "U06LHACMG91",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCZyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、今から土曜の参加のみに変更してもいいですか、、、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

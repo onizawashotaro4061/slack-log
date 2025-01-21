@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1730708459.786739",
+        "edited": {
+            "user": "U06LY5XNLBT",
+            "ts": "1730708472.000000"
+        },
+        "client_msg_id": "1D69C74E-1559-4F02-A21C-AE47E18C3092",
+        "text": "<!channel>\n報告してなかったけどストーリーはもう消してます！\nみんな毎時間模擬店回って写真送ってくれてありがとう！！\nいいねとかも結構ついててよかったです:revolving_hearts:\n\n一点だけ、こっちがバタバタしててあげれなかった回が何回かありました、みんなごめんなさい:woman-bowing:\n3日間ありがとうございましたー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dH6y+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "報告してなかったけどストーリーはもう消してます！\nみんな毎時間模擬店回って写真送ってくれてありがとう！！\nいいねとかも結構ついててよかったです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "revolving_hearts",
+                                "unicode": "1f49e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n一点だけ、こっちがバタバタしててあげれなかった回が何回かありました、みんなごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3日間ありがとうございましたー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0EBWRH",
+                    "U06LK3KA09G",
+                    "U0710T0NBFE",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0EBWRH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1725791775.049149",
+        "client_msg_id": "422796C4-F495-46F0-8266-44916527DAEA",
+        "text": "ひかるかりあけからの掃除してしめ返し",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tl9yL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひかるかりあけからの掃除してしめ返し"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ",
+                    "U06LXNYUX7T",
+                    "U06LK3MF9FC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1725846161.334229",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1725846549.000000"
+        },
+        "client_msg_id": "87547dd3-382f-46a1-8286-24c61a2bafd5",
+        "text": "今日は連携やら掃除やらやるぼばんにします:broom:\nかりあけー:old_key:\n\n追記：実ぼすでにめちゃめちゃ綺麗だった",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pbeJW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は連携やら掃除やらやるぼばんにします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "broom",
+                                "unicode": "1f9f9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nかりあけー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "old_key",
+                                "unicode": "1f5dd-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n追記：実ぼすでにめちゃめちゃ綺麗だった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GH4ETH",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GH4ETH",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

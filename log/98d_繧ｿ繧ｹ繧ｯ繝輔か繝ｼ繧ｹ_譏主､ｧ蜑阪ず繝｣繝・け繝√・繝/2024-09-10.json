@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LCECJD8W",
+        "type": "message",
+        "ts": "1725954461.221249",
+        "client_msg_id": "D47F6DEC-C9ED-4366-9B0E-27D9C2D7C472",
+        "text": "これ直せたら送ってもいいですか？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fec49a6469cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7204615728544_fec49a6469cda795384d_72.png",
+            "first_name": "阿部裕佳",
+            "real_name": "阿部裕佳",
+            "display_name": "Abe.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "abuyujia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725942292.356039",
+        "parent_user_id": "U06LCECJD8W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rrg6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ直せたら送ってもいいですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725954485.068839",
+        "client_msg_id": "9e5f3e8c-72d3-46ed-b9af-507ea7379f9e",
+        "text": "いいよん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725942292.356039",
+        "parent_user_id": "U06LCECJD8W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKUUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいよん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

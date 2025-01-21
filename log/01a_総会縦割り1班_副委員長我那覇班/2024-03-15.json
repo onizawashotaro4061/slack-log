@@ -1,0 +1,183 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710563829.530999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LDT584J1",
+        "text": "<@U06LDT584J1>さんがチャンネルに参加しました",
+        "inviter": "U06LE249H0V",
+        "type": "message",
+        "ts": "1710563835.637489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3NH9MG",
+        "text": "<@U06LK3NH9MG>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564988.011999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0EQS59",
+        "text": "<@U06LK0EQS59>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564997.516829"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNX1A57",
+        "text": "<@U06LXNX1A57>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564998.410959"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH3952Q",
+        "text": "<@U06LMH3952Q>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564998.724699"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0E89MH",
+        "text": "<@U06LK0E89MH>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710564999.840559"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3LHG0J",
+        "text": "<@U06LK3LHG0J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565001.445589"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SPUVEC",
+        "text": "<@U06M7SPUVEC>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565003.630659"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GKGXB9",
+        "text": "<@U06L4GKGXB9>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565005.099939"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG62UXPX",
+        "text": "<@U06LG62UXPX>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565006.671899"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH9MBFW",
+        "text": "<@U06LMH9MBFW>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565007.120439"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH4T528",
+        "text": "<@U06LMH4T528>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565008.873039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE69DRU",
+        "text": "<@U06LCE69DRU>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565022.971189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH8RNBE",
+        "text": "<@U06LMH8RNBE>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565025.903619"
+    },
+    {
+        "text": " ",
+        "files": [
+            {
+                "id": "F06PY0W8Y76",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QLu75",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710565038.118239",
+        "client_msg_id": "6878B85F-7228-4339-B036-DD34D62A5EB2"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE8C51U",
+        "text": "<@U06LCE8C51U>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710565087.614809"
+    },
+    {
+        "text": "<!channel> ",
+        "files": [
+            {
+                "id": "F06Q877MFNV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710565841.951619",
+        "client_msg_id": "34AD7E24-C111-46EF-9396-494D2D20C1AB"
+    }
+]

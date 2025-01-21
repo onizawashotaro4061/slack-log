@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1725875887.568049",
+        "edited": {
+            "user": "U06M7SW8GAU",
+            "ts": "1726467082.000000"
+        },
+        "client_msg_id": "E5B9E8EA-3480-4D32-966E-3DECFB22CBFD",
+        "text": "<!channel>\n0910_第18回屋外ステージ部門会議\n【場所】第一校舎304教室\n【時間】15：20～17：00\n【議題】1.共有事項（意思共有）\n　　　　2.第３回参加団体説明会のロールプレイング（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U070HS3G355>\n                    チェック：  <@U06LXNZG6HX> <@U06LK3Q5M0S>\n\nここ2週間くらいで群馬新潟山梨(2回)行きました\nお金がないです佐久間です\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SA\/\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0910_第18回屋外ステージ部門会議\n【場所】第一校舎304教室\n【時間】15：20～17：00\n【議題】1.共有事項（意思共有）\n　　　　2.第３回参加団体説明会のロールプレイング（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070HS3G355"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                    チェック：  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZG6HX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3Q5M0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nここ2週間くらいで群馬新潟山梨(2回)行きました\nお金がないです佐久間です\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070HS3G355",
+                    "U06LK3Q5M0S",
+                    "U06LMH8RNBE",
+                    "U06LK3Q6Y2W",
+                    "U070YD8Q5GA",
+                    "U071B3A1G4R"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070YA6CQLB",
+                    "U06LXP05G3B",
+                    "U06LK3Q5M0S",
+                    "U071M6ZSSLQ",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 5
+            },
+            {
+                "name": "屋外_はる_じゃががが",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U071M6ZSSLQ",
+                    "U06LK3Q6Y2W",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LY8E3XA5",
+                    "U06LK3Q6Y2W",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

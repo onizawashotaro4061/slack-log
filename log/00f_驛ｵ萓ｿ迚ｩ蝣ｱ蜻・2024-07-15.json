@@ -1,0 +1,203 @@
+[
+    {
+        "text": "<!channel>お疲れ様です！\n和泉キャンパス宛に、日本音楽著作権協会から郵便物が2点届きました。どこ局宛かどなたかご存知ですか？",
+        "files": [
+            {
+                "id": "F07CYE63G57",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07CKLQT335",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xl5Ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n和泉キャンパス宛に、日本音楽著作権協会から郵便物が2点届きました。どこ局宛かどなたかご存知ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721104657.988429",
+        "client_msg_id": "315b4915-89be-4d42-be4d-24c236f4f472",
+        "thread_ts": "1721104657.988429",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1721111595.501849",
+        "reply_users": [
+            "U06LVK2FU1X",
+            "U06LXNY0MHP"
+        ],
+        "replies": [
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1721107603.638739"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1721107760.719179"
+            },
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1721111595.501849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1721107603.638739",
+        "client_msg_id": "33A9B5AA-95C3-4934-BC45-57AE07F85627",
+        "text": "<@U06LXNY0MHP> \nお疲れ様〜\nうちのだと思うので広報局のロッカーに入れてくださると助かります:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721104657.988429",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrQp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNY0MHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様〜\nうちのだと思うので広報局のロッカーに入れてくださると助かります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1721107760.719179",
+        "client_msg_id": "8f0ae687-d34f-49fb-b743-9f7a7c122438",
+        "text": "<@U06LVK2FU1X>かしこまりましたー:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721104657.988429",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zdf6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LVK2FU1X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "かしこまりましたー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1721111595.501849",
+        "client_msg_id": "8C45B97E-0F78-467E-9CCF-841C807776DB",
+        "text": "ありがとう〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721104657.988429",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72wR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

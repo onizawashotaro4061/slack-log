@@ -1,0 +1,105 @@
+[
+    {
+        "text": "<!channel> ",
+        "files": [
+            {
+                "id": "F06U2LX2S8M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712984501.471159",
+        "client_msg_id": "55683940-39CD-440F-893C-4712B39DA3E1"
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F06U5FJA0N7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712985699.576329",
+        "client_msg_id": "1e1a4ce2-2aa6-4ae0-a86f-ee4fee9ae044"
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F06TZ1XRRRU",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06U84W0P7W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712988754.719629",
+        "client_msg_id": "69fd5c30-ad7a-44c0-9445-0ac1d5c10adc"
+    }
+]

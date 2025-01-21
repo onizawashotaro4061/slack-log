@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1714008966.895669",
+        "client_msg_id": "D05D2323-26F1-4F1B-95CD-331D5D3E122E",
+        "text": "間違えてバイトいれてしまったので休みます。ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713932270.098799",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZa0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間違えてバイトいれてしまったので休みます。ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LXNWSGPK",
+                    "U06LK3KA09G",
+                    "U06LCVDE88N"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

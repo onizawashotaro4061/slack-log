@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U06LK0DLEQ3",
+        "type": "message",
+        "ts": "1730707211.752229",
+        "edited": {
+            "user": "U06LK0DLEQ3",
+            "ts": "1730707274.000000"
+        },
+        "client_msg_id": "EFB9AC4D-6659-4C72-9FA0-A43482D94324",
+        "text": "<!channel> \n模擬店枠企画終了時刻です\n来場者の方には終了時刻であることお伝えください :woman-bowing::skin-tone-2:\n3日間ありがとうございました ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b2a12254a03d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-06\/6776772180784_b2a12254a03d3d8a656f_72.png",
+            "first_name": "立岩百叶",
+            "real_name": "立岩百叶",
+            "display_name": "Tateiwa.Momoka",
+            "team": "T06L90YHJF8",
+            "name": "snowwhite1614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDuYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n模擬店枠企画終了時刻です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n来場者の方には終了時刻であることお伝えください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3日間ありがとうございました "
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LCE4EV2A",
+                    "U06LXR4BPS5",
+                    "U06LXNZDHFT",
+                    "U06LKTXCZL4"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

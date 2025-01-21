@@ -1,0 +1,211 @@
+[
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1732609010.062339",
+        "client_msg_id": "4F2FE5AD-E94B-4C81-881E-1CCB0EF52DEA",
+        "text": "突然急用入ってしまったためお休みします。\n2週連続申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539882.857789",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nk0Av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "突然急用入ってしまったためお休みします。\n2週連続申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCEF912S",
+        "type": "message",
+        "ts": "1732609431.938789",
+        "client_msg_id": "7BF5160F-2FEF-4CA4-85E8-915AE8E729CA",
+        "text": "体調が良くないので欠席します。最後の会議なのにすみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8137963b77b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-26\/8107219027488_8137963b77b96f55184d_72.png",
+            "first_name": "石塚颯",
+            "real_name": "石塚颯",
+            "display_name": "Ishizuka.Hayate",
+            "team": "T06L90YHJF8",
+            "name": "hayaten-12-26",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539882.857789",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "djsyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が良くないので欠席します。最後の会議なのにすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9RMP7D",
+        "type": "message",
+        "ts": "1732614252.624469",
+        "client_msg_id": "1B4B9F82-23C5-4CB6-A8CF-99E7435E6CC5",
+        "text": "電車が遅延してるので少し遅れます :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "114c5b85ac7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-01\/7660822787170_114c5b85ac7cb95e84e2_72.png",
+            "first_name": "鎌田悠里",
+            "real_name": "鎌田悠里",
+            "display_name": "Kamata.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "kamayuri0831",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539882.857789",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8Yvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅延してるので少し遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCVDE88N",
+        "type": "message",
+        "ts": "1732614410.279049",
+        "client_msg_id": "D1FA5FEA-F474-4207-A788-0DE80187A3B8",
+        "text": "体調が悪くなってきたので欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "da6fd5c057cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7750579849344_da6fd5c057cfae0e1b67_72.png",
+            "first_name": "駒井一真",
+            "real_name": "駒井一真",
+            "display_name": "Komai.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmpoli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539882.857789",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yU7yP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪くなってきたので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U070U48JHL7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LY5XNLBT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06LCEF912S",
+        "type": "message",
+        "ts": "1719847470.201449",
+        "client_msg_id": "2163678A-3C74-425A-BDA8-ED2103810436",
+        "text": "<!channel>\n「リマインド」\nオープンキャンパスのシフトについて繰り返し連絡させていただきます！7月2日までにシフト表の提出をお願いします:bow:特に学外広報部門員はよろしくお願いします！学内や3、4年会の方は任意なので参加いただけるなら提出お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8137963b77b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-26\/8107219027488_8137963b77b96f55184d_72.png",
+            "first_name": "石塚颯",
+            "real_name": "石塚颯",
+            "display_name": "Ishizuka.Hayate",
+            "team": "T06L90YHJF8",
+            "name": "hayaten-12-26",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SoOD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「リマインド」"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "オープンキャンパスのシフトについて繰り返し連絡させていただきます！7月2日までにシフト表の提出をお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "特に学外広報部門員はよろしくお願いします！学内や3、4年会の方は任意なので参加いただけるなら提出お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LCE9HTP0",
+                    "U070Y9VV7MZ",
+                    "U06L4GJBJP9",
+                    "U070VFT7AMT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "はやて",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U06LK3HUVTL",
+                    "U0710T0NBFE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LCE9HTP0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LCE78Y94",
+                    "U06LG60SFEH",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG60SFEH",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

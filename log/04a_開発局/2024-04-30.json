@@ -1,0 +1,113 @@
+[
+    {
+        "text": "<!channel> おつかれさま！！！！今日から局会議では報告内容をパソコンでメモをとってもらいます！テンプレートを上げておくので使ってみてください！スレッドにメモの例をあげとくのでこのようにメモとりましょう！たくさんメモを取ってタイピングがはやくなりましょう！！！！",
+        "files": [
+            {
+                "id": "F0719TKT5GB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SBFPFS",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbIbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさま！！！！今日から局会議では報告内容をパソコンでメモをとってもらいます！テンプレートを上げておくので使ってみてください！スレッドにメモの例をあげとくのでこのようにメモとりましょう！たくさんメモを取ってタイピングがはやくなりましょう！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714469732.789789",
+        "client_msg_id": "954a6115-467c-41e3-a88d-4121427169b6",
+        "thread_ts": "1714469732.789789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714469822.370469",
+        "reply_users": [
+            "U06M7SBFPFS"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SBFPFS",
+                "ts": "1714469822.370469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ1EK2S",
+                    "U070RQ167FG",
+                    "U071B3GT7FT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LMGM3CG4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "例だよ！",
+        "files": [
+            {
+                "id": "F070VF68EEB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SBFPFS",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TB11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "例だよ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714469822.370469",
+        "client_msg_id": "407FAC2B-F7E4-42A9-B3CB-C55F55195682",
+        "thread_ts": "1714469732.789789",
+        "parent_user_id": "U06M7SBFPFS"
+    }
+]

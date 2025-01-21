@@ -1,0 +1,387 @@
+[
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1728652215.855789",
+        "edited": {
+            "user": "U06LMH412CU",
+            "ts": "1728652228.000000"
+        },
+        "client_msg_id": "65ad9f11-f26b-4fe3-a7a6-376e71f8a96b",
+        "text": "<!channel>\n遅くにすいません！\nお疲れ様です！明日のチーム会議について連絡です。\n議題\n1．これまで（意思共有）\n2．来年以降やってみたいこと（意見交換）\n3.  これから（意思共有）\n\n実は13日もFSRあるって話。。。\nちゃんとマニュ講行ってくださいな\n\n出欠はスタンプで必ずお願い！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1728692543.026809",
+        "reply_users": [
+            "U06LXP1JG0Z",
+            "U06LCEJ5HHU",
+            "U070HT2C5KR",
+            "U06LCE9JG3G",
+            "U06LMH412CU"
+        ],
+        "replies": [
+            {
+                "user": "U06LXP1JG0Z",
+                "ts": "1728652443.384269"
+            },
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1728654762.396169"
+            },
+            {
+                "user": "U070HT2C5KR",
+                "ts": "1728655335.019509"
+            },
+            {
+                "user": "U06LCE9JG3G",
+                "ts": "1728692292.098459"
+            },
+            {
+                "user": "U06LMH412CU",
+                "ts": "1728692543.026809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXB\/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くにすいません！\nお疲れ様です！明日のチーム会議について連絡です。\n議題\n1．これまで（意思共有）\n2．来年以降やってみたいこと（意見交換）\n3.  これから（意思共有）\n\n実は13日もFSRあるって話。。。\nちゃんとマニュ講行ってくださいな\n\n出欠はスタンプで必ずお願い！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMH412CU",
+                    "U071B38HAM7",
+                    "U06LG6DR26R",
+                    "U071M6X5M16"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U070Y9Q9151"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U070HT2C5KR",
+                    "U06LMGM3CG4",
+                    "U06LXP1JG0Z",
+                    "U06LK0HTVQT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "他大学交流チーム",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LG6DR26R",
+                    "U06LMH412CU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1728652443.384269",
+        "client_msg_id": "0040D64B-E473-4856-BFD0-E35DC2A5E31B",
+        "text": "一応学校にはいるんですけど、やることが溜まりすぎてて遅刻か、欠席になりそうです。\nよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkHJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応学校にはいるんですけど、やることが溜まりすぎてて遅刻か、欠席になりそうです。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCEJ5HHU",
+        "type": "message",
+        "ts": "1728654762.396169",
+        "client_msg_id": "A668E8F7-46C4-4101-9363-B5C7CC7B6ACB",
+        "text": "お疲れ様です。学校にはいます。しかし自チームの決まってないことがあるので欠席いたします。大変申し訳ございません。よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3d6eb478bab5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-15\/7407123671111_3d6eb478bab567bf0cb7_72.png",
+            "first_name": "大坂悠真",
+            "real_name": "大坂悠真",
+            "display_name": "Osaka.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yumaosakasoccerwater",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa+kM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。学校にはいます。しかし自チームの決まってないことがあるので欠席いたします。大変申し訳ございません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HT2C5KR",
+        "type": "message",
+        "ts": "1728655335.019509",
+        "client_msg_id": "396A6AF2-21CE-42F0-BBED-EE90B83A8996",
+        "text": "授業があるため欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "g85990b4d7ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85990b4d7ab5ccfaa3ccfae111600951.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "森野佑莉香",
+            "real_name": "森野佑莉香",
+            "display_name": "Morino.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yusangun2006",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdcKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業があるため欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9JG3G",
+        "type": "message",
+        "ts": "1728692292.098459",
+        "client_msg_id": "1bda97fa-4362-4e11-9893-b7abb9ad129e",
+        "text": "お疲れ様です。私も大学にはいるのですが、チームでやらなければいけないことが立て込んでいるため欠席させていただきます。直前の連絡となってしまい申し訳ないです。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a5f5f476ebb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080938574369_5a5f5f476ebb002bb947_72.jpg",
+            "first_name": "玉越小絵",
+            "real_name": "玉越小絵",
+            "display_name": "Tamakoshi.Sae",
+            "team": "T06L90YHJF8",
+            "name": "saekopipipi05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqcbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。私も大学にはいるのですが、チームでやらなければいけないことが立て込んでいるため欠席させていただきます。直前の連絡となってしまい申し訳ないです。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1728692543.026809",
+        "client_msg_id": "af8cc290-9fbb-482a-8a3e-50dc724aad36",
+        "text": "開発のみなさん無理せんでくださいな",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728652215.855789",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEKG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開発のみなさん無理せんでくださいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1727199647.729729",
+        "client_msg_id": "86DE54DA-DA53-4610-AE46-304975313D00",
+        "text": "しめかえした！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "03e01b98e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876950106419_03e01b98e2515aaf86c7_72.png",
+            "first_name": "工藤大智",
+            "real_name": "工藤大智",
+            "display_name": "Kudo.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "cat.daichij31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKgar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3LM7AN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1727227011.205989",
+        "client_msg_id": "AAC5CC1B-1B59-4578-A4A5-3F2A9229DD7A",
+        "text": "またまたかりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "03e01b98e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876950106419_03e01b98e2515aaf86c7_72.png",
+            "first_name": "工藤大智",
+            "real_name": "工藤大智",
+            "display_name": "Kudo.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "cat.daichij31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ybe8b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "またまたかりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1725670596.645139",
+        "client_msg_id": "A253B741-2323-4B4C-9DD6-BB6A0FD3000D",
+        "text": "かりあけしたよ〜〜ぷれめいがんばろーー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktwLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけしたよ〜〜ぷれめいがんばろーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06L4GM463H",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-yellow-n",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06L4GM463H",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-white-n",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06L4GM463H",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-yellow-a",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06L4GM463H",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

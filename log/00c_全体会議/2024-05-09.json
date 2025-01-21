@@ -1,0 +1,172 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1715257174.258259",
+        "client_msg_id": "DE63DB64-E62B-44EA-AEE8-33C65160D420",
+        "text": "【新規会・継続会のお知らせ】\n<!channel> \nお疲れ様です。\n副委員長の橋本です。\n新規会・継続会についてご連絡いたします。\n【対象】\n◯新規会：明大祭実行委員会1年目の方\n◯継続会：明大祭実行委員会2年目の方\n【日時】\n5月11日(土) 13：00〜15：00\n【場所】\n◯新規会：第一校舎303教室\n◯継続会：第一校舎403教室",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+iPZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【新規会・継続会のお知らせ】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n副委員長の橋本です。\n新規会・継続会についてご連絡いたします。\n【対象】\n◯新規会：明大祭実行委員会1年目の方\n◯継続会：明大祭実行委員会2年目の方\n【日時】\n5月11日(土) 13：00〜15：00\n【場所】\n◯新規会：第一校舎303教室\n◯継続会：第一校舎403教室"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06L2CSPXV5",
+                    "U06M7SETDKJ",
+                    "U06LJRSQDC3",
+                    "U06LK5HCSE6",
+                    "U070RQ543FG",
+                    "U070VFY94H3",
+                    "U06LK04QJ0K",
+                    "U070HS439RV",
+                    "U06LK3HUVTL"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070YD778SE",
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U06LK3MF9FC",
+                    "U070VFQKEH3",
+                    "U070Y9WCHH9",
+                    "U070RQ0DUBG",
+                    "U071W456MHQ",
+                    "U070HS202UX",
+                    "U070Y9S80D9",
+                    "U070YA6CQLB",
+                    "U06L4GKC9N3",
+                    "U0710T3MCUC",
+                    "U070RQ20K8W",
+                    "U071B3ACZPT",
+                    "U06LK0F2RC3",
+                    "U06LMH5UFC4",
+                    "U070HS23XV5",
+                    "U070YD7KHLJ",
+                    "U06LCE9HTP0",
+                    "U06M7SETDKJ",
+                    "U070Y9RH075",
+                    "U06LJRSQDC3",
+                    "U06LMGM3CG4",
+                    "U070HS31CP9",
+                    "U06LK0E89MH",
+                    "U071M7KHNRW",
+                    "U0710T46M3N",
+                    "U06LHACMG91",
+                    "U070VFTNHNZ",
+                    "U071B3A1G4R",
+                    "U06LXNXNWGH",
+                    "U070RQRKAGN",
+                    "U071B3AKPPT",
+                    "U070RQFLLR4",
+                    "U06LCE7DY6S",
+                    "U06LK04QJ0K",
+                    "U071B38HAM7",
+                    "U070Y9UKJV9",
+                    "U070RQ3ND38"
+                ],
+                "count": 40
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ167FG",
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U070Y9RMP7D",
+                    "U06LJRSQDC3",
+                    "U06M7SPUVEC",
+                    "U06LK04QJ0K"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U06LK3RVDGA",
+                    "U06LCE9HTP0",
+                    "U06M7SETDKJ",
+                    "U06LJRSQDC3",
+                    "U06L4GL1CUF",
+                    "U06LJ4HJLMS",
+                    "U06LK0E89MH",
+                    "U070HS2GY5V",
+                    "U06LXNYCLJV",
+                    "U06LK04QJ0K",
+                    "U06LK5HCSE6",
+                    "U06LCE9NLP8",
+                    "U06LG62V1FX"
+                ],
+                "count": 15
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06M7SETDKJ",
+                    "U06L4GKGXB9",
+                    "U06LK04QJ0K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U071B3ARX5F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

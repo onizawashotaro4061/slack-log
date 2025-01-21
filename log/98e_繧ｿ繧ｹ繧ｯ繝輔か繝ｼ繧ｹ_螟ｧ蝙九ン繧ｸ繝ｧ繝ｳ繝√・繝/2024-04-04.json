@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1712241150.403959",
+        "client_msg_id": "D158B0A1-E3CF-4E17-9277-3049BC334934",
+        "text": "明日13時30分からじつぼでよろしくお願いします！！\n企画書確認してから来てや！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqy9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日13時30分からじつぼでよろしくお願いします！！\n企画書確認してから来てや！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06LK0DN10T",
+                    "U06LMH5ACE8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06SR14MVRU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0BP1TM",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1712291669.835209",
+        "client_msg_id": "f1e12744-fdd3-4bc2-ac05-74d11ac04480",
+        "thread_ts": "1712291669.835209",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712306126.887249",
+        "reply_users": [
+            "U06LK0BP1TM",
+            "U06LK0DN10T"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1712300750.043979"
+            },
+            {
+                "user": "U06LK0DN10T",
+                "ts": "1712306126.887249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

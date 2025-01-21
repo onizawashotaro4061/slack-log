@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1715768606.844009",
+        "client_msg_id": "7D87866E-310E-4B92-82F9-0256E5AF8091",
+        "text": "ごめんやっぱり明日17時30分から始めることにします:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715744705.866619",
+        "parent_user_id": "U06LCE9HTP0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOvBA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんやっぱり明日17時30分から始めることにします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

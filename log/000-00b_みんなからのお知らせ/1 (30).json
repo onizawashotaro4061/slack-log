@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U06LXNL2ZS5",
+        "type": "message",
+        "ts": "1718550003.081129",
+        "client_msg_id": "D81B325A-B17F-4FBD-8D3D-6AB36D51D64F",
+        "text": "夜分にすいません！クリーンウォーク13:30にじつぼの前集合でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e92150aa90fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6725737233732_e92150aa90fd9890235d_72.png",
+            "first_name": "有留大騎",
+            "real_name": "有留大騎",
+            "display_name": "Aritome.Taiki",
+            "team": "T06L90YHJF8",
+            "name": "arinnkotarou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718264295.482979",
+        "parent_user_id": "U06LXNL2ZS5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1Qvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜分にすいません！クリーンウォーク13:30にじつぼの前集合でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06M7SPUVEC",
+                    "U070HS31CP9",
+                    "U071B3CV89X"
+                ],
+                "count": 4
+            },
+            {
+                "name": "たいき",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06M7SPUVEC",
+                    "U071B3CV89X",
+                    "U06L4GLJVKR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

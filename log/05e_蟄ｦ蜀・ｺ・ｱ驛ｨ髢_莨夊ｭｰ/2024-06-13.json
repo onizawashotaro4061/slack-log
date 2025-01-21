@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U070RQ543FG",
+        "type": "message",
+        "ts": "1718270137.371969",
+        "client_msg_id": "18A08D22-2924-4AB2-B84E-D766C9163A1F",
+        "text": "今朝から発熱しているため欠席します（ ;  ; ）すみません（ ;  ; ）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "963b6fa7361e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025830097990_963b6fa7361ecc21325b_72.png",
+            "first_name": "菊地菜々美",
+            "real_name": "菊地菜々美",
+            "display_name": "Kikuchi.Nanami",
+            "team": "T06L90YHJF8",
+            "name": "sakukoko2556",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718165137.768499",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pv+qm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今朝から発熱しているため欠席します（ ;  ; ）すみません（ ;  ; ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3KA09G",
+                    "U070HS202UX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

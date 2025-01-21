@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U06LXNX1XPB",
+        "type": "message",
+        "ts": "1717128004.298699",
+        "client_msg_id": "00296470-FCF0-4162-A8BF-FEF461AE4ACC",
+        "text": "<!channel> \n【リマインド】\nお疲れ様です！財務局高谷です！\n\n5月分の領収書・交通費の申請は\n*本日23：59まで*です。\n\n申請メールの宛先は引き続き\n<mailto:jitsumu139@gmail.com|jitsumu139@gmail.com>\nまでお願い致します！ :innocent: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "72a5c0e0d35f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-14\/7112565194914_72a5c0e0d35f7c0b169e_72.png",
+            "first_name": "髙谷明生",
+            "real_name": "髙谷明生",
+            "display_name": "Takaya.Ai",
+            "team": "T06L90YHJF8",
+            "name": "onakasuitaaa012",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsA7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【リマインド】\nお疲れ様です！財務局高谷です！\n\n5月分の領収書・交通費の申請は\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日23：59まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。\n\n申請メールの宛先は引き続き\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jitsumu139@gmail.com",
+                                "text": "jitsumu139@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまでお願い致します！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNXNWGH",
+                    "U06LCE4EV2A",
+                    "U06L4H5UASK",
+                    "U070Y9REPD1",
+                    "U06LCE9NLP8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06LK0JTYD9",
+                    "U06LMH49MQU",
+                    "U06L4H5UASK"
+                ],
+                "count": 4
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06LK3NH9MG",
+                    "U06LG63910V",
+                    "U06LK3RVDGA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "財_あいちゃん",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06LK3NH9MG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "財土下寝",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06LK3LKR9Q",
+                    "U06LK3KJNJE",
+                    "U06LCE4DK46"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4H5UASK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U071B3DFWLR",
+        "type": "message",
+        "ts": "1717473229.355299",
+        "client_msg_id": "3E13CCCF-AB2D-4EA2-A4B0-3C9F2FDBCD24",
+        "text": "18:30までバイトが入ってるので遅刻参加になると思います( т т )",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "06ec8a94a9f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032969160579_06ec8a94a9f72e2179f2_72.png",
+            "first_name": "西井緋那",
+            "real_name": "西井緋那",
+            "display_name": "Nishii.Hinata",
+            "team": "T06L90YHJF8",
+            "name": "nina212307",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717310095.942379",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BDRpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18:30までバイトが入ってるので遅刻参加になると思います( т т )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U0710TSE9TN",
+        "type": "message",
+        "ts": "1732781217.529109",
+        "client_msg_id": "3EA4450E-4714-42AF-9531-39E19DF29BE7",
+        "text": "お疲れ様です。私用のた欠席します。:sob::sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "39ff39169d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-21\/8056188037494_39ff39169d2fe9aa6b4f_72.png",
+            "first_name": "佐藤遼成",
+            "real_name": "佐藤遼成",
+            "display_name": "Sato.Ryosei",
+            "team": "T06L90YHJF8",
+            "name": "ryosugar200601",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FyjSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。私用のた欠席します。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U070Y9S389Z",
+        "type": "message",
+        "ts": "1731414023.023649",
+        "client_msg_id": "480848A0-DD4A-47C9-A05E-B96FC9C3D65E",
+        "text": "ごめんなさい :pray: \n明日、茨城県民の日で家族が休みなので日帰り旅行に行ってきます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4d011c9bbad6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7381363504787_4d011c9bbad6a7c3ded5_72.png",
+            "first_name": "本田優",
+            "real_name": "本田優",
+            "display_name": "Honda.Yu",
+            "team": "T06L90YHJF8",
+            "name": "yusenpuki17826",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731381423.240409",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdWWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日、茨城県民の日で家族が休みなので日帰り旅行に行ってきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "楽しんでこい",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "great",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

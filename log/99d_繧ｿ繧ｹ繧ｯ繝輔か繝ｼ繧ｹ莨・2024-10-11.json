@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1728692333.001109",
+        "client_msg_id": "9E8CA80F-09B0-458E-A882-C6C41E89AD16",
+        "text": "場所はどこでしょうかね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728281932.412209",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qH3+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所はどこでしょうかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1728692898.310759",
+        "client_msg_id": "57b5202c-8464-4811-9883-1bee20140288",
+        "text": "それな",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728281932.412209",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XYjhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

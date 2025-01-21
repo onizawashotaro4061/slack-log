@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U071M6ZVDMW",
+        "type": "message",
+        "ts": "1727338591.594659",
+        "client_msg_id": "5F820258-56E0-4E15-8D0D-C9275EDD5B3F",
+        "text": "比較法研究会の講演会に参加するため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "601f32957eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-25\/7627731631396_601f32957eb808d60d13_72.png",
+            "first_name": "近藤里結",
+            "real_name": "近藤里結",
+            "display_name": "Kondo.Riyu",
+            "team": "T06L90YHJF8",
+            "name": "riyu0628",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727274753.267359",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JA5yl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "比較法研究会の講演会に参加するため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B38EX0R",
+        "type": "message",
+        "ts": "1727339731.665769",
+        "client_msg_id": "F0655DD5-138E-4BEB-91AE-A468CAD45823",
+        "text": "今日バイトが入ってしまったため、休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9df6f64c60c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-26\/7346138072529_9df6f64c60c701c30ebc_72.png",
+            "first_name": "小野﨑優斗",
+            "real_name": "小野﨑優斗",
+            "display_name": "Onozaki.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "onozaki.yuto082905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727274753.267359",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYjBh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日バイトが入ってしまったため、休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

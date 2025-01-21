@@ -1,0 +1,199 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1711961007.077999",
+        "client_msg_id": "F63E7D01-19E8-4A32-9E2D-CD16C7D1D7EE",
+        "text": "<!channel> \nおつかれさまです、段取り悪くてすみません…\n企画書に関して4月14日の役員会提出を目標にしているので会議を*4月5日の13時30分から和泉キャンパスでスタート*したいと思います！予定がある人などもいると思うので出入り自由にする予定です。決めること多いので何時に終わるかわかりませんがみんなの意見を取り入れたいのでお願いします:man-bowing:いける人スタンプ！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711961007.077999",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712034565.335729",
+        "reply_users": [
+            "U06LMH9MBFW",
+            "U06LK0BP1TM"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH9MBFW",
+                "ts": "1712032785.032169"
+            },
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1712034565.335729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K4WJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです、段取り悪くてすみません…\n企画書に関して4月14日の役員会提出を目標にしているので会議を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4月5日の13時30分から和泉キャンパスでスタート",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したいと思います！予定がある人などもいると思うので出入り自由にする予定です。決めること多いので何時に終わるかわかりませんがみんなの意見を取り入れたいのでお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いける人スタンプ！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06LK3L6B4J",
+                    "U06LK3K88SW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1712032785.032169",
+        "client_msg_id": "FB74B283-BB69-426B-8827-B2D386C40A1C",
+        "text": "<@U06LK0BP1TM> \n僕とはながカメラの管理でしつぼにいる予定なので、じつぼで行えると嬉しいのですがどうでしょうか？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711961007.077999",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6DQ14",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0BP1TM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n僕とはながカメラの管理でしつぼにいる予定なので、じつぼで行えると嬉しいのですがどうでしょうか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1712034565.335729",
+        "client_msg_id": "D35C4208-999F-43F6-B19C-426FB131B034",
+        "text": "えよえよ！！ほな13時30分にじつぼいくわな〜\nみんなも続々と来て！！企画書完成させるで！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711961007.077999",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85bRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "えよえよ！！ほな13時30分にじつぼいくわな〜\nみんなも続々と来て！！企画書完成させるで！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

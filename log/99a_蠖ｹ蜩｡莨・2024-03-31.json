@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1711910121.020039",
+        "client_msg_id": "D1206D57-433F-40D1-8CD3-35EFDDC438DF",
+        "text": "ごめんここにTrello撤退についてって話入れられる？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710568310.206659",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENSCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんここにTrello撤退についてって話入れられる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

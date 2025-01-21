@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1732554162.869249",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1732554184.000000"
+        },
+        "client_msg_id": "F831995B-AC2E-47C4-8A9D-87AE963958B2",
+        "text": "<!channel>\n\n1126_第28回運営局備品管理部門会議\n【時間】\n19:00~ 21:00\n【場所】\nLS304\n【議題】\n1. 継続ラストメッセージ(意思共有)\n【持ち物】\nハンカチ！\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n継続はラストメッセージのパワポのご用意を！今絶賛作ってるけどまじで終わらんw\n1人10分で頑張って収めてくれ～:bangbang:\n終わったらみんなでご飯行くぞーー！！\n\n最後の会議だね！みんな1年間ありがとう。\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQvui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n1126_第28回運営局備品管理部門会議\n【時間】\n19:00~ 21:00\n【場所】\nLS304\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "継続ラストメッセージ(意思共有)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nハンカチ！\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n継続はラストメッセージのパワポのご用意を！今絶賛作ってるけどまじで終わらんw\n1人10分で頑張って収めてくれ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n終わったらみんなでご飯行くぞーー！！\n\n最後の会議だね！みんな1年間ありがとう。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXP3HYQH",
+                    "U071M749KPS",
+                    "U06LK0EQS59",
+                    "U071M6Y794Y",
+                    "U070RQ2MWVC",
+                    "U070VFSR12R",
+                    "U06M7SX52RW",
+                    "U06LKJS20KC",
+                    "U071M6YPYM6",
+                    "U06LK3MMALA"
+                ],
+                "count": 10
+            },
+            {
+                "name": "え飲みベ低くね",
+                "users": [
+                    "U071M749KPS",
+                    "U06M7SX52RW",
+                    "U071M6Y794Y"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U06LMHDAZKN",
+        "type": "message",
+        "ts": "1725665921.797709",
+        "client_msg_id": "DEEC77CB-29EA-4C84-9EB3-C13F1E0298EE",
+        "text": "10分ほど遅れます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1c13f59c5203",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6708552440915_1c13f59c5203dccd2ed9_72.jpg",
+            "first_name": "浦愛華",
+            "real_name": "浦愛華",
+            "display_name": "Ura.Aika",
+            "team": "T06L90YHJF8",
+            "name": "pooh.aikaka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4EDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10分ほど遅れます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LG5XQGS1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \n第一校舎の1階のところでやります",
+        "files": [
+            {
+                "id": "F07KY1VSQCF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG5XQGS1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bknsa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n第一校舎の1階のところでやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725666189.555609",
+        "client_msg_id": "98E0105C-3485-4D4F-BB0D-E58B51D4900F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJ031V",
+        "type": "message",
+        "ts": "1725666706.248239",
+        "client_msg_id": "A85A6E5B-6908-49F3-AE4A-CCA144CB9847",
+        "text": "すみません乗り換え間に合わなかったので5分ほど遅れます :smiling_face_with_tear: :smiling_face_with_tear: :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "22e4edeca85a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6785188097831_22e4edeca85a9e14d2ad_72.png",
+            "first_name": "田中唯衣",
+            "real_name": "田中唯衣",
+            "display_name": "Tanaka.Yui",
+            "team": "T06L90YHJF8",
+            "name": "steinfeld.br16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwBi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "乗り換え間に合わなかったので5分ほど遅れます"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1725667098.662679",
+        "client_msg_id": "160CFA58-11E5-477D-9396-5387693F8DBB",
+        "text": "10分ほど遅れます。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kY0DX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10分ほど遅れます。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1725675020.313589",
+        "client_msg_id": "6672f793-7375-4bef-9e9a-e22258e32cd8",
+        "text": "【締め切り関係】\n・めいじつに受注確認ガチャ以外は確認\n・デザイン期限15日(制作局通す)制作局と一緒に佐名木もメンション\n・15日以降に局会議に行けるようにする\n・9月末\n・けいさいいらいしょ出す(さなぎ)\n・Web依頼\n担当:唯さん\n9月11日(水)にWeb依頼をグッズチームのNotionに出す。\n→1個ずつのほうがよさげ\n→時間：10:00～18:00\n→場所：インフォメーションブース\n→注意事項：支払いは現金のみです。売り切れ次第終了となります。\n→キャッチコピー\n→購入後にアンケート答えていただければ抽選券をもらえること書く\n→不良品以外返品不可\n\n・実行委員会に聞く\n→デザインチェック\n・パンフ依頼について\n担当：\n制作局に頼むなら10日までにデザイン含めて依頼する。\nさなかるさんにデザイン頼むなら24までに役員会チェックが通ればOK\n\n・めいじろうの使用について\nめいじろうを使用する場合は明大サポートを通す必要あり。\nめいじろうを使うものに関しては、販売元を明大サポートにするため希望通り作れない可能性あり\n\n・当日シフトについて(三年生)\n→三年生三人が時間ごとに交代で常駐\n→財務局継続2年以上が1名\n→インフォメーション系統から男1女1がくる\n\n・デザインの進捗状況\nボールペン→デザインチェック待ち\nラバーバンド→デザインチェック待ち(2種類)\nタトゥーシール→一旦まだ(ロゴ,明大祭,)\nクリアファイル3種類→1種類(パンフ表紙),1種類(完成済み),1種類(めいじろう次第)\nアクキー→1種類(レンタル)\n缶バッチ(ガチャ用)→5種類(基本めいじろういる)ほぼ完成\n\n【内部販売】\n・局缶バッチ\n・さこっしゅ\n・役員会チェキ\n\n・広報依頼について(浦)\n→あとで確認\n・動画依頼について(浦)\n→来週末までにNotionで佐名木メンション\n→依頼連携会議について部門長に確認\n→グッズの写真以外は9月11日(水)までに作ってNotionで佐名木メンション\n・ホームカミングデーについて(りく)\n→校友連携事務室に連絡",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ia4vb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【締め切り関係】\n・めいじつに受注確認ガチャ以外は確認\n・デザイン期限15日(制作局通す)制作局と一緒に佐名木もメンション\n・15日以降に局会議に行けるようにする\n・9月末\n・けいさいいらいしょ出す(さなぎ)\n・Web依頼\n担当:唯さん\n9月11日(水)にWeb依頼をグッズチームのNotionに出す。\n→1個ずつのほうがよさげ\n→時間：10:00～18:00\n→場所：インフォメーションブース\n→注意事項：支払いは現金のみです。売り切れ次第終了となります。\n→キャッチコピー\n→購入後にアンケート答えていただければ抽選券をもらえること書く\n→不良品以外返品不可\n\n・実行委員会に聞く\n→デザインチェック\n・パンフ依頼について\n担当：\n制作局に頼むなら10日までにデザイン含めて依頼する。\nさなかるさんにデザイン頼むなら24までに役員会チェックが通ればOK\n\n・めいじろうの使用について\nめいじろうを使用する場合は明大サポートを通す必要あり。\nめいじろうを使うものに関しては、販売元を明大サポートにするため希望通り作れない可能性あり\n\n・当日シフトについて(三年生)\n→三年生三人が時間ごとに交代で常駐\n→財務局継続2年以上が1名\n→インフォメーション系統から男1女1がくる\n\n・デザインの進捗状況\nボールペン→デザインチェック待ち\nラバーバンド→デザインチェック待ち(2種類)\nタトゥーシール→一旦まだ(ロゴ,明大祭,)\nクリアファイル3種類→1種類(パンフ表紙),1種類(完成済み),1種類(めいじろう次第)\nアクキー→1種類(レンタル)\n缶バッチ(ガチャ用)→5種類(基本めいじろういる)ほぼ完成\n\n【内部販売】\n・局缶バッチ\n・さこっしゅ\n・役員会チェキ\n\n・広報依頼について(浦)\n→あとで確認\n・動画依頼について(浦)\n→来週末までにNotionで佐名木メンション\n→依頼連携会議について部門長に確認\n→グッズの写真以外は9月11日(水)までに作ってNotionで佐名木メンション\n・ホームカミングデーについて(りく)\n→校友連携事務室に連絡"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07LRFPP9DF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG62UXPX",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1725675692.146559",
+        "client_msg_id": "ad2b81dd-acc7-4736-becc-52b0ff2f2b8f"
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724924652.330599",
+        "client_msg_id": "3CD8EDEC-FE23-4586-B6C2-8129EFB2D72A",
+        "text": "<@U06LCECJD8W> <@U071B3CV89X> <@U06L4GLRAK1> \nどない？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVqBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B3CV89X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GLRAK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nどない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two",
+                "users": [
+                    "U071B3CV89X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724993447.203189",
+        "client_msg_id": "418897aa-1b6f-41b7-abe1-69801df9ef13",
+        "text": "<@U06LCECJD8W> <@U071B3CV89X> 今日はこれない？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GyYpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B3CV89X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日はこれない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLRAK1",
+        "type": "message",
+        "ts": "1724993484.922159",
+        "client_msg_id": "F076DF33-01C5-4399-8B25-5E68F31CFCC8",
+        "text": "今日行けます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3fbda777c529",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7207571100146_3fbda777c529157f55d6_72.png",
+            "first_name": "根本悠平",
+            "real_name": "根本悠平",
+            "display_name": "Nemoto.Yuhei",
+            "team": "T06L90YHJF8",
+            "name": "youpinggenben",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZh+B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日行けます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLRAK1",
+        "type": "message",
+        "ts": "1724993492.033709",
+        "client_msg_id": "57777874-C5DF-488D-97A8-E80A40F8437F",
+        "text": "連絡遅れてごめんなさい:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3fbda777c529",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7207571100146_3fbda777c529157f55d6_72.png",
+            "first_name": "根本悠平",
+            "real_name": "根本悠平",
+            "display_name": "Nemoto.Yuhei",
+            "team": "T06L90YHJF8",
+            "name": "youpinggenben",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tVLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "連絡遅れてごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724993516.539169",
+        "client_msg_id": "BCAB6E2E-3931-4661-A25E-BFE9C3ECF986",
+        "text": "ナイスう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hf+kQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ナイスう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3CV89X",
+        "type": "message",
+        "ts": "1724993521.023049",
+        "client_msg_id": "C649DDA0-4E22-4866-B727-EB42E5AA225B",
+        "text": "今日は夜予定があるので難しいです :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "674d60635c49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-10\/7557487587732_674d60635c495e927443_72.png",
+            "first_name": "若杉和泉",
+            "real_name": "若杉和泉",
+            "display_name": "Wakasugi.Izumi",
+            "team": "T06L90YHJF8",
+            "name": "izumacron0521animal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/KwSc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は夜予定があるので難しいです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724993588.454129",
+        "client_msg_id": "E01DE99D-6D55-4F4F-BFF3-C3D8B3C17AF4",
+        "text": "おけ！\nあとであげる会議資料と議事録だけみて！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkjwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おけ！\nあとであげる会議資料と議事録だけみて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U071B3CV89X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。チーム長石井です。以後よろしくお願いします。\n\n今日の会議に当たって最低限見ておいてほしいのが、以下のファイル2点です！\n①世田谷区の方に向けた説明用資料\n➤ジャックがおおよそどんな形になるのかわかりやすく見やすい。\n②企画書\n➤意義とか参考になるね。京王関連の資料はとばしていいよー\n➤基本これに沿って企画書を書いていくから、できるだけ最後までみてほしい！",
+        "files": [
+            {
+                "id": "F06QMPBKR0Q",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06Q1DMFSNQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zBRx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。チーム長石井です。以後よろしくお願いします。\n\n今日の会議に当たって最低限見ておいてほしいのが、以下のファイル2点です！\n①世田谷区の方に向けた説明用資料\n➤ジャックがおおよそどんな形になるのかわかりやすく見やすい。\n②企画書\n➤意義とか参考になるね。京王関連の資料はとばしていいよー\n➤基本これに沿って企画書を書いていくから、できるだけ最後までみてほしい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710727674.611389",
+        "client_msg_id": "60e1833a-2700-4db5-bdac-0ed5250c8420",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LCECJD8W",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "時代は明治",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06L4GLRAK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

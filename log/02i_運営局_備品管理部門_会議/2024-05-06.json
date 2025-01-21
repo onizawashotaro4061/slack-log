@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1715060875.254579",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1715060905.000000"
+        },
+        "client_msg_id": "A1E4A6B3-0844-49DC-9365-7C7EA44D6218",
+        "text": "<!channel> \n会議詳細直前でごめんなさい:man-bowing:\n0507_第7回運営局備品管理部門会議\n【時間】\n19:00 ~ 20:40\n【場所】\nM711\n【議題】\n1.各種報告（意思共有）\n2.運営備品タスク大枠決め(意見交換)\n3.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n5限から教室取ってあるんで暇な人使ってね〜\nタスク大枠決め時間内に終わらなかったらラウンジとかでやることになると思うからメリハリつけてやっていこう:bangbang:\n\nバーベキューのお土産期待してます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ophTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n会議詳細直前でごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0507_第7回運営局備品管理部門会議\n【時間】\n19:00 ~ 20:40\n【場所】\nM711\n【議題】\n1.各種報告（意思共有）\n2.運営備品タスク大枠決め(意見交換)\n3.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n5限から教室取ってあるんで暇な人使ってね〜\nタスク大枠決め時間内に終わらなかったらラウンジとかでやることになると思うからメリハリつけてやっていこう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nバーベキューのお土産期待してます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "あんじゅ-あんちゃん",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_ひかり_ヒカキン",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ハンディファンやす",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LXP3HYQH",
+                    "U06LK3MMALA",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0EQS59",
+                    "U06LKJS20KC",
+                    "U06LK0FUAHZ",
+                    "U06M7SX52RW",
+                    "U06LK3MMALA",
+                    "U06LCEA6J1L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "運営_備品_bkb",
+                "users": [
+                    "U06LK0EQS59",
+                    "U06LK0FUAHZ",
+                    "U06M7SX52RW",
+                    "U06LK3MMALA",
+                    "U06LCEA6J1L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LKJS20KC",
+                    "U06M7SX52RW",
+                    "U06LCE8F5PG",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

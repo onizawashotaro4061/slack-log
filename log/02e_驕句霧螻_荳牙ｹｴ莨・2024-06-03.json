@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1717467610.753109",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1717570152.000000"
+        },
+        "client_msg_id": "5421562d-f24f-47cf-91c5-9d406507f9f8",
+        "text": "<!channel>\n0606_運営局三年会会議\n【時間】\n20：00〜20：40\n【場所】\nLS702\n【議題】\n1. キャンパスデザイン〜フロアマップ編〜（意見交換・決定）\n2. 最終反省分析担当割り振り（意思共有）\n3. 今後の三年会について（意見交換）\n【議事録・報告】\n大谷亮太\n\n確認したらリアクションを！！\n\n継続と新規がキャンパスデザインをやってる間でしばらくやります。\nよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717467610.753109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1717570165.054329",
+        "reply_users": [
+            "U06L4GPFEQ7",
+            "U06LKHN3RE0"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GPFEQ7",
+                "ts": "1717565954.332399"
+            },
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1717570165.054329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BE6xj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0606_運営局三年会会議\n【時間】\n20：00〜20：40\n【場所】\nLS702\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "キャンパスデザイン〜フロアマップ編〜（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最終反省分析担当割り振り（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今後の三年会について（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【議事録・報告】\n大谷亮太\n\n確認したらリアクションを！！\n\n継続と新規がキャンパスデザインをやってる間でしばらくやります。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GHLP2B",
+                    "U06L4GPFEQ7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

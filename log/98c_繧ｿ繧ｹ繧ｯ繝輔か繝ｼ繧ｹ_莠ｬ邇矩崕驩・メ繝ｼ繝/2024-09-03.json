@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1725420540.423179",
+        "client_msg_id": "8a2a05f2-1c77-4118-b753-e18c6169bc8c",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！\n0907_第12回タスクフォース京王電鉄チーム会議\n【場所】追って連絡します\n【時間】プレ明終了後〜\n【議題】\n1.現状報告（意思共有）\n2.スタンプラリー企画について（意見交換）\n3.サイト掲載依頼書、サイト文章作成書について（意見交換）\n↓見たらスタンプ！↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tX7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！\n0907_第12回タスクフォース京王電鉄チーム会議\n【場所】追って連絡します\n【時間】プレ明終了後〜\n【議題】\n1.現状報告（意思共有）\n2.スタンプラリー企画について（意見交換）\n3.サイト掲載依頼書、サイト文章作成書について（意見交換）\n↓見たらスタンプ！↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070Y9RLJTV",
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L",
+                    "U06LK3Q6Y2W",
+                    "U06L4J69HV5",
+                    "U070VFZF6BF",
+                    "U070HS3G355"
+                ],
+                "count": 7
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U070Y9RLJTV",
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L",
+                    "U06LK3Q6Y2W",
+                    "U06L4J69HV5",
+                    "U06LXNZDHFT"
+                ],
+                "count": 6
+            },
+            {
+                "name": "再履きど",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L",
+                    "U06LK3Q6Y2W",
+                    "U06L4J69HV5",
+                    "U070VFZF6BF",
+                    "U07194G87BL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L",
+                    "U06LK3Q6Y2W",
+                    "U07194G87BL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U070RQ167FG",
+                    "U06LK3Q6Y2W",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

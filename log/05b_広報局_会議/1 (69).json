@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1729588961.181259",
+        "client_msg_id": "0ebaa3b7-a93d-4b3a-a847-c4af204df3a8",
+        "text": "今日も遅刻します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729497511.750579",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ruK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日も遅刻します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

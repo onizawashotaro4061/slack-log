@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1726738951.729999",
+        "client_msg_id": "546865D5-5CD0-4361-9E71-662E1892F0BF",
+        "text": "ごめんなさい厳しいかもしれないです、、\nzoom繋いでくれたら出られます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726378865.504879",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4eAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい厳しいかもしれないです、、\nzoom繋いでくれたら出られます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "ほんとすみませんこの前のタスクフォース会のメモですOneDriveの会議資料に載ってるのと全く同じですすみません",
+        "files": [
+            {
+                "id": "F07N62TRS2H",
+                "created": 1726799612,
+                "timestamp": 1726799612,
+                "name": "0914.docx",
+                "title": "0914",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06LK3L6B4J",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 19452,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07N62TRS2H\/0914.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07N62TRS2H\/download\/0914.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07N62TRS2H-473b0b56f9\/0914_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07N62TRS2H-473b0b56f9\/0914_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LK3L6B4J\/F07N62TRS2H\/0914.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07N62TRS2H-7520e55c10",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3L6B4J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qO6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんとすみませんこの前のタスクフォース会のメモですOneDriveの会議資料に載ってるのと全く同じですすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1726799617.019459",
+        "client_msg_id": "5F72FE34-14BD-4CB9-B1BD-C5DAC40045CD",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070Y9UEAAF",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U070Y9UEAAF",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

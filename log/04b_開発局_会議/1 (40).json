@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U071B3GT7FT",
+        "type": "message",
+        "ts": "1718700323.430469",
+        "client_msg_id": "DA60BDCA-A819-4D14-AFB7-0A2F4DD4D7DB",
+        "text": "本日も5限があるため遅刻します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "daa4c610e9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7868832497826_daa4c610e9c175bfabb5_72.png",
+            "first_name": "栢本有人",
+            "real_name": "栢本有人",
+            "display_name": "Kayamoto.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "yu10kayam10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718679787.304079",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56IoJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日も5限があるため遅刻します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07194G87BL",
+        "type": "message",
+        "ts": "1718704413.732749",
+        "client_msg_id": "2B431A4D-2894-45CA-BC61-31B49157FA9D",
+        "text": "5限が長引いているため遅刻します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "72b13c4e4c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7921600314403_72b13c4e4c22c1fe3a4b_72.png",
+            "first_name": "三原優希",
+            "real_name": "三原優希",
+            "display_name": "Mihara.Yuuki",
+            "team": "T06L90YHJF8",
+            "name": "myuuki.myuuki.1026",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718679787.304079",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zVur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5限が長引いているため遅刻します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U06M7T3TQ0Y",
+        "type": "message",
+        "ts": "1713863743.621689",
+        "client_msg_id": "327F754E-62AD-482A-9D45-AFCDB63EAEB4",
+        "text": "ごめんなさい欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "514ee859b39b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7079930546113_514ee859b39b2c3c22b5_72.png",
+            "first_name": "太田聡",
+            "real_name": "太田聡",
+            "display_name": "Ota.So",
+            "team": "T06L90YHJF8",
+            "name": "so-ota.616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713848197.992079",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTaHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おたそ",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LG6EJPE1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

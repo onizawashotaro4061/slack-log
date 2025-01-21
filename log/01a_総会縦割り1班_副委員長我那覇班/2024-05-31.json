@@ -1,0 +1,137 @@
+[
+    {
+        "text": "<!channel> \n縦割り班コンテンツの班分けです！\n継続はファシメモ頑張ってください:raised_hands::magic_wand:\n一応何回か確認して作ったけどまるで自信ないので、自分の名前ない！とか２つ名前ある！とか何かあれば教えてください:grey_exclamation:",
+        "files": [
+            {
+                "id": "F075X19LWJJ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F075P3FC2MD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CcqYO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n縦割り班コンテンツの班分けです！\n継続はファシメモ頑張ってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "magic_wand",
+                                "unicode": "1fa84"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一応何回か確認して作ったけどまるで自信ないので、自分の名前ない！とか２つ名前ある！とか何かあれば教えてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grey_exclamation",
+                                "unicode": "2755"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717217994.889319",
+        "client_msg_id": "3D59178C-3CF8-48C8-8197-B17258B4526D",
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LMH9MBFW",
+                    "U06LXNX1A57",
+                    "U070HS31CP9",
+                    "U06M7SPUVEC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F075X4BT7B8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717221566.902949",
+        "client_msg_id": "181aeeb0-cfce-4e27-9f23-e9da906bbf72"
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F075P7HNR7Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717223082.130979",
+        "client_msg_id": "44aa85b3-a79e-41fd-b54a-271e255c03de"
+    }
+]

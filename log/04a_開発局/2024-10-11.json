@@ -1,0 +1,349 @@
+[
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1728660596.306599",
+        "client_msg_id": "b81af797-1887-4cd3-a3b1-30d6a43d421e",
+        "text": "<!channel>\nお疲れ様です！\n*時間って有限です。スケジュール管理、マジで頼みます。*\n\n①局内マニュアル完成期日は*10月20日(日）12:00にします*。流石に、流石にそろそろ詰めきってください。\n\n②*10月22(火）、29(火）局会議で開発局マニュアル講習会をやります。*\n• 各企画20分で各々の企画のシフトを説明してください。\n• 各企画で*実際のシフトを実演しながら*、完璧にシフトに入れる説明をお願いします。\n• 必要に応じてパワポとかを使ってください。\n順番は\n• 10月22日(火）*ラリー、スポーツ、参加団体宣伝、ツアー*\n• 10月29日(火）*環境問題、受験生、参加実感*\n最後に小テスト的なものもやることを考えているので、各企画統括はその問題（5問くらい）を直前の日曜まで本間に送ってください！\nみたらスタンプ！必ず",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETV4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間って有限です。スケジュール管理、マジで頼みます。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n①局内マニュアル完成期日は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10月20日(日）12:00にします",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。流石に、流石にそろそろ詰めきってください。\n\n②"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10月22(火）、29(火）局会議で開発局マニュアル講習会をやります。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各企画20分で各々の企画のシフトを説明してください。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各企画で"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "実際のシフトを実演しながら",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "、完璧にシフトに入れる説明をお願いします。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "必要に応じてパワポとかを使ってください。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "順番は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10月22日(火）"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ラリー、スポーツ、参加団体宣伝、ツアー",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10月29日(火）"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "環境問題、受験生、参加実感",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n最後に小テスト的なものもやることを考えているので、各企画統括はその問題（5問くらい）を直前の日曜まで本間に送ってください！\nみたらスタンプ！必ず"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LCE7524E",
+                    "U06LK7K9ALA",
+                    "U06LMH49UQL",
+                    "U071M6X5M16",
+                    "U06LCE8C51U",
+                    "U070YD83MD0",
+                    "U06M7SBFPFS",
+                    "U070Y9TS5T5",
+                    "U06LXNWG67K",
+                    "U070VFQM2N9",
+                    "U070HS55A8P",
+                    "U0710T04DU4",
+                    "U06L4GKGXB9",
+                    "U07194G87BL",
+                    "U070HS5043H",
+                    "U070RQ1EK2S"
+                ],
+                "count": 17
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LK04QJ0K",
+                    "U071M6X5M16",
+                    "U06LCE8C51U",
+                    "U070YD83MD0",
+                    "U06LXP1JG0Z",
+                    "U070HS55A8P",
+                    "U0710T04DU4",
+                    "U071B3GT7FT",
+                    "U06L4GKGXB9",
+                    "U070HT2C5KR",
+                    "U071B3EHX6D",
+                    "U06LG63FJUD",
+                    "U07194G87BL",
+                    "U06LCE809L6",
+                    "U070RQ1EK2S",
+                    "U06LCE4EV2A"
+                ],
+                "count": 17
+            },
+            {
+                "name": "か＿二浪",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK04QJ0K",
+                    "U070YD83MD0",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "夏くん不法入国",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U070YD83MD0",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "正味あり",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LK04QJ0K",
+                    "U071M6X5M16",
+                    "U070YD83MD0",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U071M6X5M16",
+                    "U071B3CB42V",
+                    "U06LK04QJ0K",
+                    "U070YD83MD0",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U071M6X5M16",
+                    "U06LK04QJ0K",
+                    "U070YD83MD0",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U071M6X5M16",
+                    "U06LK04QJ0K",
+                    "U06L4GM57JT",
+                    "U070YD83MD0",
+                    "U06LCE4EV2A",
+                    "U070HS55A8P",
+                    "U06LG63FJUD",
+                    "U07194G87BL"
+                ],
+                "count": 8
+            },
+            {
+                "name": "埼玉県民",
+                "users": [
+                    "U071M6X5M16",
+                    "U070YD83MD0",
+                    "U070Y9TS5T5",
+                    "U070HS55A8P",
+                    "U07194G87BL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ツーショットいいですか",
+                "users": [
+                    "U071M6X5M16",
+                    "U070YD83MD0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なるようにならない",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U070YD83MD0",
+                    "U070HS55A8P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "berealあげた",
+                "users": [
+                    "U071M6X5M16",
+                    "U070YD83MD0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U070YD83MD0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "きすけ",
+                "users": [
+                    "U070RQ167FG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

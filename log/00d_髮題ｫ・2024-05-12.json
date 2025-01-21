@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1715565660.441569",
+        "client_msg_id": "834CC488-5E05-4399-BE44-C501FADAEACF",
+        "text": "今日16時からじつぼの仕事部屋で打ち合わせがあるので把握お願いします！\n<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmOb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日16時からじつぼの仕事部屋で打ち合わせがあるので把握お願いします！\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LCE9NLP8",
+                    "U06LHACMG91",
+                    "U070RQ20K8W",
+                    "U06L4GH4ETH",
+                    "U06LK0F2RC3",
+                    "U06LMH9MBFW",
+                    "U06LCE7DY6S",
+                    "U06LK0E89MH",
+                    "U06LMGM3CG4",
+                    "U06M7SPUVEC",
+                    "U06L4GLJVKR",
+                    "U06L4GM5C87",
+                    "U06L4GH3T7H",
+                    "U06LKTXCZL4",
+                    "U06LMQR40J0"
+                ],
+                "count": 16
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06M7SETDKJ",
+                    "U06LJ0SKMEZ",
+                    "U06LK5HCSE6",
+                    "U06LK0E89MH",
+                    "U06LKTXCZL4",
+                    "U06LK3HUVTL",
+                    "U06L4GKC9N3"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

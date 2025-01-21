@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1710154551.203069",
+        "client_msg_id": "43BB1E9B-D809-4948-92CE-FBE04572FA5D",
+        "text": "時間なんやけど、\n両日ともに15時〜21時みたい！\nだから14時位から予定空けて欲しい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709885208.879489",
+        "parent_user_id": "U06LHACMG91",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fkmQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "時間なんやけど、\n両日ともに15時〜21時みたい！\nだから14時位から予定空けて欲しい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06LJRSQDC3",
+                    "U06LK3K88SW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06LJRSQDC3",
+                    "U06LK3K88SW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

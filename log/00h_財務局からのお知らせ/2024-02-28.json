@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LMH49MQU",
+        "type": "message",
+        "ts": "1709168416.046589",
+        "client_msg_id": "3CA5AE52-4C3B-4E69-9D9B-760D5B33A724",
+        "text": "【リマインド : 領収書申請について】\n\nお疲れ様です。財務局の山田です。\n\n139の方でもお知らせしましたが、\n2月分の領収書の申請は*本日まで*です！\n\n申請メールの宛先は変わらず、jitsumu139@gmail.com です\nよろしくお願い致します:woman-bowing:\n\n<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "217c2fb3f650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8121596033698_217c2fb3f6500c9897c9_72.png",
+            "first_name": "山田佳奈",
+            "real_name": "山田佳奈",
+            "display_name": "Yamada.Kana",
+            "team": "T06L90YHJF8",
+            "name": "mountain.kana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHiBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【リマインド : 領収書申請について】\n\nお疲れ様です。財務局の山田です。\n\n139の方でもお知らせしましたが、\n2月分の領収書の申請は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日まで",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！\n\n申請メールの宛先は変わらず、jitsumu139@gmail.com です\nよろしくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06LCUTBMU5",
+                    "U06LKEPTCA0",
+                    "U06LH4PDAQ3",
+                    "U06M7SQ7QL8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "005_財務_財",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LXNXNWGH",
+                    "U06LH4PDAQ3",
+                    "U06M7SQ7QL8"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

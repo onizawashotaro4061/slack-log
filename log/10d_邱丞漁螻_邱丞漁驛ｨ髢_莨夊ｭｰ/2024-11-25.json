@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1732523463.015659",
+        "client_msg_id": "B0390D95-DE5F-4116-AD43-ADB7C6DC8E2B",
+        "text": "用事があるため遅れます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732420714.137869",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hmlrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるため遅れます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1732525522.936539",
+        "client_msg_id": "5f3fc343-ec19-48f3-a965-fe7d31628b42",
+        "text": "授業のため遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732420714.137869",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfbmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業のため遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

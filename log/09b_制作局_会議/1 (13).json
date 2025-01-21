@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1712800587.747199",
+        "client_msg_id": "11df32ff-1959-4d0e-af60-676a8655b49f",
+        "text": "ほのべくんと同じやつに参戦してくるので遅れる予定です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712683203.647399",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHZC\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほのべくんと同じやつに参戦してくるので遅れる予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_ひかり_ヒカキン",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "きいろ",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

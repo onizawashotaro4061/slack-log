@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1729391777.440199",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1729391796.000000"
+        },
+        "client_msg_id": "dc8700c5-09b0-4343-9529-03f9b59b08d3",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\nおつかさまです。\n渉外局企業部門継続2年の吉良です。\n明大祭大抽選会広報依頼書をOneDriveに提出いたしました。\nご確認のほどよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729391777.440199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1729588029.325269",
+        "reply_users": [
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1729588029.325269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hRcZ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかさまです。\n渉外局企業部門継続2年の吉良です。\n明大祭大抽選会広報依頼書をOneDriveに提出いたしました。\nご確認のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

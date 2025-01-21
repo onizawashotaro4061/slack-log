@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LK0DK7R9",
+        "type": "message",
+        "ts": "1719806101.106059",
+        "client_msg_id": "C5D5FD22-5688-4FFD-BDD3-D0F6F958DC05",
+        "text": "30分遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab581055a4dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8060428663063_ab581055a4dd6481617f_72.png",
+            "first_name": "白川泰晟",
+            "real_name": "白川泰晟",
+            "display_name": "Shirakawa.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "shirakappa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719477040.836409",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZN98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30分遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

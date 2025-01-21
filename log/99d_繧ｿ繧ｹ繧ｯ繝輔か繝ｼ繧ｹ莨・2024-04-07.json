@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1712553423.743229",
+        "client_msg_id": "3ED8CE6B-2F22-4586-9CFC-28EA97521011",
+        "text": "<!channel>\n今月もタスクフォース会あるよ！！\n10:00-＠和泉キャンパス\nの予定です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWb5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今月もタスクフォース会あるよ！！\n10:00-＠和泉キャンパス\nの予定です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SU83G8",
+                    "U06LCE9HTP0",
+                    "U06LJ4HJLMS",
+                    "U06LK0BP1TM",
+                    "U06LG62UXPX",
+                    "U06LMH412CU",
+                    "U06L4GH3T7H",
+                    "U06L4GLRAK1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06M7SU83G8",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

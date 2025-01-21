@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1726230863.558319",
+        "client_msg_id": "F2993BC9-23B9-4C7B-B56D-7AF74C18F077",
+        "text": "<@U06M7SQ7QL8> \nお疲れ様です！連絡ありがとうー\n学外広報部門で受理します！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726191990.855469",
+        "parent_user_id": "U06M7SQ7QL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QkeKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SQ7QL8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！連絡ありがとうー\n学外広報部門で受理します！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06M7SQ7QL8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SQ7QL8",
+        "type": "message",
+        "ts": "1726233057.944639",
+        "client_msg_id": "867E2E30-C9F3-434A-9832-09F8AB0F742A",
+        "text": "ありがとうございます！！\nよろしくお願いします！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7562f2d050bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818430171429_7562f2d050bf4207d6ca_72.png",
+            "first_name": "笠井春花",
+            "real_name": "笠井春花",
+            "display_name": "Kasai.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruki6c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726191990.855469",
+        "parent_user_id": "U06M7SQ7QL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eO9W7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！！\nよろしくお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

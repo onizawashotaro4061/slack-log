@@ -1,0 +1,68 @@
+[
+    {
+        "text": "<@U06LHACMG91> 郵便物きてたので渉外局のレターボックスに入れておきます！",
+        "files": [
+            {
+                "id": "F076UBU5T6E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SW8GAU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1pOWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 郵便物きてたので渉外局のレターボックスに入れておきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717653965.323039",
+        "client_msg_id": "A3238257-E415-410C-B71C-C04166EC5592",
+        "thread_ts": "1717653965.323039",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1717663051.641589",
+        "reply_users": [
+            "U06LHACMG91",
+            "U06LXNYUX7T"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1717661103.568249"
+            },
+            {
+                "user": "U06LXNYUX7T",
+                "ts": "1717663051.641589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LGHETAFP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

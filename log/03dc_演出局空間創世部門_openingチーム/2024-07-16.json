@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06LMHDAZKN",
+        "type": "message",
+        "ts": "1721122814.513859",
+        "edited": {
+            "user": "U06LMHDAZKN",
+            "ts": "1721122837.000000"
+        },
+        "client_msg_id": "9fd68ec4-cd22-4f3a-9e90-fc78651e5436",
+        "text": "<!channel>\n会議連絡！\n【時間】7\/16(火)19:00～21:00\n【場所】局会議のとこ\n【議題】(予定)\n1,キャッチコピー、ボディコピーを考えよう\n2.転換動画について考えよう\n\n一応Slackでも連絡するねー\nキャッチコピー決めるよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1c13f59c5203",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6708552440915_1c13f59c5203dccd2ed9_72.jpg",
+            "first_name": "浦愛華",
+            "real_name": "浦愛華",
+            "display_name": "Ura.Aika",
+            "team": "T06L90YHJF8",
+            "name": "pooh.aikaka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUcCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】7\/16(火)19:00～21:00\n【場所】局会議のとこ\n【議題】(予定)\n1,キャッチコピー、ボディコピーを考えよう\n2.転換動画について考えよう\n\n一応Slackでも連絡するねー\nキャッチコピー決めるよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LCE9AKQW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

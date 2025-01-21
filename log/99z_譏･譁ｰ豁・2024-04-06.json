@@ -1,0 +1,69 @@
+[
+    {
+        "text": "<!channel> 【中野新歓シフト参加者の交通費申請について】\nお疲れ様です！財務局長の佐久間です。\n新歓シフトに入っていただいたみなさま、ご協力ありがとうございました！\n*中野キャンパス*での新歓シフトに入っていただいた方は交通費申請ができますので、申請書に必要事項を記入・添付の上、<mailto:jitsumu139@gmail.com|jitsumu139@gmail.com>へ*4\/30(火)23:59*までにお送りください。よろしくお願いします。\n※和泉キャンパスでのシフトについては交通費申請ができません。ご了承ください。",
+        "files": [
+            {
+                "id": "F06T7QD1DFW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKEPTCA0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PsmTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【中野新歓シフト参加者の交通費申請について】\nお疲れ様です！財務局長の佐久間です。\n新歓シフトに入っていただいたみなさま、ご協力ありがとうございました！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中野キャンパス",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "での新歓シフトに入っていただいた方は交通費申請ができますので、申請書に必要事項を記入・添付の上、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jitsumu139@gmail.com",
+                                "text": "jitsumu139@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "へ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4\/30(火)23:59",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までにお送りください。よろしくお願いします。\n※和泉キャンパスでのシフトについては交通費申請ができません。ご了承ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712470878.469159",
+        "client_msg_id": "8690aa4d-4e55-4df2-8334-4c25ae8691b5"
+    }
+]

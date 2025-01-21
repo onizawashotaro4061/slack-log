@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1723854329.460119",
+        "client_msg_id": "20A672E1-138E-41BF-A6B2-1DE986656F39",
+        "text": "カリカリしてんねん\nかりあけ〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjVOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カリカリしてんねん\nかりあけ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "かなむ",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LXNYUX7T",
+                    "U06LK0FUAHZ",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06M7SETDKJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1723866758.170489",
+        "client_msg_id": "9FD1E73B-E253-48B2-9768-B85600F811A2",
+        "text": "しめかえし！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Riqr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06L4GKC9N3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1723870835.078109",
+        "client_msg_id": "01308561-FF64-4668-8D78-520D434FD3DF",
+        "text": "あつすぎてやばいかりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tA21s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あつすぎてやばいかりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06L4GKC9N3"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

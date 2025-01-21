@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U070VFQM2N9",
+        "type": "message",
+        "ts": "1723971061.731779",
+        "client_msg_id": "7B1ECB26-EC0E-46E3-9F42-5A4E5E4FC08F",
+        "text": "予定があるため、欠席させていただきます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17387da8df8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7105997571655_17387da8df8acc8270df_72.png",
+            "first_name": "眞野栞",
+            "real_name": "眞野栞",
+            "display_name": "Mano.Shiori",
+            "team": "T06L90YHJF8",
+            "name": "mano.05poppy1114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723950671.491559",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5CIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため、欠席させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710SZA5J8",
+        "type": "message",
+        "ts": "1723985419.178099",
+        "client_msg_id": "7C616B45-F7AA-4CB7-8933-D8326F489A2A",
+        "text": "予定があるので早退します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f8c2f8fb79ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-29\/7639958450055_f8c2f8fb79ea6fc26983_72.png",
+            "first_name": "金子莉里夏",
+            "real_name": "金子莉里夏",
+            "display_name": "Kaneko.Ririka",
+            "team": "T06L90YHJF8",
+            "name": "ririka.k726",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723950671.491559",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfibn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるので早退します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3GT7FT",
+        "type": "message",
+        "ts": "1723994267.421219",
+        "client_msg_id": "105B8916-CEB1-4CC2-BDFC-3B9F790CF744",
+        "text": "予定があるため欠席させていただきます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "daa4c610e9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7868832497826_daa4c610e9c175bfabb5_72.png",
+            "first_name": "栢本有人",
+            "real_name": "栢本有人",
+            "display_name": "Kayamoto.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "yu10kayam10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723950671.491559",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syc7n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席させていただきます。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

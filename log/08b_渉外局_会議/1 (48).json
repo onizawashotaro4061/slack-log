@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1719820522.260899",
+        "client_msg_id": "6C2E811B-7135-43B4-A5CE-55B7A52E9945",
+        "text": "面談があるため20時に早退します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719799465.057959",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbF6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面談があるため20時に早退します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFRN7PX",
+        "type": "message",
+        "ts": "1719838359.901929",
+        "client_msg_id": "caf4e115-7500-459d-99cc-e1302eb602d7",
+        "text": "通院のため休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "15cce351931b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-01\/7966829305810_15cce351931b99f69ada_72.png",
+            "first_name": "横田清佳",
+            "real_name": "横田清佳",
+            "display_name": "Yokota.Sayaka",
+            "team": "T06L90YHJF8",
+            "name": "bonsoir.sayaka25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719799465.057959",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5Ef5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "通院のため休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

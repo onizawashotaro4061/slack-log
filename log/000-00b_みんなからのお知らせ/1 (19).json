@@ -1,0 +1,396 @@
+[
+    {
+        "user": "U06LCE69DRU",
+        "type": "message",
+        "ts": "1716636612.188149",
+        "edited": {
+            "user": "U06LCE69DRU",
+            "ts": "1716636649.000000"
+        },
+        "client_msg_id": "59e64519-71e4-46a0-8586-686c29174ea8",
+        "text": "<!channel> \n【プレサイトリリースのお知らせ】\nお疲様です！制作局Web部門長の梅山です。\nお待たせしてすみませんでした。本日、プレサイトをリリースいたしました!\n\n今後もどしどし新情報を更新していくので、以後お見知りおきを！\n\n<https:\/\/meidaisai.jp\/|https:\/\/meidaisai.jp\/>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "12e80b515780",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-16\/7900904960705_12e80b515780e764a5ae_72.jpg",
+            "first_name": "梅山翔央",
+            "real_name": "梅山翔央",
+            "display_name": "Umeyama.Sho",
+            "team": "T06L90YHJF8",
+            "name": "sho.ume.2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "http:\/\/meidaisai.sakura.ne.jp\/assets\/img\/twittercard-pre.jpg",
+                "image_width": 1618,
+                "image_height": 1000,
+                "image_bytes": 191650,
+                "from_url": "https:\/\/meidaisai.jp\/",
+                "service_icon": "https:\/\/meidaisai.jp\/.\/assets\/img\/favicon\/icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meidaisai.jp\/",
+                "fallback": "第140回明大祭公式サイト",
+                "text": "2024年11月2日(土).3日(日).4日(月・祝)に開催される明治大学の学園祭、第140回明大祭の公式サイトです！",
+                "title": "第140回明大祭公式サイト",
+                "title_link": "https:\/\/meidaisai.jp\/",
+                "service_name": "meidaisai.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRm1L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【プレサイトリリースのお知らせ】\nお疲様です！制作局Web部門長の梅山です。\nお待たせしてすみませんでした。本日、プレサイトをリリースいたしました!\n\n今後もどしどし新情報を更新していくので、以後お見知りおきを！\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meidaisai.jp\/",
+                                "text": "https:\/\/meidaisai.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LK0F2RC3",
+                    "U06LXNY8KMF",
+                    "U06LK3HUVTL",
+                    "U06L64D8E0P",
+                    "U06LK3M7VGA",
+                    "U071B3AKPPT",
+                    "U06LP6ZTYA1",
+                    "U06LK3LM7AN",
+                    "U06LCUTBMU5",
+                    "U06LK0DN10T",
+                    "U06LK0DLEQ3",
+                    "U070HS2GY5V",
+                    "U06LJ4HJLMS",
+                    "U06LK3MMALA",
+                    "U070Y9VV7MZ",
+                    "U0710T3MCUC",
+                    "U06LK3KA09G",
+                    "U06M7TE180Y",
+                    "U06LXNYCLJV",
+                    "U06LH4PDAQ3",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06L4GJBJP9",
+                    "U06LXR4BPS5",
+                    "U070Y9TMG11",
+                    "U06LK0EBWRH",
+                    "U06LCE8L8LW",
+                    "U070HS7MJH5",
+                    "U070YD6M598",
+                    "U06LK3MF9FC",
+                    "U070YD778SE",
+                    "U070RQ543FG",
+                    "U06LMH9MBFW",
+                    "U070Y9Q9151",
+                    "U06LDT584J1",
+                    "U070RQ0TU6A",
+                    "U070YD72JPL",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR",
+                    "U06LCE4EV2A",
+                    "U06LJ0SKMEZ",
+                    "U070RQ6FHF0",
+                    "U070RQ1EK2S",
+                    "U06LK3LT89Y",
+                    "U06LCECJD8W",
+                    "U070YDCRM1Q",
+                    "U06LCED6ZK8",
+                    "U06M7SETDKJ",
+                    "U070Y9S1CRH"
+                ],
+                "count": 56
+            },
+            {
+                "name": "おい笑える",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS",
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LMH9MBFW",
+                    "U06LK0JCFHR"
+                ],
+                "count": 7
+            },
+            {
+                "name": "008_制作_制",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS",
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "しょう_1",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LK0F2RC3",
+                    "U06L4GM5C87",
+                    "U06LP6ZTYA1",
+                    "U06LK0DN10T",
+                    "U06LJ4HJLMS",
+                    "U06LXNYCLJV",
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR",
+                    "U06LG62V1FX",
+                    "U06M7SSDQQG"
+                ],
+                "count": 16
+            },
+            {
+                "name": "鋼のweb部門",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06LP6ZTYA1",
+                    "U06LK0DN10T",
+                    "U06LJ4HJLMS",
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW",
+                    "U06LG62UXPX",
+                    "U06LK0JCFHR",
+                    "U06LXNYCLJV"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LK3MF9FC",
+                    "U070RQFLLR4",
+                    "U06LMH9MBFW",
+                    "U06LDT584J1",
+                    "U06LG62UXPX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW",
+                    "U06LDT584J1",
+                    "U06LG62UXPX"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW",
+                    "U06LDT584J1",
+                    "U06LG62UXPX"
+                ],
+                "count": 8
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LK3MF9FC",
+                    "U06LMH9MBFW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "みゆう_1",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ゆうだい_1",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "いろは_1",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU",
+                    "U06LXNYCLJV"
+                ],
+                "count": 6
+            },
+            {
+                "name": "いろは_3",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_4",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_5",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_6",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_7",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_8",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_9",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_10",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS",
+                    "U06LCE69DRU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "しゃばはる",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "みゆう_2",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "総務＿みゆう",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

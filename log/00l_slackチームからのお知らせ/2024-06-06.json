@@ -1,0 +1,191 @@
+[
+    {
+        "text": "<!channel>\nおつかれさまです！\nSlackチーム長の吉良です。\n新規のみなさんの部門配属決まってきたところだと思います。\n前回の総会でもお話させていただいたのですが、Slackのプロフィールで*自部門の設定*をしていただきたいです！\nタイトルの部分に、*〇〇局〇〇部門新規✖︎年*\nと書いてください:bangbang:\n部門が1つしかない局の新規の人もお願いします！\n期限は*6月11日(火)*です。*期限厳守*です:bangbang:\n*書いていない人には、SlackチームからDMがくるので、絶対に書くようにお願いします*:heart_hands::skin-tone-3:",
+        "files": [
+            {
+                "id": "F076XUNDLE9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SETDKJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UobGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nSlackチーム長の吉良です。\n新規のみなさんの部門配属決まってきたところだと思います。\n前回の総会でもお話させていただいたのですが、Slackのプロフィールで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自部門の設定",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "をしていただきたいです！\nタイトルの部分に、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〇〇局〇〇部門新規✖︎年",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nと書いてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n部門が1つしかない局の新規の人もお願いします！\n期限は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6月11日(火)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限厳守",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "書いていない人には、SlackチームからDMがくるので、絶対に書くようにお願いします",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6-1f3fc",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717735569.081219",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1717736340.000000"
+        },
+        "client_msg_id": "8701c12e-3351-4d06-82e3-6022062bf353",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070HS3D85D",
+                    "U0710T3MCUC",
+                    "U06LJ4HJLMS",
+                    "U06L4GM5C87",
+                    "U070Y9RP1J7",
+                    "U070Y9Q9151",
+                    "U070YD778SE",
+                    "U06M7SUULGY",
+                    "U070Y9VV7MZ",
+                    "U06LXNYCLJV",
+                    "U06LK0FUAHZ",
+                    "U06LG61QB3P",
+                    "U070HS7MJH5",
+                    "U06LJRSQDC3",
+                    "U06L4GH3T7H",
+                    "U070RQ167FG",
+                    "U06LCE9EA3G",
+                    "U06M7SUSYNL",
+                    "U070VFQKEH3",
+                    "U06LK3HUVTL",
+                    "U06LKTXCZL4",
+                    "U06LK3ZBCN6",
+                    "U06LXR4BPS5",
+                    "U06LCE7DY6S",
+                    "U071B3C838R",
+                    "U070VFRCQBF"
+                ],
+                "count": 26
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G",
+                    "U06LXR4BPS5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G",
+                    "U06L4GLJVKR",
+                    "U06LCUTBMU5",
+                    "U06LXR4BPS5",
+                    "U06M7SUULGY"
+                ],
+                "count": 6
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U06LK3ZBCN6",
+                    "U06LXR4BPS5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U06LK3ZBCN6",
+                    "U06LXR4BPS5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

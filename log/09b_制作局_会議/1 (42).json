@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U0710SYJ892",
+        "type": "message",
+        "ts": "1720046244.770629",
+        "client_msg_id": "E3A07DB7-C679-439C-9878-942245E599BD",
+        "text": "インターンの集まりがあるので欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4902efb8a47b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7029547866885_4902efb8a47bfc9e3bf4_72.png",
+            "first_name": "伊藤汰海",
+            "real_name": "伊藤汰海",
+            "display_name": "Ito.Taiga",
+            "team": "T06L90YHJF8",
+            "name": "itiger4649",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719894109.690659",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6+KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンの集まりがあるので欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LCE69DRU",
+                    "U06LH4PDAQ3",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LCE69DRU",
+                    "U06LH4PDAQ3",
+                    "U06L4GPGUMV",
+                    "U070Y9QMUSX"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

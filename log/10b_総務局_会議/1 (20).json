@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U06LG62FNP7",
+        "type": "message",
+        "ts": "1713261019.796469",
+        "client_msg_id": "B716334F-D5BA-4BB1-9AD1-90221492815A",
+        "text": "電車ちょっと遅延しててちょっと遅れますすみません:pray::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17560d48f669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7907757083890_17560d48f669ee035be4_72.png",
+            "first_name": "深石遥月",
+            "real_name": "深石遥月",
+            "display_name": "Fukaishi.Haruna",
+            "team": "T06L90YHJF8",
+            "name": "fukaishiharuna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713157472.895459",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3VN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車ちょっと遅延しててちょっと遅れますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MPZ34",
+        "type": "message",
+        "ts": "1713261579.515279",
+        "client_msg_id": "74B051BC-6DAD-4E47-8378-1E216AA01BF0",
+        "text": "私とお塩が遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "93bb6a676dcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-24\/7624360745298_93bb6a676dcbb007ce18_72.png",
+            "first_name": "曽田結加",
+            "real_name": "曽田結加",
+            "display_name": "Soda.Yuika",
+            "team": "T06L90YHJF8",
+            "name": "syuika8080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713157472.895459",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrCmp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私とお塩が遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

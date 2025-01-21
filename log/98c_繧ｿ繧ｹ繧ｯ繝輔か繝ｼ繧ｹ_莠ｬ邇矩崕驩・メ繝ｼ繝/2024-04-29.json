@@ -1,0 +1,76 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。城戸です。\n第4回タスクフォース京王電鉄チーム会議議事録を\n OneDrive＞自分のファイル＞03_京王電鉄チーム＞02_議事録＞4月\nにアップロードしました。確認お願いします。\n\nとうとう新規合流しましたね〜チームにもいずれ入ってくるみたいなので今のうちに囲んでおくのもありかもしれません:interrobang:\n\n以下にPDFを添付しました。",
+        "files": [
+            {
+                "id": "F070UD5BNT1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lNNiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。城戸です。\n第4回タスクフォース京王電鉄チーム会議議事録を\n OneDrive＞自分のファイル＞03_京王電鉄チーム＞02_議事録＞4月\nにアップロードしました。確認お願いします。\n\nとうとう新規合流しましたね〜チームにもいずれ入ってくるみたいなので今のうちに囲んでおくのもありかもしれません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n以下にPDFを添付しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714456936.136309",
+        "client_msg_id": "5d4d7942-4cf5-4c06-ab79-128bfdc47d9e",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK0DK7R9",
+                    "U06L4J69HV5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK0DK7R9",
+                    "U06L4J69HV5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK0DK7R9",
+                    "U06L4J69HV5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

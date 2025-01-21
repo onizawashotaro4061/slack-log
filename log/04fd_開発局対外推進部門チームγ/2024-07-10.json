@@ -1,0 +1,120 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070YDBG6N6",
+        "text": "<@U070YDBG6N6>さんがチャンネルに参加しました",
+        "inviter": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1720671327.379779"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M6X5M16",
+        "text": "<@U071M6X5M16>さんがチャンネルに参加しました",
+        "inviter": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1720671327.477159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HT2C5KR",
+        "text": "<@U070HT2C5KR>さんがチャンネルに参加しました",
+        "inviter": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1720671327.553609"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3EHX6D",
+        "text": "<@U071B3EHX6D>さんがチャンネルに参加しました",
+        "inviter": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1720671327.624989"
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1720671611.621269",
+        "edited": {
+            "user": "U06LXP1JG0Z",
+            "ts": "1720671987.000000"
+        },
+        "client_msg_id": "132A6D3A-58E0-40F1-856A-E8ADF296A126",
+        "text": "<!channel>\n【0711第5回開発局対外推進部門チームγ（仮）会議について】\nおつかれさまです！\n暑いね！今日も元気にぶちまかすよー！\n\n【時間】\n部門会議終了〜20:40\n\n【場所】\n部門会議と同じ教室\n\n【持ち物】\nパソコン\n芸人魂\nおつかれたなかれい\n\n\n【議題】\n1.  各種共有（意思共有）\n2.  どんな情報を伝えたい？（意見交換）\n3.  企画名について（意見交換・決定）\n\n春学期最後の会議！頑張るぞー:fire:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csEaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0711第5回開発局対外推進部門チームγ（仮）会議について】\nおつかれさまです！\n暑いね！今日も元気にぶちまかすよー！\n\n【時間】\n部門会議終了〜20:40\n\n【場所】\n部門会議と同じ教室\n\n【持ち物】\nパソコン\n芸人魂\nおつかれたなかれい\n\n\n【議題】\n1.  各種共有（意思共有）\n2.  どんな情報を伝えたい？（意見交換）\n3.  企画名について（意見交換・決定）\n\n春学期最後の会議！頑張るぞー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U071M6X5M16",
+                    "U06LG63FJUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "こうせいの家てオールね",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U071M6X5M16",
+                    "U071B3EHX6D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

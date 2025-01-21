@@ -1,0 +1,97 @@
+[
+    {
+        "text": "<!channel> おつかれ～　\n4月9日（火）に参加団体局との合同会議があってその前に部門会議の時間が取れないのでこれらの資料を事前に読んでいただけると助かります:pleading_face:\n少しでも参加団体局、参加団体募集広報について詳しくなっておきましょう！",
+        "files": [
+            {
+                "id": "F06SN2UQ0DN",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F06RZ64EU2F",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06S1PJDW84",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsKet",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれ～　\n4月9日（火）に参加団体局との合同会議があってその前に部門会議の時間が取れないのでこれらの資料を事前に読んでいただけると助かります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n少しでも参加団体局、参加団体募集広報について詳しくなっておきましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711721250.013019",
+        "edited": {
+            "user": "U06L4GL1CUF",
+            "ts": "1711721395.000000"
+        },
+        "client_msg_id": "9dc5d218-9259-482f-8fc3-af82296cb491",
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U06LXNY8KMF",
+                    "U06LXNWSGPK"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

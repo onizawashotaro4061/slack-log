@@ -1,0 +1,115 @@
+[
+    {
+        "text": "<!channel> 【*皆さん待望の中間反省リリース*】\nお疲れ様です。渉外局副局長の花城です。\n中間反省をリリースいたします。\n:warning:期限は*9月17日(火)23：59*までです:warning:\n昨年度よりもコンパクトにしましたが、それでもかなり量があるので、計画的に記入するようにしてください。\nもう一度言います。*計画的に記入するようにしてください。*\nご確認お願いいたします。",
+        "files": [
+            {
+                "id": "F07JN7C4E66",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXK3RF7B",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zH+Ur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "皆さん待望の中間反省リリース",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\nお疲れ様です。渉外局副局長の花城です。\n中間反省をリリースいたします。\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9月17日(火)23：59",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n昨年度よりもコンパクトにしましたが、それでもかなり量があるので、計画的に記入するようにしてください。\nもう一度言います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "計画的に記入するようにしてください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724744027.171229",
+        "client_msg_id": "75252dcb-955c-4d35-b9d7-c87966812941",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06LCED6ZK8",
+                    "U0710T3MCUC",
+                    "U06M7SUSYNL",
+                    "U06L4GLRAK1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U070RQ0VCP8",
+                    "U070HS5NT63",
+                    "U06M7SUSYNL",
+                    "U06L4GLRAK1",
+                    "U06LK3NPUQ2",
+                    "U0710T3MCUC"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

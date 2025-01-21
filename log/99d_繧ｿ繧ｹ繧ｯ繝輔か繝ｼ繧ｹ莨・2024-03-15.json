@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1710513850.520679",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1710513863.000000"
+        },
+        "client_msg_id": "E2750B2F-5A95-42B9-BF31-FFBF2B6B986B",
+        "text": "<!channel>\n明日10時から結成会するからね！！！\n忘れないでね。\n教室はLS405教室です！！\n忘れないでね。お願いします！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zL206",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日10時から結成会するからね！！！\n忘れないでね。\n教室はLS405教室です！！\n忘れないでね。お願いします！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LCE9HTP0",
+                    "U06L4GLRAK1",
+                    "U06LMH412CU",
+                    "U06LJ4HJLMS",
+                    "U06LCECJD8W",
+                    "U06M7SU83G8",
+                    "U06LK0E89MH"
+                ],
+                "count": 8
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06L4GLRAK1",
+                    "U06LJ4HJLMS",
+                    "U06LK5HCSE6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "002_演出_次長",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06PEMJ6P0X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L97X3V6J",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1710551275.652819",
+        "client_msg_id": "aa8b59fc-0341-46e8-b511-2b6d85bd1a05"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06PSD8A9FX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L97X3V6J",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1710554625.123819",
+        "client_msg_id": "e49bbc6e-675d-492c-a7ff-f5bc4df949a8"
+    }
+]

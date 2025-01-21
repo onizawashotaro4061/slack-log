@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U071M740R32",
+        "type": "message",
+        "ts": "1717752546.038419",
+        "client_msg_id": "887DE1B7-CF77-4674-8612-B84DA67B25E2",
+        "text": "電車の都合で少し遅れます:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "876cf5e7cc35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7220379141713_876cf5e7cc353c8748d5_72.png",
+            "first_name": "草野佑太朗",
+            "real_name": "草野佑太朗",
+            "display_name": "Kusano.Yuutarou",
+            "team": "T06L90YHJF8",
+            "name": "k.yuuu118520",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717726612.741919",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qu9G\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車の都合で少し遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

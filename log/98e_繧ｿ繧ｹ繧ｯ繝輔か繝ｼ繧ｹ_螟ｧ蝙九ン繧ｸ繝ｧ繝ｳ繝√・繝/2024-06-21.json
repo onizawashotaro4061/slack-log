@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1718966284.927319",
+        "edited": {
+            "user": "U06LK0DN10T",
+            "ts": "1718966332.000000"
+        },
+        "client_msg_id": "8cfe17c7-aa05-43c8-908f-05902c2ee0de",
+        "text": "25日19時以降\n27日11時~13時、17時~19時\n2日19時以降\nしか空いてないです…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718857850.479609",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC6KP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25日19時以降\n27日11時~13時、17時~19時\n2日19時以降\nしか空いてないです…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1718994411.506379",
+        "client_msg_id": "FB17BB67-5395-4080-A943-2EACCF291DF7",
+        "text": "他の人どんな感じ〜？？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718857850.479609",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8f2oA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他の人どんな感じ〜？？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

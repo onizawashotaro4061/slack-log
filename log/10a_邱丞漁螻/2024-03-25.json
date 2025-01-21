@@ -1,0 +1,74 @@
+[
+    {
+        "text": "<!channel> ",
+        "files": [
+            {
+                "id": "F06RAGUAG9Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L2CSPXV5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711432855.446089",
+        "client_msg_id": "D4BF4AC3-8EDE-4E65-A72C-769D42E88E57"
+    },
+    {
+        "text": "<!channel> ",
+        "files": [
+            {
+                "id": "F06R46ZR3QE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L2CSPXV5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711436185.502529",
+        "client_msg_id": "FA487FBE-E953-4DAD-8289-F02A041E8BD3"
+    }
+]

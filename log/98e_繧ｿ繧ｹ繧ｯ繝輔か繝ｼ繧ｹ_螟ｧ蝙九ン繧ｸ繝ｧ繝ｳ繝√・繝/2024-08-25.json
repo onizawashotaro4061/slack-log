@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1724654721.846999",
+        "client_msg_id": "760ADBAA-6D67-49C3-9903-C75A689E2EF6",
+        "text": "<!channel> \n絵コンテ書いてるんですけど、「明治大学の文字」や「明大祭ロゴ」って出しましたっけ？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KDDPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n絵コンテ書いてるんですけど、「明治大学の文字」や「明大祭ロゴ」って出しましたっけ？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

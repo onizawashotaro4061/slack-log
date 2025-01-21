@@ -1,0 +1,206 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1725416100.102269",
+        "edited": {
+            "user": "U06LJ0SKMEZ",
+            "ts": "1725421549.000000"
+        },
+        "client_msg_id": "C225951D-ED74-460E-B59E-3DC455F30516",
+        "text": "<!channel>\n【第15回動画部門会議】\n日時:9月5日（木）10:50～12:30\n場所:第1校舎317\n持ち物:パソコン\n議事録:だれか\n\n議題\n1.？技術伝達(意思共有)\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1725500874.113719",
+        "reply_users": [
+            "U070YD7LPR8",
+            "U070Y9S80D9",
+            "U06LJ0SKMEZ",
+            "U06LXNUQ989",
+            "U070HS3CTQX"
+        ],
+        "replies": [
+            {
+                "user": "U070YD7LPR8",
+                "ts": "1725425189.697509"
+            },
+            {
+                "user": "U070Y9S80D9",
+                "ts": "1725431783.608049"
+            },
+            {
+                "user": "U06LJ0SKMEZ",
+                "ts": "1725462165.291099"
+            },
+            {
+                "user": "U06LXNUQ989",
+                "ts": "1725495960.958689"
+            },
+            {
+                "user": "U070HS3CTQX",
+                "ts": "1725500874.113719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6cyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第15回動画部門会議】\n日時:9月5日（木）10:50～12:30\n場所:第1校舎317\n持ち物:パソコン\n議事録:だれか\n\n議題\n1.？技術伝達(意思共有)\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070Y9QMUSX",
+                    "U06LK0DK7R9",
+                    "U070YD7KHLJ",
+                    "U070HS3CTQX",
+                    "U06LXNYGGHX",
+                    "U071B3BQRR7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U070YD7LPR8",
+                    "U070Y9S80D9",
+                    "U06LJ0SKMEZ",
+                    "U06LXNUQ989"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1725425189.697509",
+        "client_msg_id": "CDE4EFFA-4EE9-4DF7-9885-A3DBCE61E5A8",
+        "text": "ゼミ合宿のためお休みします :pray: :mountain:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dbs\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミ合宿のためお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mountain",
+                                "unicode": "26f0-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070Y9S80D9",
+        "type": "message",
+        "ts": "1725431783.608049",
+        "client_msg_id": "93B67A5D-0255-4887-B01F-B07A44F8B495",
+        "text": ":flag-vn: にいるためお休みします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ce7400c1c674",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8034245277127_ce7400c1c67454d2ba1d_72.png",
+            "first_name": "田口莉子",
+            "real_name": "田口莉子",
+            "display_name": "Taguchi.Riko",
+            "team": "T06L90YHJF8",
+            "name": "riko10050422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725416100.102269",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHDq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "flag-vn",
+                                "unicode": "1f1fb-1f1f3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にいるためお休みします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

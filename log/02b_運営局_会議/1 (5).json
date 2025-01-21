@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LCE8F5PG",
+        "type": "message",
+        "ts": "1709267077.188499",
+        "client_msg_id": "F8466466-30BC-42D3-B2FE-0CEAEA71050F",
+        "text": "遅延のため遅れますごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8e03e2f98b88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113251891680_8e03e2f98b8813e03b63_72.png",
+            "first_name": "岩穴口尋平",
+            "real_name": "岩穴口尋平",
+            "display_name": "Iwanaguchi.Jimpei",
+            "team": "T06L90YHJF8",
+            "name": "jimpei329",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709164802.027109",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/JPnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅延のため遅れますごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

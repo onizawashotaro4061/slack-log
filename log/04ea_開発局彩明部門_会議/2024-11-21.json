@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U06LMH49UQL",
+        "type": "message",
+        "ts": "1732182033.663499",
+        "client_msg_id": "822D5AF7-B8B8-4677-9B69-A765AA1D1975",
+        "text": "京王線人身事故で19:30に電車再開見込みなので結構遅れそうです。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dbe6f5d664d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-07\/7678635751815_dbe6f5d664d5226c2aaa_72.png",
+            "first_name": "佐藤花恋",
+            "real_name": "佐藤花恋",
+            "display_name": "Sato.Karen",
+            "team": "T06L90YHJF8",
+            "name": "s.karen160827",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732172215.111849",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kVB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王線人身事故で19:30に電車再開見込みなので結構遅れそうです。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か_本間すまん",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH49UQL",
+        "type": "message",
+        "ts": "1732182441.510819",
+        "edited": {
+            "user": "U06LMH49UQL",
+            "ts": "1732183692.000000"
+        },
+        "client_msg_id": "6BBC29F0-4C07-4233-9B69-8B1C2028EF2E",
+        "text": "別ルートで行くので30分程度遅れます:bow:‍⤵︎",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dbe6f5d664d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-07\/7678635751815_dbe6f5d664d5226c2aaa_72.png",
+            "first_name": "佐藤花恋",
+            "real_name": "佐藤花恋",
+            "display_name": "Sato.Karen",
+            "team": "T06L90YHJF8",
+            "name": "s.karen160827",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732172215.111849",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGSLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "別ルートで行くので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分程度遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "‍⤵︎"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U06LCEJ5HHU",
+                    "U06LMH49UQL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

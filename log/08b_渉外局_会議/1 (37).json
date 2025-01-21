@@ -1,0 +1,292 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1717130718.747899",
+        "client_msg_id": "3e66c524-bc15-4708-b725-4b74418454d2",
+        "text": "*<!channel>*\n*【0604_第20回渉外局会議】*\n【時間】19:00～20:40\n【場所】*LS402*\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・部門配属リリース（意思共有）\n→*その後部門会議（部門合流）*\n\n教室の場所が違うので気を付けてね！！\n合宿費まだの人はゆうへいに必ず渡してね！！\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717130718.747899",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1717493914.223749",
+        "reply_users": [
+            "U071B3Q87ED",
+            "U070Y9SLJJX",
+            "U071M740R32",
+            "U071B3CV89X"
+        ],
+        "replies": [
+            {
+                "user": "U071B3Q87ED",
+                "ts": "1717136428.218279"
+            },
+            {
+                "user": "U070Y9SLJJX",
+                "ts": "1717415820.067459"
+            },
+            {
+                "user": "U071M740R32",
+                "ts": "1717436939.298449"
+            },
+            {
+                "user": "U071B3CV89X",
+                "ts": "1717493914.223749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MRSkY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0604_第20回渉外局会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00～20:40\n【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LS402",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・部門配属リリース（意思共有）\n→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "その後部門会議（部門合流）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n教室の場所が違うので気を付けてね！！\n合宿費まだの人はゆうへいに必ず渡してね！！\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LK3K88SW",
+                    "U06LCED6ZK8",
+                    "U06L4GLJVKR",
+                    "U06LHACMG91",
+                    "U06M7SPUVEC",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U070YD778SE",
+                    "U06M7SETDKJ",
+                    "U070RQ0VCP8",
+                    "U06M7SUSYNL",
+                    "U0710T3MCUC",
+                    "U06L4GLJVKR",
+                    "U06M7SPUVEC",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U071M740R32",
+                    "U06M7ST2WTA",
+                    "U071B3CNHQR",
+                    "U070VFRCQBF"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U070YD778SE",
+                    "U06L4GLJVKR",
+                    "U070HS31CP9",
+                    "U06M7SPUVEC",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA",
+                    "U070VFTLATX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06LJRSQDC3",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA",
+                    "U06L4GLJVKR",
+                    "U06M7SU83G8"
+                ],
+                "count": 6
+            },
+            {
+                "name": "けいちゃん",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA",
+                    "U06L4GLJVKR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "あくあぱっつぁ",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA",
+                    "U06L4J69HV5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U071B3Q87ED",
+        "type": "message",
+        "ts": "1717136428.218279",
+        "client_msg_id": "CDDCD794-3852-4635-BCB7-4D0222D91FAD",
+        "text": "初めてのクラス会にどうしても行きたいので休みます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "058a46552ad7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8043988975714_058a46552ad79e5bccc3_72.png",
+            "first_name": "稲葉　翔大",
+            "real_name": "稲葉　翔大",
+            "display_name": "Inaba.Shodai",
+            "team": "T06L90YHJF8",
+            "name": "shodai25ina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717130718.747899",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yy305",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "初めてのクラス会にどうしても行きたいので休みます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GLRAK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U06LXK3RF7B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "triumph",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U06LXK3RF7B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

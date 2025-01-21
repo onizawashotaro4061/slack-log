@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U06LG6F13M3",
+        "type": "message",
+        "ts": "1730251600.145349",
+        "client_msg_id": "C7E0B983-4914-45DF-AB55-8E0778ADBEA6",
+        "text": "ごめんなさい今起きました急いで行きます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae3a1cd9bccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-11\/7268994475441_ae3a1cd9bccdea72982a_72.png",
+            "first_name": "畠田莉奈",
+            "real_name": "畠田莉奈",
+            "display_name": "Hatakeda.Rina",
+            "team": "T06L90YHJF8",
+            "name": "hinatazaka6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728312405.357839",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trfeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい今起きました急いで行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LP6ZTYA1",
+        "type": "message",
+        "ts": "1730251932.278939",
+        "edited": {
+            "user": "U06LP6ZTYA1",
+            "ts": "1730256067.000000"
+        },
+        "client_msg_id": "A6473D7F-9170-44CA-BE79-B00DE01D7CAD",
+        "text": "りなと同じくです。すぐ向かいますごめんなさい\n頭痛がひどいんで様子みて行きます。申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acacd59adece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-18\/6841130737232_acacd59adece7135664f_72.png",
+            "first_name": "上村優太",
+            "real_name": "上村優太",
+            "display_name": "Kamimura.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "yuta200409",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728312405.357839",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYf1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りなと同じくです。すぐ向かいますごめんなさい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n頭痛がひどいんで様子みて行きます。申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071M6YAX2L",
+        "type": "message",
+        "ts": "1730253321.755099",
+        "edited": {
+            "user": "U071M6YAX2L",
+            "ts": "1730253348.000000"
+        },
+        "client_msg_id": "8E4C9E68-68FE-49F0-9EF2-D7DA85C5FC89",
+        "text": "すみません今さっき起きました急ぎます\n違いました授業あったんでした寝ぼけてました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5c50c4a5c1f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-01\/7355555139283_5c50c4a5c1f0d6a5f3f8_72.png",
+            "first_name": "小林祐也",
+            "real_name": "小林祐也",
+            "display_name": "Kobayashi.Yuya",
+            "team": "T06L90YHJF8",
+            "name": "yuya031752",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728312405.357839",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wtIW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません今さっき起きました急ぎます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n違いました授業あったんでした寝ぼけてました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U071M6YAX2L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMHSCW1J",
+        "type": "message",
+        "ts": "1730253332.698729",
+        "client_msg_id": "05C0EA4E-5D3B-48AA-A537-B5CB4C5592B1",
+        "text": "15時にバイトの店長に呼び出されたので抜けます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "75cb365dc368",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-12\/7428073219441_75cb365dc368b8d2f98f_72.png",
+            "first_name": "大前史流",
+            "real_name": "大前史流",
+            "display_name": "Omae.Shiryu",
+            "team": "T06L90YHJF8",
+            "name": "takaoshiryu09050905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728312405.357839",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFI8E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15時にバイトの店長に呼び出されたので抜けます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

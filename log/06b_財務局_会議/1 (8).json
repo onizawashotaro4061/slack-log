@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U06M7SQ7QL8",
+        "type": "message",
+        "ts": "1710062653.208589",
+        "client_msg_id": "389A7D3E-ECC4-4AEA-A60C-93D5B83336AE",
+        "text": "帰省中のため欠席させていただきますすみません:woman-bowing::woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7562f2d050bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818430171429_7562f2d050bf4207d6ca_72.png",
+            "first_name": "笠井春花",
+            "real_name": "笠井春花",
+            "display_name": "Kasai.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruki6c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709951982.697249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xz\/ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "帰省中のため欠席させていただきますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3NH9MG",
+        "type": "message",
+        "ts": "1710085828.523669",
+        "client_msg_id": "E96D60D8-F457-405F-82BF-70E4513F170A",
+        "text": "用事があるので欠席させていただきます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9006d2675710",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/8013814017552_9006d267571081f27ed6_72.png",
+            "first_name": "小川大翔",
+            "real_name": "小川大翔",
+            "display_name": "Ogawa.Yamato",
+            "team": "T06L90YHJF8",
+            "name": "daxiangxiaochuan99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709951982.697249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFmEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるので欠席させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1710126150.975229",
+        "client_msg_id": "6BC0598E-B696-4881-BACE-EC1D26E25C70",
+        "text": "今からWebテスト受けます、間に合いません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709951982.697249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRr2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今からWebテスト受けます、間に合いません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

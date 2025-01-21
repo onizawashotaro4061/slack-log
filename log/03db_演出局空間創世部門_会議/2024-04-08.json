@@ -1,0 +1,176 @@
+[
+    {
+        "user": "U06M7T7SSDN",
+        "type": "message",
+        "ts": "1712617430.303579",
+        "client_msg_id": "175ccd38-cbf1-4687-a43d-e04e2f260db0",
+        "text": "免許の本試験のため欠席します。間に合えば参加します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9bdd6ad335f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6735699381570_b9bdd6ad335f08da6742_72.jpg",
+            "first_name": "熊耳諒",
+            "real_name": "熊耳諒",
+            "display_name": "Kumagami.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "orca8424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712540503.576709",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZXd8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "免許の本試験のため欠席します。間に合えば参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "一発",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9AKQW",
+        "type": "message",
+        "ts": "1712636632.030369",
+        "client_msg_id": "544864C9-9047-4072-998F-BBB2108813C4",
+        "text": "予定があるため欠席します。すみません :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: :smiling_face_with_tear: :smiling_face_with_tear: :smiling_face_with_tear: :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2472c8032b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-14\/7568192270150_2472c8032b52ec9d5a6d_72.png",
+            "first_name": "田島こむぎ",
+            "real_name": "田島こむぎ",
+            "display_name": "Tajima.Komugi",
+            "team": "T06L90YHJF8",
+            "name": "komugi.t0201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712540503.576709",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/3b7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

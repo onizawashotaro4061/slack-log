@@ -1,0 +1,110 @@
+[
+    {
+        "text": "<@U06LHACMG91> 郵便物来てたので仕事部屋に置いておきます！",
+        "files": [
+            {
+                "id": "F06TWBLS2AY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SW8GAU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4S++h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 郵便物来てたので仕事部屋に置いておきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712821859.326689",
+        "client_msg_id": "05024F51-7FB2-44DA-BCEA-FF3E0AAC7166",
+        "thread_ts": "1712821859.326689",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712822064.268289",
+        "reply_users": [
+            "U06LHACMG91"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1712822064.268289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKTXCZL4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1712822064.268289",
+        "client_msg_id": "94d467eb-7d3f-4b79-8279-5c1621eeb3e6",
+        "text": "ありがとうございます！！\nちなみにそれなんですか笑",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712821859.326689",
+        "parent_user_id": "U06M7SW8GAU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CcOQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！！\nちなみにそれなんですか笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

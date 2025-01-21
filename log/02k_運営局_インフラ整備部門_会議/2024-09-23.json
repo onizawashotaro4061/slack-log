@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1727130941.761129",
+        "client_msg_id": "3A24E484-5632-4B7A-A726-AB183E83C84E",
+        "text": "本日の会議LS704です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727011705.163469",
+        "parent_user_id": "U06LK0FUAHZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrYMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の会議LS704です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

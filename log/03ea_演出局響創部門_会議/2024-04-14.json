@@ -1,0 +1,229 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1713142883.628799",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1713151035.000000"
+        },
+        "client_msg_id": "1555F601-C8FF-460C-95EF-8D47EB47A4A3",
+        "text": "<!channel>\n会議連絡！！\n【時間】4\/15(月) 22:00-24:00\n【場所】Zoomミーティング\n【議題】(予定)\n1. 各種共有 (意思共有)\n2. 新企画について (意見交換・決定)\n3. チーム会議 (意見交換)\n他あれば追記するね！\n今日は新企画考案と初めてのチーム会議で盛りだくさん！駆け足で進むから、皆頑張ってついてきてほしい :ballot_box_with_check:\n課題で出した、ステージ外の企画案も最低1つ考えてきてね〜〜\n\n欠席、遅刻、早退はスレッドへ :heart_hands::skin-tone-3: \n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713142883.628799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713164073.228559",
+        "reply_users": [
+            "U06LK0G74NP"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0G74NP",
+                "ts": "1713164073.228559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvrHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！！\n【時間】4\/15(月) 22:00-24:00\n【場所】Zoomミーティング\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有 (意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新企画について (意見交換・決定)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議 (意見交換)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n他あれば追記するね！\n今日は新企画考案と初めてのチーム会議で盛りだくさん！駆け足で進むから、皆頑張ってついてきてほしい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n課題で出した、ステージ外の企画案も最低1つ考えてきてね〜〜\n\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bigな部門",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0G74NP",
+        "type": "message",
+        "ts": "1713164073.228559",
+        "client_msg_id": "0780D1FA-3511-4A1B-80AB-F3036AFE814D",
+        "text": "zoom会議の日程が決まる前にシフト出しちゃってたので許してください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd6f8e9e0130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-10\/7860183395140_cd6f8e9e013042f5051f_72.png",
+            "first_name": "樋田駿之介",
+            "real_name": "樋田駿之介",
+            "display_name": "Hida.Shunnosuke",
+            "team": "T06L90YHJF8",
+            "name": "syunmoto1203",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713142883.628799",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGiwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zoom会議の日程が決まる前にシフト出しちゃってたので許してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LK67B9PC",
+                    "U06L4GKF78F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GM9N5V",
+                    "U06L4GKF78F",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "遅刻厳禁＿ひだ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMH4T528",
+                    "U06LCECJD8W",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

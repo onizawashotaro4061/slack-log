@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1711538843.452519",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1711550410.000000"
+        },
+        "client_msg_id": "15421652-5A6C-46B9-B18D-E3F1D359BC9D",
+        "text": "<!channel> \n0329_第8回運営局局会議\n【時間】\n14：00〜17：00\n【場所】\nLS703\n【議題】\n1.各種報告（意思共有）\n2.局テスト解説（意思共有）\n3.他局インタビュー\n4.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n他局インタビュー期待してます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711538843.452519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711597997.864879",
+        "reply_users": [
+            "U06LKHN3RE0"
+        ],
+        "replies": [
+            {
+                "user": "U06LKHN3RE0",
+                "ts": "1711597997.864879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yc4E7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n0329_第8回運営局局会議\n【時間】\n14：00〜17：00\n【場所】\nLS703\n【議題】\n1.各種報告（意思共有）\n2.局テスト解説（意思共有）\n3.他局インタビュー\n4.諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n他局インタビュー期待してます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_運",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LK0FUAHZ",
+                    "U06L4H8CGQP",
+                    "U06M7SQPKL0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LG61PW7P",
+                    "U06LG61QB3P",
+                    "U06LK0EQS59",
+                    "U06LK0FC935",
+                    "U06L4GHLP2B",
+                    "U06LG62V1FX",
+                    "U06M7SX52RW",
+                    "U06LK0FUAHZ",
+                    "U06L4GL3Z9V",
+                    "U06LM2P58KC",
+                    "U06LKJS20KC",
+                    "U06LK3LKR9Q",
+                    "U06LCE7DY6S",
+                    "U06LEAGKTSS",
+                    "U06LK3MRV98",
+                    "U06ME05BLJW",
+                    "U06LCE6E64W"
+                ],
+                "count": 18
+            },
+            {
+                "name": "運営_もえ_もえもえきゅん",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LK3LKR9Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1711597997.864879",
+        "client_msg_id": "6822A0D6-5486-4CFC-8A52-D8CC9A652A24",
+        "text": "了解！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711538843.452519",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qE3I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

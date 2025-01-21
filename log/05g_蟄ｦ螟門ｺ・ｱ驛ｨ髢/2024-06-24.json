@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1719288152.160499",
+        "client_msg_id": "2D696CE4-4796-4B88-BBA7-99336F5DA997",
+        "text": "<!channel>\n:sparkles:チーム発表:sparkles:\nお疲れ様です！\nみんなが提出してくれたESを元に、チーム配属を行いましたので発表します！\n\nはやてちーむ\n・かいしゅう\n・みゆう\n・みわ\n\nきどこうちーむ\n・ゆうと\n・すい\n・かのこ\n・つきか\n\nゆうかちーむ\n・りゆ\n・ひろと\n・ひなこ\n\n\nこのチームでの活動が今後増えると思うので特に協力し合ってね:woman-gesturing-ok:これで頑張りましょー!",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NooHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "チーム発表"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\nみんなが提出してくれたESを元に、チーム配属を行いましたので発表します！\n\nはやてちーむ\n・かいしゅう\n・みゆう\n・みわ\n\nきどこうちーむ\n・ゆうと\n・すい\n・かのこ\n・つきか\n\nゆうかちーむ\n・りゆ\n・ひろと\n・ひなこ\n\n\nこのチームでの活動が今後増えると思うので特に協力し合ってね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これで頑張りましょー!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LVK2FU1X",
+                    "U06LK0BP1TM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06TU27FX08",
+                    "U06L4GJBJP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heartbeat",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "話してみたい",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bestな部門",
+                "users": [
+                    "U06TU27FX08",
+                    "U06L4GJBJP9",
+                    "U06LCEF912S",
+                    "U06LCE9HTP0",
+                    "U070Y9STSPM"
+                ],
+                "count": 5
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U070Y9STSPM",
+                    "U070YD75PJ6",
+                    "U0710T0NBFE",
+                    "U06LCEF912S"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK3HUVTL",
+                    "U06L4GL1CUF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "しごできかずま",
+                "users": [
+                    "U06LCVDE88N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LCE78Y94"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1725901115.894359",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1725945152.000000"
+        },
+        "client_msg_id": "5a3d5bd7-1556-4e97-9a59-0d80510b76c1",
+        "text": "<!channel>\n会議連絡！\n【時間】9\/10(火) 14:00～17:00\n【場所】第一校舎202\n【議題】(予定)\n\n1.第2回出演者説明会の日時について\n2.チーム仕事(台本・パワポ・etc)\n3.UGTサイト関連媒体制作依頼書\n4.UGT出演順どうする\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725901115.894359",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1725953282.858529",
+        "reply_users": [
+            "U070HS35ECX",
+            "U071B3C42Q1",
+            "U070HS2GY5V"
+        ],
+        "replies": [
+            {
+                "user": "U070HS35ECX",
+                "ts": "1725941631.346729"
+            },
+            {
+                "user": "U071B3C42Q1",
+                "ts": "1725943231.467859"
+            },
+            {
+                "user": "U070HS2GY5V",
+                "ts": "1725953282.858529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e3ev0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】9\/10(火) 14:00～17:00\n【場所】第一校舎202\n【議題】(予定)\n\n1.第2回出演者説明会の日時について\n2.チーム仕事(台本・パワポ・etc)\n3.UGTサイト関連媒体制作依頼書\n4.UGT出演順どうする\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "立直",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "信田浦ちがう",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U0710T40TFW",
+                    "U06LMH5ACGL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070HS35ECX",
+        "type": "message",
+        "ts": "1725941631.346729",
+        "client_msg_id": "20C4A9BA-B534-454E-86EC-4ACF12DC1FD5",
+        "text": "寝坊しました。遅刻します。本当にごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c112bd2c1394",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-05\/7227986313972_c112bd2c1394e3174a63_72.png",
+            "first_name": "森下真帆",
+            "real_name": "森下真帆",
+            "display_name": "Morishita.Maho",
+            "team": "T06L90YHJF8",
+            "name": "maho200602",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725901115.894359",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmtf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊しました。遅刻します。本当にごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "寝坊",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN",
+                    "U0710T40TFW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U071B3C42Q1",
+        "type": "message",
+        "ts": "1725943231.467859",
+        "client_msg_id": "1E942CC0-5134-4397-8E02-D5C9176102DE",
+        "text": "私用のため欠席します。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dcd596434151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7037804831830_dcd596434151a47ebc1b_72.png",
+            "first_name": "山下暖大",
+            "real_name": "山下暖大",
+            "display_name": "yamashita.haruto",
+            "team": "T06L90YHJF8",
+            "name": "yamasita.haruto170505",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725901115.894359",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpR2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "zip",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U0710T40TFW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

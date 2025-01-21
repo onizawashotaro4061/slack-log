@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070Y9UEAAF",
+        "type": "message",
+        "ts": "1724638757.131189",
+        "client_msg_id": "9EC5CACB-4EC2-4101-90FE-6848C68997B7",
+        "text": "15〜16時でバイトの面談が入ってしまったため遅刻します。すみません。ご確認の程よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "eeda69751861",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-28\/7482157833814_eeda69751861dd164e28_72.png",
+            "first_name": "栗原幸輝",
+            "real_name": "栗原幸輝",
+            "display_name": "Kurihara.Koki",
+            "team": "T06L90YHJF8",
+            "name": "kurikou286",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724374802.870289",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDVtH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15〜16時でバイトの面談が入ってしまったため遅刻します。すみません。ご確認の程よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

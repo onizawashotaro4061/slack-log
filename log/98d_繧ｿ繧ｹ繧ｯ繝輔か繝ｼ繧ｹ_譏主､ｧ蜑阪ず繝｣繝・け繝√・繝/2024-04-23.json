@@ -1,0 +1,193 @@
+[
+    {
+        "text": "<@U06M7SU83G8>\nお疲れ様です:pray:\n議事録チェックお願いします！！",
+        "files": [
+            {
+                "id": "F070MTFS2BB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0E89MH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G93yW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n議事録チェックお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713891612.560619",
+        "client_msg_id": "eb025ac8-0b73-471e-a86c-7a927f5effa5",
+        "thread_ts": "1713891612.560619",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1713909593.742439",
+        "reply_users": [
+            "U06M7SU83G8",
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1713902624.984379"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713909593.742439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U06LK0E89MH> おつかれさま！\nここ修正したらあげていいよん",
+        "files": [
+            {
+                "id": "F0707ECHLJ1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yerml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0E89MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさま！\nここ修正したらあげていいよん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713902624.984379",
+        "client_msg_id": "cba0838d-d97e-41d6-ab41-47c067d5f529",
+        "thread_ts": "1713891612.560619",
+        "parent_user_id": "U06LK0E89MH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713909593.742439",
+        "client_msg_id": "6AB6A565-D0F4-4865-A556-65F00972F3A2",
+        "text": "<@U06M7SU83G8> \n<@U06LK0E89MH> \nとんでもない時間に作業してくれてるね\nありがとう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713891612.560619",
+        "parent_user_id": "U06LK0E89MH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6z+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0E89MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nとんでもない時間に作業してくれてるね\nありがとう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "とうまpassion",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06M7SU83G8",
+                    "U06LK5HCSE6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

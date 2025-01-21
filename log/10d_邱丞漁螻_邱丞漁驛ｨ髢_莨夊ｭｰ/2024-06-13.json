@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U0710T39SS0",
+        "type": "message",
+        "ts": "1718263844.936269",
+        "client_msg_id": "c707912b-f8e9-4cc3-86e4-19cd67005f49",
+        "text": "授業があるので欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a72ac06499a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-21\/7148625253490_a72ac06499a994f2ab4d_72.jpg",
+            "first_name": "西川　慧",
+            "real_name": "西川　慧",
+            "display_name": "Nishikawa.Kei",
+            "team": "T06L90YHJF8",
+            "name": "watashihamomonga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718170536.852839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8zEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業があるので欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG6B2NA1",
+        "type": "message",
+        "ts": "1718272497.584279",
+        "client_msg_id": "586857D1-0D4D-421A-88BA-FB63E3B7C014",
+        "text": "授業長引いてて遅れるかもです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65dde9d89a7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8042559226500_65dde9d89a7c70ef474a_72.png",
+            "first_name": "四之宮　伯門",
+            "real_name": "四之宮　伯門",
+            "display_name": "Shinomiya.Hakuto",
+            "team": "T06L90YHJF8",
+            "name": "shinomiya8910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718170536.852839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f41fS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業長引いてて遅れるかもです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "imp",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_symbols_on_mouth",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

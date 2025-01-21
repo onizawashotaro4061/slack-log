@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U070YDYBFGA",
+        "type": "message",
+        "ts": "1726456302.833969",
+        "client_msg_id": "637D72CF-1106-4C2A-B03D-A19F72B66064",
+        "text": "申し訳ありません。\n東京にまだ着いているかどうか分からないため、休みます。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acfee07457a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055264968576_acfee07457a5589f1b27_72.png",
+            "first_name": "井田礼香",
+            "real_name": "井田礼香",
+            "display_name": "Ida .Reika",
+            "team": "T06L90YHJF8",
+            "name": "idareika2005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726292242.503649",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFd+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申し訳ありません。\n東京にまだ着いているかどうか分からないため、休みます。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070VFRN7PX",
+        "type": "message",
+        "ts": "1726466050.850089",
+        "client_msg_id": "25EC63F1-1133-4B42-B8B9-671C16B65D04",
+        "text": "旅行中のため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "15cce351931b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-01\/7966829305810_15cce351931b99f69ada_72.png",
+            "first_name": "横田清佳",
+            "real_name": "横田清佳",
+            "display_name": "Yokota.Sayaka",
+            "team": "T06L90YHJF8",
+            "name": "bonsoir.sayaka25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726292242.503649",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DT25V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行中のため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

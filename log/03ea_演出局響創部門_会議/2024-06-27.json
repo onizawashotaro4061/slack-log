@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U071B3ELL7K",
+        "type": "message",
+        "ts": "1719476355.707369",
+        "client_msg_id": "ab42b733-7841-45af-afdc-6205f2a603b7",
+        "text": "私用のため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f803406dfcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-01\/7049807702596_3f803406dfcf4d435221_72.jpg",
+            "first_name": "吉田大地",
+            "real_name": "吉田大地",
+            "display_name": "Yoshida.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "yoshida2005kiha110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719467968.065179",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4uzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "大地",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "米津玄師",
+                "users": [
+                    "U06LXP2EGKT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFPTCF7",
+        "type": "message",
+        "ts": "1719476552.432089",
+        "client_msg_id": "FC876F4C-B194-4B23-A859-0DFFB6573594",
+        "text": "私用のため欠席させていただきます。\nすみません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f1796678305c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7883190793393_f1796678305c2c7be906_72.png",
+            "first_name": "杉原和夏",
+            "real_name": "杉原和夏",
+            "display_name": "Sugihara.Waka",
+            "team": "T06L90YHJF8",
+            "name": "waka022307",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719467968.065179",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lDahH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席させていただきます。\nすみません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "わかな",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

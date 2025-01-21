@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06LG610ADB",
+        "type": "message",
+        "ts": "1730192673.153939",
+        "client_msg_id": "7BA084AB-B73B-430F-88B8-91D1BE772AA0",
+        "text": "喉がまた痛くなりまして、唾飲むのもいたいため、休みます。\n本祭までには直すので許してください:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788dd27e8352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7946327606705_788dd27e83521855f665_72.png",
+            "first_name": "鈴木来哉",
+            "real_name": "鈴木来哉",
+            "display_name": "Suzuki.Raiya",
+            "team": "T06L90YHJF8",
+            "name": "rrraai1214",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730094004.837259",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYmhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "喉がまた痛くなりまして、唾飲むのもいたいため、休みます。\n本祭までには直すので許してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710T4CBHS",
+        "type": "message",
+        "ts": "1730194072.902939",
+        "client_msg_id": "85026bd5-b095-42d7-b2e3-f15beaba05e3",
+        "text": "アレルギー発作の症状が出ているので休みます。本祭までに治します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d9961b157216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8132416925493_d9961b157216c0d503e7_72.jpg",
+            "first_name": "岡本英孝",
+            "real_name": "岡本英孝",
+            "display_name": "Okamoto.Hidetaka",
+            "team": "T06L90YHJF8",
+            "name": "ohidewakaba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730094004.837259",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNVzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アレルギー発作の症状が出ているので休みます。本祭までに治します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

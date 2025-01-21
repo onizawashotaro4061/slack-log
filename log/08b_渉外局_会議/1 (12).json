@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LK0RAA7M",
+        "type": "message",
+        "ts": "1711339249.801809",
+        "client_msg_id": "90ED2516-CD33-4463-A8DA-38FA7FF9FB18",
+        "text": "しばし遅刻します大謝罪",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acb72a7e4c72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8060400866192_acb72a7e4c72c09b3e9b_72.png",
+            "first_name": "小原",
+            "real_name": "小原 涼輔",
+            "display_name": "Kobara.Ryosuke",
+            "team": "T06L90YHJF8",
+            "name": "kobararyo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711206789.227369",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrcTO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しばし遅刻します大謝罪"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

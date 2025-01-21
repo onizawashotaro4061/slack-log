@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1723253467.591879",
+        "client_msg_id": "3AB11FF7-EA87-4AE0-8D66-E377105AB80E",
+        "text": "【8月期総会について】\n<!channel> \nお疲れ様です。\n副委員長の橋本です。\n8月17日(土)に実施を予定していた8月期総会ですが、実施しないことにしました。\n直前の連絡となり申し訳ございませんが、ご理解ください。\n今後の予定などは随時Slackなどで連絡いたしますのでご確認ください。\nよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVk4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【8月期総会について】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n副委員長の橋本です。\n8月17日(土)に実施を予定していた8月期総会ですが、実施しないことにしました。\n直前の連絡となり申し訳ございませんが、ご理解ください。\n今後の予定などは随時Slackなどで連絡いたしますのでご確認ください。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "チーム_ノンゼミ",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06M7SETDKJ",
+                    "U06L4GH4ETH",
+                    "U070VFTLATX",
+                    "U06L4GT8LNT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06M7SETDKJ",
+                    "U06L4GH3T7H",
+                    "U06L4GH4ETH",
+                    "U070RQ20K8W",
+                    "U06LJRSQDC3",
+                    "U06LH4PDAQ3",
+                    "U06L4GKC9N3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06L4GH3T7H",
+                    "U06LJ4HJLMS",
+                    "U06M7TE180Y",
+                    "U070YD71E0J",
+                    "U070Y9WCHH9",
+                    "U06L4GH4ETH",
+                    "U071B3CMYKT",
+                    "U06LMQR40J0",
+                    "U071M6YLJRE",
+                    "U06LXNZFWDP",
+                    "U070VFSR12R",
+                    "U071M7KHNRW",
+                    "U06LG610ADB",
+                    "U070HS5NT63",
+                    "U06LK0E89MH",
+                    "U072CKF0VFS",
+                    "U06LK0FUAHZ",
+                    "U070RQ001V4",
+                    "U0710SYN1B6",
+                    "U06LXNY0MHP"
+                ],
+                "count": 21
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U0710T3MCUC",
+                    "U06LMH5ACGL",
+                    "U070VFSR12R",
+                    "U06LXNWG67K",
+                    "U06LCE9NLP8",
+                    "U071M7KHNRW",
+                    "U06LM0QJV3L",
+                    "U06LCE7DY6S",
+                    "U070Y9Q9151",
+                    "U06LG62V1FX",
+                    "U071M740R32",
+                    "U06LK0E89MH",
+                    "U06LH4PDAQ3",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ",
+                    "U070RQFLLR4",
+                    "U070YD778SE",
+                    "U071B3C838R",
+                    "U06LCE8L8LW"
+                ],
+                "count": 20
+            }
+        ]
+    }
+]

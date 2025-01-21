@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LXP316UR",
+        "type": "message",
+        "ts": "1726447925.794599",
+        "client_msg_id": "CB965081-AC23-4163-BEC8-F6B172125767",
+        "text": "かりかけだよん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cfc9310da862",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8116063170183_cfc9310da862f718ef36_72.png",
+            "first_name": "　",
+            "real_name": "　",
+            "display_name": "",
+            "team": "T06L90YHJF8",
+            "name": "yuina.4062",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7P5mH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりかけだよん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

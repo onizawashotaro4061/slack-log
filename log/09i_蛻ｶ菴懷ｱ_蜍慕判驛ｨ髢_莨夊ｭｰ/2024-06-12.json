@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U071B3BQRR7",
+        "type": "message",
+        "ts": "1718259275.476789",
+        "client_msg_id": "F957CDB5-0A9C-4FA7-B7AD-6A74BC7758A5",
+        "text": "法制研があるので遅刻します :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "85ea0f1e7b81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7186373562848_85ea0f1e7b81f4eab113_72.png",
+            "first_name": "樋口澄",
+            "real_name": "樋口澄",
+            "display_name": "Higuchi.Sumire",
+            "team": "T06L90YHJF8",
+            "name": "sumi2mimi9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718102776.493959",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xspeI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "法制研があるので遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

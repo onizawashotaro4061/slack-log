@@ -1,0 +1,189 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1709111348.439669",
+        "client_msg_id": "A3909273-C1F5-4709-AB1E-1403464E8126",
+        "text": "役員会おつかれさまのしめ返し",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NtDiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "役員会おつかれさまのしめ返し"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06L4CMKY8P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCE4DK46",
+        "type": "message",
+        "ts": "1709178261.045839",
+        "client_msg_id": "8AFCE4AB-93FC-47C6-AF4F-4ED65B0D2D5D",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0abd4f4c8629",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699127839922_0abd4f4c86295022831b_72.jpg",
+            "first_name": "寺内優太",
+            "real_name": "寺内優太",
+            "display_name": "Terauchi.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "bayyuta04",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE4DK46",
+        "type": "message",
+        "ts": "1709179055.708429",
+        "client_msg_id": "5541958B-3AA6-44E0-92DF-9B48EB799200",
+        "text": "締めLS706",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0abd4f4c8629",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699127839922_0abd4f4c86295022831b_72.jpg",
+            "first_name": "寺内優太",
+            "real_name": "寺内優太",
+            "display_name": "Terauchi.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "bayyuta04",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179055.708429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709193260.766859",
+        "reply_users": [
+            "U06LK3M7VGA"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3M7VGA",
+                "ts": "1709193260.766859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1drUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締めLS706"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1709193260.766859",
+        "client_msg_id": "BEBF4D11-DF1F-46B1-908E-30027D8853DB",
+        "text": "いまどこにいらっしゃいますか？？\n<@U06LCE4DK46> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179055.708429",
+        "parent_user_id": "U06LCE4DK46",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hegS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いまどこにいらっしゃいますか？？\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE4DK46"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

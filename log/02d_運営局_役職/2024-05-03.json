@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1714741056.433529",
+        "client_msg_id": "2a3deebc-0d60-433e-9e61-20e02d5cb798",
+        "text": "Zoom ミーティングに参加する\n<https:\/\/us05web.zoom.us\/j\/86167160045?pwd=kcrk1Anr2KBfM3y2LJYg4bv8vcLWKY.1>\n\nミーティング ID： 861 6716 0045\nパスコード： j5TJJR\n <!channel>\n本日のZoomです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fo9Ax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zoom ミーティングに参加する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/86167160045?pwd=kcrk1Anr2KBfM3y2LJYg4bv8vcLWKY.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID： 861 6716 0045\nパスコード： j5TJJR\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日のZoomです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

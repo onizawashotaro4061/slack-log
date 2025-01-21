@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1726037105.690309",
+        "client_msg_id": "F409499C-AB24-4C12-ADBD-C97454B9B20A",
+        "text": "<!channel> \n【notionの不具合について】\n現在、パソコンでnotionを開いた時に、ファイルがダウンロード出来ない不具合が起きています。\nただいまメンテナンスに入るので復旧までしばらくお待ちください。\nなお、スマホやタブレットでのダウンロードは出来ます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0ama",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【notionの不具合について】\n現在、パソコンでnotionを開いた時に、ファイルがダウンロード出来ない不具合が起きています。\nただいまメンテナンスに入るので復旧までしばらくお待ちください。\nなお、スマホやタブレットでのダウンロードは出来ます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LKTXCZL4",
+                    "U06LXR4BPS5",
+                    "U06L9S67MEJ",
+                    "U06LG6B2NA1",
+                    "U071M6YLJRE",
+                    "U06LK0FUAHZ",
+                    "U070YD778SE",
+                    "U06LP6ZTYA1",
+                    "U06LMH49MQU",
+                    "U06LK3MF9FC",
+                    "U06LK0DK7R9",
+                    "U070Y9TREE7",
+                    "U06LXNYUX7T",
+                    "U06LG62UXPX",
+                    "U06LXK3RF7B",
+                    "U06LMH5ACGL",
+                    "U070VFTRR61"
+                ],
+                "count": 18
+            },
+            {
+                "name": "チーム_ノンゼミ",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06L9S67MEJ",
+                    "U06LG6B2NA1",
+                    "U06LXNY0MHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "おにちゃん",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L9S67MEJ",
+                    "U06LG6B2NA1",
+                    "U06L4GKC9N3",
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06LCUTBMU5",
+                    "U06LP6ZTYA1",
+                    "U06LMH49MQU",
+                    "U070Y9S1CRH",
+                    "U06LK0DK7R9",
+                    "U06LXR4BPS5",
+                    "U06LXNYUX7T",
+                    "U06LG62UXPX"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06LG6B2NA1",
+                    "U06L4GKC9N3",
+                    "U06LKTXCZL4",
+                    "U06LK3HUVTL",
+                    "U06LK0FUAHZ",
+                    "U06LCUTBMU5",
+                    "U06LK0DK7R9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "おに",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06LP6ZTYA1",
+                    "U06LMH49MQU",
+                    "U06LXNYUX7T"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

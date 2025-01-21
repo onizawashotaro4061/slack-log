@@ -1,0 +1,375 @@
+[
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730630244.979699",
+        "client_msg_id": "1677661d-9b91-4802-afe5-a50450d22b67",
+        "text": "<!channel>\nお疲れ様です！:cake:パンフレット管理副担当の前田です。\n\n本日のパンフレットの配布部数は、*7324部*でした:tada:\n来場者の*71%*にパンフレットが渡されています:closed_book:\n\n昨日は配布部数は3437部で、来場者の30%ほどにしか渡されていなかったので、素晴らしい結果です:congratulations::bouquet:\n\nこれは、パンフレット配布シフトで頑張ってくださったみなさんのおかげです！\n本当にありがとうございました！！！\n\n残りのパンフレットは9000部ほどです！:green_book:\nすべて配り切れるよう、明日も引き続き配布の方よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0m6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cake",
+                                "unicode": "1f370"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パンフレット管理副担当の前田です。\n\n本日のパンフレットの配布部数は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7324部",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n来場者の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "71%",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "にパンフレットが渡されています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "closed_book",
+                                "unicode": "1f4d5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n昨日は配布部数は3437部で、来場者の30%ほどにしか渡されていなかったので、素晴らしい結果です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "congratulations",
+                                "unicode": "3297-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bouquet",
+                                "unicode": "1f490"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこれは、パンフレット配布シフトで頑張ってくださったみなさんのおかげです！\n本当にありがとうございました！！！\n\n残りのパンフレットは9000部ほどです！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "green_book",
+                                "unicode": "1f4d7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすべて配り切れるよう、明日も引き続き配布の方よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4TGH30F",
+                    "U06LHACMG91",
+                    "U06M7SSUS0G",
+                    "U06LG61U9QD",
+                    "U06LH4PDAQ3",
+                    "U06LK3L8RNE"
+                ],
+                "count": 7
+            },
+            {
+                "name": "gd1",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4TGH30F",
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U06LH4PDAQ3",
+                    "U06LK3L8RNE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U06LH4PDAQ3",
+                    "U06LK3L8RNE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "goddesign部門",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U06LK3L8RNE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730630646.616899",
+        "client_msg_id": "33fa9c5e-6942-4858-89b7-cf04ffe67fd6",
+        "text": "すみません、あほすぎて計算を間違えていました。\n50%でした。\n\nどちらにせよ増えているので、ありがとうございました！！！\n明日もお願いします♪♫",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+EjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、あほすぎて計算を間違えていました。\n50%でした。\n\nどちらにせよ増えているので、ありがとうございました！！！\n明日もお願いします♪♫"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3L8RNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1730706423.219159",
+        "client_msg_id": "E64A1358-1E8D-47C8-A1F0-566193AC217F",
+        "text": "<!channel> \nパンフレット配布は17時までです！！それ以降のシフトの方はシフトに来なくて大丈夫です！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7AUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nパンフレット配布は17時までです！！それ以降のシフトの方はシフトに来なくて大丈夫です！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3L8RNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3M7VGA",
+        "type": "message",
+        "ts": "1730706557.599529",
+        "client_msg_id": "41854165-8eef-4ffd-ad07-eb1ac1723163",
+        "text": "<!channel>\nパンフレット運搬も同じく17時までです。それ以降のシフトの方はシフトに来なくて大丈夫です！\nお疲れ様でした:sparkles:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fafe82161432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8015986125203_fafe82161432ac23a7f5_72.png",
+            "first_name": "前田優",
+            "real_name": "前田優",
+            "display_name": "Maeda.Yuu",
+            "team": "T06L90YHJF8",
+            "name": "kyouogn179",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyUIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパンフレット運搬も同じく17時までです。それ以降のシフトの方はシフトに来なくて大丈夫です！\nお疲れ様でした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3L8RNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1730706601.603939",
+        "client_msg_id": "11A84EF8-3F51-4E81-9A91-323FA39DA4BD",
+        "text": "校外インフォも17時までです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCgaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "校外インフォも17時までです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

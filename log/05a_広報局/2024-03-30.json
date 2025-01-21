@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U06LJBVA2DS",
+        "type": "message",
+        "ts": "1711864567.735809",
+        "client_msg_id": "1CDA2540-E03C-484D-9999-A36B4CD76F72",
+        "text": "<!channel>\n画像講座今日までです〜！\n\n出してくれた人もこれからの人もファイル名を参考画像と作成画像わかるように変えといてほしいです！お願いします:woman-bowing::woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d680743f8d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-05\/7825535056214_d680743f8d3b9f6569a0_72.png",
+            "first_name": "伊東美波（Slackチーム）",
+            "real_name": "伊東美波（Slackチーム）",
+            "display_name": "Ito.Minami",
+            "team": "T06L90YHJF8",
+            "name": "minami.373.mi.wave",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNpMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "画像講座今日までです〜！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出してくれた人もこれからの人もファイル名を参考画像と作成画像わかるように変えといてほしいです！お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ハッピー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE8F5PG",
+        "text": "<@U06LCE8F5PG>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029236.631089"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LKJS20KC",
+        "text": "<@U06LKJS20KC>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029236.719429"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXP3HYQH",
+        "text": "<@U06LXP3HYQH>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029236.827759"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH6PR9S",
+        "text": "<@U06LMH6PR9S>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029236.930919"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0EQS59",
+        "text": "<@U06LK0EQS59>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029237.013049"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MMALA",
+        "text": "<@U06LK3MMALA>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029237.130549"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SX52RW",
+        "text": "<@U06M7SX52RW>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029237.248109"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3LKR9Q",
+        "text": "<@U06LK3LKR9Q>さんがチャンネルに参加しました",
+        "inviter": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711029237.325539"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0FUAHZ",
+        "text": "<@U06LK0FUAHZ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711030419.757429"
+    },
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1711035738.838569",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1711095149.000000"
+        },
+        "client_msg_id": "36156448-1C29-4D17-A7C1-472226388BEB",
+        "text": "<!channel>\n0322 第1回運営局備品管理部門会議\n【時間】\n13 : 30~17 : 00\n【場所】\nLS703\n【議題】\n1.係を決めよう（意思交換）\n2.今年度の備品管理部門について（意思共有）\n3.部門定義・方針について（意見交換）\n4.今後の予定・諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n会議詳細直前の極みで申し訳ありません！\n部門発足しましたね〜これから本格的に動くんだなって感じております。\nワクワクドキドキ部門会議、初回から盛り上がって行こ〜！\n\n部門配属を3部門長で決定した後は樹さんがリリースするのかと思って3人でガブチキでまだかな〜って言いながら待ってましたwリリースするのも僕たちだったんですね。皆さん改めて遅くなって申し訳ないの極みです :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHc0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0322 第1回運営局備品管理部門会議\n【時間】\n13 : 30~17 : 00\n【場所】\nLS703\n【議題】\n1.係を決めよう（意思交換）\n2.今年度の備品管理部門について（意思共有）\n3.部門定義・方針について（意見交換）\n4.今後の予定・諸連絡（意思共有）\n\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n会議詳細直前の極みで申し訳ありません！\n部門発足しましたね〜これから本格的に動くんだなって感じております。\nワクワクドキドキ部門会議、初回から盛り上がって行こ〜！\n\n部門配属を3部門長で決定した後は樹さんがリリースするのかと思って3人でガブチキでまだかな〜って言いながら待ってましたwリリースするのも僕たちだったんですね。皆さん改めて遅くなって申し訳ないの極みです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LMH6PR9S",
+                    "U06LXP3HYQH",
+                    "U06LK3LKR9Q",
+                    "U06M7SX52RW",
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ",
+                    "U06LK0EQS59",
+                    "U06LKJS20KC"
+                ],
+                "count": 9
+            },
+            {
+                "name": "運営_一枚岩松",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LMH6PR9S",
+                    "U06LCE8F5PG",
+                    "U06LK3LKR9Q",
+                    "U06M7SX52RW",
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営局_備品_一枚岩",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_じんぺい_一枚岩穴口",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_備品_bkb",
+                "users": [
+                    "U06LK0EQS59",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

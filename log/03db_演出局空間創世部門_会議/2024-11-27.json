@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U071B39SGQH",
+        "type": "message",
+        "ts": "1732758715.511539",
+        "client_msg_id": "095144E0-0F49-4D61-8707-6DAC9DE83D61",
+        "text": "バイトで欠席します :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3a5b786313bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-22\/7918442368116_3a5b786313bdb60484bc_72.png",
+            "first_name": "牧かやの",
+            "real_name": "牧かやの",
+            "display_name": "Maki.Kayano",
+            "team": "T06L90YHJF8",
+            "name": "kayano10ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ALmAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7T7SSDN",
+        "type": "message",
+        "ts": "1732766782.420499",
+        "client_msg_id": "da69e962-a5c5-4606-80a3-312c4a99b711",
+        "text": "体調不良のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9bdd6ad335f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6735699381570_b9bdd6ad335f08da6742_72.jpg",
+            "first_name": "熊耳諒",
+            "real_name": "熊耳諒",
+            "display_name": "Kumagami.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "orca8424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQCi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDCB30A",
+        "type": "message",
+        "ts": "1732780414.859499",
+        "client_msg_id": "B6D6DB33-771D-40AB-BF75-460BEAA13AA2",
+        "text": "お疲れ様です。バイトの手続きが入ってしまい欠席します。:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6af44f6f36dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7033003494803_6af44f6f36dc8dea3998_72.png",
+            "first_name": "大久保にこ",
+            "real_name": "大久保にこ",
+            "display_name": "Okubo.Niko",
+            "team": "T06L90YHJF8",
+            "name": "niko.okb620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522487.953639",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jg9KD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。バイトの手続きが入ってしまい欠席します。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

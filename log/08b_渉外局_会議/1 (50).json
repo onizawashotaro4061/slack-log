@@ -1,0 +1,327 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1720250238.159239",
+        "client_msg_id": "e78d6971-42ed-4bd8-981a-9c9045ad5302",
+        "text": "*<!channel>*\n*【0709_第25回渉外局会議】*\n【時間】19:00～20:40\n【場所】*LS402*\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・もしも渉外局がなかったら（意見交換）\n\nついに、来週末はチャンフェスが開催されますね！音楽祭来れなかった新規も多いと思うので、渉外局らしいイベントをみんなで体験できるので楽しみです。僕のお世話になった先輩方もたくさんいらして差し入れしてくれるそうなので、ウキウキです^^\nテスト近いけど頑張りましょう～！\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720250238.159239",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1720507961.186929",
+        "reply_users": [
+            "U06L4GLJVKR",
+            "U071M6YLJRE",
+            "U070HS3ELF9",
+            "U070YDYBFGA"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1720250321.291459"
+            },
+            {
+                "user": "U071M6YLJRE",
+                "ts": "1720256417.724179"
+            },
+            {
+                "user": "U070HS3ELF9",
+                "ts": "1720494394.517439"
+            },
+            {
+                "user": "U070YDYBFGA",
+                "ts": "1720507961.186929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RVP1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0709_第25回渉外局会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00～20:40\n【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LS402",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議事録】新規のだれか\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・もしも渉外局がなかったら（意見交換）\n\nついに、来週末はチャンフェスが開催されますね！音楽祭来れなかった新規も多いと思うので、渉外局らしいイベントをみんなで体験できるので楽しみです。僕のお世話になった先輩方もたくさんいらして差し入れしてくれるそうなので、ウキウキです^^\nテスト近いけど頑張りましょう～！\n\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070HS31CP9",
+                    "U06LCED6ZK8",
+                    "U070YD778SE",
+                    "U070VFRCQBF",
+                    "U070RQ5918W",
+                    "U071M6YLJRE",
+                    "U06M7SETDKJ",
+                    "U06L4GLJVKR",
+                    "U06LK0E89MH",
+                    "U06M7SUSYNL",
+                    "U06M7SPUVEC",
+                    "U070RQ0VCP8",
+                    "U071M6XCB5W",
+                    "U070VFTLATX",
+                    "U071B3CV89X",
+                    "U06LK0HTVQT",
+                    "U06L9S67MEJ",
+                    "U070HS5NT63",
+                    "U071B3ES5NV",
+                    "U06LXNYUX7T",
+                    "U071M740R32",
+                    "U070RQ3ND38"
+                ],
+                "count": 23
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06M7SUSYNL",
+                    "U06M7SPUVEC",
+                    "U071B3CV89X",
+                    "U06L9S67MEJ",
+                    "U06LK3K88SW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "heartbeat",
+                "users": [
+                    "U071B3CV89X",
+                    "U06L9S67MEJ",
+                    "U06LXNYUX7T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U071B3CV89X",
+                    "U06L9S67MEJ",
+                    "U06LXNYUX7T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLJVKR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あくあぱっつぁ",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "けいちゃん",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4GLJVKR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megaraiya",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1720250321.291459",
+        "client_msg_id": "ED2FC98E-9988-45A6-8FEA-16E27946B456",
+        "text": "19時から対面協賛のため遅刻します。\n申し訳ありません :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720250238.159239",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1o9hA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "19時から対面協賛のため遅刻します。\n申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071M6YLJRE",
+        "type": "message",
+        "ts": "1720256417.724179",
+        "client_msg_id": "08202B2E-02BC-44FB-8177-0748040904DA",
+        "text": "リアさんと同じく19:00から対面協賛のため遅刻します。\n申し訳ありません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "aab4ecdcf8ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-17\/8041442849267_aab4ecdcf8baa1fd101e_72.png",
+            "first_name": "櫛田玲菜",
+            "real_name": "櫛田玲菜",
+            "display_name": "Kushida.Reina",
+            "team": "T06L90YHJF8",
+            "name": "ichigo6425",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720250238.159239",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Cd9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リアさんと同じく19:00から対面協賛のため遅刻します。\n申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1714568629.048609",
+        "client_msg_id": "A7E68BE0-301D-4236-BB55-BE8000F360F4",
+        "text": "<@U06LMGND6EQ> 作ったのでぜひ押してください",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714467395.052289",
+        "parent_user_id": "U06L4GLJVKR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kB1lt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMGND6EQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作ったのでぜひ押してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "あきひろ",
+                "users": [
+                    "U06LMGND6EQ",
+                    "U06L4GLJVKR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

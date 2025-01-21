@@ -1,0 +1,441 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711353021.221269"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNWG67K",
+        "text": "<@U06LXNWG67K>さんがチャンネルに参加しました",
+        "inviter": "U06LE249H0V",
+        "type": "message",
+        "ts": "1711353027.158609"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCEJ5HHU",
+        "text": "<@U06LCEJ5HHU>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.149539"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK7K9ALA",
+        "text": "<@U06LK7K9ALA>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.223809"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LVUKD658",
+        "text": "<@U06LVUKD658>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.288499"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE9JG3G",
+        "text": "<@U06LCE9JG3G>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.355799"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE8C51U",
+        "text": "<@U06LCE8C51U>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.425179"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE809L6",
+        "text": "<@U06LCE809L6>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.497319"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH49UQL",
+        "text": "<@U06LMH49UQL>さんがチャンネルに参加しました",
+        "inviter": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355141.570529"
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1711355682.271399",
+        "edited": {
+            "user": "U06LXNWG67K",
+            "ts": "1711355713.000000"
+        },
+        "client_msg_id": "16C7F714-86F4-4A8C-96B9-D0A06ED18681",
+        "text": "【0326第1回開発局A部門会議について】\nお疲れ様です！\nついに部門始まります。とにかく後々に詰まらないように、最初からアクセル全開でやっていきましょう！\n\n【時間】\n13:30〜18:50 \n\n【場所】\nLS304\n\n【持ち物】\nパソコン\nA部門への想い\n\n【議題】\n1. スケジュール共有、調整(意思共有)\n2. 部門方針について(意見交換・決定)\n3.部門活動についてGW(意見交換・決定)\n\n遅刻、早退、欠席はスレッドで早めに教えてください。\n\n見たら絶対スタンプおなしゃす",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355682.271399",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1711426665.295659",
+        "reply_users": [
+            "U06LCE9JG3G",
+            "U06LCE809L6",
+            "U06LVUKD658",
+            "U06LK7K9ALA"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9JG3G",
+                "ts": "1711409566.282409"
+            },
+            {
+                "user": "U06LCE809L6",
+                "ts": "1711422515.267109"
+            },
+            {
+                "user": "U06LVUKD658",
+                "ts": "1711424486.735469"
+            },
+            {
+                "user": "U06LK7K9ALA",
+                "ts": "1711426665.295659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzVWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【0326第1回開発局A部門会議について】\nお疲れ様です！\nついに部門始まります。とにかく後々に詰まらないように、最初からアクセル全開でやっていきましょう！\n\n【時間】\n13:30〜18:50 \n\n【場所】\nLS304\n\n【持ち物】\nパソコン\nA部門への想い\n\n【議題】\n1. スケジュール共有、調整(意思共有)\n2. 部門方針について(意見交換・決定)\n3.部門活動についてGW(意見交換・決定)\n\n遅刻、早退、欠席はスレッドで早めに教えてください。\n\n見たら絶対スタンプおなしゃす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LCE809L6",
+                    "U06LCEJ5HHU",
+                    "U06LMH49UQL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LCE809L6",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "今だなつきハイドロポンプ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LCE809L6",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LCE809L6",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMGM3CG4",
+        "text": "<@U06LMGM3CG4>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711372026.031549"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SBFPFS",
+        "text": "<@U06M7SBFPFS>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711378975.983239"
+    },
+    {
+        "user": "U06LCE9JG3G",
+        "type": "message",
+        "ts": "1711409566.282409",
+        "client_msg_id": "719f3ac5-a882-4d04-a5d1-9966c57c069a",
+        "text": "予定が入ってしまっていたので欠席します。初回なのに出られなくてすいません！:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a5f5f476ebb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080938574369_5a5f5f476ebb002bb947_72.jpg",
+            "first_name": "玉越小絵",
+            "real_name": "玉越小絵",
+            "display_name": "Tamakoshi.Sae",
+            "team": "T06L90YHJF8",
+            "name": "saekopipipi05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355682.271399",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qaWRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が入ってしまっていたので欠席します。初回なのに出られなくてすいません！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1711422515.267109",
+        "client_msg_id": "B937C2D2-B45F-425B-9F53-0D81DE605F28",
+        "text": "元々予定が入っていたので欠席しますごめんなさい :woman-bowing: 議事録しっかり見ておきます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355682.271399",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l7QMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元々予定が入っていたので欠席しますごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 議事録しっかり見ておきます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1711424486.735469",
+        "client_msg_id": "8CC0E010-9B33-452E-BDD6-726ECD5315D9",
+        "text": "15分遅れます。本当にごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355682.271399",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgT0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15分遅れます。本当にごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK7K9ALA",
+        "type": "message",
+        "ts": "1711426665.295659",
+        "client_msg_id": "1EC40777-BB9C-45F2-9A7F-400572E092D5",
+        "text": "発熱と下痢でマジで家から出られないのでZoom参加させて下さい。本当にすみません…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f30f97123fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-29\/7173633678983_f30f97123fbe12c9a3e3_72.png",
+            "first_name": "岡村　匠真",
+            "real_name": "岡村　匠真",
+            "display_name": "Okamura.Takuma",
+            "team": "T06L90YHJF8",
+            "name": "takuma_okm2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355682.271399",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUozA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発熱と下痢でマジで家から出られないのでZoom参加させて下さい。本当にすみません…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1712548484.970539",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1712589176.000000"
+        },
+        "client_msg_id": "422dd1e5-86d5-400f-ae62-a91161f55db4",
+        "text": "<!channel>\n*【0409_第11回渉外局会議】*\n【時間】17:00～18:50\n【場所】*第一校舎202教室*\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・目標獲得金額について（意見交換）\n・チャンフェスについて（意見交換）\n\n昨年度のチャンフェスを受けて不満点や改善点をある程度まとめてきてください！今年は地獄の警備ないといいね:innocent:\n※明日から部門報告始まるからパワポ忘れずに！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712548484.970539",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712648431.386819",
+        "reply_users": [
+            "U06L4GH4ETH",
+            "U06LK3NPUQ2"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GH4ETH",
+                "ts": "1712647755.005439"
+            },
+            {
+                "user": "U06LK3NPUQ2",
+                "ts": "1712648431.386819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4x1kg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0409_第11回渉外局会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】17:00～18:50\n【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第一校舎202教室",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・目標獲得金額について（意見交換）\n・チャンフェスについて（意見交換）\n\n昨年度のチャンフェスを受けて不満点や改善点をある程度まとめてきてください！今年は地獄の警備ないといいね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※明日から部門報告始まるからパワポ忘れずに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LG610ADB",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7SU83G8",
+                    "U06LGHETAFP",
+                    "U06M7SUSYNL",
+                    "U06L4GH4ETH",
+                    "U06LMGND6EQ",
+                    "U06M7SPUVEC",
+                    "U06LCED6ZK8",
+                    "U06LCE9EA3G",
+                    "U06LK0E89MH"
+                ],
+                "count": 12
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LG610ADB",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7SUSYNL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LG610ADB",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1",
+                    "U06M7SUSYNL",
+                    "U06L4GH4ETH",
+                    "U06LMGND6EQ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06M7SU83G8",
+                    "U06M7SUSYNL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U06M7SUSYNL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

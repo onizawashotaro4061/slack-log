@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1714467362.454719",
+        "client_msg_id": "023aad39-7328-4ce2-8b80-f659b25fdec6",
+        "text": "<!channel> 場所変更でございます。\n和泉図書館グル閲4でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6NnQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 場所変更でございます。\n和泉図書館グル閲4でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0HTVQT",
+        "type": "message",
+        "ts": "1714470778.311849",
+        "client_msg_id": "B04C6E7D-21B1-42A1-A56E-F8F89466DF5E",
+        "text": "電車が遅れているので、5分前後遅刻します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f07756bf845",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7034925569028_9f07756bf845442c8f9c_72.png",
+            "first_name": "藤井詩織",
+            "real_name": "藤井詩織",
+            "display_name": "Fujii.Shiori",
+            "team": "T06L90YHJF8",
+            "name": "shiorif2439",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714363651.759409",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfFyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅れているので、5分前後遅刻します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

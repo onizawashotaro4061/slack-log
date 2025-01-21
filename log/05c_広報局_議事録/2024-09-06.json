@@ -1,0 +1,540 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。広報局3年の橋本です。\n0903_第28回広報局役職会議議事録を\nOneDrive＞マイファイル＞各局＞04_広報局＞04_局役職＞02_議事録＞9月＞0903\nにアップロードしました。\n議題は、\n1. 諸連絡（意思共有）\n2. 9月、10月の議題について（意見交換）\nです。\nご確認のほどよろしくお願いいたします。\n\n私は最近スマホでやるどう森をiPadで始めました。\nスマホは容量がないのでたまにLINEを受け取れません。だからiPadでやってます。\nどう森は楽しいです。9月は秋のイベントがたくさん復刻？するので嬉しいです。ぶどうがかわいいです。\n\n以下PDFを添付いたしました。",
+        "files": [
+            {
+                "id": "F07LNN0RAAD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3L6B4J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abk1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。広報局3年の橋本です。\n0903_第28回広報局役職会議議事録を\nOneDrive＞マイファイル＞各局＞04_広報局＞04_局役職＞02_議事録＞9月＞0903\nにアップロードしました。\n議題は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9月、10月の議題について（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。\nご確認のほどよろしくお願いいたします。\n\n私は最近スマホでやるどう森をiPadで始めました。\nスマホは容量がないのでたまにLINEを受け取れません。だからiPadでやってます。\nどう森は楽しいです。9月は秋のイベントがたくさん復刻？するので嬉しいです。ぶどうがかわいいです。\n\n以下PDFを添付いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725634041.108589",
+        "client_msg_id": "510fefa0-31e8-49c6-8fa4-5510eae61d49",
+        "thread_ts": "1725634041.108589",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1725634156.465249",
+        "reply_users": [
+            "U06LK3HUVTL",
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1725634109.374009"
+            },
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1725634118.443429"
+            },
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1725634156.465249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U070YD75PJ6",
+                    "U06LK3KA09G",
+                    "U06LJBVA2DS",
+                    "U070VFQGRNZ",
+                    "U06LMH412CU"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ヤンチャム",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06L4GJBJP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "元気出して",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJBVA2DS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1725634109.374009",
+        "client_msg_id": "D695708B-FCBE-4F2E-8F49-40C4AD8BD1D2",
+        "text": "ポケ森って11月後半にサービス終了するらしいよ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725634041.108589",
+        "parent_user_id": "U06LK3L6B4J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOmGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケ森って11月後半にサービス終了するらしいよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1725634118.443429",
+        "client_msg_id": "3BA87C16-F358-4A9A-8A10-0976C7AB78D9",
+        "text": "どうするよ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725634041.108589",
+        "parent_user_id": "U06LK3L6B4J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdiV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうするよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1725634156.465249",
+        "client_msg_id": "043DEB09-4E46-4471-8F03-67ACDD7AB334",
+        "text": "知ってる\n終了してもなんだっけ、有料買い切りになるかもらしいから、そしたら買うかもレベルで楽しくて嬉しい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725634041.108589",
+        "parent_user_id": "U06LK3L6B4J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eE8+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "知ってる\n終了してもなんだっけ、有料買い切りになるかもらしいから、そしたら買うかもレベルで楽しくて嬉しい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "スシロー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です。広報局1年の和田です。\n0827_第27回広報局会議議事録を\nOneDrive＞マイファイル＞各局＞04_広報局＞01_局会議＞02_議事録＞8月＞0827\nにアップロードしました。\n議題は、\n1. 諸連絡（意思共有）\n2. メール・郵送講座　(意思共有)\n3. アフターフォロー広報手段考案　(意思共有)\n4. 当日企画手段考案　(意見交換)\nです。\nご確認のほどよろしくお願いいたします。\n\n遅れてしまい申し訳ございません。\n最近免許を取得いたしました。安全運転です。\n\n以下PDFを添付いたしました。",
+        "files": [
+            {
+                "id": "F07LFEKT6NQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U070VFY94H3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DBko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。広報局"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "和田"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "827"
+                            },
+                            {
+                                "type": "text",
+                                "text": "_第2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回広報局会議議事録を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OneDrive＞マイファイル＞各局＞04_広報局＞0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1_局会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "＞02_議事録＞"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月＞0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "827\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にアップロードしました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議題は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メール・郵送講座　(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アフターフォロー広報手段考案　(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "当日企画手段考案　(意見交換)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご確認のほどよろしくお願いいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n遅れてしまい申し訳ございません。\n最近免許を取得いたしました。安全運転です。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "以下PDFを添付いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725684472.276569",
+        "client_msg_id": "46CD8B0A-DC4B-4E5F-84A4-7A658D6FD6B4",
+        "reactions": [
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LXNWSGPK",
+                    "U070HS55GQP",
+                    "U06LCE9HTP0",
+                    "U06LMH3952Q",
+                    "U06L4GJBJP9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U070YD75PJ6",
+                    "U06LXNWSGPK",
+                    "U070VFQGRNZ",
+                    "U06LCE9HTP0",
+                    "U06LMH3952Q",
+                    "U06LCVDE88N",
+                    "U070U48JHL7",
+                    "U070Y9RMP7D",
+                    "U06L4GJBJP9",
+                    "U06LK3HUVTL",
+                    "U06LG60SFEH"
+                ],
+                "count": 13
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LXNWSGPK",
+                    "U070HS55GQP",
+                    "U06LMH3952Q",
+                    "U06LCVDE88N",
+                    "U06LK3HUVTL",
+                    "U06LMH412CU",
+                    "U06LJBVA2DS"
+                ],
+                "count": 10
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK",
+                    "U070HS55GQP",
+                    "U06LCVDE88N",
+                    "U070U48JHL7",
+                    "U070Y9RMP7D",
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH",
+                    "U06LJBVA2DS",
+                    "U06LG60SFEH"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

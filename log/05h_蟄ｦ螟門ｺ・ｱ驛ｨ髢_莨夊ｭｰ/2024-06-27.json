@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1719482072.397459",
+        "client_msg_id": "1E943015-E968-452D-BFCB-57AB76B51E59",
+        "text": "本当にすみません。自分も信じられないのですが、10駅ほど寝過ごしてしまいました。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719384469.482749",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnKt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にすみません。自分も信じられないのですが、10駅ほど寝過ごしてしまいました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "走れ",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCE78Y94",
+                    "U06LY5XNLBT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "だいち-ｸｯｸｯｸｯｸｯ",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

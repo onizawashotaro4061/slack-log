@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1718946082.357989",
+        "client_msg_id": "F9A3C08E-D5A9-498B-838F-81AF8EFBE590",
+        "text": "<!channel> \n【第11回動画部門会議】\n日時:6月24日（月）19:00～\n場所:グループ閲覧室1\n持ち物:パソコン\n議事録:新規！！！\n\n議題\n1.notionについて(意思共有)\n2.第5回制作技術伝達(意思共有)\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n\n\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718946082.357989",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1719223136.442859",
+        "reply_users": [
+            "U06LXNUQ989",
+            "U06LJ0SKMEZ",
+            "U06LK0DK7R9"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNUQ989",
+                "ts": "1719135050.197959"
+            },
+            {
+                "user": "U06LJ0SKMEZ",
+                "ts": "1719135196.564149"
+            },
+            {
+                "user": "U06LK0DK7R9",
+                "ts": "1719223136.442859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBi1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【第11回動画部門会議】\n日時:6月24日（月）19:00～\n場所:グループ閲覧室1\n持ち物:パソコン\n議事録:新規！！！\n\n議題\n1.notionについて(意思共有)\n2.第5回制作技術伝達(意思共有)\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U070YD7KHLJ",
+                    "U070YD7LPR8",
+                    "U071B3BQRR7",
+                    "U070Y9QMUSX",
+                    "U06LK0DK7R9",
+                    "U070Y9S80D9",
+                    "U06LXNYGGHX",
+                    "U070HS3CTQX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LXNUQ989"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

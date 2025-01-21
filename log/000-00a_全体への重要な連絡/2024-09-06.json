@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725687042.864439",
+        "client_msg_id": "9BEB32DE-0F9B-40DF-A4EB-B4A9764B778F",
+        "text": "<!channel>\n【OneDriveのパスワード変更について】\nお疲れ様です！\n先程総会でご連絡させていただきましたが、OneDriveのパスワードを変更させていただきましたので、次からログインの際に新たなパスワードを用いてください！\n\n繰り返しにはなりますが、OneDriveをはじめとする明大祭実行委員会で取り扱っている情報の漏洩、管理にはくれぐれも気をつけてください！\nよろしくお願いします〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AKGm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【OneDriveのパスワード変更について】\nお疲れ様です！\n先程総会でご連絡させていただきましたが、OneDriveのパスワードを変更させていただきましたので、次からログインの際に新たなパスワードを用いてください！\n\n繰り返しにはなりますが、OneDriveをはじめとする明大祭実行委員会で取り扱っている情報の漏洩、管理にはくれぐれも気をつけてください！\nよろしくお願いします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LXNY0MHP",
+                    "U06LMH5ACGL",
+                    "U06LCE9NLP8",
+                    "U06LK0FUAHZ",
+                    "U070HS2FRT9",
+                    "U06LKTXCZL4",
+                    "U071B3GT7FT",
+                    "U06M7SETDKJ",
+                    "U06LH4PDAQ3",
+                    "U07194G87BL",
+                    "U071B3AKPPT",
+                    "U071M6YLJRE",
+                    "U06LG610ADB",
+                    "U06LXR4BPS5"
+                ],
+                "count": 15
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LCUTBMU5",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

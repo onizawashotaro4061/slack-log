@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1728203218.073089",
+        "client_msg_id": "83679D61-0893-4168-860D-21026ECE2A49",
+        "text": "委員長用(来賓対応)_30部",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727775336.402479",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2WKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "委員長用(来賓対応)_30部"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1728274218.967999",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1728447371.000000"
+        },
+        "client_msg_id": "58D9B7B5-0C5E-4998-BF7D-D684859AC682",
+        "text": "校友インタビュー関係者用10部お願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727775336.402479",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pMHv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "校友インタビュー関係者用10部お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1717754819.711619",
+        "client_msg_id": "A4871821-938C-42F4-BF6C-829C5A85C492",
+        "text": "締め返し！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkyUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締め返し！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LXNYUX7T",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06LKHN3RE0",
+                    "U06LY5XNLBT",
+                    "U06LJ0SKMEZ",
+                    "U06LK3LKR9Q",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 10
+            },
+            {
+                "name": "運営局_りゅうせい_j-soul",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LK3LKR9Q",
+                    "U06LXNXNWGH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営局_あんじゅ_ありが",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

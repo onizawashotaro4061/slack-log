@@ -1,0 +1,216 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK04QJ0K",
+        "text": "<@U06LK04QJ0K>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716373416.279349"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXP1JG0Z",
+        "text": "<@U06LXP1JG0Z>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716376042.842359"
+    },
+    {
+        "text": "<!channel>\nお疲れ様です。\nチーム名簿をリリースします。\nご確認お願いします。",
+        "files": [
+            {
+                "id": "F074LHHJFSN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNWG67K",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swTrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nチーム名簿をリリースします。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716378754.911869",
+        "client_msg_id": "a76adf03-5afa-4a50-9dad-a88ed7612514",
+        "reactions": [
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K",
+                    "U06LMH49UQL",
+                    "U06LCE809L6",
+                    "U06LCE4EV2A",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K",
+                    "U06LCE809L6",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "こうせいの家てオールね",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LK7K9ALA",
+                    "U0710T04DU4"
+                ],
+                "count": 6
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U07194G87BL",
+                    "U071B3CB42V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U0710T04DU4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "たくまやけん",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U0710T04DU4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE8C51U"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LVUKD658"
+                ],
+                "count": 1
+            },
+            {
+                "name": "レッドブルピーチ",
+                "users": [
+                    "U06LVUKD658",
+                    "U07194G87BL",
+                    "U071B3CB42V",
+                    "U06LCE8C51U"
+                ],
+                "count": 4
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U07194G87BL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ上裸",
+                "users": [
+                    "U07194G87BL",
+                    "U071B3CB42V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "エニタイム",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LCE8C51U",
+                    "U071B3CB42V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_キャバクラ通いはほどほどに_なおき",
+                "users": [
+                    "U07194G87BL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658"
+                ],
+                "count": 1
+            },
+            {
+                "name": "明中の最底辺",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LXNWG67K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "甲斐キャノン",
+                "users": [
+                    "U06LVUKD658"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

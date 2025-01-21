@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06L4GJ031V",
+        "type": "message",
+        "ts": "1725534930.043029",
+        "client_msg_id": "8932A1E9-FEB9-4045-85C7-1CE82DC89314",
+        "text": "チーム会議出てから参加します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "22e4edeca85a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6785188097831_22e4edeca85a9e14d2ad_72.png",
+            "first_name": "田中唯衣",
+            "real_name": "田中唯衣",
+            "display_name": "Tanaka.Yui",
+            "team": "T06L90YHJF8",
+            "name": "steinfeld.br16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725351197.731179",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lWQrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チーム会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出てから参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "財_上司の田中さん",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU",
+                    "U06LXNX1XPB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3BZ8C",
+        "type": "message",
+        "ts": "1725575684.237629",
+        "client_msg_id": "95009C6E-0F46-4F67-989E-8616FEE047AE",
+        "text": "私も免許合宿に行くため休みます、すみません:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65c00588a6e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7909125196754_65c00588a6e92a5dd43c_72.png",
+            "first_name": "清水",
+            "real_name": "清水 麻代",
+            "display_name": "Shimizu.Asayo",
+            "team": "T06L90YHJF8",
+            "name": "61.nyay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725351197.731179",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2DrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も免許合宿に行くため休みます、すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "財_asy",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU",
+                    "U06LXNX1XPB"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

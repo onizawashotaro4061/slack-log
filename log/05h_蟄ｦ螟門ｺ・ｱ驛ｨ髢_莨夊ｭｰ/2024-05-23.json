@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1716450622.513479",
+        "edited": {
+            "user": "U06TU27FX08",
+            "ts": "1716453909.000000"
+        },
+        "client_msg_id": "B1AEB57C-34CC-4216-950E-CBFFADCDC9BC",
+        "text": "本当にすみません落単かかったレポートが終わらなすぎるので少し遅刻します :man-bowing: ほんまにすみません、、\n追記ほんまになるようにならなすぎてめっちゃ遅刻するかもごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716424484.227349",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yx0oE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にすみません落単かかったレポートが終わらなすぎるので少し遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ほんまにすみません、、\n追記ほんまになるようにならなすぎてめっちゃ遅刻するかもごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なるようにならない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "再履きど",
+                "users": [
+                    "U06LCVDE88N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

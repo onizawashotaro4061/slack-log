@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06LG6EJPE1",
+        "type": "message",
+        "ts": "1713627754.934689",
+        "client_msg_id": "971121A1-CE94-4E20-BE87-5FBD31A87144",
+        "text": "バイトで遅れます。多分毎週遅れますごめんなさい :cold_sweat: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "97632c70aa39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-09\/7708266742385_97632c70aa39d3318ddb_72.png",
+            "first_name": "信田悠里加",
+            "real_name": "信田悠里加",
+            "display_name": "Shida.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yuri.shida12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713534843.490539",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkC93",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで遅れます。多分毎週遅れますごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_sweat",
+                                "unicode": "1f630"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

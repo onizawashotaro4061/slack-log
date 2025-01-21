@@ -1,0 +1,289 @@
+[
+    {
+        "text": "<!channel> おつかれさま！ボセツ広報の依頼書が執行部チェック通ったので確定となりました。確認おねがい",
+        "files": [
+            {
+                "id": "F0718GA7QUB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbOB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさま！ボセツ広報の依頼書が執行部チェック通ったので確定となりました。確認おねがい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714450222.489249",
+        "client_msg_id": "203aac8a-a1a0-4004-b91a-9ef0ce7e395f",
+        "thread_ts": "1714450222.489249",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1714450712.690489",
+        "reply_users": [
+            "U06L4GL1CUF",
+            "U06LK3KA09G"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1714450295.294939"
+            },
+            {
+                "user": "U06LK3KA09G",
+                "ts": "1714450430.268009"
+            },
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1714450663.945129"
+            },
+            {
+                "user": "U06LK3KA09G",
+                "ts": "1714450712.690489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "だいち-ｸｯｸｯｸｯｸｯ",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LK3KA09G",
+                    "U06LK3HUVTL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LK3KA09G",
+                    "U06LXNZJBFT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1714450295.294939",
+        "client_msg_id": "5ad36a0c-519c-4b42-ad7c-a4645d2d6560",
+        "text": "ワンドラにも上がってるよ ～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714450222.489249",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ue0KS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ワンドラにも上がってるよ ～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1714450430.268009",
+        "client_msg_id": "CB3BE560-41FD-4D37-A98C-5CF08B18ADB8",
+        "text": "<@U06L4GL1CUF> 今局三役メンションしてて返信待ちなんだけど、局三役チェック終わってから関連部署メンションの方がいい？それとも、もう関連部署メンションしちゃった方がいい？ :eyes: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714450222.489249",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9T\/\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GL1CUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今局三役メンションしてて返信待ちなんだけど、局三役チェック終わってから関連部署メンションの方がいい？それとも、もう関連部署メンションしちゃった方がいい？ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1714450663.945129",
+        "client_msg_id": "8c77beab-d185-48fe-8aee-0e38feaf8b5b",
+        "text": "<@U06LK3KA09G> \n関連部署先にメンションしてほしいんだけどトレロが人追加できなくなってて今役職で確認してる状態だから待っててほしい。ごめんね\n今日中には連絡する",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714450222.489249",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VBZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3KA09G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n関連部署先にメンションしてほしいんだけどトレロが人追加できなくなってて今役職で確認してる状態だから待っててほしい。ごめんね\n今日中には連絡する"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1714450712.690489",
+        "client_msg_id": "519DEDDB-3589-4ADB-AF6B-38710C08749A",
+        "text": "おっけーい！ありがと！！ :+1: :+1: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714450222.489249",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "piNGy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっけーい！ありがと！！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

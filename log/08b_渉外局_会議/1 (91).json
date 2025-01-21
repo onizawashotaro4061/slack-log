@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U06LMGND6EQ",
+        "type": "message",
+        "ts": "1733216845.630529",
+        "client_msg_id": "6D4A751A-0A03-4548-B2F6-6020ED3F1495",
+        "text": "連絡遅くなってごめんー\n福岡にいるのでお休みさせてもらいます。2週続けてごめん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2f675949973e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721920435104_2f675949973ed431c368_72.png",
+            "first_name": "川名彬宏",
+            "real_name": "川名彬宏",
+            "display_name": "Kawana.Akihiro",
+            "team": "T06L90YHJF8",
+            "name": "a.k.55baseball",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733117326.118349",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Io\/e4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "連絡遅くなってごめんー\n福岡にいるのでお休みさせてもらいます。2週続けてごめん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710T4CBHS",
+        "type": "message",
+        "ts": "1733218997.066159",
+        "client_msg_id": "cacf6667-3693-4379-85d2-335b72b7b20f",
+        "text": "10分程度遅れますすみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d9961b157216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8132416925493_d9961b157216c0d503e7_72.jpg",
+            "first_name": "岡本英孝",
+            "real_name": "岡本英孝",
+            "display_name": "Okamoto.Hidetaka",
+            "team": "T06L90YHJF8",
+            "name": "ohidewakaba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733207375.669309",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mONJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10分程度遅れますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

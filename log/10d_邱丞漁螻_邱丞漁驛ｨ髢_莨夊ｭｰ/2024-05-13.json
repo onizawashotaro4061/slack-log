@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06LG62FNP7",
+        "type": "message",
+        "ts": "1715588282.502549",
+        "client_msg_id": "3E69162E-E846-475E-9D18-776EDFB23E0F",
+        "text": "体調不良のため休みますすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17560d48f669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7907757083890_17560d48f669ee035be4_72.png",
+            "first_name": "深石遥月",
+            "real_name": "深石遥月",
+            "display_name": "Fukaishi.Haruna",
+            "team": "T06L90YHJF8",
+            "name": "fukaishiharuna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715483767.088939",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Axf2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため休みますすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なーはる",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LS7G3G0M",
+                    "U06LXNYCLJV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

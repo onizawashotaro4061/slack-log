@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1728891447.754949",
+        "edited": {
+            "user": "U06LK0FUAHZ",
+            "ts": "1728913833.000000"
+        },
+        "client_msg_id": "96ec552f-52c5-434e-a9a4-94ac61aeeabc",
+        "text": "<!channel>\n1015 第24回運営局インフラ整備部門会議\n【時間】\n19 : 00 ~ 21 : 00（←ごめんちょっと長めです）\n【場所】\nLS406\n【持ち物】\n*パソコン、筆記用具*\n【議題】（時間はあくまでも目安です）\n1.各種報告（意思共有）（5分）\n2.マニュアルテスト（意思共有）（40分）\n3.続・ごみ箱ナンバリング（意思共有）（60分）\n4.諸連絡（意思共有）（5分）\n\n確認したらリアクションを！！！！\n遅刻・欠席・早退は部門長に理由を添えて連絡！\n（←なるべく休まないようにしよう！！！！！！）\n\nマニュアルテストがんばれ！目指せ100点:100::インフラ_最高チャンネル:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFHeW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1015 第24回運営局インフラ整備部門会議\n【時間】\n19 : 00 ~ 21 : 00（←ごめんちょっと長めです）\n【場所】\nLS406\n【持ち物】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パソコン",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、筆記用具",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】（時間はあくまでも目安です）\n1.各種報告（意思共有）（5分）\n2.マニュアルテスト（意思共有）（40分）\n3.続・ごみ箱ナンバリング（意思共有）（60分）\n4.諸連絡（意思共有）（5分）\n\n確認したらリアクションを！！！！\n遅刻・欠席・早退は部門長に理由を添えて連絡！\n（←なるべく休まないようにしよう！！！！！！）\n\nマニュアルテストがんばれ！目指せ100点"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100",
+                                "unicode": "1f4af"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "インフラ_最高チャンネル"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "インフラ_最高チャンネル",
+                "users": [
+                    "U06LG61QB3P",
+                    "U06LCEA6J1L",
+                    "U070HS7MJH5",
+                    "U06LCE7DY6S",
+                    "U06LK5HCSE6",
+                    "U071B3AKPPT",
+                    "U070Y9TREE7",
+                    "U070HS3D85D",
+                    "U06LG66Q84D",
+                    "U071B3C838R",
+                    "U06LM2P58KC",
+                    "U06ME05BLJW"
+                ],
+                "count": 12
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LK5HCSE6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

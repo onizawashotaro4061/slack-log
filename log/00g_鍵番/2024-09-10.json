@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1725962374.664149",
+        "client_msg_id": "4916A54A-D3C8-42DE-BEE4-58BD1F9C87C4",
+        "text": "しめかえしました :+1::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMbl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP",
+                    "U06LK3ZBCN6",
+                    "U06L4GH3T7H",
+                    "U06LK0FUAHZ",
+                    "U06LXNYCLJV"
+                ],
+                "count": 7
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6",
+                    "U06LXNYCLJV"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1726019916.876629",
+        "client_msg_id": "C641A5EB-B684-4791-847C-27D78E06E503",
+        "text": "かりあけました！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "db3bZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけました！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_インフラ_やや転びなおき",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LK3MF9FC",
+                    "U06LXNYCLJV"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_和田直樹_不死鳥",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

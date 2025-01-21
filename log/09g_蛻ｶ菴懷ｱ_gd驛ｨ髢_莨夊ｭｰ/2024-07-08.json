@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U06LMH4MXDJ",
+        "type": "message",
+        "ts": "1720502932.271019",
+        "edited": {
+            "user": "U06LMH4MXDJ",
+            "ts": "1720503094.000000"
+        },
+        "client_msg_id": "2248AB21-C4B6-49DD-A6BC-2022419A190F",
+        "text": "風邪引いちゃったので休みます。夏休み前最後なのにごめんなさい:cry:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0951f2552e30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6734119506066_0951f2552e30d2437105_72.png",
+            "first_name": "北田紗妃",
+            "real_name": "北田紗妃",
+            "display_name": "Kitada.Saki",
+            "team": "T06L90YHJF8",
+            "name": "kkoto1739",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720333765.380279",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZr+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪引いちゃったので休みます。夏休み前最後なのにごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "たまには_休め",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-white-s",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alphabet-white-k",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alphabet-white-exclamation",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNZFWDP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

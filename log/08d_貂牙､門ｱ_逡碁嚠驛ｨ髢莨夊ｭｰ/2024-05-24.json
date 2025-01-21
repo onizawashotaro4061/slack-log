@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1716534579.324249",
+        "client_msg_id": "3facafb1-4bc7-4adf-b13f-cd245a5cc347",
+        "text": "【第8回界隈部門会議】\n【場所】M508\n【時間】19:00-20:40\n【議題】\n・進捗報告\n・チャンフェス企画書敲き\n・チャンフェス反省\n\n欠席、遅刻、早退はスレッドに！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716534579.324249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716544971.039719",
+        "reply_users": [
+            "U06L4GLJVKR"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1716544971.039719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RUhQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【第8回界隈部門会議】\n【場所】M508\n【時間】19:00-20:40\n【議題】\n・進捗報告\n・チャンフェス企画書敲き\n・チャンフェス反省\n\n欠席、遅刻、早退はスレッドに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06LCED6ZK8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06LK0E89MH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちひろ渉外",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06LXK3RF7B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L97X3V6J",
+        "text": "<@U06L97X3V6J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716539137.086859"
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1716544971.039719",
+        "client_msg_id": "D98D729F-D8B3-4E3D-BD79-4FCE4E0B89A6",
+        "text": "教室ミス！前回と一緒ー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716534579.324249",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8R\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教室ミス！前回と一緒ー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

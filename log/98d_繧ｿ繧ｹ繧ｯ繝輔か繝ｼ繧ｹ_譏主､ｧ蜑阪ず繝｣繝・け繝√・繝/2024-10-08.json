@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1728388185.948519",
+        "client_msg_id": "41998401-6CD3-4F8B-8AEA-72F1F3D8A0C5",
+        "text": "<!channel> \n電球発注しました！\n10\/22に明実用と商店街用が合わせて届くから一応知っといてください！よろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyRQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n電球発注しました！\n10\/22に明実用と商店街用が合わせて届くから一応知っといてください！よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SU83G8",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06M7SU83G8",
+                    "U06LK0RAA7M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

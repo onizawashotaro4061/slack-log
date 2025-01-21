@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1726562439.682349",
+        "client_msg_id": "1e24ab59-bb5a-4226-875b-cdfd772a9730",
+        "text": "<@U06LXNY0MHP> ありがとう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726535264.630749",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NV97+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNY0MHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1730102038.216619",
+        "client_msg_id": "60f22f5e-a4f5-4997-8133-6703bea92013",
+        "text": "授業で遅れます:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730006496.998109",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCEej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業で遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LCE9NLP8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0710SZCKS8",
+        "type": "message",
+        "ts": "1730106205.642099",
+        "client_msg_id": "90461875-D1EE-4630-B2C5-5B7DE2F4EE64",
+        "text": "病院長引いてて遅れます :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3970eac8e58",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7189431781461_a3970eac8e58ea798da7_72.png",
+            "first_name": "福島優佳",
+            "real_name": "福島優佳",
+            "display_name": "Fukushima.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "fukuyuka0730",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730006496.998109",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rmbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "病院長引いてて遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LXNYCLJV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1730107552.605969",
+        "client_msg_id": "C6AD74E8-DBA5-445A-8A34-8B28669142EA",
+        "text": "他のサークルあってお休みします。すみません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730006496.998109",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bn8sP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他のサークルあってお休みします。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

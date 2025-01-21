@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1711598895.954579",
+        "client_msg_id": "B8624B42-D680-4877-A2D5-9ABED45D6CCC",
+        "text": "お疲れ様です。バイトが12時までだと思っていたのですが、13時まででした。15分ほど遅れます…申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711509021.915759",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUYel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。バイトが12時までだと思っていたのですが、13時まででした。15分ほど遅れます…申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK67B9PC",
+        "type": "message",
+        "ts": "1711600361.157299",
+        "client_msg_id": "0206869B-41D4-4E36-ABCB-3F63CF813800",
+        "text": "電車遅延で遅刻します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae403707ab14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-06\/6756337185909_ae403707ab14729d9211_72.png",
+            "first_name": "向田直照",
+            "real_name": "向田直照",
+            "display_name": "Mukoda.Naoteru",
+            "team": "T06L90YHJF8",
+            "name": "xiangtianzhizhao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711509021.915759",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHD\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅延で遅刻します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

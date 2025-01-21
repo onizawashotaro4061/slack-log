@@ -1,0 +1,279 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。\n学部に3D広告を制作したことがある人がいたので、作り方を聞いたのですが、ユニカビジョン様からビジョンのデータをもらった方が良さそうです。\n連絡とりたいのですが、メール送っても大丈夫ですか？",
+        "files": [
+            {
+                "id": "F07BKE7JYH0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0DN10T",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p+r8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n学部に3D広告を制作したことがある人がいたので、作り方を聞いたのですが、ユニカビジョン様からビジョンのデータをもらった方が良さそうです。\n連絡とりたいのですが、メール送っても大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720573328.307069",
+        "client_msg_id": "a2458d06-681e-4b86-a86d-7445ae51420d",
+        "thread_ts": "1720573328.307069",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1720588276.008179",
+        "reply_users": [
+            "U06LK0BP1TM",
+            "U06LK0DN10T"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1720587761.684679"
+            },
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1720588213.791889"
+            },
+            {
+                "user": "U06LK0DN10T",
+                "ts": "1720588249.740489"
+            },
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1720588264.529299"
+            },
+            {
+                "user": "U06LK0DN10T",
+                "ts": "1720588276.008179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720587761.684679",
+        "client_msg_id": "8EA79A9B-5C4A-41A2-AC57-5EE92353688A",
+        "text": "聞いてみます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720573328.307069",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L90F1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "聞いてみます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LK0DN10T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720588213.791889",
+        "client_msg_id": "6E21EC88-00D9-40E0-9EF0-66A6838666D4",
+        "text": "ええらしいけど花がメール送る？？\n俺送ってもええけど〜？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720573328.307069",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tI4rg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ええらしいけど花がメール送る？？\n俺送ってもええけど〜？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1720588249.740489",
+        "client_msg_id": "dc0343ec-c407-4d20-9894-16ded06bcfea",
+        "text": "タスクフォースのGoogle開けないので、お願いしたいです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720573328.307069",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gvqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タスクフォースのGoogle開けないので、お願いしたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720588264.529299",
+        "client_msg_id": "766A123B-2916-476A-8294-B2674F0015A0",
+        "text": "おけい〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720573328.307069",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8E9tM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おけい〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1720588276.008179",
+        "client_msg_id": "f35522dd-ffd9-4566-8a0d-7562655460c3",
+        "text": "ありがとうございます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720573328.307069",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDMZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U06LK0FAL83",
+        "type": "message",
+        "ts": "1718870415.278009",
+        "client_msg_id": "D045B086-7C1A-4D9D-8315-D2D3EF8FC381",
+        "text": "ごめんなさい急用ができてしまったのでお休みします :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bd4686eab1e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8025160921732_bd4686eab1e93a57aabc_72.png",
+            "first_name": "栗山ひおな",
+            "real_name": "栗山ひおな",
+            "display_name": "Kuriyama.Hiona",
+            "team": "T06L90YHJF8",
+            "name": "mt.mrn.hio7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718676333.056889",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQ8ZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい急用ができてしまったのでお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1718875214.270939",
+        "edited": {
+            "user": "U06LJB446QL",
+            "ts": "1718875229.000000"
+        },
+        "client_msg_id": "4C14356E-E714-47B6-94A1-79D8BF28F21D",
+        "text": "すみません急用ができたのでお休みさせていただきます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718676333.056889",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs6Qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません急用ができたのでお休みさせていただきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LCE69DRU",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070YDCRM1Q",
+        "type": "message",
+        "ts": "1718878469.856529",
+        "client_msg_id": "aa50338f-f4be-4944-b8cb-c7afa5ec5824",
+        "text": "予定が長引きそうなのでお休みします！ごめんなさい！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ac312627de56",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8039674612529_ac312627de568e165dda_72.jpg",
+            "first_name": "東海敦子",
+            "real_name": "東海敦子",
+            "display_name": "Tokai.Atsuko",
+            "team": "T06L90YHJF8",
+            "name": "atuatu.a1315",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718676333.056889",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/EQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が長引きそうなのでお休みします！ごめんなさい！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

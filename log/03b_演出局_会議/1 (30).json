@@ -1,0 +1,413 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1716260685.965219",
+        "client_msg_id": "9E4B0947-EED6-4917-9ED1-F1BE6D453419",
+        "text": "<!channel>\n会議連絡\n【時間】5\/21(火) 19:00〜\n【場所】たっかおしえて\n【議題】(予定)\n1.各種報告(意思共有)\n2.議事録について（意思共有）←前回みたいに時間とったあとフィードバックするよ\n3.パワーポイント、動画作成課題について（意思共有）\n\nこないだ払ってない人分担金忘れずに:moneybag:\n欠席、早退、遅刻はスレッドに書いてね！\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716260685.965219",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1716285587.395399",
+        "reply_users": [
+            "U06LK3MF9FC",
+            "U06LMH4T528",
+            "U070VFPTCF7",
+            "U070YE174KC",
+            "U06LK0G74NP",
+            "U0710TSE9TN",
+            "U06LCECJD8W",
+            "U06LTN26EFL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3MF9FC",
+                "ts": "1716260812.247029"
+            },
+            {
+                "user": "U06LMH4T528",
+                "ts": "1716261089.077679"
+            },
+            {
+                "user": "U070VFPTCF7",
+                "ts": "1716281834.270609"
+            },
+            {
+                "user": "U070YE174KC",
+                "ts": "1716281971.120799"
+            },
+            {
+                "user": "U06LK0G74NP",
+                "ts": "1716284219.132849"
+            },
+            {
+                "user": "U0710TSE9TN",
+                "ts": "1716285498.102299"
+            },
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1716285548.050959"
+            },
+            {
+                "user": "U06LTN26EFL",
+                "ts": "1716285587.395399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJ0+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】5\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(火) 19:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "たっかおしえて\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】(予定)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.各種報告(意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2.議事録"
+                            },
+                            {
+                                "type": "text",
+                                "text": "について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "←前回みたいに時間とったあとフィードバックするよ\n3.パワーポイント、動画作成課題について（意思共有）\n\nこないだ払ってない人"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分担金忘れずに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、早退、遅刻はスレッドに書いてね！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U06LG63FM1B",
+                    "U070RQ0DUBG",
+                    "U06LMHDAZKN",
+                    "U06LG64U8DB",
+                    "U06LXNY0MHP",
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U070VFPTCF7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK3L32MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW",
+                    "U070Y9RH075"
+                ],
+                "count": 4
+            },
+            {
+                "name": "純",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06LMHDAZKN",
+                    "U06LXNY0MHP",
+                    "U06L4GSPRHV",
+                    "U071B3ELL7K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "くまくんに出会った",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1716260812.247029",
+        "client_msg_id": "70A56134-67A8-435F-99FF-487579E7A160",
+        "text": "引越し準備（契約）のため欠席させていただきます。 :woman-bowing: :house:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716260685.965219",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t826P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引越し準備（契約）のため欠席させていただきます。 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "house",
+                                "unicode": "1f3e0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1716261089.077679",
+        "client_msg_id": "A5C9C838-DF60-468E-8945-A98410B85A55",
+        "text": "ば先の送別会があるので欠席します。申し訳ないです :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716260685.965219",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jf36L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ば先の送別会があるので欠席します。申し訳ないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1716261262.022129",
+        "client_msg_id": "7182768e-eadc-43d9-950d-d328f4a490e4",
+        "text": "今日の会議はLS502しゅうごうです！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "su+Ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の会議はLS502しゅうごうです！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U071M771YMN",
+                    "U071B3917S5",
+                    "U06LMH5ACGL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

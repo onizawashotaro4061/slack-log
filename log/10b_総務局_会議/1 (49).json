@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070Y9Q9151",
+        "type": "message",
+        "ts": "1724834712.931959",
+        "client_msg_id": "6E00EE0D-40E0-4E13-84AE-162EF52ABBF2",
+        "text": "時間を勘違いしていて欠席になりました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f4a8d315de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996339726980_3f4a8d315de39329ef11_72.png",
+            "first_name": "畑中康佑",
+            "real_name": "畑中康佑",
+            "display_name": "Hatanaka.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "koshat0513",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724634298.072939",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myNOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "時間を勘違いしていて欠席になりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

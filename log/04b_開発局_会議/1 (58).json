@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U070HT2C5KR",
+        "type": "message",
+        "ts": "1727761140.507099",
+        "client_msg_id": "C68EA487-A55C-4627-8A52-C059768A7FE7",
+        "text": "通院のため欠席します :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "g85990b4d7ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85990b4d7ab5ccfaa3ccfae111600951.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "森野佑莉香",
+            "real_name": "森野佑莉香",
+            "display_name": "Morino.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yusangun2006",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bqA0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "通院のため欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1714032417.552719",
+        "client_msg_id": "D2BE8FE5-04F9-48DA-A06E-7599D070C23D",
+        "text": "午後から腹痛がひどいので、休ませていただきたいです…\n申し訳ありません…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713929045.225479",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aL8m7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "午後から腹痛がひどいので、休ませていただきたいです…\n申し訳ありません…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "mask",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCEF912S",
+        "type": "message",
+        "ts": "1714038365.859879",
+        "client_msg_id": "5E682269-8A42-45B4-9062-BA2D70DD6BF7",
+        "text": "目の前で電車がいきました、、遅れます。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8137963b77b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-26\/8107219027488_8137963b77b96f55184d_72.png",
+            "first_name": "石塚颯",
+            "real_name": "石塚颯",
+            "display_name": "Ishizuka.Hayate",
+            "team": "T06L90YHJF8",
+            "name": "hayaten-12-26",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713929045.225479",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giwC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "目の前で電車がいきました、、遅れます。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LCE78Y94",
+                    "U06LCE9HTP0",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCE9HTP0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

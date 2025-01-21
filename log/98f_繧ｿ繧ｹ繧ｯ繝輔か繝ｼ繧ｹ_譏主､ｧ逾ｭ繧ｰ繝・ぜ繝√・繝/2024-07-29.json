@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1722258583.642979",
+        "client_msg_id": "98e0ca9f-8ffc-4717-af8e-16f3dc143157",
+        "text": "<!channel> \nお疲れ様です。\n明日のzoomですが午前10時から30分程実施したいと思います！\nzoom終了後にslackで丁寧に連絡もするので参加できなくても気にしなくて大丈夫です！\n参加できる方はできる限りしていただけると幸いです:bow:\n参加・不参加スタンプで大丈夫なので押してください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/MWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n明日のzoomですが午前10時から30分程実施したいと思います！\nzoom終了後にslackで丁寧に連絡もするので参加できなくても気にしなくて大丈夫です！\n参加できる方はできる限りしていただけると幸いです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n参加・不参加スタンプで大丈夫なので押してください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U0714V5MYTW",
+                    "U06L4GJ031V",
+                    "U070Y9VAKAP",
+                    "U06LK0G7VCK",
+                    "U070YD7LPR8",
+                    "U06LMHDAZKN"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U070Y9SLJJX",
+                    "U06LG62UXPX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

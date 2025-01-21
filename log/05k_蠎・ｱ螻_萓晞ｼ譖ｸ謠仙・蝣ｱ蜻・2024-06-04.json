@@ -1,0 +1,218 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LMHBUVT6",
+        "text": "<@U06LMHBUVT6>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1717490959.381999"
+    },
+    {
+        "user": "U06LMHBUVT6",
+        "type": "message",
+        "ts": "1717491073.505409",
+        "client_msg_id": "88560850-81f7-43e3-abb2-d1c0ddb8a63c",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J> お疲れ様です！【明大祭】演出局企画参加団体募集説明会SNS広報依頼書をワンドラのSNS広報依頼書にあげました！ご確認宜しくお願い致します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51fad438f0e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-31\/7656365925237_51fad438f0e4f464f7b0_72.png",
+            "first_name": "佐藤里帆",
+            "real_name": "佐藤里帆",
+            "display_name": "Sato.Riho",
+            "team": "T06L90YHJF8",
+            "name": "riho500m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717491073.505409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717493800.786739",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1717493800.786739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HzGUf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！【明大祭】演出局企画参加団体募集説明会SNS広報依頼書をワンドラのSNS広報依頼書にあげました！ご確認宜しくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_インフラ_ありがとチャンネル",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1717493780.662019",
+        "client_msg_id": "F928AFBD-9C41-4CCA-B65C-16F03B623D4C",
+        "text": "<@U06L4GSPRHV> おつかれさまー！！ありがとー！学内で受理してます！ :dumpling: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717480906.176149",
+        "parent_user_id": "U06L4GSPRHV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UhjJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GSPRHV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさまー！！ありがとー！学内で受理してます！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dumpling",
+                                "unicode": "1f95f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1717493800.786739",
+        "client_msg_id": "A5E6AF79-D484-4158-9397-8F68720D6FD8",
+        "text": "<@U06LMHBUVT6> おつー！！ありがとう！！！学内で受理してますっ！:slightly_smiling_face:‍:arrow_up_down:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717491073.505409",
+        "parent_user_id": "U06LMHBUVT6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJvFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMHBUVT6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつー！！ありがとう！！！学内で受理してますっ！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "‍"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up_down",
+                                "unicode": "2195-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LMHBUVT6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U06LMHBUVT6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

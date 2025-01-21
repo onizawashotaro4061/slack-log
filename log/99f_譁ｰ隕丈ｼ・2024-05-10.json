@@ -1,0 +1,279 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1715330438.871319",
+        "edited": {
+            "user": "U06LDT584J1",
+            "ts": "1715382738.000000"
+        },
+        "client_msg_id": "aeca2437-6981-46ec-a81c-24a18c5ff5e3",
+        "text": "<!channel>\nお疲れさまです。副委員長の我那覇天空です！\n5月11日(土)第1回新規会について連絡です。\n\n【時間】\n13：00～15：00\n【場所】\n第一校舎303教室\n【議題】\n1. 各種ルール説明（意思共有）\n2. タスクフォースについて（意思共有）\n3. アイスブレイク（意見交換？）\n4. 質問コーナー（意思共有）\n5. 諸連絡（意思共有）\n【持ち物】\nパソコン\n\n*遅刻早退欠席は下のフォームからお願いします！*出席する人も*全員回答必須*なので*今日中*に回答お願いします！\n⇩　⇩　⇩\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfL-6JevVrbC883qDCs2Ndr-Ozbo3U_Fy4FsVJomgGL7OpU8w\/viewform?usp=sf_link|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfL-6JevVrbC883qDCs2Ndr-Ozbo3U_Fy4FsVJomgGL7OpU8w\/viewform?usp=sf_link>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715330438.871319",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715392387.731599",
+        "reply_users": [
+            "U071B3ES5NV",
+            "U070U6XGE07"
+        ],
+        "replies": [
+            {
+                "user": "U071B3ES5NV",
+                "ts": "1715381338.200209"
+            },
+            {
+                "user": "U070U6XGE07",
+                "ts": "1715392387.731599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIBGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです。副委員長の我那覇天空です！\n5月11日(土)第1回新規会について連絡です。\n\n【時間】\n13：00～15：00\n【場所】\n第一校舎303教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種ルール説明（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "タスクフォースについて（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アイスブレイク（意見交換？）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "質問コーナー（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\nパソコン\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席は下のフォームからお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "出席する人も"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全員回答必須",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "なので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日中",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に回答お願いします！\n⇩　⇩　⇩\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfL-6JevVrbC883qDCs2Ndr-Ozbo3U_Fy4FsVJomgGL7OpU8w\/viewform?usp=sf_link",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfL-6JevVrbC883qDCs2Ndr-Ozbo3U_Fy4FsVJomgGL7OpU8w\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ167FG",
+                    "U071M6YPYM6",
+                    "U070RQ2NG2J",
+                    "U070YA6CQLB",
+                    "U070YD778SE",
+                    "U070VFQKEH3",
+                    "U070VFSR12R",
+                    "U070Y9RLJTV",
+                    "U071B3GT7FT"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070Y9TREE7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3ES5NV",
+        "type": "message",
+        "ts": "1715381338.200209",
+        "client_msg_id": "35CA69C0-672A-4D0E-88C1-832D2C6736DB",
+        "text": "今日引越しなので休みます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa397c820bce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7978562672901_fa397c820bcef9ac08ba_72.png",
+            "first_name": "岩澤隆心",
+            "real_name": "岩澤隆心",
+            "display_name": "Iwasawa.Ryushin",
+            "team": "T06L90YHJF8",
+            "name": "ryushin20050619",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715330438.871319",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1c4mK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日引越しなので休みます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070U6XGE07",
+        "type": "message",
+        "ts": "1715392387.731599",
+        "client_msg_id": "33DC6CA7-B9D6-484E-9E3D-E17CF8C40B85",
+        "text": "すみません、風邪をひいてしまったので今日休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4b4dca6e80cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-08\/7107895877840_4b4dca6e80cbe4cef397_72.png",
+            "first_name": "井上大暉",
+            "real_name": "井上大暉",
+            "display_name": "Inoue.Daiki",
+            "team": "T06L90YHJF8",
+            "name": "daikidaiki0525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715330438.871319",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qD4ZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、風邪をひいてしまったので今日休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

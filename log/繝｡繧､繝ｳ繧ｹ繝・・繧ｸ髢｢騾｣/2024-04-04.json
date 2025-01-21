@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712253936.351639",
+        "client_msg_id": "1BB078B7-7DEB-4C8D-A00B-C96738757C09",
+        "text": "<!channel> \nこれどうやって動かすのか教えて欲しいかもーーーーーー！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEYb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこれどうやって動かすのか教えて欲しいかもーーーーーー！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LK0FC935"
+                ],
+                "count": 2
+            },
+            {
+                "name": "広報-あもあす",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06L4GHLP2B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCUTBMU5",
+        "text": "<@U06LCUTBMU5>さんがチャンネルに参加しました",
+        "inviter": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712253961.866519"
+    }
+]

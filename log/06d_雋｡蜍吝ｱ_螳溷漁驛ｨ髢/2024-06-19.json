@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U071M700E48",
+        "type": "message",
+        "ts": "1718862833.889069",
+        "client_msg_id": "3BF6260E-D49D-4769-8A9A-41C287AC4B3B",
+        "text": "体調崩したんで休みます。すいません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5b8c50e3f718",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-05\/7529727964180_5b8c50e3f718313e1e7b_72.png",
+            "first_name": "広石陽",
+            "real_name": "広石陽",
+            "display_name": "hiroishi.hinata",
+            "team": "T06L90YHJF8",
+            "name": "itabashihouse.fan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718735645.583019",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0dZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調崩したんで休みます。すいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNXNWGH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U0710SZT2S0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "財_かいめい",
+                "users": [
+                    "U0710SZT2S0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

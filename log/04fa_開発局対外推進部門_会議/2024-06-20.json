@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LCE7524E",
+        "type": "message",
+        "ts": "1718877013.191839",
+        "client_msg_id": "B52E66E3-82F5-4E1E-A0BF-8306B6DA7034",
+        "text": "本当にごめんなさい寝坊しました。20分遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d65e97bb6cdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7836600315591_d65e97bb6cdc5d1b86a1_72.png",
+            "first_name": "丹羽涼香",
+            "real_name": "丹羽涼香",
+            "display_name": "Niwa.Suzuka",
+            "team": "T06L90YHJF8",
+            "name": "suzusono28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718660317.802049",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCgvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にごめんなさい寝坊しました。20分遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1718877074.199349",
+        "client_msg_id": "55B49763-AC41-42A3-A3F9-95D4F4DC5347",
+        "text": "気をつけておいで",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718660317.802049",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+hTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "気をつけておいで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

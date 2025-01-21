@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U070HT2C5KR",
+        "type": "message",
+        "ts": "1720078696.361979",
+        "client_msg_id": "ABF895FD-B121-4FE6-80D0-CBAB9EE7F0CB",
+        "text": "本日の部門会議欠席します :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "g85990b4d7ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85990b4d7ab5ccfaa3ccfae111600951.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "森野佑莉香",
+            "real_name": "森野佑莉香",
+            "display_name": "Morino.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yusangun2006",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720067466.158569",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWLvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の部門会議欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

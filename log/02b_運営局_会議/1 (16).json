@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1713839525.258959",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1714008041.000000"
+        },
+        "client_msg_id": "dd10f5dd-dbd6-4805-a72e-4a1300893bbc",
+        "text": "<!channel>\n0425_第10回運営局局会議\n【時間】\n19：00〜20：40(19：00集合・19：10開始）\n【場所】\nM501\n【議題】\n1. 各種報告（意思共有）\n2. 継続反省会（意見交換）\n3. 総務局ヒアリングシート（意見交換・決定）\n4. タスク研究会（意思共有）\n5. 諸連絡（意思共有）\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n嵐のナイスな心意気にっていう曲ってこち亀の EDの曲だったのにびっくりしました！\n皆さんアンチヒーロー面白いです！是非是非見てください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FbnE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0425_第10回運営局局会議\n【時間】\n19：00〜20：40(19：00集合・19：10開始）\n【場所】\nM501\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "継続反省会（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "総務局ヒアリングシート（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "タスク研究会（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n嵐のナイスな心意気にっていう曲ってこち亀の EDの曲だったのにびっくりしました！\n皆さんアンチヒーロー面白いです！是非是非見てください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LG66Q84D",
+                    "U06L4GJ6PFZ",
+                    "U06LK0FC935",
+                    "U06LK3LKR9Q",
+                    "U06LK0FUAHZ",
+                    "U06LG61QB3P",
+                    "U06L4GHLP2B",
+                    "U06LM2P58KC",
+                    "U06LK3MRV98",
+                    "U06LG62V1FX",
+                    "U06LG61PW7P",
+                    "U06LK0EQS59",
+                    "U06ME05BLJW",
+                    "U06M7SX52RW",
+                    "U06LMH8Q2TW",
+                    "U06LCE8F5PG",
+                    "U06LKJS20KC",
+                    "U06LK5HCSE6",
+                    "U06LCE7DY6S",
+                    "U06M7SQPKL0",
+                    "U070Y9V6PRR"
+                ],
+                "count": 22
+            },
+            {
+                "name": "運営局_あんじゅ_ありが",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK3MMALA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_かいと_うみんちゅ",
+                "users": [
+                    "U06LG62V1FX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_もえ_もえもえきゅん",
+                "users": [
+                    "U06LK3LHG0J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_もえ_ぴーもえver早い",
+                "users": [
+                    "U06L4GKK0CF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

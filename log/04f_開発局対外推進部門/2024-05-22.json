@@ -1,0 +1,131 @@
+[
+    {
+        "subtype": "channel_name",
+        "user": "U06LK3ZBCN6",
+        "old_name": "04f_開発局b部門",
+        "name": "04f_開発局対外推進部門",
+        "text": "チャンネル名を「04f_開発局b部門」から「04f_開発局対外推進部門」に変更しました",
+        "type": "message",
+        "ts": "1716363165.215329"
+    },
+    {
+        "text": "お疲れ様です。チーム配属の結果をリリース致します。\nご確認お願いします。",
+        "files": [
+            {
+                "id": "F0758FVUMSL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5EM+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。チーム配属の結果をリリース致します。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716370200.654119",
+        "client_msg_id": "f4c10b9f-1a2d-4fa8-87ae-9f1d02c18c40",
+        "reactions": [
+            {
+                "name": "00-要確認",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U06LG63FJUD",
+                    "U06LCE4EV2A",
+                    "U06LCE7524E",
+                    "U06L4GKGXB9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か＿好奇心旺盛だね飯田くん笑",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LG63FJUD",
+                    "U06LCE4EV2A",
+                    "U06L4GKGXB9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ka_けんとは今日も早口",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LG63FJUD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "静岡県立沼津東高校",
+                "users": [
+                    "U06LK04QJ0K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K",
+                    "U06LG63FJUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おい笑える",
+                "users": [
+                    "U06LG63FJUD",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LG63FJUD",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "國學院高校",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK7K9ALA",
+        "text": "<@U06LK7K9ALA>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1716392885.798199"
+    }
+]

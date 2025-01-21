@@ -1,0 +1,177 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK7K9ALA",
+        "text": "<@U06LK7K9ALA>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709035389.992629"
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1709036421.968389",
+        "client_msg_id": "44AD82B9-146D-4A9B-A05F-C83F7BE4B4B9",
+        "text": "暫定で欠席になるのが、\n3月の4.5.11.12日で\n前日に次の日のスケジュールがわかるので\n各日程の前日になったらzoomで参加可能かどうかスレッドで報告させて頂きます。\n部分的な参加になる日もあるかもしれませんし、欠席となる日もあるかと思います。\nご迷惑おかけして申し訳ありませんが、\nよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZZry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "暫定で欠席になるのが、\n3月の4.5.11.12日で\n前日に次の日のスケジュールがわかるので\n各日程の前日になったらzoomで参加可能かどうかスレッドで報告させて頂きます。\n部分的な参加になる日もあるかもしれませんし、欠席となる日もあるかと思います。\nご迷惑おかけして申し訳ありませんが、\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LE249H0V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1709090656.760089",
+        "client_msg_id": "7D1D00A0-866F-4CE1-950D-5099CF3AAEB6",
+        "text": "18.19日法事のため欠席します\n19日の会議は間に合えば遅刻して参加するかもしれないです。よろしくおねがいします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0krFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18.19日法事のため欠席します\n19日の会議は間に合えば遅刻して参加するかもしれないです。よろしくおねがいします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCEJ5HHU",
+        "type": "message",
+        "ts": "1709102763.799329",
+        "client_msg_id": "FE1A1039-FD9E-46C4-B6B9-547077E64495",
+        "text": "お疲れ様です。\n開発局の大坂悠真です。\n3月11日、19日のゼミ合宿のため欠席させていただきます。ご迷惑をおかけします。大変申し訳ございません。\nまた3月12日の会議はゼミ合宿があり、新宿に12時55分到着予定なので遅刻します。大変申し訳ございません。議事録などを読んで勉強いたします。よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3d6eb478bab5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-15\/7407123671111_3d6eb478bab567bf0cb7_72.png",
+            "first_name": "大坂悠真",
+            "real_name": "大坂悠真",
+            "display_name": "Osaka.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yumaosakasoccerwater",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmu\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n開発局の大坂悠真です。\n3月11日、19日のゼミ合宿のため欠席させていただきます。ご迷惑をおかけします。大変申し訳ございません。\nまた3月12日の会議はゼミ合宿があり、新宿に12時55分到着予定なので遅刻します。大変申し訳ございません。議事録などを読んで勉強いたします。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

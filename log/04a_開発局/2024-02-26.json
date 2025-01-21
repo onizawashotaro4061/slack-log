@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1709006869.879829",
+        "client_msg_id": "647AEC4F-6140-4B1E-B50B-8328E7F18892",
+        "text": "<!channel>\nおつかれさまです！\nスラックができたので改めて春休みの会議の出欠確認をします。\n欠席遅刻早退をする日がある場合はこのコメントに返信をお願いします。\nまたzoomで参加可能な場合はzoomなら可能と書いてください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1709522428.365409",
+        "reply_users": [
+            "U06LK3ZBCN6",
+            "U06LXP1JG0Z",
+            "U06LCEJ5HHU",
+            "U06LCE9JG3G",
+            "U06LVUKD658",
+            "U06LCE809L6"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1709036421.968389"
+            },
+            {
+                "user": "U06LXP1JG0Z",
+                "ts": "1709090656.760089"
+            },
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1709102763.799329"
+            },
+            {
+                "user": "U06LCE9JG3G",
+                "ts": "1709131151.011589"
+            },
+            {
+                "user": "U06LVUKD658",
+                "ts": "1709190927.639929"
+            },
+            {
+                "user": "U06LCE809L6",
+                "ts": "1709522428.365409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCzuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nスラックができたので改めて春休みの会議の出欠確認をします。\n欠席遅刻早退をする日がある場合はこのコメントに返信をお願いします。\nまたzoomで参加可能な場合はzoomなら可能と書いてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCEJ5HHU",
+        "text": "<@U06LCEJ5HHU>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709008308.384709"
+    }
+]

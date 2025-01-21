@@ -1,0 +1,38 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH49MQU",
+        "text": "<@U06LMH49MQU>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1725609622.709099"
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1725622505.840999",
+        "thread_ts": "1725622505.840999",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1725720900.653179",
+        "reply_users": [
+            "U06LK3HUVTL",
+            "U06LMH49MQU"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1725718801.355179"
+            },
+            {
+                "user": "U06LMH49MQU",
+                "ts": "1725720900.653179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

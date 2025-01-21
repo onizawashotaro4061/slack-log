@@ -1,0 +1,92 @@
+[
+    {
+        "text": "<!channel> \nお疲れ様です。空間創世部門長の古川敬久です。\n\n新規部門員のチーム配属を発表します！\n\nどのチームに配属されたとしても、自分の力をフルに発揮させて、最高の企画が創れるように頑張ってみてください。僕はいくらでも協力します。\n\nみなさん、よろしくお願いいたします！",
+        "files": [
+            {
+                "id": "F07AF7ARB2N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNY0MHP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94X5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。空間創世部門長の古川敬久です。\n\n新規部門員のチーム配属を発表します！\n\nどのチームに配属されたとしても、自分の力をフルに発揮させて、最高の企画が創れるように頑張ってみてください。僕はいくらでも協力します。\n\nみなさん、よろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719803235.414189",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1719844874.000000"
+        },
+        "client_msg_id": "a262d924-6ce4-41ae-a1a7-63d58b4b687e",
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U070RQ0DUBG",
+                    "U06LG64U8DB",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U070RQ0DUBG",
+                    "U06LG64U8DB",
+                    "U070HS35ECX",
+                    "U070HS2GY5V",
+                    "U06LG6EJPE1",
+                    "U06LXNY0MHP"
+                ],
+                "count": 8
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LG6EJPE1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "よろぴこ",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LXNY0MHP",
+                    "U071B3C42Q1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_キャバクラ通いはほどほどに_なおき",
+                "users": [
+                    "U071M771YMN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

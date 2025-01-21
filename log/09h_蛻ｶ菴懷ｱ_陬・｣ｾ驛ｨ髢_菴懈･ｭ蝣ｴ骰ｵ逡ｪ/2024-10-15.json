@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1729041989.796679",
+        "client_msg_id": "CE634C60-D974-42FA-AEC9-0C34D7EAD480",
+        "text": "かりあけぇ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "03e01b98e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876950106419_03e01b98e2515aaf86c7_72.png",
+            "first_name": "工藤大智",
+            "real_name": "工藤大智",
+            "display_name": "Kudo.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "cat.daichij31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCmZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけぇ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U06LK0FP02F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alphabet-white-w",
+                "users": [
+                    "U06LK0FP02F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alphabet-yellow-a",
+                "users": [
+                    "U06LK0FP02F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alphabet-yellow-exclamation",
+                "users": [
+                    "U06LK0FP02F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

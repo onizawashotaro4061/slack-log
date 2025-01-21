@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1715770527.710689",
+        "client_msg_id": "a3e5d93d-7b0e-47f4-9a53-b247072d99b3",
+        "text": "<!channel>\nお疲れ様です！タスクフォースのボード作ったので下のリンクからお願いします！\n<https:\/\/www.notion.so\/team\/7feaa900-13d1-442b-bb59-30a59c1ed1f1\/join>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRgU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！タスクフォースのボード作ったので下のリンクからお願いします！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/team\/7feaa900-13d1-442b-bb59-30a59c1ed1f1\/join"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK0DN10T",
+                    "U06LH4PDAQ3",
+                    "U06M7SU83G8",
+                    "U06LJ4HJLMS",
+                    "U06LCE9HTP0",
+                    "U06LK0DK7R9",
+                    "U06LK0E89MH"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0DN10T",
+                    "U06LH4PDAQ3",
+                    "U06M7SU83G8",
+                    "U06LK0DK7R9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U06LK0EUE75",
+        "type": "message",
+        "ts": "1713952185.170989",
+        "client_msg_id": "0C0ABC16-9BF8-497C-ADDE-931948B727D6",
+        "text": "コロナ！タブン！ヤスム！ゴメン！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b3cf264a2219",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-02\/8132787401728_b3cf264a2219178fcc43_72.png",
+            "first_name": "保延虎太朗",
+            "real_name": "保延虎太朗",
+            "display_name": "Honobe.Kotaro",
+            "team": "T06L90YHJF8",
+            "name": "kotaro0204m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713856662.732649",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3Fyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナ！タブン！ヤスム！ゴメン！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GM5C87",
+                    "U06LK3LM7AN",
+                    "U06LG6Q48SZ",
+                    "U06LK3M7VGA",
+                    "U06L4GPGUMV",
+                    "U06L4GT8LNT",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U06LJ4HJLMS",
+                    "U06L4GH3T7H",
+                    "U06LK0F2RC3"
+                ],
+                "count": 12
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06LK0F2RC3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

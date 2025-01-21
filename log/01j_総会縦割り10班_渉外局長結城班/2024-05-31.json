@@ -1,0 +1,46 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070VFP05K7",
+        "text": "<@U070VFP05K7>さんがチャンネルに参加しました",
+        "inviter": "U06LHACMG91",
+        "type": "message",
+        "ts": "1717220661.102699"
+    },
+    {
+        "text": "<!channel>\nLINEグループに招待したいので、LINE追加して一言LINEしてくれたらとってもとっても嬉しいです！",
+        "files": [
+            {
+                "id": "F075X44NJ3G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LHACMG91",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deHe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLINEグループに招待したいので、LINE追加して一言LINEしてくれたらとってもとっても嬉しいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717221210.891699",
+        "client_msg_id": "DCEBA0C0-5EA3-4FD0-951A-ED94BE1D3CBD"
+    }
+]

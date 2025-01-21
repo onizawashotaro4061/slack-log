@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1730796687.721179",
+        "client_msg_id": "6279D95C-AB8F-4C60-A0FF-4D1A488AADF9",
+        "text": "<!channel> \n18：00に食堂2階に集合です！\n法被は着ないで局アパで来てください！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqJzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n18：00に食堂2階に集合です！\n法被は着ないで局アパで来てください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCE4EV2A",
+                    "U0710T3MCUC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U0710T3MCUC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1730806443.912599",
+        "client_msg_id": "D81A5539-71F8-4D9E-8CE7-4EFE853DC7F6",
+        "text": "<!channel> 守衛所に直接確認してもらったら今日は完全退講22時らしいです、あついです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TN3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 守衛所に直接確認してもらったら今日は完全退講22時らしいです、あついです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06M7SETDKJ",
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LMH9MBFW",
+                    "U06LK0FUAHZ",
+                    "U06L4GM5C87",
+                    "U06LCUTBMU5"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

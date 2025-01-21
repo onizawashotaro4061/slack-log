@@ -1,0 +1,193 @@
+[
+    {
+        "text": "<!channel>\n大変申し訳ない。本日石井が欠席するので、この議事録に沿って進行してください。ゆうかはパワポを作ってくれている関係で休みです！\n\nで、駅前ビジョンについてはビジョン広告チームにノウハウを聞くのが良いかもしれないです。今日いると思うんだけど…\nおそらく連絡は取れると思うので、なにかあればSlackなりLINEなりで連絡お願いします。",
+        "files": [
+            {
+                "id": "F075NNPPVUP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9j\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大変申し訳ない。本日石井が欠席するので、この議事録に沿って進行してください。ゆうかはパワポを作ってくれている関係で休みです！\n\nで、駅前ビジョンについてはビジョン広告チームにノウハウを聞くのが良いかもしれないです。今日いると思うんだけど…\nおそらく連絡は取れると思うので、なにかあればSlackなりLINEなりで連絡お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717202396.659629",
+        "client_msg_id": "d2891e64-a53a-4582-b294-d5aa6470a17e"
+    },
+    {
+        "user": "U06LK0E89MH",
+        "type": "message",
+        "ts": "1717204640.796059",
+        "client_msg_id": "052F5226-CC13-4411-8D89-E9CD5666AA19",
+        "text": "<!channel> \n簡単で良いので各自の進捗報告をリプで送ってほしいです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10abff051f8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491436038_10abff051f8ccf96b5c9_72.png",
+            "first_name": "大野聖雅",
+            "real_name": "大野聖雅",
+            "display_name": "Ohno.Seiga",
+            "team": "T06L90YHJF8",
+            "name": "seiga.ohno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYXsT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n簡単で良いので各自の進捗報告をリプで送ってほしいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK5HCSE6",
+        "type": "message",
+        "ts": "1717204722.700679",
+        "edited": {
+            "user": "U06LK5HCSE6",
+            "ts": "1717205586.000000"
+        },
+        "client_msg_id": "8820F7AD-61FB-4326-8AF1-E08C9D0A47E9",
+        "text": "立体物制作依頼書の敲き、\nデザイン案考案の2つ今やってます\nゼミ試でいけなくてすみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "394ef22c99d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-23\/7759557964086_394ef22c99d7ec085d43_72.png",
+            "first_name": "大竹主真",
+            "real_name": "大竹主真",
+            "display_name": "Ohtake.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "ohtake.kazuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUfhw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "立体物制作依頼書の敲き、\nデザイン案考案の2つ今やってます\nゼミ試でいけなくてすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCECJD8W",
+        "type": "message",
+        "ts": "1717205070.054929",
+        "client_msg_id": "CA825B9F-7E3C-4A00-A8F4-EE6E35F8FB6F",
+        "text": "明大前歩道橋装飾用横断幕の依頼書の直しに取り組んでます！\nパワポ終わりました！会議行けなくてすみません :woman-bowing::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fec49a6469cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7204615728544_fec49a6469cda795384d_72.png",
+            "first_name": "阿部裕佳",
+            "real_name": "阿部裕佳",
+            "display_name": "Abe.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "abuyujia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pzCBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明大前歩道橋装飾用横断幕の依頼書の直しに取り組んでます！\nパワポ終わりました！会議行けなくてすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

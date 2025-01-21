@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717046839.076759",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1717046891.000000"
+        },
+        "client_msg_id": "9c0e211c-eafb-4826-bbe9-c1906865a17d",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/30(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.新規部門配属相談\n2.チーム長→新規部門配属合同会議\n   チーム員→募集説明会資料作成。OPは暇ならゆりかとゆーだい手伝ってあげて欲しいです。\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろすく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmfDc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/30(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.新規部門配属相談\n2.チーム長→新規部門配属合同会議\n   チーム員→募集説明会資料作成。OPは暇ならゆりかとゆーだい手伝ってあげて欲しいです。\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろすく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1",
+                    "U06LCE9AKQW",
+                    "U06LG64U8DB",
+                    "U06M7T7SSDN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

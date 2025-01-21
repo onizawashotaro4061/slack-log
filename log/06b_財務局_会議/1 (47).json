@@ -1,0 +1,380 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1728302573.446249",
+        "client_msg_id": "FE5B2B4B-2EB8-48C6-A20D-5CE3DD4FEC12",
+        "text": "<!channel> 遅くなりました会議連絡〜\n\n*第24回財務局会議*\n【時間】10\/8(火) 19:00〜\n【場所】LS606\n【議題】(予定)\n1.各種報告(意思共有)\n2.本祭のタスクについて(意思共有)\n3.諸連絡(意思共有)\n【持ち物】\nパソコン\n\n*出席する人はなんでもいいのでスタンプ！*\n遅刻・早退・欠席はスレッドへ。\n\n本祭まで残り3回！いよいよ本祭に向けた共有に入ります。気合い入れてがんばりましょー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1728381646.455139",
+        "reply_users": [
+            "U06LMQR40J0",
+            "U06LKEPTCA0",
+            "U0710SZT2S0",
+            "U070Y9REPD1"
+        ],
+        "replies": [
+            {
+                "user": "U06LMQR40J0",
+                "ts": "1728306097.019499"
+            },
+            {
+                "user": "U06LKEPTCA0",
+                "ts": "1728306396.596439"
+            },
+            {
+                "user": "U06LMQR40J0",
+                "ts": "1728311710.125779"
+            },
+            {
+                "user": "U06LMQR40J0",
+                "ts": "1728311743.398029"
+            },
+            {
+                "user": "U0710SZT2S0",
+                "ts": "1728380941.003629"
+            },
+            {
+                "user": "U070Y9REPD1",
+                "ts": "1728381646.455139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4G\/yV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなりました会議連絡〜\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第24回財務局会議",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】10\/8(火) 19:00〜\n【場所】LS606\n【議題】(予定)\n1.各種報告(意思共有)\n2.本祭のタスクについて(意思共有)\n3.諸連絡(意思共有)\n【持ち物】\nパソコン\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出席する人はなんでもいいのでスタンプ！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅刻・早退・欠席はスレッドへ。\n\n本祭まで残り3回！いよいよ本祭に向けた共有に入ります。気合い入れてがんばりましょー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071M6X48E4",
+                    "U06LK3KJNJE",
+                    "U06LXNX1XPB",
+                    "U071M700E48",
+                    "U071M6XN2GG",
+                    "U06LK0JTYD9",
+                    "U06LMH3BZ8C",
+                    "U070Y9REPD1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U071M6X48E4",
+                    "U06L4GJ031V",
+                    "U070YD6M598",
+                    "U070Y9TMG11",
+                    "U06LK3KJNJE",
+                    "U06LXNXNWGH",
+                    "U0710SZ77V2",
+                    "U070RQ0KT7Y",
+                    "U06LMH49MQU",
+                    "U071B3A03PB",
+                    "U06LK0JTYD9",
+                    "U06LK0K4XGT",
+                    "U0710SZT2S0",
+                    "U070YD6A6CA",
+                    "U06LK3NH9MG"
+                ],
+                "count": 15
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LK0JTYD9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06LXNX1XPB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1728306097.019499",
+        "client_msg_id": "F0B970A1-F0E6-4A4F-BB18-2769F08F970B",
+        "text": "すみません！\n会議が何時くらいに終わるかって大体でいいのでわかりますか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EagrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません！\n会議が何時くらいに終わるかって大体でいいのでわかりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1728306396.596439",
+        "client_msg_id": "EA90E5EF-E93F-4415-BC4F-5245F7254FD7",
+        "text": "<@U06LMQR40J0> 議題少なめだから20:30までには終わらせたいかな〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1wUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMQR40J0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 議題少なめだから20:30までには終わらせたいかな〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1728311710.125779",
+        "client_msg_id": "47203E5E-0EA7-4014-AA87-FE1FF75DC154",
+        "text": "<@U06LKEPTCA0> ありがとうございます！\nちなみになんですけどめっちゃ巻いたら企画書のその場チェックとかってお願いできますか\n<@U06LKEPTCA0> <@U06LMH49MQU> <@U06L4GJ031V> <@U06LCE4DK46> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Jy7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LKEPTCA0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！\nちなみになんですけどめっちゃ巻いたら企画書のその場チェックとかってお願いできますか\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LKEPTCA0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH49MQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJ031V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE4DK46"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1728311743.398029",
+        "client_msg_id": "740923F2-9FA3-4C92-A18C-109837C94ECA",
+        "text": "いけるなら\nツモスタンプ\nむりなら満貫スタンプ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7fHzO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いけるなら\nツモスタンプ\nむりなら満貫スタンプ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ツモ",
+                "users": [
+                    "U06LCE4DK46",
+                    "U06LMQR40J0",
+                    "U06LKEPTCA0",
+                    "U06L4GJ031V",
+                    "U06LMH49MQU",
+                    "U06LK0JTYD9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "満貫",
+                "users": [
+                    "U06LMQR40J0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

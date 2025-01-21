@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1725440196.409339",
+        "client_msg_id": "829523B6-EBF8-44A8-A02C-DA3D78B63BEE",
+        "text": "寝坊と体調不良で欠席しました。会議後の連絡になってしまってすみません。来週は絶対に行きます:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "19dc4cb2d333",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-25\/6847930732262_19dc4cb2d333d736bf3f_72.png",
+            "first_name": "中山優梨",
+            "real_name": "中山優梨",
+            "display_name": "Nakayama.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yu03240na",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725267887.743569",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBC33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊と体調不良で欠席しました。会議後の連絡になってしまってすみません。来週は絶対に行きます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LG668093",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

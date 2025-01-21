@@ -1,0 +1,278 @@
+[
+    {
+        "text": "<!channel>\n*【Slackプロフィール設定について】*\n夜分遅くに申し訳ありません:woman-bowing:\n140th Slackチームの吉良です。\nみなさん新しい局での会議が始まってお忙しいのは重々承知しているのですが、*３つ*だけお願いしたいことがあります:bangbang:\n\n1. プロフィール、ステータス設定を*４日*までに終わらせていただきたいです:bangbang:設定は添付するパワポを参照してください:bangbang:（:warning:終わっていない場合にはSlackチームから連絡します）\n2. このチャンネルの関連ページにNotionが貼ってあるので、確認してください:bangbang:\n3. もし二つのアカウントでワークスペースに入ってしまった場合は、Slackチームに連絡してください:bangbang:\n何か分からないことがあれば、いつでもご連絡ください:star:\n結成総会に参加できなかった身でこんなこと言うのは憚られるのですが、全員がSlackを円滑に、わかりやすく利用するためにご協力お願いいたします:woman-bowing::pray:",
+        "files": [
+            {
+                "id": "F06M9G7G17C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SETDKJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajXjv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【Slackプロフィール設定について】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n140th Slackチームの吉良です。\nみなさん新しい局での会議が始まってお忙しいのは重々承知しているのですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "３つ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "だけお願いしたいことがあります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プロフィール、ステータス設定を"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "４日",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "までに終わらせていただきたいです"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "設定は添付するパワポを参照してください"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "warning",
+                                        "unicode": "26a0-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "終わっていない場合にはSlackチームから連絡します）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "このチャンネルの関連ページにNotionが貼ってあるので、確認してください"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もし二つのアカウントでワークスペースに入ってしまった場合は、Slackチームに連絡してください"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n何か分からないことがあれば、いつでもご連絡ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n結成総会に参加できなかった身でこんなこと言うのは憚られるのですが、全員がSlackを円滑に、わかりやすく利用するためにご協力お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709217153.101489",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1709283132.000000"
+        },
+        "client_msg_id": "FD44DB81-1866-4464-99D3-16D07CF73E42",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LXK3RF7B",
+                    "U06L97X3V6J",
+                    "U06LK3L6B4J",
+                    "U06LCUTBMU5",
+                    "U06L4GLJVKR",
+                    "U06M7SU83G8",
+                    "U06LFKRD4MQ",
+                    "U06LXNYUX7T",
+                    "U06LXR4BPS5",
+                    "U06LH4PDAQ3",
+                    "U06LJ4HJLMS",
+                    "U06LG610ADB"
+                ],
+                "count": 13
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LXK3RF7B",
+                    "U06L97X3V6J",
+                    "U06LK3L6B4J",
+                    "U06LCUTBMU5",
+                    "U06L4GLJVKR",
+                    "U06M7SU83G8",
+                    "U06LFKRD4MQ",
+                    "U06LXNYUX7T",
+                    "U06LXR4BPS5",
+                    "U06LJ4HJLMS",
+                    "U06LCE7DY6S",
+                    "U06LG610ADB"
+                ],
+                "count": 13
+            },
+            {
+                "name": "007_渉外_渉",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LXK3RF7B",
+                    "U06L4GLJVKR",
+                    "U06LK3LMEPL",
+                    "U06M7SU83G8",
+                    "U06LFKRD4MQ",
+                    "U06LXNYUX7T",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 8
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06M7SU83G8",
+                    "U06LFKRD4MQ",
+                    "U06LXNYUX7T",
+                    "U06LJ4HJLMS",
+                    "U06M7SUULGY",
+                    "U06L4CMKY8P",
+                    "U06LG610ADB"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LG610ADB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

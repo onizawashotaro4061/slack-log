@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1711899593.357169",
+        "client_msg_id": "1EE5036B-8A6A-45C0-B13C-CC970B9CBD50",
+        "text": "5日の夕方とかどうですか？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711809154.108359",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xoWC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5日の夕方とかどうですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0DN10T",
+                    "U06LMH5ACE8",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1711937479.319579",
+        "client_msg_id": "2DA0D6A1-3B93-40B1-84F1-BA3A6BB527DF",
+        "text": "5日、17時には帰らないとなのですが（バイト）17時まで新歓ですごめんなさいいられないかもしれないっっ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711809154.108359",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1ntT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5日、17時には帰らないとなのですが（バイト）17時まで新歓ですごめんなさいいられないかもしれないっっ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06M7SBFPFS",
+        "thread_ts": "1730094653.177209",
+        "root": {
+            "user": "U06LMGM3CG4",
+            "type": "message",
+            "ts": "1730094653.177209",
+            "edited": {
+                "user": "U06LMGM3CG4",
+                "ts": "1730094711.000000"
+            },
+            "client_msg_id": "8a91b87a-98b1-43b3-ba6b-15fef75e47e6",
+            "text": "<@U06LE249H0V>\n<!channel>\nお疲れ様です。滉平へ\n05_マニュアル\n06_各種チェック物\n\n• 今日、“明治“好きになりましたマニュアル\n• Can Make Candleマニュアル\n• Ohーo!明治カーニバルマニュアル\n• ツアー受付人員マニュアル\n• メディア棟前企画受付マニュアル\n• ゴール教室BGM\n• ゴール教室平面媒体\n• ツアーフリップ\n• 迷Q伝説キーワード\n• ツアー冊子\n• スポーツ掲示物\n• 受験生相談会パワポ\n• 受験生参考書の使い方文、紹介文\n• 受験生参考書使い方テンプレート\n• 握力チャレンジ企画掲示物\n• スポーツ当日記録用紙\n局議事録あげてないし。\nリンク貼ったらキリないんで貼りません、自分で探してください。\n\n2年継続に代わって代弁します。ぜーんぶ*滉平*待ちです。おまけに大体役員会チェックが必要そうなやつばっかなんだけど、直前期に何してるんですか？また逃げるの？",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1730094653.177209",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1730107866.182169",
+            "reply_users": [
+                "U06M7SBFPFS"
+            ],
+            "replies": [
+                {
+                    "user": "U06M7SBFPFS",
+                    "ts": "1730107866.182169"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "twONd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U06LE249H0V"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nお疲れ様です。滉平へ\n05_マニュアル\n06_各種チェック物\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "今日、“明治“好きになりましたマニュアル"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Can Make Candleマニュアル"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ohーo!明治カーニバルマニュアル"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ツアー受付人員マニュアル"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "メディア棟前企画受付マニュアル"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ゴール教室BGM"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ゴール教室平面媒体"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ツアーフリップ"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "迷Q伝説キーワード"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ツアー冊子"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "スポーツ掲示物"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "受験生相談会パワポ"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "受験生参考書の使い方文、紹介文"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "受験生参考書使い方テンプレート"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "握力チャレンジ企画掲示物"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "スポーツ当日記録用紙"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n局議事録あげてないし。\nリンク貼ったらキリないんで貼りません、自分で探してください。\n\n2年継続に代わって代弁します。ぜーんぶ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "滉平",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "待ちです。おまけに大体役員会チェックが必要そうなやつばっかなんだけど、直前期に何してるんですか？また逃げるの？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1730107866.182169",
+        "client_msg_id": "B5322819-A136-4DB2-8FFA-3411EAC55099",
+        "text": "制作局に作っていただいたものもろもろメンション溜まってるのでそれも全部今日中に見てね！君のチェックがつかないからみんな印刷できなくて困ってるからね！！！！！人は明実を理由に死ぬことないんで！絶対に見れるからね！！",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "31pd2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "制作局に作っていただいたものもろもろメンション溜まってるのでそれも全部今日中に見てね！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "君のチェックがつかないからみんな印刷できなくて困ってるからね！！！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "人は明実を理由に死ぬことないんで！絶対に見れるからね！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U06LE249H0V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

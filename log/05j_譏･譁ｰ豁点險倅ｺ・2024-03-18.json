@@ -1,0 +1,75 @@
+[
+    {
+        "text": "<@U06LCE9HTP0> <@U06L4GJBJP9> \n画像チェック通ったので使ってください〜！",
+        "files": [
+            {
+                "id": "F06QVMQ5CBS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06Q40VGNR3",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06Q40VGNDT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNWSGPK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kE0Bx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJBJP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n画像チェック通ったので使ってください〜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710831552.433279",
+        "client_msg_id": "959E1A26-A985-48C3-9554-7EBD8580311E",
+        "reactions": [
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N",
+                    "U06LCE78Y94"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N",
+                    "U06LCE78Y94"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

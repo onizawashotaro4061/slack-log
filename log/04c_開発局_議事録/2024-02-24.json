@@ -1,0 +1,31 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LJ4HJLMS",
+        "text": "<@U06LJ4HJLMS>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1708778987.922169"
+    },
+    {
+        "subtype": "channel_convert_to_public",
+        "user": "U06LJ4HJLMS",
+        "text": "さんがこのチャンネルを＊パブリック＊に設定しました。このワークスペースのメンバーであれば、誰でも表示でき、参加できます。",
+        "type": "message",
+        "ts": "1708783891.172909"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LFKRD4MQ",
+        "text": "<@U06LFKRD4MQ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1708783943.834289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "inviter": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1708842968.166569"
+    }
+]

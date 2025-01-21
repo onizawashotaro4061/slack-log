@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1716283582.755059",
+        "client_msg_id": "146b979f-e93a-4d23-b9b2-b8f44f59510b",
+        "text": "スマホがぶっ壊れたので30分くらい遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716248850.278379",
+        "parent_user_id": "U06LK3HUVTL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CN9Ld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スマホがぶっ壊れたので30分くらい遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mahjong",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LXNY8KMF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LXNWSGPK",
+                    "U06LXNY8KMF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06LXNWSGPK",
+                    "U06LXNY8KMF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1716283621.973799",
+        "client_msg_id": "7112102a-5ad1-4270-9cec-e0ba6e1f7230",
+        "text": "大変申し訳ございません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716248850.278379",
+        "parent_user_id": "U06LK3HUVTL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+CLl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大変申し訳ございません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG60SFEH",
+        "type": "message",
+        "ts": "1716284660.621889",
+        "client_msg_id": "BEA84A24-3E95-458B-B010-21F04AD93B96",
+        "text": "ほんとすみません電車乗り遅れたので10分くらい遅れます謝罪 :face_holding_back_tears: :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e05d20e652a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7177185164149_e05d20e652a4e4b9a686_72.png",
+            "first_name": "田中琴葉",
+            "real_name": "田中琴葉",
+            "display_name": "Tanaka.Kotoha",
+            "team": "T06L90YHJF8",
+            "name": "nmaru8645",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716248850.278379",
+        "parent_user_id": "U06LK3HUVTL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWDT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんとすみません電車乗り遅れたので10分くらい遅れます謝罪 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

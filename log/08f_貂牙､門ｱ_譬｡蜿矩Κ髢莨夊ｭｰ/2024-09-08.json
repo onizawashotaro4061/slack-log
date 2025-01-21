@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1725853981.093919",
+        "client_msg_id": "882ED7B5-5765-414A-88AC-AE9F8B04D3AD",
+        "text": "帰省中なのでリモート参加します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725767917.598949",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/nSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "帰省中なのでリモート参加します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070VFRN7PX",
+        "type": "message",
+        "ts": "1725856695.027809",
+        "client_msg_id": "ACCA5FE3-FCFF-4F08-A6FE-D2F9BC1F0BDD",
+        "text": "掛け持ちしているサークルの合宿があるため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "15cce351931b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-01\/7966829305810_15cce351931b99f69ada_72.png",
+            "first_name": "横田清佳",
+            "real_name": "横田清佳",
+            "display_name": "Yokota.Sayaka",
+            "team": "T06L90YHJF8",
+            "name": "bonsoir.sayaka25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725767917.598949",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nl9XO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "掛け持ちしているサークルの合宿があるため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U070HS2GY5V",
+        "type": "message",
+        "ts": "1725953282.858529",
+        "client_msg_id": "7ecc6157-e998-4ade-98f6-817202489a83",
+        "text": "私用の為欠席させていただきます。連絡遅くなってほんとにごめんなさい:sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10e42254d341",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7017905306551_10e42254d3418983cc64_72.jpg",
+            "first_name": "本村つくし",
+            "real_name": "本村つくし",
+            "display_name": "Motomura.Tsukushi",
+            "team": "T06L90YHJF8",
+            "name": "tsukushibencun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725901115.894359",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLhlt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用の為欠席させていただきます。連絡遅くなってほんとにごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "つくしんぼ",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "つくしはえた",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

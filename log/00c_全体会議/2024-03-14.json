@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1710406809.471959",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1710406901.000000"
+        },
+        "client_msg_id": "B101D704-34BA-479C-AA9C-5830711F3A99",
+        "text": "<!channel>\n0316_3月期総会\n時間:13:00-15:00\n場所:和泉ラーニングスクエアLS402教室\n議題:\n①各局報告\n②委員長挨拶\n③委員長報告\n④次長挨拶\n⑤新歓について\n⑥各種共有\n⑦縦割りコンテンツ(開発)\n\n<https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7|https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7>\n*全員出欠フォームに回答すること！！*\n\n3月期総会ですね。\n皆さんに会えるのを楽しみにしております。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/A-KR-UO3ZjQ-4kZocrKevIvUmi13UCWYc0GukIWFJjRKdHUDgRuYcl-AO9wYz65aTHfvLwOyiaQ",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 26161,
+                "from_url": "https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7",
+                "fallback": "Google Docs: 3月期総会出欠フォーム",
+                "title": "3月期総会出欠フォーム",
+                "title_link": "https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blvWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0316_3月期総会\n時間:13:00-15:00\n場所:和泉ラーニングスクエアLS402教室\n議題:\n①各局報告\n②委員長挨拶\n③委員長報告\n④次長挨拶\n⑤新歓について\n⑥各種共有\n⑦縦割りコンテンツ(開発)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7",
+                                "text": "https:\/\/forms.gle\/qkhhH8MpmyRH1WAz7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全員出欠フォームに回答すること！！\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3月期総会ですね。\n皆さんに会えるのを楽しみにしております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "000_委員長",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LDT584J1",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LXNY0MHP",
+                    "U06LDT584J1",
+                    "U06LJ4HJLMS",
+                    "U06LK0FUAHZ",
+                    "U06M7TE180Y",
+                    "U06LK3LMEPL",
+                    "U06LK0DLEQ3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK3HUVTL",
+                    "U06LMH49MQU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

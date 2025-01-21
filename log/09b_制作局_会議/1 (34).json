@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1718698900.835039",
+        "client_msg_id": "7b58cb9a-0061-4b71-817f-9b2461158b7e",
+        "text": "説明会のため1時間遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718676333.056889",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ekL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "説明会のため1時間遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "はなまるさんじゃなくてはなまるがいいです",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "財就活_しよう",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06L4GH3T7H",
+                    "U06L4GM463H",
+                    "U06LCE69DRU"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1731336099.619329",
+        "client_msg_id": "736ab9af-2d80-42e3-83cd-05430597ae0a",
+        "text": "【次年度会議の出席調査】\n<!channel>\n夜分遅くに失礼いたします。\n副委員長の橋本です。\n標記の件につきまして、明日の次年度会議に【出席・遅刻・早退】される方は以下のフォームにご回答ください。\n欠席の方は回答する必要はありません。\nよろしくお願いします。\n<https:\/\/forms.gle\/dF5QnVrekLqYR86D6>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/sIvgRz881YP4_mdg4O2BYKwCNuKmE16UUKsyri_GLLG5zExVfCHr9qm5cvB-Ao6mXwoHLVyqyDE",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 24390,
+                "from_url": "https:\/\/forms.gle\/dF5QnVrekLqYR86D6",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/dF5QnVrekLqYR86D6",
+                "fallback": "Google Docs: 次年度会議　出欠フォーム",
+                "title": "次年度会議　出欠フォーム",
+                "title_link": "https:\/\/forms.gle\/dF5QnVrekLqYR86D6",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmUu1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【次年度会議の出席調査】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに失礼いたします。\n副委員長の橋本です。\n標記の件につきまして、明日の次年度会議に【出席・遅刻・早退】される方は以下のフォームにご回答ください。\n欠席の方は回答する必要はありません。\nよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/dF5QnVrekLqYR86D6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U0710T3MCUC",
+                    "U06LY5XNLBT",
+                    "U070YD778SE",
+                    "U06L4GH3T7H",
+                    "U06LK3MF9FC",
+                    "U070VFTRR61",
+                    "U06L97X3V6J",
+                    "U070Y9Q9151",
+                    "U070YD83MD0",
+                    "U06LXNY0MHP"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1731396151.396239",
+        "client_msg_id": "D5769126-5DF2-4FB9-90E6-3B108224DED4",
+        "text": "<!channel> 班分けの都合、今日来るよって方は18：00までに答えていただけると助かります！\n期限が短く申し訳ないですが、よろしくお願いします！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSKJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 班分けの都合、今日来るよって方は18：00までに答えていただけると助かります！\n期限が短く申し訳ないですが、よろしくお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06M7SETDKJ",
+                    "U070YD778SE",
+                    "U071M740R32"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LXNY0MHP",
+                    "U070VFTRR61"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ぱぱ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LY5XNLBT"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

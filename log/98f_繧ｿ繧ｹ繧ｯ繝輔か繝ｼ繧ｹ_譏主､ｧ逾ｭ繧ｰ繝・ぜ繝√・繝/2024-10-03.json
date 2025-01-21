@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LG62T3MK",
+        "type": "message",
+        "ts": "1728024823.853929",
+        "client_msg_id": "51b89ea5-7600-40a1-a05c-4361b948dceb",
+        "text": "自分片方やります。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8fb1d222148e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6696596386453_8fb1d222148ec77d32c1_72.png",
+            "first_name": "富田陸",
+            "real_name": "富田陸",
+            "display_name": "Tomita.Riku",
+            "team": "T06L90YHJF8",
+            "name": "tomiriku60",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727924578.644169",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cD4co",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分片方やります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

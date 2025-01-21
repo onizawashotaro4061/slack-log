@@ -1,0 +1,335 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1713087567.581339",
+        "client_msg_id": "AEE2B3E5-1185-4083-9FD0-7CC55A7A9219",
+        "text": "<!channel> \n会議連絡\n【時間】4\/16(火) 19:00〜\n【場所】あとで連絡します\n【議題】(予定)\n1.各種共有(意思共有)\n2.意義経緯（一般企画書）について(意思共有)\n3.部門会議\n\n遅刻欠席はスレッドまで〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713087567.581339",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1713261848.591909",
+        "reply_users": [
+            "U06LMH4T528",
+            "U06LXNY0MHP",
+            "U06LG63FM1B",
+            "U06M7T3TQ0Y",
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH4T528",
+                "ts": "1713173640.664729"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1713239366.693969"
+            },
+            {
+                "user": "U06LG63FM1B",
+                "ts": "1713261379.626389"
+            },
+            {
+                "user": "U06M7T3TQ0Y",
+                "ts": "1713261675.322749"
+            },
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1713261848.591909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGf1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】4\/16(火) 19:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】あとで連絡します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】(予定)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.各種共有(意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2.意義経緯（一般企画書）について(意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3.部門会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻欠席はスレッドまで〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LK0G74NP",
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LG63FM1B",
+                    "U06LXNY0MHP",
+                    "U06LG64U8DB",
+                    "U06M7T3TQ0Y",
+                    "U06LMHBUVT6"
+                ],
+                "count": 10
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U06LG64U8DB",
+                    "U06L4GM9N5V",
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT",
+                    "U06LCE9AKQW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "餃子屋みんみん",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCE9AKQW",
+                    "U06LG64U8DB",
+                    "U06L4GM9N5V",
+                    "U06LCECJD8W",
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT"
+                ],
+                "count": 7
+            },
+            {
+                "name": "北見純一朗",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG64U8DB",
+                    "U06L4GM9N5V",
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "flag-mz",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "河野太郎",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LXP2EGKT",
+                    "U06LG64U8DB",
+                    "U06LCECJD8W",
+                    "U06LK3L32MQ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT",
+                    "U06LG64U8DB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LK3MF9FC",
+                    "U06LK3L32MQ",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK0G74NP",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LK3L32MQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH5ACGL",
+        "type": "message",
+        "ts": "1713106464.715149",
+        "client_msg_id": "A6FE819B-A5FA-42D9-B85D-65886F45C343",
+        "text": "予定があるため欠席させていただきます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "80e95ee505dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-04\/7241064541184_80e95ee505ddee9fe8ae_72.png",
+            "first_name": "加藤楓華",
+            "real_name": "加藤楓華",
+            "display_name": "Kato.Fuka",
+            "team": "T06L90YHJF8",
+            "name": "fuka.0203.sora",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2FyDg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席させていただきます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06L2DCDLF9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ふっ重ふーちゃん",
+                "users": [
+                    "U06LG64U8DB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

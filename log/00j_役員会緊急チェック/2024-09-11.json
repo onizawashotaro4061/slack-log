@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1726093593.642239",
+        "client_msg_id": "3f1b03e2-e4b8-46f7-b1c1-7bcf8f283f37",
+        "text": "<@U06LE9EH9QV>\nおつかれさまです。\n広報局学外広報部門の滝本です。\n本日の13：00頃には父母会側に記事原稿を送付したいため、緊急チェックを使わせていただきます:woman-bowing:\nお忙しい中で申し訳ないのですが、ご確認のほどよろしくお願いいたします。\n<https:\/\/www.notion.so\/_-4492b863f07540eb8ab6a2155e4ecafb?pvs=4>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81SJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです。\n広報局学外広報部門の滝本です。\n本日の13：00頃には父母会側に記事原稿を送付したいため、緊急チェックを使わせていただきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお忙しい中で申し訳ないのですが、ご確認のほどよろしくお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/_-4492b863f07540eb8ab6a2155e4ecafb?pvs=4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726106170.976009",
+        "client_msg_id": "f72ab4d3-caa7-43fb-bcd2-e9180a9dfd3a",
+        "text": "<@U06LCUTBMU5> <@U06LE9EH9QV> <@U06LDT584J1>\nお疲れ様です。\n演出局空間創世部門長の古川です。\n本日の15：00～第二回出演者説明会を行う予定ですので、緊急チェックを使わせていただきます。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いします。\n<https:\/\/www.notion.so\/95398d524653423490288d0c43e20ac8?v=7929bd3110084ce981f9d0f4c014b49e&amp;p=069cdba395184b2ab2f8ab5cce18ff4b&amp;pm=s>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZy6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCUTBMU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LDT584J1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n演出局空間創世部門長の古川です。\n本日の15：00～第二回出演者説明会を行う予定ですので、緊急チェックを使わせていただきます。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/95398d524653423490288d0c43e20ac8?v=7929bd3110084ce981f9d0f4c014b49e&p=069cdba395184b2ab2f8ab5cce18ff4b&pm=s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "橋本",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

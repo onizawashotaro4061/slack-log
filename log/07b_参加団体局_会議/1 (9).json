@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1710949903.730939",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1710949910.000000"
+        },
+        "client_msg_id": "BF4F5C85-082F-4D69-8D56-5813BECCEA83",
+        "text": "新規優先枠<バンド団体関連",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710839853.514299",
+        "parent_user_id": "U06LKTXCZL4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfXca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規優先枠<バンド団体関連"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1710949937.580989",
+        "client_msg_id": "A444D27E-0888-45BC-93BA-76BAC6633787",
+        "text": "作成資料説明&amp;チェック先",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710839853.514299",
+        "parent_user_id": "U06LKTXCZL4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GwimG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作成資料説明&チェック先"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

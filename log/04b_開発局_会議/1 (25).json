@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1714464092.067319",
+        "client_msg_id": "8E8EA6AC-C237-4A13-B197-A0697A797945",
+        "text": "<!channel> \n本日の会議、場所を図書館のグループ閲覧室と言っていましたが、\n*和泉ラーニングスクエアLS501教室*\n変更になったので、みんなLS501に来てください！間違えないように気をつけてねー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQ+3P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n本日の会議、場所を図書館のグループ閲覧室と言っていましたが、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "和泉ラーニングスクエアLS501教室\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "変更になったので、みんなLS501に来てください！間違えないように気をつけてねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U06LMH49UQL",
+                    "U070HS55A8P",
+                    "U06L4GKGXB9",
+                    "U071M6X5M16",
+                    "U06LK04QJ0K"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ1EK2S",
+                    "U06LK04QJ0K",
+                    "U070VFQM2N9",
+                    "U0710SZT276",
+                    "U070RQ167FG"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

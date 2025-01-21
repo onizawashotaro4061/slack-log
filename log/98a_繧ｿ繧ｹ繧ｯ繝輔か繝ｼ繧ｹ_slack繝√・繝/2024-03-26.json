@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1711439626.391359",
+        "client_msg_id": "B182F6E5-8D6A-4444-BE6B-7F1D4396AC75",
+        "text": "ありがとう！notionの件はdmで詳しく聞いてみます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6AjY0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう！notionの件はdmで詳しく聞いてみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

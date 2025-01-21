@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1716187551.668699",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1716190661.000000"
+        },
+        "client_msg_id": "20d03fd7-3f67-4d85-85b3-64260e8df8a4",
+        "text": "<!channel>\n0523_運営局三年会会議\n【時間】\n17：40〜18：40\n【場所】\n和泉図書館グループ閲覧室1\n予約番号・・33867\n【議題】\n1. 1・3年会について（意見交換・決定）\n2. 当日マニュアルアンケート分析（意見交換）\n【持ち物】\nパソコン\n【議事録・報告】\n大谷亮太\n\n確認したらリアクションを！\n欠席・遅刻・早退はグループLINEにて連絡\n\n色々足してみました。\n確認してください！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716187551.668699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716187757.640909",
+        "reply_users": [
+            "U06L4H8CGQP"
+        ],
+        "replies": [
+            {
+                "user": "U06L4H8CGQP",
+                "ts": "1716187757.640909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33qFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0523_運営局三年会会議\n【時間】\n17：40〜18：40\n【場所】\n和泉図書館グループ閲覧室1\n予約番号・・33867\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1・3年会について（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "当日マニュアルアンケート分析（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\nパソコン\n【議事録・報告】\n大谷亮太\n\n確認したらリアクションを！\n欠席・遅刻・早退はグループLINEにて連絡\n\n色々足してみました。\n確認してください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GHLP2B",
+                    "U06LG66LXAR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4H8CGQP",
+        "type": "message",
+        "ts": "1716187757.640909",
+        "client_msg_id": "e5ac40d5-c111-47f5-af95-a446280ad9b1",
+        "text": "議事録・報告はりょうたじゃないかな",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ba9dc0d36d32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7919954690151_ba9dc0d36d32f99c01bc_72.jpg",
+            "first_name": "小倉翔太",
+            "real_name": "小倉翔太",
+            "display_name": "Ogura.Shouta",
+            "team": "T06L90YHJF8",
+            "name": "show4917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716187551.668699",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s1MG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "議事録・報告はりょうたじゃないかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

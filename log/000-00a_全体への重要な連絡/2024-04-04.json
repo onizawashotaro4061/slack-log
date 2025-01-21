@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1712220695.285009",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1712220729.000000"
+        },
+        "client_msg_id": "6cf27c6b-3dc0-4d9f-9189-5851ce3f1f4a",
+        "text": "【zoom説明会のリンク】\n <!channel>\n<https:\/\/us05web.zoom.us\/j\/81859747568?pwd=NNLNK9XE9hmdGxe0nGCQlmD8TQNoxS.1>\n事前に参加するよう言われてる人だけ入ってください。\n法被着用・ミュート・顔出しでお願いします。\nみんなに見られてるからね。しかるべき態度で臨んでください！\n名前は\n役職名（局名）　名前で！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPl2Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【zoom説明会のリンク】\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/81859747568?pwd=NNLNK9XE9hmdGxe0nGCQlmD8TQNoxS.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n事前に参加するよう言われてる人だけ入ってください。\n法被着用・ミュート・顔出しでお願いします。\nみんなに見られてるからね。しかるべき態度で臨んでください！\n名前は\n役職名（局名）　名前で！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

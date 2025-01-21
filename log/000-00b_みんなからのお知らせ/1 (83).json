@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1731660366.391769",
+        "client_msg_id": "f3a4bc7a-34c4-4178-b530-b37aed118256",
+        "text": "【杉並区広報誌「すぎキャン」の写真撮影について】\n<!channel>\nお疲れ様です。\n副委員長の橋本です。\n標記の件ですが、大学より杉並区広報誌「すぎキャン」取材の中で「めいじろう」と「なみすけ」を撮影する際に一緒に写真に写ってくれる学生の協力を求めていると連絡がございました。\n下記に詳細を記しますので、ご協力いただける方は11月19日(火)までに:00-出席:を押してください！\nご協力のほどよろしくお願いいたします！\n\n【すぎキャンとは】<https:\/\/www.city.suginami.tokyo.jp\/kusei\/kyoiku\/6daigaku\/1014045.html>\n【撮影日時】11月26日(火) 11：10～11：55\n【撮影場所】正門前、和泉図書館前、和泉ラーニングスクエア前など\n【撮影者】杉並区、明治大学広報課",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.city.suginami.tokyo.jp\/_template_\/_site_\/_default_\/_res\/images\/sns\/ogimage.png",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 59432,
+                "from_url": "https:\/\/www.city.suginami.tokyo.jp\/kusei\/kyoiku\/6daigaku\/1014045.html",
+                "service_icon": "https:\/\/www.city.suginami.tokyo.jp\/_template_\/_site_\/_default_\/_res\/images\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.city.suginami.tokyo.jp\/kusei\/kyoiku\/6daigaku\/1014045.html",
+                "fallback": "杉並区公式ホームページ: 『すぎ☆キャン！』（杉並区と杉並5大学の情報誌）",
+                "text": "杉並区公式ホームページ",
+                "title": "『すぎ☆キャン！』（杉並区と杉並5大学の情報誌）",
+                "title_link": "https:\/\/www.city.suginami.tokyo.jp\/kusei\/kyoiku\/6daigaku\/1014045.html",
+                "service_name": "杉並区公式ホームページ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9jSKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【杉並区広報誌「すぎキャン」の写真撮影について】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n副委員長の橋本です。\n標記の件ですが、大学より杉並区広報誌「すぎキャン」取材の中で「めいじろう」と「なみすけ」を撮影する際に一緒に写真に写ってくれる学生の協力を求めていると連絡がございました。\n下記に詳細を記しますので、ご協力いただける方は11月19日(火)までに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "00-出席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を押してください！\nご協力のほどよろしくお願いいたします！\n\n【すぎキャンとは】"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.city.suginami.tokyo.jp\/kusei\/kyoiku\/6daigaku\/1014045.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【撮影日時】11月26日(火) 11：10～11：55\n【撮影場所】正門前、和泉図書館前、和泉ラーニングスクエア前など\n【撮影者】杉並区、明治大学広報課"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U070HS37DQX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U0710T3MCUC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

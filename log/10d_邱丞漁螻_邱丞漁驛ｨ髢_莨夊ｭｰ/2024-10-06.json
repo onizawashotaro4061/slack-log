@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1728220127.504469",
+        "client_msg_id": "F19454F2-79C4-4B94-A65D-19C6FA06EAA1",
+        "text": "体調不良で休みます。\nほんとに色々ごめんなさい :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "505ccc9859c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7147585741537_505ccc9859c9433912a5_72.png",
+            "first_name": "木村優里",
+            "real_name": "木村優里",
+            "display_name": "Kimura.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yuri.0903star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728179673.420269",
+        "parent_user_id": "U06LG6B2NA1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jyR8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で休みます。\nほんとに色々ごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LCE9NLP8",
+                    "U070HS28L15",
+                    "U06LG6B2NA1",
+                    "U06LG62FNP7",
+                    "U070VFP05K7",
+                    "U06M7SZ5WG0",
+                    "U070YD8BGRG"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1728259578.296779",
+        "client_msg_id": "C8C11E14-C043-4ED8-B27B-1B65B68B80EF",
+        "text": "サークルあるので間に合わないかもしれないです。ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728179673.420269",
+        "parent_user_id": "U06LG6B2NA1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMsVJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークルあるので間に合わないかもしれないです。ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

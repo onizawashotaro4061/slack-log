@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06LK3KJNJE",
+        "type": "message",
+        "ts": "1725466037.854969",
+        "edited": {
+            "user": "U06LK3KJNJE",
+            "ts": "1725466048.000000"
+        },
+        "client_msg_id": "C041CD0F-CB64-43C7-9010-B322E91F2340",
+        "text": "免許合宿に行くため休みます、すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b962914616f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-03\/7668026566596_b962914616f7aa66543e_72.png",
+            "first_name": "足立光琉",
+            "real_name": "足立光琉",
+            "display_name": "Adachi.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hikarururu81204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725351197.731179",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27IgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "免許合宿に行くため休みます、すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "財＿喫煙",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU",
+                    "U06LXNX1XPB",
+                    "U06LMQR40J0"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06M7SQ7QL8",
+        "type": "message",
+        "ts": "1725504758.624969",
+        "client_msg_id": "555CCD9E-A8ED-4E4B-B8CF-C7410958FED1",
+        "text": "私も免許合宿に行くため休ませていただきます:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7562f2d050bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818430171429_7562f2d050bf4207d6ca_72.png",
+            "first_name": "笠井春花",
+            "real_name": "笠井春花",
+            "display_name": "Kasai.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruki6c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725351197.731179",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KVjkL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も免許合宿に行くため休ませていただきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "財_きゃしチェック",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU",
+                    "U06LXNX1XPB"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

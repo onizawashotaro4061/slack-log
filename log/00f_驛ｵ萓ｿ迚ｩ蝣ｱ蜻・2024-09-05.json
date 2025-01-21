@@ -1,0 +1,283 @@
+[
+    {
+        "user": "U070VFRCQBF",
+        "type": "message",
+        "ts": "1725585470.797139",
+        "client_msg_id": "22cd85ff-a75c-4e63-83ff-8e85d2294439",
+        "text": "<@U06L4GM5C87> お疲れ様です！了解です！ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d68a03d646b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-24\/7170384639332_d68a03d646b5c916b607_72.png",
+            "first_name": "田村優真",
+            "real_name": "田村優真",
+            "display_name": "Tamura.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yuma.tamura114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725500166.030619",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOEMx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GM5C87"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！了解です！ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1725594707.589299",
+        "client_msg_id": "f7453b4a-8dc3-41e7-b34f-362ed425fec6",
+        "text": "<@U070VFRCQBF>お疲れ様です！\n昨日と同じような荷物届いたのでドア入ってすぐのとこに置いときますー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+sOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070VFRCQBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n昨日と同じような荷物届いたのでドア入ってすぐのとこに置いときますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07L74KTMH8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNY0MHP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725594718.791269",
+        "client_msg_id": "cfec71a6-a025-4dd6-84fc-7838098c3c51",
+        "thread_ts": "1725594718.791269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725596115.670729",
+        "reply_users": [
+            "U070VFRCQBF"
+        ],
+        "replies": [
+            {
+                "user": "U070VFRCQBF",
+                "ts": "1725596115.670729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U070VFRCQBF",
+        "type": "message",
+        "ts": "1725596115.670729",
+        "client_msg_id": "4CFF8994-F18A-4F1E-9060-99B6BAF0987A",
+        "text": "<@U06LXNY0MHP> 了解です！ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d68a03d646b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-24\/7170384639332_d68a03d646b5c916b607_72.png",
+            "first_name": "田村優真",
+            "real_name": "田村優真",
+            "display_name": "Tamura.Yuma",
+            "team": "T06L90YHJF8",
+            "name": "yuma.tamura114",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725594718.791269",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/x2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNY0MHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1725597260.827439",
+        "client_msg_id": "34E62C5F-4214-402B-867E-B3ECBD08206F",
+        "text": "<@U06LE9EH9QV> <@U06LK3LM7AN> <@U06LXNXNWGH> \nお届け物です。\n財務局、制作局、役員会のレターボックスにそれぞれ入れてあるのでご確認お願いします:palms_up_together:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725597260.827439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1725614496.537079",
+        "reply_users": [
+            "U06LCUTBMU5",
+            "U06LK3LM7AN"
+        ],
+        "replies": [
+            {
+                "user": "U06LCUTBMU5",
+                "ts": "1725597279.463949"
+            },
+            {
+                "user": "U06LK3LM7AN",
+                "ts": "1725614496.537079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/wK3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3LM7AN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNXNWGH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお届け物です。\n財務局、制作局、役員会のレターボックスにそれぞれ入れてあるのでご確認お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07LKTU4YKT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1725597279.463949",
+        "client_msg_id": "8DB33B02-D276-46BB-8390-531556036C73",
+        "thread_ts": "1725597260.827439",
+        "parent_user_id": "U06LCUTBMU5"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U06LK0E89MH",
+        "type": "message",
+        "ts": "1719536961.867929",
+        "client_msg_id": "82F072D5-44D6-4A83-A593-FAC08F661B79",
+        "text": "*雨天予報のため今日のクリーンウォークは中止です！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10abff051f8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491436038_10abff051f8ccf96b5c9_72.png",
+            "first_name": "大野聖雅",
+            "real_name": "大野聖雅",
+            "display_name": "Ohno.Seiga",
+            "team": "T06L90YHJF8",
+            "name": "seiga.ohno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719201896.448909",
+        "parent_user_id": "U06LK0E89MH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tIvEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "雨天予報のため今日のクリーンウォークは中止です！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LCED6ZK8",
+                    "U070YD778SE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U070YD778SE",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

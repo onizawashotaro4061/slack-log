@@ -1,0 +1,411 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973534.883989",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1726973543.000000"
+        },
+        "client_msg_id": "6BC82758-5EF0-41E2-85E5-3BCB8238C0ED",
+        "text": "<!channel> \nビジョンチームの皆さん\nお疲れ様！！委員長の前です！\n緊急なんですけどみんなと一緒にzoomしたいと思いました。色々考えてることあるんで聞いてもらって思ってることぶつけてほしいなと思っております。\nなるべくみんないるところでやりたいので昼休みか夜の時間計らってやりたいです！\nよろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1727066529.887959",
+        "reply_users": [
+            "U06L97X3V6J",
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1726973561.860839"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1726973637.134979"
+            },
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1726973809.188689"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1726973849.994619"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1726973853.402289"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1726973877.818349"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1727066529.887959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oac94",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nビジョンチームの皆さん\nお疲れ様！！委員長の前です！\n緊急なんですけどみんなと一緒にzoomしたいと思いました。色々考えてることあるんで聞いてもらって思ってることぶつけてほしいなと思っております。\nなるべくみんないるところでやりたいので昼休みか夜の時間計らってやりたいです！\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070Y9UEAAF",
+                    "U06LK0DN10T",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070Y9UEAAF",
+                    "U06LK0DN10T",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973561.860839",
+        "client_msg_id": "0F099E85-F0FF-4E10-8282-C775316A1EE5",
+        "text": "ちなみに明日の夜とかどうですか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKZC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに明日の夜とかどうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U06LK0DN10T",
+                    "U070Y9UEAAF",
+                    "U06LMH9MBFW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973637.134979",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1726973644.000000"
+        },
+        "client_msg_id": "6BE43306-3110-481E-976E-0E9A17F4BEB1",
+        "text": "ー22時バイトなんでそれ以降やったらいつでも大丈夫！僕は！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tjXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ー22時バイトなんでそれ以降やったらいつでも大丈夫！僕は！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1726973809.188689",
+        "client_msg_id": "219A41AA-7DB9-4320-89C9-3F9FC6BDA37C",
+        "text": "明日の夜はちょっと私は厳しいですごめんなさい、、、、、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBqq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の夜はちょっと私は厳しいですごめんなさい、、、、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973849.994619",
+        "client_msg_id": "F29FB15B-3A3A-4B26-8627-C4F4004EC4FD",
+        "text": "明日夜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uabWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日夜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J",
+                    "U070Y9UEAAF",
+                    "U06LMH9MBFW",
+                    "U06LMH5ACE8",
+                    "U070YDBG6N6",
+                    "U06LK0DN10T"
+                ],
+                "count": 6
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LK3L6B4J",
+                    "U070HS35ECX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973853.402289",
+        "client_msg_id": "0CB4E59D-E88E-4859-872E-BF5DF89A9989",
+        "text": "明後日夜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8BP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明後日夜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J",
+                    "U070Y9UEAAF",
+                    "U06LMH9MBFW",
+                    "U06LK0DN10T"
+                ],
+                "count": 4
+            },
+            {
+                "name": "がんばる",
+                "users": [
+                    "U06LK3L6B4J",
+                    "U06LK3MF9FC",
+                    "U06LMH5ACE8",
+                    "U070YDBG6N6",
+                    "U070HS35ECX",
+                    "U06LK0BP1TM"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1726973877.818349",
+        "client_msg_id": "6DC46DF8-1E9C-4CFE-98C1-EC26EB25E0EC",
+        "text": "一回行けるとこリアクションして欲しい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726973534.883989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A7pgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一回行けるとこリアクションして欲しい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

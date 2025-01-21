@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LG66LXAR",
+        "type": "message",
+        "ts": "1718872011.527859",
+        "client_msg_id": "FF493F3B-7BB3-4EC7-B756-6048DF8669EE",
+        "text": "チェックインだけしたよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5f3a4b2ead3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6731002454404_5f3a4b2ead3e65d3478c_72.png",
+            "first_name": "水川祥",
+            "real_name": "水川祥",
+            "display_name": "mizukawa.sho",
+            "team": "T06L90YHJF8",
+            "name": "sho777mizu55",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718762351.685219",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2RlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チェックインだけしたよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

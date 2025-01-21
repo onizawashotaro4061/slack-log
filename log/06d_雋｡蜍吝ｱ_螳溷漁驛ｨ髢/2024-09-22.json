@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070YD6M598",
+        "type": "message",
+        "ts": "1727066965.069549",
+        "client_msg_id": "543356fb-68f4-47c4-ad18-fed084a23984",
+        "text": "開発局局会議前にヒアリングするので会議遅れると思います",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f76442bea847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8043971104643_f76442bea847583aed5a_72.jpg",
+            "first_name": "大安春輝",
+            "real_name": "大安春輝",
+            "display_name": "Daiane.haruki",
+            "team": "T06L90YHJF8",
+            "name": "offthelook5649",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726827056.664179",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZD0hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開発局局会議前にヒアリングするので会議遅れると思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNXNWGH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711195588.442029"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH3952Q",
+        "text": "<@U06LMH3952Q>さんがチャンネルに参加しました",
+        "inviter": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711195631.583259"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3KA09G",
+        "text": "<@U06LK3KA09G>さんがチャンネルに参加しました",
+        "inviter": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711195631.682039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCVDE88N",
+        "text": "<@U06LCVDE88N>さんがチャンネルに参加しました",
+        "inviter": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711195631.747469"
+    },
+    {
+        "text": "お疲れ様～\n今後使うことはあんまりないかもしれないけど一応作りました！1つお願いです\n・SNSスケジュールの月のところは全部埋めてくれていると思うんだけど、媒体ごとのスケジュールが空いてるから該当のチーム長は書き込んでほしいです。忙しいだろうけどお願い:bow::skin-tone-4:\n動画チームの分は既に大丈夫です！\nこっちで埋められそうなところは埋めちゃったから、残り2チームは概要だけ記入お願いします！",
+        "files": [
+            {
+                "id": "F06QKT6KQJK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LVK2FU1X",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8AWc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様～\n今後使うことはあんまりないかもしれないけど一応作りました！1つお願いです\n・SNSスケジュールの月のところは全部埋めてくれていると思うんだけど、媒体ごとのスケジュールが空いてるから該当のチーム長は書き込んでほしいです。忙しいだろうけどお願い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647-1f3fd",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n動画チームの分は既に大丈夫です！\nこっちで埋められそうなところは埋めちゃったから、残り2チームは概要だけ記入お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711195952.954249",
+        "client_msg_id": "cc5756f9-2866-4564-a833-ca5f518bbebf",
+        "reactions": [
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LMH3952Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06LCVDE88N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sweat_drops",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711195978.964959",
+        "client_msg_id": "26F2D42D-44E8-4DD9-9917-4220CBA863CB",
+        "text": "↑ <!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oMle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

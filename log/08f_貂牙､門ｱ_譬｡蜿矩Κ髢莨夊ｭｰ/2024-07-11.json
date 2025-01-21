@@ -1,0 +1,349 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1720765411.557489",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1720765425.000000"
+        },
+        "client_msg_id": "92781A92-1F4D-4AC2-B85C-B5A4F0F8BDB5",
+        "text": "<!channel>\n*【0712_第16回校友部門会議】*\n【時間】19:00〜20:40\n【場所】LS506\n【議題】\n• 校友歓迎スペース（仮）について\nこの前スタバのアンケートが当たって、トールサイズなんでも一杯無料だったんですよ。\nせっかくなんでちょいと高めの限定桃フラペを飲んだんですけど、\nしっかり美味しかったです:sparkles:\n\nちなみに太田の定番は、\nベンティサイズキャラメルフラペチーノ\n全マシマシ\nチョコレートソース追加です:bangbang:\n\n欠席、遅刻の際は理由とともにスレッドに書いてください。\n見たらスタンプ押してねー↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720765411.557489",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1720777111.457449",
+        "reply_users": [
+            "U06M7SUSYNL",
+            "U070Y9SLJJX"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1720767390.723129"
+            },
+            {
+                "user": "U070Y9SLJJX",
+                "ts": "1720777111.457449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXtrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0712_第16回校友部門会議】\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00〜20:40\n【場所】LS506\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "校友歓迎スペース（仮）について"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nこの前スタバのアンケートが当たって、トールサイズなんでも一杯無料だったんですよ。\nせっかくなんでちょいと高めの限定桃フラペを飲んだんですけど、\nしっかり美味しかったです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nちなみに太田の定番は、\nベンティサイズキャラメルフラペチーノ\n全マシマシ\nチョコレートソース追加です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n欠席、遅刻の際は理由とともにスレッドに書いてください。\n見たらスタンプ押してねー↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U071B3Q87ED",
+                    "U06LXNYUX7T",
+                    "U070HS93JUX",
+                    "U06M7SUSYNL",
+                    "U070VFRN7PX",
+                    "U070HS31CP9",
+                    "U06M7ST2WTA",
+                    "U070Y9SLJJX",
+                    "U06L4J69HV5"
+                ],
+                "count": 9
+            },
+            {
+                "name": "パンツ何色_のんちゃん専用",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7SUSYNL",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "なめこ栽培キット",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おけぴこ",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "今日議題で役に立つと思うので、これをぱーーと見ておいてください！\n去年の校友歓迎スペースの来場者に答えていただいた企画アンケートです！",
+        "files": [
+            {
+                "id": "F07C54B715G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SUSYNL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/0mu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日議題で役に立つと思うので、これをぱーーと見ておいてください！\n去年の校友歓迎スペースの来場者に答えていただいた企画アンケートです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U06L9S67MEJ",
+            "type": "message",
+            "ts": "1720765411.557489",
+            "edited": {
+                "user": "U06L9S67MEJ",
+                "ts": "1720765425.000000"
+            },
+            "client_msg_id": "92781A92-1F4D-4AC2-B85C-B5A4F0F8BDB5",
+            "text": "<!channel>\n*【0712_第16回校友部門会議】*\n【時間】19:00〜20:40\n【場所】LS506\n【議題】\n• 校友歓迎スペース（仮）について\nこの前スタバのアンケートが当たって、トールサイズなんでも一杯無料だったんですよ。\nせっかくなんでちょいと高めの限定桃フラペを飲んだんですけど、\nしっかり美味しかったです:sparkles:\n\nちなみに太田の定番は、\nベンティサイズキャラメルフラペチーノ\n全マシマシ\nチョコレートソース追加です:bangbang:\n\n欠席、遅刻の際は理由とともにスレッドに書いてください。\n見たらスタンプ押してねー↓",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1720765411.557489",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1720777111.457449",
+            "reply_users": [
+                "U06M7SUSYNL",
+                "U070Y9SLJJX"
+            ],
+            "replies": [
+                {
+                    "user": "U06M7SUSYNL",
+                    "ts": "1720767390.723129"
+                },
+                {
+                    "user": "U070Y9SLJJX",
+                    "ts": "1720777111.457449"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IXtrf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【0712_第16回校友部門会議】\n",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false,
+                                        "strike": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "【時間】19:00〜20:40\n【場所】LS506\n【議題】\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "校友歓迎スペース（仮）について"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nこの前スタバのアンケートが当たって、トールサイズなんでも一杯無料だったんですよ。\nせっかくなんでちょいと高めの限定桃フラペを飲んだんですけど、\nしっかり美味しかったです"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sparkles",
+                                    "unicode": "2728"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nちなみに太田の定番は、\nベンティサイズキャラメルフラペチーノ\n全マシマシ\nチョコレートソース追加です"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "bangbang",
+                                    "unicode": "203c-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n欠席、遅刻の際は理由とともにスレッドに書いてください。\n見たらスタンプ押してねー↓"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1720767390.723129",
+        "client_msg_id": "bc3caaba-bd3e-449c-9adf-b2e98a9217fb",
+        "thread_ts": "1720765411.557489",
+        "parent_user_id": "U06L9S67MEJ",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06L4GLRAK1",
+                    "U06L4J69HV5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "text": "<!channel> お疲れ様です。こちらが部門配属ESになります～\n期限は3月19日（火）23:59までです！絶対に期限内に提出してください！！",
+        "files": [
+            {
+                "id": "F06QC36CVDF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GRJ2LF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcwlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。こちらが部門配属ESになります～\n期限は3月19日（火）23:59までです！絶対に期限内に提出してください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710738039.658959",
+        "client_msg_id": "2d5a42ae-82c3-4f26-8db9-0f3b89b2dc3d",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LXP2EGKT",
+                    "U06LK3L32MQ",
+                    "U06LK3MF9FC"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

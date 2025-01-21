@@ -1,0 +1,196 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1725507801.068069",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1725507824.000000"
+        },
+        "client_msg_id": "8E8C1EB1-5C16-46BB-B1FE-854F91DDE949",
+        "text": "<!channel>\nおつかれサマー会議連絡だよー\n\n【時間】9\/5 (木) 14:00-16:00 (継続は13:00または13:30-)\n【場所】第一校舎204\n【議題】\n1. 企画中の役割について\n2. チーム会議\n欠席、遅刻、早退はスレッドへ :raised_hands::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725507801.068069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725511652.793049",
+        "reply_users": [
+            "U070YDB48GJ"
+        ],
+        "replies": [
+            {
+                "user": "U070YDB48GJ",
+                "ts": "1725511652.793049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRqzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれサマー会議連絡だよー\n\n【時間】9\/5 (木) 14:00-16:00 (継続は13:00または13:30-)\n【場所】第一校舎204\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "企画中の役割について"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "塾講の絆",
+                "users": [
+                    "U06L4GKF78F",
+                    "U070Y9RH075"
+                ],
+                "count": 2
+            },
+            {
+                "name": "遅刻厳禁＿ひだ",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "へウォン",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YDB48GJ",
+        "type": "message",
+        "ts": "1725511652.793049",
+        "client_msg_id": "D4765E7B-7484-4DD2-8440-D047802D723B",
+        "text": "寝坊してしまったため15分遅れます。すみません:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c5d0f79419c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7029544599861_0c5d0f79419c2062e6b2_72.png",
+            "first_name": "松浦真央",
+            "real_name": "松浦真央",
+            "display_name": "Matsuura.Mao",
+            "team": "T06L90YHJF8",
+            "name": "mao0501mao0501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725507801.068069",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YSp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊してしまったため15分遅れます。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

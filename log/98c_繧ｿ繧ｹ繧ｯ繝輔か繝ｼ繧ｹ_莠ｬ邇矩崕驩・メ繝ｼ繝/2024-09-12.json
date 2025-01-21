@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1726133662.501699",
+        "client_msg_id": "EF7D018D-41CA-4BFC-9527-0B3AC126F334",
+        "text": "<!channel> \nお疲れ様です！\n今週のタスクフォース会できるだけ出席してねー会議やるよ！\n今日行った京王との会議についての報告もします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "96dXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n今週のタスクフォース会できるだけ出席してねー会議やるよ！\n今日行った京王との会議についての報告もします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070Y9RLJTV",
+                    "U06LK0BP1TM",
+                    "U07194G87BL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4J69HV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

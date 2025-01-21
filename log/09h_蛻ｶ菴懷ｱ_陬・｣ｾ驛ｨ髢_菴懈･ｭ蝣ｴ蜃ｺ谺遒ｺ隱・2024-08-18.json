@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U070Y9SAKC3",
+        "type": "message",
+        "ts": "1723987970.230849",
+        "edited": {
+            "user": "U070Y9SAKC3",
+            "ts": "1724454138.000000"
+        },
+        "client_msg_id": "245AC6D1-45B3-4A95-9F69-F7F4CD4496D9",
+        "text": "遊びます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3409538ab5aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7057579862513_3409538ab5aa208dca97_72.png",
+            "first_name": "城川三司朗",
+            "real_name": "城川三司朗",
+            "display_name": "Shirokawa.Sanshiro",
+            "team": "T06L90YHJF8",
+            "name": "san34646",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723174449.384249",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGKbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遊びます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

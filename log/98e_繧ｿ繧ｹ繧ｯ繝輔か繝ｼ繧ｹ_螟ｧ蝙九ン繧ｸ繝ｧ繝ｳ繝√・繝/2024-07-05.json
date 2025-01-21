@@ -1,0 +1,231 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MF9FC",
+        "text": "<@U06LK3MF9FC>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225742.648929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ0TU6A",
+        "text": "<@U070RQ0TU6A>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225742.772699"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9UEAAF",
+        "text": "<@U070Y9UEAAF>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225742.838589"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YDBG6N6",
+        "text": "<@U070YDBG6N6>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225742.901549"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HS35ECX",
+        "text": "<@U070HS35ECX>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225742.983659"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "inviter": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225743.048589"
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720225773.071859",
+        "client_msg_id": "DD82114E-A650-4423-82C5-C0143FEC55A4",
+        "text": "おはようございます！！今日の会議資料ワンドラのタスクフォースのとこ上がってます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Au8F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます！！今日の会議資料ワンドラのタスクフォースのとこ上がってます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ハンディファンやす",
+                "users": [
+                    "U06LVK2FU1X",
+                    "U06LMH9MBFW",
+                    "U06LK0BP1TM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-bowing::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "汚いメモですいません",
+        "files": [
+            {
+                "id": "F07AUTH41NK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH9MBFW",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnT42",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "汚いメモですいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720240603.163459",
+        "client_msg_id": "8628dbc1-c0a4-4426-aa41-13d8c40658f8",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LK0DN10T",
+                    "U070HS35ECX",
+                    "U070RQ0TU6A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おおのともや",
+                "users": [
+                    "U06LK0DN10T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "大野友也",
+                "users": [
+                    "U06LK0DN10T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U070RQ0TU6A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1720240638.727869",
+        "client_msg_id": "80f943b8-128b-4db7-85f4-a245d1bc195b",
+        "text": "<!channel>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

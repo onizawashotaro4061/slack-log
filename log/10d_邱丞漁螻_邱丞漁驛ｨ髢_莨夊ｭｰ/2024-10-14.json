@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1728894274.306079",
+        "client_msg_id": "bf2b8492-aa6e-49b7-b831-d4f0ba7fbbdb",
+        "text": "授業なので遅れますm(_ _)m",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728805202.171029",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WE7qB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業なので遅れますm(_ _)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3MPZ34"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

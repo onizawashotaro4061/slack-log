@@ -1,0 +1,210 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727841212.872309",
+        "client_msg_id": "9CF9A116-F6F2-4EBD-AA79-37A3D9E165D3",
+        "text": "<!channel> \n今年次長カウントダウンする？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uuRlf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今年次長カウントダウンする？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1727841286.581199",
+        "edited": {
+            "user": "U06L4GKC9N3",
+            "ts": "1727842188.000000"
+        },
+        "client_msg_id": "FBD0059B-CE64-4F0F-A315-604CB0D9F6DB",
+        "text": "10月11日から11月1日にかけてやります！\n順番とか諸々ゆうりがまとめてくれてます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727841286.581199",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1727841315.393969",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1727841307.892079"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1727841315.393969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1j5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10月11日から11月1日にかけてやります！\n順番"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか諸々"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゆうりがまとめてくれてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "参団_教室_鞠子ひからない",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06L4GM5C87"
+                ],
+                "count": 2
+            },
+            {
+                "name": "成瀬-こわい",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727841307.892079",
+        "client_msg_id": "DDBF1AB1-C042-4DC6-8B35-FA3142ACC469",
+        "text": "お、そかそか！\n楽しみにしてるね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727841286.581199",
+        "parent_user_id": "U06L4GKC9N3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zg0Uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、そかそか！\n楽しみにしてるね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1727841315.393969",
+        "client_msg_id": "B0142856-2093-46A0-87BC-7221DE4D5F80",
+        "text": "いつもありがとう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727841286.581199",
+        "parent_user_id": "U06L4GKC9N3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9i+EZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いつもありがとう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

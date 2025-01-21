@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1722937452.923869",
+        "client_msg_id": "87E5022B-526F-4595-8FA1-88EB7727FD8F",
+        "text": "なつきとスマブラやってました\n〆返し",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGaUQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なつきとスマブラやってました\n〆返し"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LK0F2RC3",
+                    "U06LY5XNLBT",
+                    "U06LK0FUAHZ",
+                    "U06L4GH4ETH",
+                    "U06L4GH3T7H",
+                    "U06LH4PDAQ3",
+                    "U06LXNYCLJV",
+                    "U06L4GKC9N3",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 10
+            },
+            {
+                "name": "video_game",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK0FUAHZ",
+                    "U06L4GH4ETH",
+                    "U06L4GM5C87",
+                    "U06LK3MF9FC",
+                    "U06LXNYCLJV",
+                    "U06L4GKC9N3"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06LXNXNWGH",
+        "type": "message",
+        "ts": "1722995874.792959",
+        "client_msg_id": "4df589b3-baa6-442e-b42b-13b44b16ce53",
+        "text": "かりあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4b9821f00937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721923876272_4b9821f0093727538e3f_72.jpg",
+            "first_name": "井内愉羽",
+            "real_name": "井内愉羽",
+            "display_name": "Iuchi.Yu",
+            "team": "T06L90YHJF8",
+            "name": "yu.625.irodori.94.cha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyQOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LJ0SKMEZ",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06LXNWG67K",
+                    "U06L4GH3T7H",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV",
+                    "U06LK3ZBCN6",
+                    "U06L4GJ031V"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

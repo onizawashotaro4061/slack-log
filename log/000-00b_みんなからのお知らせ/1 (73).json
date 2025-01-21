@@ -1,0 +1,302 @@
+[
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1730015986.638519",
+        "client_msg_id": "AA34598F-57A9-4FBA-AF67-F645536D3CFC",
+        "text": "<!channel>\n【ラジオ出演について:radio:】\nお疲れ様です！広報局学外広報部門長の熊木です。\nまたまたラジオ出演の宣伝をさせていただきます！\n本日は深夜です:crescent_moon:\n\n\n日時：10月27日(日) 23：00〜25：00\n放送局：FM西東京\n番組：ミッドナイトスクール\n出演者：学外広報部門継続 <@U06LCE9HTP0>、学外広報部門新規 <@U071B38EX0R>\n\n視聴URL：<https:\/\/842fm.com\/guide\/|https:\/\/842fm.com\/guide\/>\n\n\n時間のある方はぜひお聞きください！！\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/842fm.com\/wp_842fm\/wp-content\/uploads\/2020\/03\/eyecatch.png",
+                "image_width": 910,
+                "image_height": 470,
+                "image_bytes": 16444,
+                "from_url": "https:\/\/842fm.com\/guide\/",
+                "service_icon": "https:\/\/842fm.com\/wp_842fm\/wp-content\/uploads\/2020\/04\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/842fm.com\/guide\/",
+                "fallback": "FM西東京 84.2MHz: FM西東京の聴き方",
+                "text": "地上波で聴く FMラジオで〈84.2MHz〉へチューニングして聴く事が出来ます。エリア内でのラジオ受信相談も随時お受けしております。こちらからお問い合わせください。 スマートフォン（iPhone／Android）で聴く ...",
+                "title": "FM西東京の聴き方",
+                "title_link": "https:\/\/842fm.com\/guide\/",
+                "service_name": "FM西東京 84.2MHz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJyXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【ラジオ出演について"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "radio",
+                                "unicode": "1f4fb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\nお疲れ様です！広報局学外広報部門長の熊木です。\nまたまたラジオ出演の宣伝をさせていただきます！\n本日は深夜です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crescent_moon",
+                                "unicode": "1f319"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n日時：10月27日(日) 23：00〜25：00\n放送局：FM西東京\n番組：ミッドナイトスクール\n出演者：学外広報部門継続 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、学外広報部門新規 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B38EX0R"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n視聴URL："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/842fm.com\/guide\/",
+                                "text": "https:\/\/842fm.com\/guide\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n時間のある方はぜひお聞きください！！\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U0710T3MCUC",
+                    "U06L4GH4ETH",
+                    "U06LCE78Y94",
+                    "U071B38HAM7",
+                    "U06LK3HUVTL",
+                    "U070VFTRR61",
+                    "U06LM0QJV3L"
+                ],
+                "count": 10
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U06L4GH4ETH",
+                    "U06LCE78Y94",
+                    "U06LK0EBWRH",
+                    "U071B38HAM7",
+                    "U06LK3HUVTL",
+                    "U06LK3MF9FC"
+                ],
+                "count": 9
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LXR4BPS5",
+                    "U06LXNXNWGH",
+                    "U06L4GH4ETH",
+                    "U06LCE78Y94",
+                    "U071B38HAM7",
+                    "U06LK3HUVTL",
+                    "U06L4GJBJP9"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1730075331.773889",
+        "client_msg_id": "61E9D3C4-D9EB-402E-BA71-6008BA2ECE31",
+        "text": "<!channel>\n【ラジオ出演について:radio:】\nお疲れ様です！広報局学外広報部門長の熊木です。\n今日のラジオ出演の宣伝をさせていただきます！\nこのあとすぐ:sunny:\n\n\n日時：10月28日(月) 10：20〜\n放送局：エフエム世田谷\n番組：Bee Up! Setagaya\n出演者：学外広報部門継続 <@U06LCE78Y94>、学外広報部門新規 <@U070YD75PJ6>\n\n視聴URL：<https:\/\/fmsetagaya834.airtime.pro\/#|https:\/\/fmsetagaya834.airtime.pro\/#>\n\n\n時間のある方はぜひお聞きください！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/fmsetagaya834.airtime.pro\/images\/airtime_background.webp",
+                "image_width": 1920,
+                "image_height": 1200,
+                "image_bytes": 150720,
+                "from_url": "https:\/\/fmsetagaya834.airtime.pro\/",
+                "service_icon": "https:\/\/fmsetagaya834.airtime.pro\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/fmsetagaya834.airtime.pro\/#",
+                "fallback": "Airtime Pro: 83.4MHz FMSETAGAYA（ｴﾌｴﾑ世田谷）",
+                "text": "Powered by Airtime Pro",
+                "title": "83.4MHz FMSETAGAYA（ｴﾌｴﾑ世田谷）",
+                "title_link": "https:\/\/fmsetagaya834.airtime.pro\/",
+                "service_name": "Airtime Pro"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fudFC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【ラジオ出演について"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "radio",
+                                "unicode": "1f4fb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\nお疲れ様です！広報局学外広報部門長の熊木です。\n今日のラジオ出演の宣伝をさせていただきます！\nこのあとすぐ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n日時：10月28日(月) 10：20〜\n放送局：エフエム世田谷\n番組：Bee Up! Setagaya\n出演者：学外広報部門継続 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE78Y94"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、学外広報部門新規 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070YD75PJ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n視聴URL："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fmsetagaya834.airtime.pro\/#",
+                                "text": "https:\/\/fmsetagaya834.airtime.pro\/#"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n時間のある方はぜひお聞きください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さな",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LY5XNLBT",
+                    "U06L4GJBJP9",
+                    "U06LCE9HTP0",
+                    "U06LK3HUVTL",
+                    "U06LCE4EV2A"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK3MF9FC",
+                    "U070VFTRR61",
+                    "U06L4GJBJP9",
+                    "U06LCE9HTP0",
+                    "U06LK3HUVTL",
+                    "U06L4GH4ETH"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U070YD75PJ6",
+                    "U06LK3MF9FC",
+                    "U06LCE9HTP0",
+                    "U06LK3HUVTL",
+                    "U06L4GH4ETH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCE9HTP0",
+                    "U06LK0EBWRH",
+                    "U06LK3HUVTL",
+                    "U06L4GH4ETH"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1715128599.252789",
+        "client_msg_id": "a6146e63-9fdf-42ec-a8b6-7a4ef5a305a2",
+        "text": "<!channel>\n【分担金回収について】\n来週の局会議（5月14日(火)）で*実行委員会分担金7,000円を徴収します。*\n新規・継続問わず全員回収するので、忘れないでください！！\n（できれば封筒に入れていただけると嬉しいです）\n来週は議題が詰め詰めなのでスムーズな会議運営を心掛けましょい！！\n\n【新規会・継続会についてリマインド】\n5月11日(土)に新規会と継続会が13時から行われるのでぜひ参加してみてください～\n\nよろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltHAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【分担金回収について】\n来週の局会議（5月14日(火)）で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実行委員会分担金7,000円を徴収します。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規・継続問わず全員回収するので、忘れないでください！！\n（できれば封筒に入れていただけると嬉しいです）\n来週は議題が詰め詰めなのでスムーズな会議運営を心掛けましょい！！\n\n【新規会・継続会についてリマインド】\n5月11日(土)に新規会と継続会が13時から行われるのでぜひ参加してみてください～\n\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U071M6YLJRE",
+                    "U06LK3K88SW",
+                    "U06LXK3RF7B",
+                    "U06LK0E89MH",
+                    "U06L4CMKY8P",
+                    "U06L4GLJVKR",
+                    "U06LMGND6EQ",
+                    "U06LXNYUX7T",
+                    "U06LK0HTVQT"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U070Y9WCHH9",
+                    "U0710T4CBHS",
+                    "U06LK3K88SW",
+                    "U06LXK3RF7B",
+                    "U06LK0E89MH",
+                    "U070YD778SE",
+                    "U06L4GLJVKR",
+                    "U070YDYBFGA",
+                    "U06LMGND6EQ",
+                    "U06LXNYUX7T",
+                    "U0710T0ESTE"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U071B3CV89X",
+                    "U06LK3K88SW",
+                    "U06L9S67MEJ",
+                    "U06LCE9EA3G",
+                    "U0710T3MCUC",
+                    "U06LXK3RF7B",
+                    "U06LK0E89MH",
+                    "U070RQ3ND38",
+                    "U06LMGND6EQ",
+                    "U070HS31CP9",
+                    "U070HS3ELF9"
+                ],
+                "count": 11
+            },
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06M7SETDKJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ゆうすけ金貸して",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

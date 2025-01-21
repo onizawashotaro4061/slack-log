@@ -1,0 +1,329 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0FUAHZ",
+        "text": "<@U06LK0FUAHZ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711030433.237999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG61PW7P",
+        "text": "<@U06LG61PW7P>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052299.640689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0FC935",
+        "text": "<@U06LK0FC935>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052299.744629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MRV98",
+        "text": "<@U06LK3MRV98>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052299.817739"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE6E64W",
+        "text": "<@U06LCE6E64W>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052299.958029"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH7PM60",
+        "text": "<@U06LMH7PM60>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052300.032489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GJ6PFZ",
+        "text": "<@U06L4GJ6PFZ>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052300.114589"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GL3Z9V",
+        "text": "<@U06L4GL3Z9V>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052300.200989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0H5FEX",
+        "text": "<@U06LK0H5FEX>さんがチャンネルに参加しました",
+        "inviter": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711052300.269169"
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711053774.222319",
+        "edited": {
+            "user": "U06LG62V1FX",
+            "ts": "1711078051.000000"
+        },
+        "client_msg_id": "71943462-6897-4B61-9FA6-2CB01186C8CE",
+        "text": "<!channel> \n0322 第1回運営局安全対策部門会議\n【時間】\n13:30〜17:00\n【場所】\n和泉図書館2階グループ閲覧室6\n※学生証忘れずに、！\n【議題】\n1.係を決めよう\n2.部門定義について\n3.部門方針について\n4.部門体制について\n5.諸連絡\n\n確認したらリアクションお願いします！\n遅刻・欠席・早退は理由と一緒に俺にSlackで連絡ください！\n\n色々とありまして会議予定の連絡が遅れました！申し訳ない〜！こんな朝の連絡になったのも超超私情でございます。もし通知で起こしてしまってたらほんとにごめんね\nいよいよ部門発足したわけですが、楽しみ、不安、色々あるかと思います。自分も同じです。一緒にたくさん悩もう、そしてそれ以上に楽しめたらいいね！よろしくなー！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qAJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n0322 第1回運営局安全対策部門会議\n【時間】\n13:30〜17:00\n【場所】\n和泉図書館2階グループ閲覧室6\n※学生証忘れずに、！\n【議題】\n1.係を決めよう\n2.部門定義について\n3.部門方針について\n4.部門体制について\n5.諸連絡\n\n確認したらリアクションお願いします！\n遅刻・欠席・早退は理由と一緒に俺にSlackで連絡ください！\n\n色々とありまして会議予定の連絡が遅れました！申し訳ない〜！こんな朝の連絡になったのも超超私情でございます。もし通知で起こしてしまってたらほんとにごめんね\nいよいよ部門発足したわけですが、楽しみ、不安、色々あるかと思います。自分も同じです。一緒にたくさん悩もう、そしてそれ以上に楽しめたらいいね！よろしくなー！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U06LK3MRV98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCE6E64W",
+                    "U06LK0H5FEX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK0FC935"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FC935"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE6E64W",
+        "type": "message",
+        "ts": "1711078386.177699",
+        "client_msg_id": "D3CC4848-4650-4D99-BBC0-A318DBB89F29",
+        "text": "兄の大学の卒業式について行って、これから向かうので少し遅れます :bow::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a1a0c0b8a59b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6734975787810_a1a0c0b8a59ba293e032_72.png",
+            "first_name": "霜田",
+            "real_name": "霜田 航輝",
+            "display_name": "Shimoda.Kōki",
+            "team": "T06L90YHJF8",
+            "name": "k.shimoda0525k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kp51T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "兄の大学の卒業式について行って、これから向かうので少し遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711078426.459929",
+        "client_msg_id": "80B230CB-C59A-498D-81DE-5AB2C3C4B9ED",
+        "text": "おっけーい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMEYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっけーい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE6E64W",
+        "type": "message",
+        "ts": "1711079139.314729",
+        "client_msg_id": "2E35F340-5CC3-4B2F-80A6-6F709656D1FE",
+        "text": "あ嘘ごめん全然間に合う :pray::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a1a0c0b8a59b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6734975787810_a1a0c0b8a59ba293e032_72.png",
+            "first_name": "霜田",
+            "real_name": "霜田 航輝",
+            "display_name": "Shimoda.Kōki",
+            "team": "T06L90YHJF8",
+            "name": "k.shimoda0525k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xIque",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ嘘ごめん全然間に合う "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1711081191.370699",
+        "client_msg_id": "F1EA5F50-1D36-42E8-8D17-DDBC85C4280B",
+        "text": "はいよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMroM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はいよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1713398926.997379",
+        "client_msg_id": "541B2779-AE2F-415D-B096-98C03638A4EB",
+        "text": "すみません、体調悪いので休みます:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713226515.302619",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yL5Ts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、体調悪いので休みます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3M7VGA",
+                    "U06L4GH3T7H",
+                    "U06LMHSCW1J",
+                    "U06LK0DK7R9",
+                    "U06LG6Q48SZ",
+                    "U06LK0DN10T",
+                    "U06M7SSUS0G",
+                    "U06L4GM5C87",
+                    "U06LK0FP02F",
+                    "U06LK3LM7AN",
+                    "U06LG61U9QD",
+                    "U06LJ0SKMEZ",
+                    "U06LG62UXPX",
+                    "U06LG6F13M3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "おおのともや",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LK0DN10T",
+                    "U06M7SSUS0G",
+                    "U06L4GM5C87",
+                    "U06L4GM463H",
+                    "U06LXNYGGHX",
+                    "U06LG61U9QD",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FAL83",
+        "type": "message",
+        "ts": "1713420630.105839",
+        "client_msg_id": "85DD3CD8-EB33-4B6B-BC67-39FACA2CED70",
+        "text": "5限体育なので多分遅れちゃいます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bd4686eab1e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8025160921732_bd4686eab1e93a57aabc_72.png",
+            "first_name": "栗山ひおな",
+            "real_name": "栗山ひおな",
+            "display_name": "Kuriyama.Hiona",
+            "team": "T06L90YHJF8",
+            "name": "mt.mrn.hio7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713226515.302619",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ouCbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5限体育なので多分遅れちゃいます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ジョージ上裸",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "寝坊",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ひおな",
+                "users": [
+                    "U06LXNYGGHX",
+                    "U06LG61U9QD",
+                    "U06LG6F13M3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710578468.929609"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK0DK7R9",
+        "text": "<@U06LK0DK7R9>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.509059"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4J69HV5",
+        "text": "<@U06L4J69HV5>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.606579"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNZDHFT",
+        "text": "<@U06LXNZDHFT>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.673029"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCEA6J1L",
+        "text": "<@U06LCEA6J1L>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.748469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3Q6Y2W",
+        "text": "<@U06LK3Q6Y2W>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.815639"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE9HTP0",
+        "text": "<@U06LCE9HTP0>さんがチャンネルに参加しました",
+        "inviter": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1710578636.916839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L97X3V6J",
+        "text": "<@U06L97X3V6J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1710579925.484829"
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1710598414.788149",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1710598437.000000"
+        },
+        "client_msg_id": "335AE7C3-E6BE-4D18-A96A-CC635EB6C3AD",
+        "text": "<!channel>\nお疲れ様です！\n京王電鉄チーム長(仮)となりました広報局2年城戸です。\n本日、チームで話し合った中で、一般企画書を対象目的内容について皆さんの意見をいただいた上で書く流れとなったので19日火曜日23時59分までにその3つについていくつでも案を書いていただいて結構ですので自分のSlackDMにメモのスクショでもワードファイルでもいいので送ってください。(DMに直接書いていただいても結構です)短い期間ですが皆さんよろしくお願いします。\nそして改めて1年間よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BsJ3P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n京王電鉄チーム長(仮)となりました広報局2年城戸です。\n本日、チームで話し合った中で、一般企画書を対象目的内容について皆さんの意見をいただいた上で書く流れとなったので19日火曜日23時59分までにその3つについていくつでも案を書いていただいて結構ですので自分のSlackDMにメモのスクショでもワードファイルでもいいので送ってください。(DMに直接書いていただいても結構です)短い期間ですが皆さんよろしくお願いします。\nそして改めて1年間よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

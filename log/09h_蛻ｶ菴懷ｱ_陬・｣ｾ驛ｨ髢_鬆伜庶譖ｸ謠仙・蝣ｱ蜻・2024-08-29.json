@@ -1,0 +1,53 @@
+[
+    {
+        "text": "ペンキ代",
+        "files": [
+            {
+                "id": "F07KKFEKXAM",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07KKFEKXC1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3LM7AN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DrH\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ペンキ代"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724979776.803879",
+        "client_msg_id": "C3EA3B96-8D87-424D-9001-43A3406EF331",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

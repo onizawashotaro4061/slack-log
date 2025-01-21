@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U06LXNZJBFT",
+        "type": "message",
+        "ts": "1717657320.769649",
+        "client_msg_id": "E994172A-B2E8-4062-8D5B-F66C17277225",
+        "text": "すみません、どうしても外せない予定と被ったので欠席します :sweat_drops: :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30f77d3d9864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6752550180912_30f77d3d9864b8f106d3_72.png",
+            "first_name": "岡部ちひろ",
+            "real_name": "岡部ちひろ",
+            "display_name": "Okabe.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "shiera.0122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717550908.537749",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfhLj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、どうしても外せない予定と被ったので欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK",
+                    "U06LMH3952Q"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06LMH3952Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,351 @@
+[
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1726097963.481319",
+        "client_msg_id": "8B0A3FE9-DC33-460D-A254-5A600AC6F5C5",
+        "text": "旅行のため欠席します。当日の連絡となってしまい申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ur2BC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行のため欠席します。当日の連絡となってしまい申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1726103581.390499",
+        "client_msg_id": "30D3664C-C474-40EE-8A7B-7F7FCD8D2158",
+        "text": "今朝から体調がとても悪いためおやすみさせていただきます。本当に申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bPg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今朝から体調がとても悪いためおやすみさせていただきます。本当に申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1726103871.818819",
+        "client_msg_id": "d7ad00e9-b358-4da4-a9e0-388e575f4b22",
+        "text": "<@U070HS2FRT9> <@U06LXNZJBFT> <@U070VFY94H3> <@U070HS202UX> <@U070RQ543FG> <@U070Y9UKJV9> \n出欠のスタンプ押してー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1WJw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070HS2FRT9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZJBFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070VFY94H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070HS202UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ543FG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9UKJV9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n出欠のスタンプ押してー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS202UX",
+        "type": "message",
+        "ts": "1726103968.680909",
+        "client_msg_id": "B9A15BE8-7444-40DD-B49D-583E23A42555",
+        "text": "私用のためお休みさせて頂きます :woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acd9c95aa139",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7375268326848_acd9c95aa13947bb96a0_72.png",
+            "first_name": "舩渡川美月",
+            "real_name": "舩渡川美月",
+            "display_name": "Funatogawa.Mizuki",
+            "team": "T06L90YHJF8",
+            "name": "mizukifuna919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fQJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のためお休みさせて頂きます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9UKJV9",
+        "type": "message",
+        "ts": "1726104030.183359",
+        "client_msg_id": "B9D8A496-4C0B-44EB-8DE9-35E91C78FBC8",
+        "text": "部活のためお休みさせて頂きます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "60542bdcf632",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7121141390819_60542bdcf632226dd57a_72.png",
+            "first_name": "野々村真優",
+            "real_name": "野々村真優",
+            "display_name": "Nonomura.Mahiro",
+            "team": "T06L90YHJF8",
+            "name": "happymappygogo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pD+Jc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "部活のためお休みさせて頂きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1726118853.517029",
+        "client_msg_id": "C0CCA320-EADE-4AB7-BC87-876229C09EE8",
+        "text": "渋谷のトイレに拘束されてたので10分くらい遅れます。大変申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726012824.410449",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uIpo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "渋谷のトイレに拘束されてたので10分くらい遅れます。大変申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

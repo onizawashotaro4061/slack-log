@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U06LK7K9ALA",
+        "type": "message",
+        "ts": "1727982128.529099",
+        "client_msg_id": "2fcabdd2-c049-4e79-b808-bb750446918e",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\n夜分遅くに申し訳ございません。\nお疲れ様です。\n開発局彩明部門2年継続の岡村です。\n明Tubeおよびoh-o!明治カーニバルのSNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f30f97123fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-29\/7173633678983_f30f97123fbe12c9a3e3_72.png",
+            "first_name": "岡村　匠真",
+            "real_name": "岡村　匠真",
+            "display_name": "Okamura.Takuma",
+            "team": "T06L90YHJF8",
+            "name": "takuma_okm2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727982128.529099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1728380013.978309",
+        "reply_users": [
+            "U06LK3L6B4J",
+            "U06LK7K9ALA"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1728379927.082219"
+            },
+            {
+                "user": "U06LK7K9ALA",
+                "ts": "1728380013.978309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5GRb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに申し訳ございません。\nお疲れ様です。\n開発局彩明部門2年継続の岡村です。\n明Tubeおよびoh-o!明治カーニバルのSNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

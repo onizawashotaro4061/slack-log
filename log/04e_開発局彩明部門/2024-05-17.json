@@ -1,0 +1,89 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。背景希望ESをリリースしました。\n5月21日（火）までに提出お願いします。",
+        "files": [
+            {
+                "id": "F0749N9DQG1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNWG67K",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9f3mR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。背景希望ESをリリースしました。\n5月21日（火）までに提出お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715932871.096639",
+        "edited": {
+            "user": "U06LXNWG67K",
+            "ts": "1715932986.000000"
+        },
+        "client_msg_id": "f14785b6-1ed3-4c15-9479-1c3388bba96b",
+        "reactions": [
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCE9JG3G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か_たまこたまちゃん",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCE9JG3G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCE9JG3G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCE9JG3G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCE9JG3G"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

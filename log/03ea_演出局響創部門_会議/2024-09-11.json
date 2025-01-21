@@ -1,0 +1,443 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1726110200.312429",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1726111219.000000"
+        },
+        "client_msg_id": "1A19AD59-A7DB-4390-92A1-2E9A41A8D872",
+        "text": "<!channel>\nおつかれ:sunny:会議連絡だよ :ballot_box_with_check:\n\n【時間】9\/12 (木) 14:00-16:00(継続13:15から)\n【場所】第一校舎204教室\n【議題】\n1. できたらスライドの動かし方講座したいけどパワポ作る時間がないからまた今度になるかもしれませんごめんね\n終わったらチーム会議！\n暑すぎて夏バテどころではない\n\n欠席、遅刻、早退はスレッドへ :hot_face:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1726117516.259149",
+        "reply_users": [
+            "U071M6YB4MN",
+            "U070HS2V7SB",
+            "U071A394WUB",
+            "U070VFSETUM",
+            "U071M6XB9DE"
+        ],
+        "replies": [
+            {
+                "user": "U071M6YB4MN",
+                "ts": "1726115978.256149"
+            },
+            {
+                "user": "U070HS2V7SB",
+                "ts": "1726117182.012239"
+            },
+            {
+                "user": "U071A394WUB",
+                "ts": "1726117474.875659"
+            },
+            {
+                "user": "U070VFSETUM",
+                "ts": "1726117489.046129"
+            },
+            {
+                "user": "U071M6XB9DE",
+                "ts": "1726117516.259149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUlqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡だよ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n【時間】9\/12 (木) 14:00-16:00(継続13:15から)\n【場所】第一校舎204教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "できたらスライドの動かし方講座したいけどパワポ作る時間がないからまた今度になるかもしれませんごめんね"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n終わったらチーム会議！\n暑すぎて夏バテどころではない\n\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hot_face",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "enfj-主人公-",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071M6YB4MN",
+        "type": "message",
+        "ts": "1726115978.256149",
+        "client_msg_id": "D9CE00DD-B3DF-4EB3-8634-045A6E638D20",
+        "text": "私用のため遅刻します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3c105e90e17b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7863843043494_3c105e90e17b3a798592_72.png",
+            "first_name": "森田一優",
+            "real_name": "森田一優",
+            "display_name": "Morita.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmrt1818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OhKoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため遅刻します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS2V7SB",
+        "type": "message",
+        "ts": "1726117182.012239",
+        "client_msg_id": "EC7E50D9-EBF4-46CE-8B24-575D1287474A",
+        "text": "私用のため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b4cbed13e74a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055254358624_b4cbed13e74a0ae78e3e_72.png",
+            "first_name": "星名未紅",
+            "real_name": "星名未紅",
+            "display_name": "Hoshina.Miku",
+            "team": "T06L90YHJF8",
+            "name": "mmmmiku.29",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4uzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071A394WUB",
+        "type": "message",
+        "ts": "1726117474.875659",
+        "client_msg_id": "254067CA-56F7-40AE-A604-07879C700760",
+        "text": "体調不良で欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b44673756aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7182164846420_b44673756aae275e305a_72.png",
+            "first_name": "古賀美織",
+            "real_name": "古賀美織",
+            "display_name": "Koga.Miori",
+            "team": "T06L90YHJF8",
+            "name": "miori.0_0-1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAHkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFSETUM",
+        "type": "message",
+        "ts": "1726117489.046129",
+        "client_msg_id": "65E5BF3E-0672-43F0-97CD-450D0CACBBFF",
+        "text": "体調不良のため欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a127703d36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7103811785985_6a127703d36c4fc7fa4c_72.png",
+            "first_name": "林朋緒",
+            "real_name": "林朋緒",
+            "display_name": "Hayashi.Tomoo",
+            "team": "T06L90YHJF8",
+            "name": "tomoo0918",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91oEO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071M6XB9DE",
+        "type": "message",
+        "ts": "1726117516.259149",
+        "client_msg_id": "1D87257A-6E04-4D57-88B4-D670CA9AB9F2",
+        "text": "15分程遅れます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "48ccc5b9b310",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-08\/7850122511684_48ccc5b9b310d1a04ca4_72.png",
+            "first_name": "長田晏奈",
+            "real_name": "長田晏奈",
+            "display_name": "Osada.Anna",
+            "team": "T06L90YHJF8",
+            "name": "osadayo0127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726110200.312429",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTfrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15分程遅れます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

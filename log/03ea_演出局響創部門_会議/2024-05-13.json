@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1715599332.600499",
+        "client_msg_id": "94071377-CE33-47E5-B191-FDCE00D4D9B1",
+        "text": "用事があるので欠席します。申し訳ないです:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715579071.091389",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+hCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるので欠席します。申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

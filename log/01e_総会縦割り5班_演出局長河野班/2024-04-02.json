@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1712054888.606519",
+        "client_msg_id": "519062E4-02EA-42D7-BA8F-A20382A95504",
+        "text": "<!channel> ライングループ入ってない人いたら連絡ください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsEum",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ライングループ入ってない人いたら連絡ください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U06LK04QJ0K",
+        "type": "message",
+        "ts": "1719305619.731739",
+        "client_msg_id": "bd3d3ffa-b91e-4c10-b523-b82b76db1d97",
+        "text": "<!channel>\nLINEグルでも流したけど、環境問題企画の手段の新アイデア募集中です！\n実現可能性とかは全然考えなくて大丈夫!\nLINE、Slack、個チャ、直接、なんでもオッケーなので、思いついた人は是非教えてください！\nうのしゅんがなんでも奢ってくれます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4e506efdda49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-17\/7587146461333_4e506efdda499c41c729_72.png",
+            "first_name": "青木航世",
+            "real_name": "青木航世",
+            "display_name": "Aoki.Kosei",
+            "team": "T06L90YHJF8",
+            "name": "kose.shingeki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6e16D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLINEグルでも流したけど、環境問題企画の手段の新アイデア募集中です！\n実現可能性とかは全然考えなくて大丈夫!\nLINE、Slack、個チャ、直接、なんでもオッケーなので、思いついた人は是非教えてください！\nうのしゅんがなんでも奢ってくれます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "こうせいの家てオールね",
+                "users": [
+                    "U06L4GKGXB9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06L4GKGXB9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U071M6X5M16"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

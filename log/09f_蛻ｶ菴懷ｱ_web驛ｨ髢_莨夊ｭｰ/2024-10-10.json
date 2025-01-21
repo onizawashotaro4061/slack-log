@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06LK0JCFHR",
+        "type": "message",
+        "ts": "1728545807.082909",
+        "client_msg_id": "41CCC0E1-6BB1-43DE-9EBF-DBC585C622A0",
+        "text": "家の用事で帰ります、ごめんなさい :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c41549f3977",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8024575861397_0c41549f3977849cc606_72.png",
+            "first_name": "髙橋",
+            "real_name": "髙橋 美結",
+            "display_name": "Takahashi.Miyuu",
+            "team": "T06L90YHJF8",
+            "name": "satokonoatorie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728533938.606639",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsQ4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家の用事で帰ります、ごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1715676107.803329",
+        "client_msg_id": "54C30DA6-F760-4025-8337-8D7E4BD110B4",
+        "text": "ちょっとだけ遅れるかもしれないです。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715584761.027079",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYXmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっとだけ遅れるかもしれないです。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1715676163.347709",
+        "client_msg_id": "6A7E67CD-17E4-45D4-8F2B-EAB437663D3E",
+        "text": "井の頭線止まってるらしくてチャリでもしかしたら学校に向かうかもしれないので遅れたらごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715584761.027079",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dx8FI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "井の頭線止まってるらしくてチャリでもしかしたら学校に向かうかもしれないので遅れたらごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LCEJ5HHU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ゆうたろう変態",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1727168230.675839",
+        "client_msg_id": "09cdf27b-9200-4dbb-afd1-8da75b4edfdb",
+        "text": "<@U06LK3HUVTL> <@U06LK3L6B4J> お疲れ様です！\n当日ニーズ調査、企画効果測定の広報依頼書をワンドラの提出フォルダに提出しました！ご確認よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "505ccc9859c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7147585741537_505ccc9859c9433912a5_72.png",
+            "first_name": "木村優里",
+            "real_name": "木村優里",
+            "display_name": "Kimura.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yuri.0903star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727168230.675839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727169154.515749",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727169154.515749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5S6ms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\n当日ニーズ調査、企画効果測定の広報依頼書をワンドラの提出フォルダに提出しました！ご確認よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1727169154.515749",
+        "client_msg_id": "0515C76F-D05F-498D-8476-172FBE300913",
+        "text": "<@U06LXNYCLJV> ゆうりおつかれー！！学外で受理してます :white_check_mark: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727168230.675839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wl0Rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNYCLJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ゆうりおつかれー！！学外で受理してます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "みちる",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1727224656.955379"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3MF9FC",
+        "text": "<@U06LK3MF9FC>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1727239749.285399"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK7K9ALA",
+        "text": "<@U06LK7K9ALA>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1727246112.106829"
+    }
+]

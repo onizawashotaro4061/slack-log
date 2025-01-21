@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U06LG61U9QD",
+        "type": "message",
+        "ts": "1727334614.817679",
+        "client_msg_id": "673D3331-EFF6-484B-A583-5F6CC01599D5",
+        "text": "すみません、ゼミがあったので8時半ごろ早退します:sob::sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a9f6b2783864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-08\/8001648090898_a9f6b2783864aa2d27d7_72.png",
+            "first_name": "柴田遥",
+            "real_name": "柴田遥",
+            "display_name": "Shibata.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruka1202s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727187599.263749",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "auN8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、ゼミがあったので8時半ごろ早退します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LCE8L8LW",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "gd_しばはる",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ3G5DL",
+        "type": "message",
+        "ts": "1727339690.695169",
+        "client_msg_id": "8392517E-67CB-4B19-AEF9-DBBE6B93C764",
+        "text": "バイトの研修長引いちゃって間に合わなそうです…すみません…",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "81070e22efba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-23\/7640563483040_81070e22efba66b75ecb_72.png",
+            "first_name": "上村侑正",
+            "real_name": "上村侑正",
+            "display_name": "Kamimura.Yusei",
+            "team": "T06L90YHJF8",
+            "name": "moseumiwari575",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727187599.263749",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFdEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトの研修長引いちゃって間に合わなそうです…すみません…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1727340942.900159",
+        "client_msg_id": "b24ba665-d337-45f8-ac61-a14357db35e4",
+        "text": "間に合いそうなので行きます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727187599.263749",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1oknH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間に合いそうなので行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LH4PDAQ3",
+                    "U071M6YAX2L",
+                    "U06LK3LM7AN",
+                    "U06LCE8L8LW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U071M6YAX2L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

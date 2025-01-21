@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1713173640.664729",
+        "client_msg_id": "DC141393-5EEA-4B07-8240-CB014825865D",
+        "text": "インターンの説明を聞きに行くのでもしかしたら遅れるかもしれません。わんちゃん欠席になります。申し訳ないです:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713087567.581339",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9oIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンの説明を聞きに行くのでもしかしたら遅れるかもしれません。わんちゃん欠席になります。申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1713239366.693969",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1713246676.000000"
+        },
+        "client_msg_id": "d48513dc-f40f-4b76-b004-c6e32fa1cef4",
+        "text": "熱がまた上がったので即帰宅を命じられています。\n高確率で欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713087567.581339",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdecg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱がまた上がったので即帰宅を命じられています。\n高確率で欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

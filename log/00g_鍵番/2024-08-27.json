@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U06LMH49MQU",
+        "type": "message",
+        "ts": "1724805209.814989",
+        "client_msg_id": "36E84DD1-058A-40A6-84FD-6C27A7EF7B94",
+        "text": "かりあけです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "217c2fb3f650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8121596033698_217c2fb3f6500c9897c9_72.png",
+            "first_name": "山田佳奈",
+            "real_name": "山田佳奈",
+            "display_name": "Yamada.Kana",
+            "team": "T06L90YHJF8",
+            "name": "mountain.kana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "emTr7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LY5XNLBT",
+                    "U06LK3KJNJE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "財_かな",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LMQR40J0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH49MQU",
+        "type": "message",
+        "ts": "1724812885.698629",
+        "client_msg_id": "93A6104F-0F6C-452B-B906-071A56EF8C00",
+        "text": "学生証しばためいちゃん！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "217c2fb3f650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8121596033698_217c2fb3f6500c9897c9_72.png",
+            "first_name": "山田佳奈",
+            "real_name": "山田佳奈",
+            "display_name": "Yamada.Kana",
+            "team": "T06L90YHJF8",
+            "name": "mountain.kana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ecFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生証しばためいちゃん！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06L4GH3T7H",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "財かな_かなしい",
+                "users": [
+                    "U06LK3KJNJE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

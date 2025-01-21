@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1724113343.936099",
+        "client_msg_id": "79FDEFCA-6C09-4D72-8E6A-84FBF425D34A",
+        "text": "<!channel> \nおつかれさまです\n8月21日(水)の局会議は局三役が諸用でいないので、行いません。部門会議は、部門長の指示に従ってください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6GzW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです\n8月21日(水)の局会議は局三役が諸用でいないので、行いません。部門会議は、部門長の指示に従ってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG668093",
+                    "U06LK3MPZ34",
+                    "U070VFZF6BF",
+                    "U071B38LED7",
+                    "U06LFKRD4MQ",
+                    "U0710T39SS0",
+                    "U071M6ZDDQ8",
+                    "U070YD72JPL",
+                    "U070HS23XV5",
+                    "U070Y9Q9151",
+                    "U06LXNX1A57",
+                    "U06LS7G3G0M",
+                    "U070RQ001V4"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG668093",
+                    "U06LK3MPZ34",
+                    "U070VFZF6BF",
+                    "U06LFKRD4MQ",
+                    "U06LG62FNP7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06M7TE180Y",
+                    "U06LCFWR494"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

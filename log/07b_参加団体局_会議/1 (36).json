@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1728899136.826569",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1728992979.000000"
+        },
+        "client_msg_id": "c003765d-dbf5-493d-bce3-fb546099eca8",
+        "text": "<!channel> 1014_第25回参加団体局会議\n【場所】メディア棟M303教室\n\n【時間】19：00〜20：40\n【議題】1.会議協賛\n                2.本祭期間の流れ\n　　　　3.本祭期間の団体対応に関して\n\n【持ち物】パソコン\n\n【議事録】文責： <@U0710SZN03W>\n　　　　　チェック： <@U06L4GKC9N3> <@U06LXNX5673>\n\n健康に気を付けてラスト3週間走りきる宣言\n遅刻欠席は直接梶原までご連絡ください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbiBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1014_第25回参加団体局会議\n【場所】メディア棟M303教室\n\n【時間】19：00〜20：40\n【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.会議協賛\n                2.本祭期間の流れ\n　　　　3.本祭期間の団体対応に関して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n【持ち物】パソコン\n\n【議事録】文責："
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710SZN03W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　　チェック："
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GKC9N3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNX5673"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n健康に気を付けてラスト3週間走りきる宣言\n遅刻欠席は直接梶原までご連絡ください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT",
+                    "U06LK0DLEQ3",
+                    "U06M7SUB2GY",
+                    "U06LXR4BPS5",
+                    "U070VFQKEH3"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LXNZDHFT",
+                    "U070YA6CQLB",
+                    "U06L4GKC9N3",
+                    "U071M6ZSSLQ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "オハナさん",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "参加団体局教室部門＿ナイスまごころ",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "みーにゃ",
+                "users": [
+                    "U06LK0DLEQ3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "チーム_ノンゼミ",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U070VFQKEH3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

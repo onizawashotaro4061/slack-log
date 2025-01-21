@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U070RQFLLR4",
+        "type": "message",
+        "ts": "1725708873.631309",
+        "edited": {
+            "user": "U070RQFLLR4",
+            "ts": "1726226812.000000"
+        },
+        "client_msg_id": "4C6524C1-6B4B-43DB-B967-D39545E8C0E3",
+        "text": "弟最後の体育祭行くのとバイトで欠席です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be7f6635c21c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7739852466162_be7f6635c21c493f57ff_72.png",
+            "first_name": "松本若菜",
+            "real_name": "松本若菜",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "satsumaimo1129",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725330908.532529",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+q0L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "弟最後の体育祭行くのとバイトで欠席です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SAKC3",
+        "type": "message",
+        "ts": "1725714725.465489",
+        "client_msg_id": "5EE556ED-CFF9-40C3-B37A-D765292DFFBD",
+        "text": "お入院してきます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3409538ab5aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7057579862513_3409538ab5aa208dca97_72.png",
+            "first_name": "城川三司朗",
+            "real_name": "城川三司朗",
+            "display_name": "Shirokawa.Sanshiro",
+            "team": "T06L90YHJF8",
+            "name": "san34646",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725330892.794419",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v80wE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お入院してきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alphabet-white-s",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-n",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-c",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-h",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LK3LM7AN",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-yellow-a",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-yellow-n",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0F2RC3",
+                    "U071B3CMYKT",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F",
+                    "U071B3DFWLR",
+                    "U071M6YAX2L",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1725721511.026689",
+        "client_msg_id": "0524B586-5C0D-436A-AFA8-45F6AD90A0DC",
+        "text": "CAコンテンツ女子会します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725330892.794419",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Dxes",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CAコンテンツ女子会します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

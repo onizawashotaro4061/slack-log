@@ -1,0 +1,297 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1725855527.825379",
+        "client_msg_id": "0C69F110-121F-4873-80B9-303C9E29E453",
+        "text": "<!channel>\nお疲れ様です。\n9月11日(水)の第27回総務局会議について連絡です。\n\n【時間】\n10:00〜12:00\n【場所】\n第一校舎301教室\n【議題】\n1. 各種報告(意思共有)\n2. 他部門調査発表(意思共有)\n3. 9月期総会・プレ明実ガイダンス分析(意見交換)\n4. 諸連絡\n【持ち物】\nパソコン\n【議事録】\nけい\n\n*遅刻早退欠席などはスレッドにお願いします！*\n\n全体合宿で余った花火があるので、いつかみんなで花火しましょー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "reply_count": 15,
+        "reply_users_count": 14,
+        "latest_reply": "1726061713.506439",
+        "reply_users": [
+            "U06M7TE180Y",
+            "U06LS7G3G0M",
+            "U070VFP05K7",
+            "U070RQ001V4",
+            "U070YD8BGRG",
+            "U070VFTNHNZ",
+            "U070RQ0TU6A",
+            "U0710SZCKS8",
+            "U06LG62FNP7",
+            "U06LG6B2NA1",
+            "U071B38LED7",
+            "U06LXNX1A57",
+            "U06LG668093",
+            "U06LM0QJV3L"
+        ],
+        "replies": [
+            {
+                "user": "U06M7TE180Y",
+                "ts": "1725855983.836209"
+            },
+            {
+                "user": "U06LS7G3G0M",
+                "ts": "1725865249.035549"
+            },
+            {
+                "user": "U070VFP05K7",
+                "ts": "1725880796.545139"
+            },
+            {
+                "user": "U070RQ001V4",
+                "ts": "1725893300.390489"
+            },
+            {
+                "user": "U070YD8BGRG",
+                "ts": "1725899714.236779"
+            },
+            {
+                "user": "U070VFTNHNZ",
+                "ts": "1725945869.508979"
+            },
+            {
+                "user": "U070RQ0TU6A",
+                "ts": "1725977220.593849"
+            },
+            {
+                "user": "U0710SZCKS8",
+                "ts": "1726009688.775449"
+            },
+            {
+                "user": "U06LG62FNP7",
+                "ts": "1726011076.386209"
+            },
+            {
+                "user": "U06LG6B2NA1",
+                "ts": "1726012155.068069"
+            },
+            {
+                "user": "U071B38LED7",
+                "ts": "1726012235.626819"
+            },
+            {
+                "user": "U06LXNX1A57",
+                "ts": "1726012759.504769"
+            },
+            {
+                "user": "U0710SZCKS8",
+                "ts": "1726014022.656509"
+            },
+            {
+                "user": "U06LG668093",
+                "ts": "1726016273.584819"
+            },
+            {
+                "user": "U06LM0QJV3L",
+                "ts": "1726061713.506439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wLGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n9月11日(水)の第27回総務局会議について連絡です。\n\n【時間】\n10:00〜12:00\n【場所】\n第一校舎301教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "他部門調査発表(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9月期総会・プレ明実ガイダンス分析(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン\n【議事録】\nけい\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "全体合宿で余った花火があるので、いつかみんなで花火しましょー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFZF6BF",
+                    "U070HS23XV5",
+                    "U070HS28L15",
+                    "U070RQ001V4",
+                    "U06M7TE180Y",
+                    "U06LK3MPZ34",
+                    "U070Y9Q9151",
+                    "U071M6ZDDQ8",
+                    "U06LCE9NLP8",
+                    "U06LFKRD4MQ",
+                    "U070VFP05K7",
+                    "U070YD72JPL",
+                    "U06LMLKREUU",
+                    "U06LXNX1A57",
+                    "U070RQ0TU6A",
+                    "U06M7SZ5WG0",
+                    "U06LM0QJV3L",
+                    "U06LG668093"
+                ],
+                "count": 18
+            },
+            {
+                "name": "総務＿けいた２",
+                "users": [
+                    "U070VFZF6BF",
+                    "U06LCE9NLP8",
+                    "U06LMLKREUU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U071M6ZDDQ8",
+                    "U06LCE9NLP8",
+                    "U070Y9Q9151"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06M7TE180Y",
+        "type": "message",
+        "ts": "1725855983.836209",
+        "client_msg_id": "810EBA4E-085F-4AC0-99CC-54C592C02B4E",
+        "text": "インターンのため欠席します。欠席ばかりですみません。来週は行きます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8c82301642a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-14\/6972428531377_8c82301642a2d9368a9d_72.png",
+            "first_name": "石井千尋",
+            "real_name": "石井千尋",
+            "display_name": "Ishii.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "sen1412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpV0b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンのため欠席します。欠席ばかりですみません。来週は行きます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

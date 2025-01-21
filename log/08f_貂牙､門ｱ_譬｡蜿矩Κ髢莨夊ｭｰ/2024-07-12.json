@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U070Y9SLJJX",
+        "type": "message",
+        "ts": "1720777111.457449",
+        "client_msg_id": "74806579-B8D0-4DC9-BF8F-96F90FBF566F",
+        "text": "電車遅延の為5分程遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b2d82f968c7f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8039624742790_b2d82f968c7f3c2901df_72.png",
+            "first_name": "髙橋蒼人",
+            "real_name": "髙橋蒼人",
+            "display_name": "Takahashi.Aoto",
+            "team": "T06L90YHJF8",
+            "name": "nogi2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720765411.557489",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5E4o4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅延の為5分程遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

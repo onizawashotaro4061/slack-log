@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1710322712.029689",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1710897144.000000"
+        },
+        "client_msg_id": "06641b2d-1b5e-4a80-807a-db017766bd0c",
+        "text": "<!channel>\n0320_第7回役員会議\n場所:明大祭実行委員会室　自由部屋\n時間:10:00-16:00\n議題（予定）　追加・変更等希望の場合はスレッドに！\n遅刻：齋藤　　　\n欠席：我那覇\n①局長報告　10：00－10：15\n②部門活動企画書・GWメモテンプレートについて　10:15ー10：30\n③総務局活動企画書　10:30-12:00\n④局内SNSアカウントについて　12：00－13：00\n⑤チェック体制について　14:00－14:30\n⑥メインステージの場所について　14：30ー15：00\n⑦目玉企画について　15：00ー15：30\n⑧本祭ロゴ・カラーの決め方について　15:30ー16:00",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710322712.029689",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1710895150.546319",
+        "reply_users": [
+            "U06LKTXCZL4",
+            "U06L97X3V6J",
+            "U06LCUTBMU5",
+            "U06LH4PDAQ3"
+        ],
+        "replies": [
+            {
+                "user": "U06LKTXCZL4",
+                "ts": "1710827466.149909"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1710832153.817229"
+            },
+            {
+                "user": "U06LCUTBMU5",
+                "ts": "1710835163.021879"
+            },
+            {
+                "user": "U06LKTXCZL4",
+                "ts": "1710856860.739939"
+            },
+            {
+                "user": "U06LH4PDAQ3",
+                "ts": "1710895150.546319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SefXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0320_第7回役員会議\n場所:明大祭実行委員会室　自由部屋\n時間:10:00-16:00\n議題（予定）　追加・変更等希望の場合はスレッドに！\n遅刻：齋藤　　　\n欠席：我那覇\n①局長報告　10：00－10：15\n②部門活動企画書・GWメモテンプレートについて　10:15ー10：30\n③総務局活動企画書　10:30-12:00\n④局内SNSアカウントについて　12：00－13：00\n⑤チェック体制について　14:00－14:30\n⑥メインステージの場所について　14：30ー15：00\n⑦目玉企画について　15：00ー15：30\n⑧本祭ロゴ・カラーの決め方について　15:30ー16:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LHACMG91",
+                    "U06L2DCDLF9",
+                    "U06LKEPTCA0",
+                    "U06LE9EH9QV",
+                    "U06LCUTBMU5",
+                    "U06LVK2FU1X",
+                    "U06L2CSPXV5",
+                    "U06LH4PDAQ3",
+                    "U06LKTXCZL4"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LDT584J1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LKTXCZL4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

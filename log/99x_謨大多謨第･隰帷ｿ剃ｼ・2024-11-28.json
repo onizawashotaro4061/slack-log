@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1732851344.905719",
+        "client_msg_id": "38250b3d-3f6e-41e3-a434-3d1df66a0c97",
+        "text": "<!channel>\nSR31・32でやる関係で室内履き（赤い靴ひも）の持参しなければなりません。\n買っていない人は、買うようにお願いします。\nただ、そのためだけに買うのも勿体無い気はするので、明実内で持ってる人から借りることもお勧めします。\n一応総会のタイミングで告知しますので、それまでに声をかけれる人はかけておいてください。\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3RlIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSR31・32でやる関係で室内履き（赤い靴ひも）の持参しなければなりません。\n買っていない人は、買うようにお願いします。\nただ、そのためだけに買うのも勿体無い気はするので、明実内で持ってる人から借りることもお勧めします。\n一応総会のタイミングで告知しますので、それまでに声をかけれる人はかけておいてください。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U070YD7LVT4",
+                    "U06M7SPUVEC",
+                    "U070YD778SE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06M7SPUVEC",
+                    "U070YD778SE",
+                    "U06L4GLJVKR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "interrobang",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06M7SPUVEC",
+                    "U06L4GLJVKR",
+                    "U06L4GM5C87"
+                ],
+                "count": 4
+            },
+            {
+                "name": "woman-bowing::skin-tone-2",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

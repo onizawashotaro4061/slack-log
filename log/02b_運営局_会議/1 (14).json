@@ -1,0 +1,163 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712645098.078029",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1712651454.000000"
+        },
+        "client_msg_id": "0b94b0c3-ff12-4b29-91d2-207891952caa",
+        "text": "*<!channel>*\n0411_第9回運営局局会議\n【時間】\n19：00〜20：40（場合によっては伸びます）\n【場所】\nLS406（6限のみしかとってません。5限の教室は、M402です）\n【議題】\n1. 各種報告（意思共有）\n2. 渉内関連企画書読み合わせ（意思共有）\n3. 新規との関わり方について（意見交換）\n4. 諸連絡（意思共有）\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nタスク研究会は1週間ずらします。必ず1週間後に出せるようにしておいて！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0O+nN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0411_第9回運営局局会議\n【時間】\n19：00〜20：40（場合によっては伸びます）\n【場所】\nLS406（6限のみしかとってません。5限の教室は、M402です）\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "渉内関連企画書読み合わせ（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規との関わり方について（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nタスク研究会は1週間ずらします。必ず1週間後に出せるようにしておいて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG61QB3P",
+                    "U06L4GHLP2B",
+                    "U06LCE7DY6S",
+                    "U06LK0FUAHZ",
+                    "U06LK0EQS59",
+                    "U06LCE8F5PG",
+                    "U06LK5HCSE6",
+                    "U06ME05BLJW",
+                    "U06LG66Q84D",
+                    "U06LK0FC935",
+                    "U06LK3MMALA",
+                    "U06LEAGKTSS",
+                    "U06LMH6PR9S",
+                    "U06LK3LKR9Q",
+                    "U06M7SX52RW",
+                    "U06LM2P58KC",
+                    "U06LKJS20KC",
+                    "U06M7SQPKL0",
+                    "U06LG61PW7P",
+                    "U06LG62V1FX",
+                    "U06LK3MRV98",
+                    "U06L4GJ6PFZ"
+                ],
+                "count": 22
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営局_あんじゅ_ありが",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06M7SQPKL0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_もえ_ぴーもえver早い",
+                "users": [
+                    "U06L4GKK0CF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "バリヤード",
+                "users": [
+                    "U06LK3LHG0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1727427429.661869",
+        "client_msg_id": "E7607F42-DC1F-453B-975E-F6BEB390923C",
+        "text": "<@U070Y9UPJG3> 聞いてみ！多分近くのスーパー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727363783.672359",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Cs5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9UPJG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 聞いてみ！多分近くのスーパー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1727427440.021419",
+        "client_msg_id": "C0DAE85D-FFE4-45FB-A8DE-100E119798FC",
+        "text": "<@U06L4GLRAK1> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727363783.672359",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyCCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GLRAK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

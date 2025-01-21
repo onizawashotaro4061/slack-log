@@ -1,0 +1,254 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1709977708.779339",
+        "client_msg_id": "d28d9c6b-3795-4a2e-8083-5e2af54a1dc0",
+        "text": "*<!channel>* \n会議連絡！\n【時間】3\/11(月) 13:00〜17:00\n【場所】LS606\n【議題】(予定)\n1.過去企画鑑賞会(意思交換)\n2.過去企画調べ(意見交換)\n3.出演者資料について（意思共有）\n\n遅刻・早退・欠席はスレッドへ！\nスタンプ沢山押してね:+1:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709977708.779339",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1710129674.551769",
+        "reply_users": [
+            "U06LG6EJPE1",
+            "U06M7T7SSDN",
+            "U06LXP2EGKT",
+            "U06LK3MF9FC",
+            "U06LMHDAZKN",
+            "U06LG64U8DB",
+            "U06LK67B9PC",
+            "U06M7T3TQ0Y"
+        ],
+        "replies": [
+            {
+                "user": "U06LG6EJPE1",
+                "ts": "1709992390.570969"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1710110023.282359"
+            },
+            {
+                "user": "U06LXP2EGKT",
+                "ts": "1710114341.278769"
+            },
+            {
+                "user": "U06LK3MF9FC",
+                "ts": "1710115975.879529"
+            },
+            {
+                "user": "U06LMHDAZKN",
+                "ts": "1710122794.869499"
+            },
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1710126989.217899"
+            },
+            {
+                "user": "U06LK67B9PC",
+                "ts": "1710127834.970609"
+            },
+            {
+                "user": "U06M7T3TQ0Y",
+                "ts": "1710129674.551769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlsWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】3\/11(月) 13:00〜17:00\n【場所】LS606\n【議題】(予定)\n1.過去企画鑑賞会(意思交換)\n2.過去企画調べ(意見交換)\n3.出演者資料について（意思共有）\n\n遅刻・早退・欠席はスレッドへ！\nスタンプ沢山押してね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06M7T3TQ0Y",
+                    "U06LXNY0MHP",
+                    "U06LK0G74NP",
+                    "U06LK3MF9FC",
+                    "U06LCECJD8W",
+                    "U06LMHDAZKN",
+                    "U06LMHBUVT6",
+                    "U06LG64U8DB",
+                    "U06LCE9AKQW"
+                ],
+                "count": 10
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06M7T3TQ0Y",
+                    "U06L4GSPRHV",
+                    "U06LK0G74NP",
+                    "U06LMH5ACGL",
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1",
+                    "U06LG63FM1B",
+                    "U06LMHBUVT6",
+                    "U06L4GRJ2LF",
+                    "U06LG64U8DB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK3MF9FC",
+                    "U06LG63FM1B",
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1",
+                    "U06M7T3TQ0Y",
+                    "U06LG64U8DB",
+                    "U06LTN26EFL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "遅刻厳禁＿ひだ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMH5ACGL",
+                    "U06L4GM9N5V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG6EJPE1",
+        "type": "message",
+        "ts": "1709992390.570969",
+        "client_msg_id": "2FF4AF5F-176C-4E3E-92F0-BF0D7FF6DD1C",
+        "text": "予定があるため40分ほど遅れます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "97632c70aa39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-09\/7708266742385_97632c70aa39d3318ddb_72.png",
+            "first_name": "信田悠里加",
+            "real_name": "信田悠里加",
+            "display_name": "Shida.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yuri.shida12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709977708.779339",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odlux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため40分ほど遅れます。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06L2DCDLF9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCE9AKQW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

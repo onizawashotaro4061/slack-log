@@ -1,0 +1,509 @@
+[
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730518668.030419",
+        "edited": {
+            "user": "U06LG62V1FX",
+            "ts": "1730519227.000000"
+        },
+        "client_msg_id": "44CB92C4-23A9-4345-9EF0-F29F0585E4B6",
+        "text": "<!channel> お疲れさまです！\n13:20〜13:40のパフォーマンスエリアで行う三曲研究部は中止になったので、\n*13:15〜13:45のパフォ警備タスクに入っていた方はタスクなしで大丈夫です！*\nゆっくりお休みください :relaxed: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DyLtg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れさまです！\n13:20〜13:40のパフォーマンスエリアで行う三曲研究部は中止になったので、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "13:15〜13:45のパフォ警備タスクに入っていた方はタスクなしで大丈夫です！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nゆっくりお休みください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730519211.159249",
+        "edited": {
+            "user": "U06LG62V1FX",
+            "ts": "1730519235.000000"
+        },
+        "client_msg_id": "D96B254D-FDE3-4EE1-A3DA-E513C728534C",
+        "text": "<!channel> 何度もすみません！\nこれから企画中止に合わせて警備のタスクがなくなる場合はこちらで連絡させていただきます\nただ、途中で天候が回復して企画再開の可能性もあり、警備に入っていただく場合もあるので、*各ステージのZelloには必ず入っておく*ようにお願いします:palms_up_together:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/P7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "何度もすみません！\nこれから企画中止に合わせて警備のタスクがなくなる場合はこちらで連絡させていただきます\nただ、途中で天候が回復して企画再開の可能性もあり、警備に入っていただく場合もあるので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "各ステージのZelloには必ず入っておく",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ようにお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730522773.565609",
+        "client_msg_id": "070EB2C2-AABA-4D05-B818-A912052924E0",
+        "text": "<!channel> \nメインのビートルズ探偵団ストロベリーフィールズが中止の影響で、\n*13:45〜14:30のメイン警備は無し*で大丈夫です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhVEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nメインのビートルズ探偵団ストロベリーフィールズが中止の影響で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "13:45〜14:30のメイン警備は無し",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "で大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730522865.448579",
+        "edited": {
+            "user": "U06LG62V1FX",
+            "ts": "1730523458.000000"
+        },
+        "client_msg_id": "78F70E8A-B201-445C-9164-DA095E7B3EA9",
+        "text": "<!channel> \nパフォのギターサークル「street」が中止の影響で、\n*14:00〜14:45のパフォ警備は無し*で大丈夫です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZcuX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パフォのギターサークル「street」が中止の影響で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:00〜14:45のパフォ警備は無し",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "で大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730523393.099889",
+        "edited": {
+            "user": "U06LG62V1FX",
+            "ts": "1730523441.000000"
+        },
+        "client_msg_id": "D5256ECE-3404-498F-8B62-C1999BF00C37",
+        "text": "<!channel>\nギリギリになって申し訳ないです\nエントラの中野ダンスサークルSIGNが14:10〜開始の予定が、14:40〜開始に変更になったので、\n14:10〜15:15のタスクに入ってた方は、*14:30に集合場所にお願いします！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsC\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nギリギリになって申し訳ないです\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "エントラの中野ダンスサークルSIGNが14:10〜開始の予定が、14:40〜開始に変更になったので、\n14:10〜15:15のタスクに入ってた方は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "30",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に集合場所にお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730525950.999819",
+        "client_msg_id": "CF10BDE0-A7FB-4E28-ACAA-568A72FE2B92",
+        "text": "<!channel> \nお疲れさまです！\nパフォのAllround Piano Societyが中止の影響で、\n*14:45〜15:45のパフォ警備は無しでお願いします！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKoXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れさまです！\nパフォのAllround Piano Society"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が中止の影響で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:45〜15:45のパフォ警備は無しでお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U070RQ0DUBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730527719.648209",
+        "client_msg_id": "290427C8-5EE6-4EE3-BB1A-AF46838FAC3B",
+        "text": "<!channel> \nメインのBEAT-CLUB、15:20〜開始が15:30〜開始になってます！\nその時間のメイン警備15:15集合なんですが、*集合時間はそのまま15:15でお願いします！*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBOIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nメインのBEAT-CLUB、15:20〜開始が15:30〜開始になってます！\nその時間のメイン警備15:15集合なんですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "集合時間はそのまま15:15でお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG62V1FX",
+        "type": "message",
+        "ts": "1730530038.006819",
+        "client_msg_id": "677F41E1-225E-4588-B544-E7B800B36492",
+        "text": "<!channel> \nメインのフォークソング同好会が中止の影響で、\n*16:00〜16:45のメイン警備は無し*でお願いします\n\nエントラのフラサークルKa Nani Hokuが中止の影響で、\n*16:30〜17:15のエントラ警備は無し*でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c026e8308d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8076267394114_c026e8308d4f7ef91182_72.png",
+            "first_name": "工藤海人",
+            "real_name": "工藤海人",
+            "display_name": "Kudo.Kaito",
+            "team": "T06L90YHJF8",
+            "name": "kaito0422tf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRQ91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nメインのフォークソング同好会が中止の影響で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16:00〜16:45のメイン警備は無し",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でお願いします\n\nエントラのフラサークルKa Nani Hokuが中止の影響で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16:30〜17:15のエントラ警備は無し",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

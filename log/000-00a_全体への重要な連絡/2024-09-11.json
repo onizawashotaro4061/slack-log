@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1726039881.855389",
+        "client_msg_id": "04E4F92F-1A92-4727-BBBC-85494DA40C4E",
+        "text": "<!channel>\n一度ログアウトして再度ログインすると、\nできるかもです！\n忠告が出るかもしれないですが無視してファイルを保存すると開けるようになる可能性があります。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+28z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一度ログアウトして再度ログインすると、\nできるかもです！\n忠告が出るかもしれないですが無視してファイルを保存すると開けるようになる可能性があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06L9S67MEJ",
+                    "U06L4GKC9N3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おに",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06L9S67MEJ",
+                    "U06LXNYUX7T",
+                    "U06LG62UXPX",
+                    "U06LJRSQDC3",
+                    "U06L4GJ031V",
+                    "U06LCUTBMU5",
+                    "U06L4GKC9N3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06L9S67MEJ",
+                    "U06LXNYUX7T",
+                    "U06L4GKC9N3",
+                    "U070VFTRR61"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ロン",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06L9S67MEJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かなむ-盛れ可愛い",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LXNYCLJV",
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06LXNXNWGH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "成瀬-こわい",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LXNXNWGH",
+                    "U06LXNY0MHP",
+                    "U06LXNYCLJV"
+                ],
+                "count": 4
+            },
+            {
+                "name": "鞠子寝る",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

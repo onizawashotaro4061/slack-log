@@ -1,0 +1,98 @@
+[
+    {
+        "text": "<!channel> おつかれさまです！新規のみなさん、部門配属ESの締め切りは明日の5月27日(月)23：59までです\nファイルをダウンロードした上で局のメールアドレス(<mailto:140koho@meidaisai.jp|140koho@meidaisai.jp>)に提出してください:pray:\n期限厳守でお願いします～",
+        "files": [
+            {
+                "id": "F075TUSH5BJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "APuhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさまです！新規のみなさん、部門配属ESの締め切りは明日の5月27日(月)23：59までです\nファイルをダウンロードした上で局のメールアドレス("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:140koho@meidaisai.jp",
+                                "text": "140koho@meidaisai.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")に提出してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n期限厳守でお願いします～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716696147.225289",
+        "client_msg_id": "41727ee5-2ed2-459e-954a-24ec10f61ac4",
+        "reactions": [
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LK3HUVTL",
+                    "U06LK3KA09G",
+                    "U071M6ZVDMW",
+                    "U070VFY94H3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LJBVA2DS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ヤンチャム",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

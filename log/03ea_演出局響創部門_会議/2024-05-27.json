@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1716869161.296919",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1716869241.000000"
+        },
+        "client_msg_id": "A9E1C640-AB15-4735-863E-96162685F2D6",
+        "text": "<!channel>\n会議連絡だよ\n\n【時間】5\/28 (火) 局会議後\n【場所】たぶんLS503\n【議題】(予定)\n1. 各種共有（意思共有）\nほかあれば追記するね！終わったらチーム会議\n\n先日体調不良のなかディズニー行ったんだけど、寝不足すぎて1時間半くらいディズニーで寝てました、あるあるだよね^_^\n\nみたらスタンプ押してねー！\n欠席、遅刻、早退はスレッドへ :rat:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynSut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよ\n\n【時間】5\/28 (火) 局会議後\n【場所】たぶんLS503\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nほかあれば追記するね！終わったらチーム会議\n\n先日体調不良のなかディズニー行ったんだけど、寝不足すぎて1時間半くらいディズニーで寝てました、あるあるだよね^_^\n\nみたらスタンプ押してねー！\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rat",
+                                "unicode": "1f400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bestな部門",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LXP2EGKT",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

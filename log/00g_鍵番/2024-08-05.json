@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1722908994.653709",
+        "client_msg_id": "C1EF62C4-F12E-4FED-9AEC-3172F58702DF",
+        "text": "かりあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyQOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "参団_教室_鞠子ひかれる",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LJ0SKMEZ",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LJ0SKMEZ",
+                    "U06LK0F2RC3",
+                    "U06L4GH3T7H",
+                    "U06LJ4HJLMS",
+                    "U06L4GM5C87"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06L4GKC9N3",
+        "type": "message",
+        "ts": "1722912862.664179",
+        "edited": {
+            "user": "U06L4GKC9N3",
+            "ts": "1722916797.000000"
+        },
+        "client_msg_id": "8E384A8E-4BB9-4B2B-88EE-91CCD05D07ED",
+        "text": "今日、ぼ番を間違えて来たので帰ります、、\n鍵・学生証　けんと！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6f448a20d28f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7717954507399_6f448a20d28fece99905_72.png",
+            "first_name": "鞠子輝",
+            "real_name": "鞠子輝",
+            "display_name": "Mariko.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "mariko.37249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wVAv9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日、ぼ番を間違えて来たので帰ります、、\n鍵・学生証　けんと！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "参団_教室_鞠子ありえない",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LXNYCLJV",
+                    "U06LK3MF9FC",
+                    "U06LK3LKR9Q",
+                    "U06L4GM5C87",
+                    "U06LK0F2RC3",
+                    "U06L4GH3T7H",
+                    "U06LXNZDHFT"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LK3MF9FC",
+                    "U06LK0F2RC3",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "鞠子いい笑顔",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06L4GM5C87",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "参団_教室_鞠子ひからない",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1713519852.913469",
+        "client_msg_id": "55659367-BF90-4FC8-92B0-E7C4895D1091",
+        "text": "電車の遅延のため遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713448902.964469",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KwQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車の遅延のため遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1713520221.456779",
+        "client_msg_id": "008711B0-9FC0-4489-BC70-E167BD16EDAA",
+        "text": "5分くらい遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713448902.964469",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bQJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5分くらい遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1713520224.255779",
+        "client_msg_id": "D9CA076A-F4AC-4E59-8E25-49C29BA7A8B6",
+        "text": "ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713448902.964469",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOQH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

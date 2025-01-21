@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1719372611.303909",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1719462114.000000"
+        },
+        "client_msg_id": "f497de5b-16f2-423d-8119-9bc3bb44918e",
+        "text": "<!channel>\n0627_第20回運営局局会議\n【時間】\n19：10〜20：40（19：00集合）\n【場所】\nLS702\n【議題】\n1. 各種報告（意思共有）\n2. 寺子屋②（意思共有）\n3. キャンデザを決めよう⑤（意見交換・決定）\n4. 諸連絡（意思共有）\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n春学期ももうすぐ終わりますね！！\nもう少し頑張りましょう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0JQg8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0627_第20回運営局局会議\n【時間】\n19：10〜20：40（19：00集合）\n【場所】\nLS702\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "寺子屋②（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "キャンデザを決めよう⑤（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\n春学期ももうすぐ終わりますね！！\nもう少し頑張りましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LG61QB3P",
+                    "U06L4GJ6PFZ",
+                    "U06LG66Q84D",
+                    "U06LK3MMALA",
+                    "U070HS3D85D",
+                    "U06M7SX52RW",
+                    "U070Y9TREE7",
+                    "U070HS439RV",
+                    "U06LK0EQS59",
+                    "U071B3AKPPT",
+                    "U06LK0FC935",
+                    "U071M6YPYM6",
+                    "U06M7SQPKL0",
+                    "U06LK0FUAHZ",
+                    "U06LMH6PR9S",
+                    "U071M6XULE4",
+                    "U06LM2P58KC",
+                    "U06LK5HCSE6",
+                    "U06L4GHLP2B",
+                    "U0710T09B1S",
+                    "U06LXP3HYQH",
+                    "U06LG62V1FX",
+                    "U06LKJS20KC",
+                    "U0710T2V2HJ",
+                    "U0710T04SUC",
+                    "U070RQ20K8W",
+                    "U06LG61PW7P",
+                    "U070YDE27A6",
+                    "U070HS7MJH5",
+                    "U06LCE8F5PG",
+                    "U071M74S2TS",
+                    "U06ME05BLJW",
+                    "U06LCE7DY6S",
+                    "U071B3C838R",
+                    "U06LMH8Q2TW"
+                ],
+                "count": 36
+            },
+            {
+                "name": "村川_ゼミ",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LG61QB3P",
+                    "U06LK3MMALA",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "キラキラたくみ",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK3MMALA",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_インフラ_fbi",
+                "users": [
+                    "U06LK5HCSE6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_インフラ_みいな",
+                "users": [
+                    "U06LK5HCSE6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_不死鳥部門",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06LK3LKR9Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

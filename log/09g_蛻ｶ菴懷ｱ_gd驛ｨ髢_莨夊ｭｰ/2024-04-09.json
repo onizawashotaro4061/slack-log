@@ -1,0 +1,99 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06L4GM5C87",
+        "thread_ts": "1712133412.246159",
+        "root": {
+            "user": "U06L4GM5C87",
+            "type": "message",
+            "ts": "1712133412.246159",
+            "client_msg_id": "a672223d-94e2-4220-9ad0-15cf96462b1a",
+            "text": "<!channel>\n【第3回グラフィックデザイン部門会議】\n日時:4月10日（水） 19:00～20:40\n場所:和泉図書館　グループ閲覧室2\n持ち物:パソコン\n議事録：　:プリンス峯岸:\n\n議題\n1.依頼物制作の流れとチェックについて(意思共有)\n2.今後のスケジュール確認(意思共有)\n3.諸連絡\n\nです！\n\n出席・欠席・遅刻スタンプ押してね。\n\nslackで会議招集するのが夢でした。\n議題軽いのでさっさと会議終わらせて協賛頑張ろうね～",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1712133412.246159",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1712726151.817709",
+            "reply_users": [
+                "U06L4GM5C87"
+            ],
+            "replies": [
+                {
+                    "user": "U06L4GM5C87",
+                    "ts": "1712726151.817709"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wvELc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【第3回グラフィックデザイン部門会議】\n日時:4月10日（水） 19:00～20:40\n場所:和泉図書館　グループ閲覧室2\n持ち物:パソコン\n議事録：　"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "プリンス峯岸"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n議題\n1.依頼物制作の流れとチェックについて(意思共有)\n2.今後のスケジュール確認(意思共有)\n3.諸連絡\n\nです！\n\n出席・欠席・遅刻スタンプ押してね。\n\nslackで会議招集するのが夢でした。\n議題軽いのでさっさと会議終わらせて協賛頑張ろうね～"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712726151.817709",
+        "client_msg_id": "6e15d343-3e8d-45e3-bb09-364808313ff0",
+        "text": "ゆうせい欠席なので議事録じゃんけんで",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crz7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゆうせい欠席なので議事録じゃんけんで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ちゃっひー",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LXNZFWDP",
+                    "U06M7SSDQQG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "装飾愛",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06M7SSDQQG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

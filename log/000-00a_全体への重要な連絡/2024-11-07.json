@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1731024872.791339",
+        "client_msg_id": "3b24b9a6-4a4e-40f0-883f-149b0ac32529",
+        "text": "【次年度に向けて知りたいことの募集】\n <!channel>\nお疲れさまです！余韻が冷めず、みんなと撮った写真をずっと見返している副委員長の我那覇です。\n次年度会議開催に伴い、次年度に向けて知りたいことをみなさんから募集することになりました！\n些細なことでもいいので下のフォームから答えていただけると、役員一同喜びます:heart_eyes_cat:\n手が空いたタイミングにぜひ回答お願いします～～！\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScYkGFlH6DI-wwnluWeaM3VKDXE9kCprFNCO4-825Drriz3yQ\/viewform?usp=sf_link>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lt\/oL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【次年度に向けて知りたいことの募集】\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです！余韻が冷めず、みんなと撮った写真をずっと見返している副委員長の我那覇です。\n次年度会議開催に伴い、次年度に向けて知りたいことをみなさんから募集することになりました！\n些細なことでもいいので下のフォームから答えていただけると、役員一同喜びます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat",
+                                "unicode": "1f63b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n手が空いたタイミングにぜひ回答お願いします～～！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScYkGFlH6DI-wwnluWeaM3VKDXE9kCprFNCO4-825Drriz3yQ\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LKTXCZL4",
+                    "U06LCFWR494",
+                    "U06LXNY0MHP",
+                    "U070VFTRR61",
+                    "U06LMH49MQU",
+                    "U070Y9Q9151",
+                    "U06M7SETDKJ",
+                    "U06LK3MF9FC",
+                    "U06LCE9EA3G"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LXNY0MHP",
+                    "U06LCUTBMU5",
+                    "U06M7SETDKJ",
+                    "U06LCE9EA3G"
+                ],
+                "count": 5
+            },
+            {
+                "name": "そらganaha_sky",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "我那覇",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

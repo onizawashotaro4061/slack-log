@@ -1,0 +1,288 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717750478.830599",
+        "client_msg_id": "c8eb4e92-0373-4a83-9be6-c01ed3a002b9",
+        "text": "<@U06LG5XQGS1>\n最近調子どう？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750478.830599",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1717818673.997359",
+        "reply_users": [
+            "U06LG5XQGS1",
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06LG5XQGS1",
+                "ts": "1717818631.806809"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717818671.631019"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1717818673.997359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlYD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LG5XQGS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最近調子どう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1717818631.806809",
+        "client_msg_id": "1770b3f1-dae4-4ec6-98a5-1b5a39b6c268",
+        "text": "ホムカとサマフェスでの事前販売と、広報と連携してわんちゃんオーキャンで売るかもです\n\nグッズの見積もりを出してるところで明大マートにも見積もり出してもらいます\n\n明大マートの意向的には基本やりたいように協力してくれるらしいです\nただ、めいじろうを使用する場合は9割の利益を持っていかれるらしいです。交渉してどうにかする予定です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750478.830599",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxTpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ホムカとサマフェスでの事前販売と、広報と連携してわんちゃんオーキャンで売るかもです\n\nグッズの見積もりを出してるところで明大マートにも見積もり出してもらいます\n\n明大マートの意向的には基本やりたいように協力してくれるらしいです\nただ、めいじろうを使用する場合は9割の利益を持っていかれるらしいです。交渉してどうにかする予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717818671.631019",
+        "client_msg_id": "0F6E71EE-BD89-4EE5-99B8-A131ED0764B7",
+        "text": "元気やん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750478.830599",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Opdx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元気やん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717818673.997359",
+        "client_msg_id": "4A2BE039-8408-46BA-9596-DD21FBB782EA",
+        "text": "うれしい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717750478.830599",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dn1D6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うれしい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1717819445.294279",
+        "edited": {
+            "user": "U06LG5XQGS1",
+            "ts": "1717819463.000000"
+        },
+        "client_msg_id": "2d3e17e2-e9da-498f-bcca-b12a379a90b3",
+        "text": "<@U06L4GJ031V> <@U06LG62T3MK> <@U06LK0G7VCK> <@U06LG62UXPX> <@U06LMHDAZKN>\n新規募集4人応募があったので全員とるつもりなんですけどいいですか？？\n参団の女の子2人\n渉外の男の子1人\n制作の女の子1人です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxOQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJ031V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG62T3MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0G7VCK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG62UXPX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMHDAZKN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規募集4人応募があったので全員とるつもりなんですけどいいですか？？\n参団の女の子2人\n渉外の男の子1人\n制作の女の子1人です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06LK0G7VCK",
+                    "U06LG62UXPX",
+                    "U06LG62T3MK",
+                    "U06LMHDAZKN"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

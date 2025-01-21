@@ -1,0 +1,249 @@
+[
+    {
+        "user": "U06LK3NPUQ2",
+        "type": "message",
+        "ts": "1713256332.507429",
+        "client_msg_id": "E9C86607-1A6A-46F3-87BC-4E57CA180785",
+        "text": "遅刻しません。ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "166eec50e217",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6737106609027_166eec50e217c93d1caf_72.png",
+            "first_name": "安井統悟",
+            "real_name": "安井統悟",
+            "display_name": "Yasui.Togo",
+            "team": "T06L90YHJF8",
+            "name": "togotogo0428",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713145622.614549",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKnWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅刻しません。ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1713260643.481029",
+        "client_msg_id": "b92a91c6-1dfe-4d1e-97a4-f94491397739",
+        "text": "<!channel> 場所なのですがもうちょっと待ってください。只今局長が確認中です。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8t4A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 場所なのですがもうちょっと待ってください。只今局長が確認中です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1713260775.733069",
+        "client_msg_id": "2947C43E-9AF2-40A5-B009-55C6FA38D0A5",
+        "text": "企業訪問中で、さなきと共に30分遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713145622.614549",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob\/Fv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企業訪問中で、さなきと共に30分遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1713262614.414599",
+        "client_msg_id": "8408d619-bceb-40bd-bc9b-0f47f8cd3e66",
+        "text": "<@U06LCDQ2W6A> これからこっちに書いてください:cry:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713145622.614549",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUdzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCDQ2W6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これからこっちに書いてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCDQ2W6A",
+        "type": "message",
+        "ts": "1713270850.931549",
+        "client_msg_id": "c754e821-0173-44ca-b64c-934d4a4a78c3",
+        "text": "<@U06LXK3RF7B> そうでした！！ごめん！！！！気を付ける:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e73e0dd6c88b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6710891562980_e73e0dd6c88b9ef50a8e_72.png",
+            "first_name": "内田日奈子",
+            "real_name": "内田日奈子",
+            "display_name": "Uchida.Hinako",
+            "team": "T06L90YHJF8",
+            "name": "u.sunshine3112",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713145622.614549",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5q5t1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXK3RF7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そうでした！！ごめん！！！！気を付ける"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "kissing_heart",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

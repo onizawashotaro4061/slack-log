@@ -1,0 +1,41 @@
+[
+    {
+        "text": "間違えてたので修正です:weary:",
+        "files": [
+            {
+                "id": "F06PK0YFVD2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCDQ2W6A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtFcm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間違えてたので修正です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "weary",
+                                "unicode": "1f629"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710399791.424679",
+        "client_msg_id": "ed8746c4-0d7f-41a8-a1b9-cb5ba11e250b",
+        "thread_ts": "1709825686.753959",
+        "parent_user_id": "U06LCDQ2W6A"
+    }
+]

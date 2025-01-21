@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1712535465.256709",
+        "edited": {
+            "user": "U06L4GH4ETH",
+            "ts": "1712535478.000000"
+        },
+        "client_msg_id": "9FBB687D-FE12-420C-89DB-1548F3EC2F54",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06M7SPUVEC",
+                    "U06M7SETDKJ",
+                    "U06LY5XNLBT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK3K88SW",
+                    "U06LCE9EA3G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1712549042.954429",
+        "client_msg_id": "22EAB0C2-4B89-44A1-9598-D49771AC3A0F",
+        "text": "お昼しめ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EE9Jg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お昼しめ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U06LXNUQ989",
+        "type": "message",
+        "ts": "1718977048.747909",
+        "client_msg_id": "6FB0CD49-0F84-4CB7-A80B-62C485FC5262",
+        "text": "予定があるためお休みします。すみません:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e914cc217da1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7694401269331_e914cc217da1a8f508d0_72.png",
+            "first_name": "林咲希",
+            "real_name": "林咲希",
+            "display_name": "Hayashi Saki",
+            "team": "T06L90YHJF8",
+            "name": "sak.r.3a9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9oqBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるためお休みします。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

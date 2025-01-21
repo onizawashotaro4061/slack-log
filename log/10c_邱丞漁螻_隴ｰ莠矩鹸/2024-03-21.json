@@ -1,0 +1,141 @@
+[
+    {
+        "text": "*<!channel>*\nお疲れ様です！総務局3年の中宮です。\n\n0319_第7回総務局会議議事録を\nOneDrive＞自分のファイル＞各局＞09_総務局＞01局会議＞議事録＞3月\nにアップロードしました。\n議題は\n1. 進捗報告（意思共有）\n2. 3月期総会分析（意見交換）\n3. 前期ニーズ調査質問項目選定（意見交換）\n4. 諸連絡（意思共有）\nです。以下にファイルを添付いたしますのでご確認よろしくお願いします。\n\n明日から3日間、北の大地で旅をします。探さないでください。お土産のリクエストは受け付けます。",
+        "files": [
+            {
+                "id": "F06QKUP7K45",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNX1A57",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yzu0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！総務局3年の中宮です。\n\n0319_第7回総務局会議議事録を\nOneDrive＞自分のファイル＞各局＞09_総務局＞01局会議＞議事録＞3月\nにアップロードしました。\n議題は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "進捗報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3月期総会分析（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前期ニーズ調査質問項目選定（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。以下にファイルを添付いたしますのでご確認よろしくお願いします。\n\n明日から3日間、北の大地で旅をします。探さないでください。お土産のリクエストは受け付けます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711024524.238429",
+        "client_msg_id": "b298bf67-4d75-421c-b5fc-2608dbf75de4",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06M7TE180Y",
+                    "U06LXNYCLJV",
+                    "U06LK3MPZ34",
+                    "U06L2CSPXV5",
+                    "U06LMLKREUU",
+                    "U06LG6B2NA1",
+                    "U06LM0QJV3L",
+                    "U06M7SZ5WG0"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LMLKREUU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LMLKREUU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U06LG62FNP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

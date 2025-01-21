@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LFKRD4MQ",
+        "text": "<@U06LFKRD4MQ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1708776683.746789"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LJ4HJLMS",
+        "text": "<@U06LJ4HJLMS>さんがチャンネルに参加しました",
+        "inviter": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1708783998.229269"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L9S67MEJ",
+        "text": "<@U06L9S67MEJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1708843815.049439"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06L9S67MEJ",
+        "old_name": "08b_渉外局_議事録",
+        "name": "08b_渉外局_会議",
+        "text": "チャンネル名を「08b_渉外局_議事録」から「08b_渉外局_会議」に変更しました",
+        "type": "message",
+        "ts": "1708843930.221049"
+    }
+]

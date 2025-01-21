@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1731745341.770659",
+        "client_msg_id": "011D2EED-F9B9-4B66-86C7-71F4445DF07B",
+        "text": "プレ卓すみませんからのかりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4sX4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プレ卓すみませんからのかりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "開_なつくん",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "効果測定をぶっ壊す",
+                "users": [
+                    "U06LG6B2NA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

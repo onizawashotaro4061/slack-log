@@ -1,0 +1,163 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1713237861.052479",
+        "client_msg_id": "63166471-5061-4a8c-ba4b-6ba25b83d22b",
+        "text": "*<!channel>*\n0418_第9回運営局局会議\n【時間】\n19：00〜20：40（場合によっては伸びます）\n【場所】\n当日連絡します。\n【議題】\n1. 各種報告（意思共有）\n2. タスク研究会（意思共有）\n3. 諸連絡（意思共有）\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nタスク研究会の資料は会議資料の0418のそれぞれの部門のファイルに入れておいてください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEpig",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0418_第9回運営局局会議\n【時間】\n19：00〜20：40（場合によっては伸びます）\n【場所】\n当日連絡します。\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "タスク研究会（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n遅刻・欠席・早退は局長に理由を添えてSlackにて連絡！\n\nタスク研究会の資料は会議資料の0418のそれぞれの部門のファイルに入れておいてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_運",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LK0FUAHZ",
+                    "U06M7SQPKL0",
+                    "U06LCE7DY6S",
+                    "U06LK3MRV98",
+                    "U06LG61QB3P",
+                    "U06LMH8Q2TW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LK0FC935",
+                    "U06L4GHLP2B",
+                    "U06LG61PW7P",
+                    "U06LCE8F5PG",
+                    "U06LG61QB3P",
+                    "U06LK0FUAHZ",
+                    "U06LG66Q84D",
+                    "U06L4GL3Z9V",
+                    "U06LMH6PR9S",
+                    "U06LK0EQS59",
+                    "U06ME05BLJW",
+                    "U06LM2P58KC",
+                    "U06M7SQPKL0",
+                    "U06LEAGKTSS",
+                    "U06LKJS20KC",
+                    "U06LG62V1FX",
+                    "U06L4GHAANB",
+                    "U06LK5HCSE6",
+                    "U06M7SX52RW"
+                ],
+                "count": 20
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LCE6E64W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_もえ_ぴーもえver早い",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06L4GKK0CF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_かいと_うみんちゅ",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06L4GKK0CF",
+                    "U06LG61PW7P"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1733217773.125289",
+        "client_msg_id": "4b3e9776-b0df-4168-a16e-d898fc09a977",
+        "text": "腹痛のため遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733119638.935679",
+        "parent_user_id": "U071M6ZDDQ8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wP1KI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛のため遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071M6ZDDQ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD8BGRG",
+        "type": "message",
+        "ts": "1733218394.658769",
+        "client_msg_id": "8A0046A5-EF18-4E03-AAAE-E282FAFEB9F3",
+        "text": "バイトが長引いてしまったので少し遅れます。すみません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "13fb1e913b84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7720286708229_13fb1e913b84f7c24d15_72.png",
+            "first_name": "古田",
+            "real_name": "古田 真夕",
+            "display_name": "Furuta.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "furuta.mayu05ic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733119638.935679",
+        "parent_user_id": "U071M6ZDDQ8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+snX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトが長引いてしまったので少し遅れます。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071M6ZDDQ8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

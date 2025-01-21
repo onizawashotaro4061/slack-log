@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1732164546.956409",
+        "client_msg_id": "BFA968EC-7DA8-4349-9EA7-EDE8595C53F1",
+        "text": "<!channel> \nお疲れ様です。\n副委員長の橋本です。\n15日にお知らせした上記、「すぎキャン」にご協力いただける方を募集中です。\nご協力いただける方は :00-出席: スタンプを本日15：30までに押してください。\n空きコマの方など、ご協力いただけると幸いです。\nご協力のほど、よろしくお願いします:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+wf8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n副委員長の橋本です。\n15日にお知らせした上記、「すぎキャン」にご協力いただける方を募集中です。\nご協力いただける方は "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "00-出席"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スタンプを本日15：30までに押してください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n空きコマの方など、ご協力いただけると幸いです。\nご協力のほど、よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U0710T3MCUC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

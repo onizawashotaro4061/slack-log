@@ -1,0 +1,138 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LDT584J1",
+        "text": "<@U06LDT584J1>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1712058988.727969"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCUTBMU5",
+        "text": "<@U06LCUTBMU5>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059054.941429"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L2DCDLF9",
+        "text": "<@U06L2DCDLF9>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.022029"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE9NLP8",
+        "text": "<@U06LCE9NLP8>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.105349"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNZJBFT",
+        "text": "<@U06LXNZJBFT>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.193469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3NH9MG",
+        "text": "<@U06LK3NH9MG>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.350499"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SZ5WG0",
+        "text": "<@U06M7SZ5WG0>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.454479"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GH4ETH",
+        "text": "<@U06L4GH4ETH>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.552019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG61PW7P",
+        "text": "<@U06LG61PW7P>さんがチャンネルに参加しました",
+        "inviter": "U06LDT584J1",
+        "type": "message",
+        "ts": "1712059055.644419"
+    },
+    {
+        "text": "<!channel> お疲れさまです～！このチャンネルは中野新歓シフトに入ってくれている人用のチャンネルなので、情報共有や何かわからないことがあった際に使ってもらえたら！と思います！\nしょうきが新歓全体用のチャンネルに載せてくれてたマニュアルも一応載せておくので、しっかりと目を通しておくようにお願いします:saluting_face:",
+        "files": [
+            {
+                "id": "F06RRAXMSKH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8M2uv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れさまです～！このチャンネルは中野新歓シフトに入ってくれている人用のチャンネルなので、情報共有や何かわからないことがあった際に使ってもらえたら！と思います！\nしょうきが新歓全体用のチャンネルに載せてくれてたマニュアルも一応載せておくので、しっかりと目を通しておくようにお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712059183.575339",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SZ5WG0",
+                    "U06LCE9NLP8",
+                    "U06L4GH4ETH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "そら天才",
+                "users": [
+                    "U06LCE9NLP8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

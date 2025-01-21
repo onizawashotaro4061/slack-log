@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U06LCE7524E",
+        "type": "message",
+        "ts": "1712160752.492009",
+        "client_msg_id": "81312029-A8F9-4150-A6EF-7BD6596E4014",
+        "text": "予定が入ってしまったのでお休みします:woman-bowing:\nけんと補習大感謝です:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d65e97bb6cdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7836600315591_d65e97bb6cdc5d1b86a1_72.png",
+            "first_name": "丹羽涼香",
+            "real_name": "丹羽涼香",
+            "display_name": "Niwa.Suzuka",
+            "team": "T06L90YHJF8",
+            "name": "suzusono28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgJg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が入ってしまったのでお休みします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nけんと補習大感謝です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

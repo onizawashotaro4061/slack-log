@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LK0EBWRH",
+        "type": "message",
+        "ts": "1732005925.317869",
+        "client_msg_id": "64E6FEF4-7CD3-47FA-94E1-46C1276B5243",
+        "text": "祖父のお見舞いに行くので欠席します :pleading_face: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f01833712a76",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721924555664_f01833712a7695be16e0_72.png",
+            "first_name": "小林昌博",
+            "real_name": "小林昌博",
+            "display_name": "Kobayashi.Akihiro",
+            "team": "T06L90YHJF8",
+            "name": "jinngu16kajuri1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731931810.820929",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ht0Hw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "祖父のお見舞いに行くので欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B38EX0R",
+        "type": "message",
+        "ts": "1732006921.004029",
+        "client_msg_id": "A0F3347C-3951-4DF7-8025-297BEF959E4A",
+        "text": "面接があるため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9df6f64c60c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-26\/7346138072529_9df6f64c60c701c30ebc_72.png",
+            "first_name": "小野﨑優斗",
+            "real_name": "小野﨑優斗",
+            "display_name": "Onozaki.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "onozaki.yuto082905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731931810.820929",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqekS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面接があるため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

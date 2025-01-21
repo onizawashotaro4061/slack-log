@@ -1,0 +1,617 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LE249H0V",
+        "text": "<@U06LE249H0V>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711355050.757689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3ZBCN6",
+        "text": "<@U06LK3ZBCN6>さんがチャンネルに参加しました",
+        "inviter": "U06LE249H0V",
+        "type": "message",
+        "ts": "1711355058.018629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE4EV2A",
+        "text": "<@U06LCE4EV2A>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355092.700419"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK04QJ0K",
+        "text": "<@U06LK04QJ0K>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355092.777949"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXP1JG0Z",
+        "text": "<@U06LXP1JG0Z>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355092.841149"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GKGXB9",
+        "text": "<@U06L4GKGXB9>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355092.912369"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GM57JT",
+        "text": "<@U06L4GM57JT>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355092.974739"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE7524E",
+        "text": "<@U06LCE7524E>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355104.373039"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG63FJUD",
+        "text": "<@U06LG63FJUD>さんがチャンネルに参加しました",
+        "inviter": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355104.448069"
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711355563.389339",
+        "edited": {
+            "user": "U06LK3ZBCN6",
+            "ts": "1711702761.000000"
+        },
+        "client_msg_id": "B991B412-486D-4F88-AF39-9515D231793B",
+        "text": "<!channel>\n【0326第1回開発局B部門会議について】\n  おつかれさまです！\n\n【時間】\n  13:30〜18:50\n\n【場所】\n  LS305\n\n【持ち物】\n  パソコン\n  新チームの絆\n\n【議題】\n1. スケジュールの共有、調整（意思共有）\n2. 部門方針について（意見交換）\n3. 部門活動についてのGW（意見交換・決定）\n4. 部門内係決め（意思共有）\n遅刻・欠席・早退をする人はスレッドで必ず教えてください！\nzoom希望の人もお願いします！\n\nみたら既読スタンプ！！！！！ \n\n第1回部門ご飯行こうと思ってるからみんな来てね〜 ご飯で部門名決めちゃおうかな\n会議長いけど気張っていこう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1711427127.739439",
+        "reply_users": [
+            "U06LXP1JG0Z",
+            "U06LK3ZBCN6",
+            "U06L4GM57JT",
+            "U06LG63FJUD",
+            "U06L4GKGXB9"
+        ],
+        "replies": [
+            {
+                "user": "U06LXP1JG0Z",
+                "ts": "1711376252.232739"
+            },
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1711389771.559409"
+            },
+            {
+                "user": "U06L4GM57JT",
+                "ts": "1711424972.049209"
+            },
+            {
+                "user": "U06LG63FJUD",
+                "ts": "1711425922.675179"
+            },
+            {
+                "user": "U06LXP1JG0Z",
+                "ts": "1711426253.410039"
+            },
+            {
+                "user": "U06L4GKGXB9",
+                "ts": "1711427127.739439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zXpr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0326第1回開発局B部門会議について】\n  おつかれさまです！\n\n【時間】\n  13:30〜18:50\n\n【場所】\n  LS305\n\n【持ち物】\n  パソコン\n  新チームの絆\n\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "スケジュールの共有、調整（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門方針について（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門活動についてのGW（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門内係決め（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n遅刻・欠席・早退をする人はスレッドで必ず教えてください！\nzoom希望の人もお願いします！\n\nみたら既読スタンプ！！！！！ \n\n第1回部門ご飯行こうと思ってるからみんな来てね〜 ご飯で部門名決めちゃおうかな\n会議長いけど気張っていこう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿おつかれいたなかれい",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9",
+                    "U06LCE4EV2A",
+                    "U06LG63FJUD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "kr",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9",
+                    "U06LCE4EV2A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "piggy",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K",
+                    "U06L4GM57JT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06L4GKGXB9",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LK04QJ0K",
+                    "U06LCE4EV2A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "しばミーム",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K",
+                    "U06LCE7524E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LCE4EV2A",
+                    "U06LG63FJUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "horse",
+                "users": [
+                    "U06L4GKGXB9",
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K"
+                ],
+                "count": 3
+            },
+            {
+                "name": "racehorse",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06L4GKGXB9",
+                    "U06LK04QJ0K",
+                    "U06LG63FJUD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "flag-al",
+                "users": [
+                    "U06LK04QJ0K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "crossed_flags",
+                "users": [
+                    "U06LK04QJ0K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_りょうた_大谷",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMGM3CG4",
+        "text": "<@U06LMGM3CG4>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711372053.305069"
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1711376252.232739",
+        "client_msg_id": "6365E233-34CD-4DDA-88E9-9219D1930F90",
+        "text": "マジで7時までなの？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUMlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マジで7時までなの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SBFPFS",
+        "text": "<@U06M7SBFPFS>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711378931.054539"
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1711389771.559409",
+        "client_msg_id": "6CFE7238-79CD-4792-A788-FD890F7F773C",
+        "text": "そうだよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3LxSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうだよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM57JT",
+        "type": "message",
+        "ts": "1711424972.049209",
+        "client_msg_id": "C50C5F4E-53C3-474F-BA61-C4D6F48BCE2D",
+        "text": "17:00までだと思ってバイトを入れてしまったため、17:00に早退させていただきます。\nすみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a400e294167",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6812981157409_5a400e2941676380e4ef_72.png",
+            "first_name": "森舞",
+            "real_name": "森舞",
+            "display_name": "Mori.Mai",
+            "team": "T06L90YHJF8",
+            "name": "mai2_myu_kobuta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWFbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "17:00までだと思ってバイトを入れてしまったため、17:00に早退させていただきます。\nすみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG63FJUD",
+        "type": "message",
+        "ts": "1711425922.675179",
+        "client_msg_id": "9DA08FC4-9123-4E06-8D60-A81033EC1204",
+        "text": "遅刻します。申し訳ありません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "578ecb56d74c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-07\/6920848967893_578ecb56d74ca4bd1c84_72.png",
+            "first_name": "田中怜",
+            "real_name": "田中怜",
+            "display_name": "Tanaka.Rei",
+            "team": "T06L90YHJF8",
+            "name": "reiranpo124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NLhro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅刻します。申し訳ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1711426253.410039",
+        "client_msg_id": "B24DF609-50BF-4334-84EF-F5D303A59A2B",
+        "text": "5分遅刻します。大変申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kHmx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5分遅刻します。大変申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿本間宮の久大",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GKGXB9",
+        "type": "message",
+        "ts": "1711427127.739439",
+        "client_msg_id": "1554ff4f-0d96-4796-9609-583a82648070",
+        "text": "ごめんなさい、20分ほど遅刻します\n大変申し訳ありません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f2e213e523d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6701600015076_f2e213e523d4ee91bc39_72.jpg",
+            "first_name": "宇野俊祐",
+            "real_name": "宇野俊祐",
+            "display_name": "Uno.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "shunsukeuno1029",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711355563.389339",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80U5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい、20分ほど遅刻します\n大変申し訳ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

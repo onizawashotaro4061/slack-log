@@ -1,0 +1,70 @@
+[
+    {
+        "text": "<!channel> \nお疲れ様です。\n今日共有あった資料作成の資料を写真のところに入れておいたのでこれを参考に頑張って",
+        "files": [
+            {
+                "id": "F06PDR8QB37",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMHBUVT6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRhJ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n今日共有あった資料作成の資料を写真のところに入れておいたのでこれを参考に頑張って"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710402774.229109",
+        "edited": {
+            "user": "U06LMHBUVT6",
+            "ts": "1710402793.000000"
+        },
+        "client_msg_id": "F76D3F04-8179-4A3B-87C5-AC0D800788DA",
+        "reactions": [
+            {
+                "name": "風火林山-1",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LK3MF9FC",
+                    "U06L2DCDLF9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LCECJD8W",
+                    "U06LMH5ACGL"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

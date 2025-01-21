@@ -1,0 +1,206 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1729578220.765489",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1729578356.000000"
+        },
+        "client_msg_id": "740fee37-efe8-4001-b044-a9a572cd5923",
+        "text": "<!channel>\nおつリハリハーサル連絡！\n【時間】10\/22(火) 19:00集合、19:10開始\n【場所】食堂3階\n【議題】(予定)\n\n1.UGTリハ！(withアナ研)\n\n台本印刷数(UGT)\n進行:23\nPA:7\n司会:5\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729578220.765489",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1729587429.926549",
+        "reply_users": [
+            "U06LXNY0MHP",
+            "U06LMH5ACGL",
+            "U070HS2GY5V"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1729578249.821749"
+            },
+            {
+                "user": "U06LMH5ACGL",
+                "ts": "1729578331.512559"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1729578365.373199"
+            },
+            {
+                "user": "U070HS2GY5V",
+                "ts": "1729587429.926549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xHJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつリハリハーサル連絡！\n【時間】10\/22(火) 19:00集合、19:10開始\n【場所】食堂3階\n【議題】(予定)\n\n1.UGTリハ！(withアナ研)\n\n台本印刷数(UGT)\n進行:23\nPA:7\n司会:5\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1729578249.821749",
+        "client_msg_id": "4a4ef7c6-1c1a-42ea-90ff-1c0587b009e2",
+        "text": "渉外局会議に凸るので、20:30に抜けます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729578220.765489",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNSDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "渉外局会議に凸るので、20:30に抜けます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH5ACGL",
+        "type": "message",
+        "ts": "1729578331.512559",
+        "client_msg_id": "A5DC09B9-9DD8-4D74-AD09-51F7EFF51E7F",
+        "text": "司会台本私のとアナ研の既に刷ってあるので5部でだいでーす",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "80e95ee505dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-04\/7241064541184_80e95ee505ddee9fe8ae_72.png",
+            "first_name": "加藤楓華",
+            "real_name": "加藤楓華",
+            "display_name": "Kato.Fuka",
+            "team": "T06L90YHJF8",
+            "name": "fuka.0203.sora",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729578220.765489",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sSI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "司会台本私のとアナ研の既に刷ってあるので5部でだいでーす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1729578365.373199",
+        "client_msg_id": "71e334c5-2424-470a-a985-4d57db57468a",
+        "text": "りょ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729578220.765489",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qKEVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

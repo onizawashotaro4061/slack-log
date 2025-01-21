@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1715306132.360129",
+        "client_msg_id": "E7A3471C-003C-4140-980E-4E25854BEACF",
+        "text": "次長会後にある直接賛助のための手土産を購入するため1時間ほど遅刻します。\n急な連絡となってしまい大変申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714965341.200099",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "haIKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次長会後にある直接賛助のための手土産を購入するため1時間ほど遅刻します。\n急な連絡となってしまい大変申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

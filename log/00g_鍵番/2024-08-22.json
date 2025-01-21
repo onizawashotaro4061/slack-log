@@ -1,0 +1,187 @@
+[
+    {
+        "text": "鍵しばためい\nよっしーさんがゴミ全部もってってくださいました :役員会空気齋藤: ",
+        "files": [
+            {
+                "id": "F07HY82LZ8D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RD\/E6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鍵しばためい\nよっしーさんがゴミ全部もってってくださいました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "役員会空気齋藤"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724316732.562209",
+        "edited": {
+            "user": "U06LK3ZBCN6",
+            "ts": "1724316980.000000"
+        },
+        "client_msg_id": "0101B693-0FA7-4D06-8D4C-1F0FFBB728E5",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LCE69DRU",
+                    "U06LK0FUAHZ",
+                    "U06LCUTBMU5",
+                    "U06LK3ZBCN6",
+                    "U06LCE8L8LW",
+                    "U06L4GH3T7H",
+                    "U06LXNY0MHP",
+                    "U06LK0F2RC3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "役員会空気齋藤",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LCUTBMU5",
+                    "U06LCE8L8LW",
+                    "U06M7SETDKJ",
+                    "U06LXNY0MHP",
+                    "U06LK0F2RC3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "かっこいい",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LCUTBMU5",
+                    "U06LH4PDAQ3",
+                    "U06LCE8L8LW",
+                    "U06M7SETDKJ",
+                    "U06LXNY0MHP"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724378378.230289",
+        "client_msg_id": "33376B82-0CD8-45C4-8769-937B2B197EF7",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LJ0SKMEZ",
+                    "U06LJRSQDC3",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724392012.679629",
+        "client_msg_id": "B590DC85-D512-45AA-93DC-A23EC958706B",
+        "text": "お昼しめかえしです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEwTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お昼しめかえしです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

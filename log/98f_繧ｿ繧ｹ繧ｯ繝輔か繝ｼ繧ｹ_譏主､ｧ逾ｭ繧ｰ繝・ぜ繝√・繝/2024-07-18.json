@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1721314429.972119",
+        "client_msg_id": "04ff5e8f-72bb-45b3-be98-09e61ef5a7e0",
+        "text": "<!channel> \nお疲れ様です\n取り急ぎ連絡なんですけど、\nサマーフェスタでのグッズ販売は実施しない方向に決定しました。\n理由についてはzoomのときに話します。\n予定空けてくれてた人には申し訳ないです:bow:\n予定入れちゃって大丈夫です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMzO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です\n取り急ぎ連絡なんですけど、\nサマーフェスタでのグッズ販売は実施しない方向に決定しました。\n理由についてはzoomのときに話します。\n予定空けてくれてた人には申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n予定入れちゃって大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GJ031V",
+                    "U070YD7LPR8",
+                    "U06L97X3V6J",
+                    "U06LG62T3MK",
+                    "U070Y9SLJJX",
+                    "U06LMHDAZKN",
+                    "U06LG62UXPX",
+                    "U0714V5MYTW"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

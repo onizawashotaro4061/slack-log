@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1720169269.834009",
+        "client_msg_id": "7AFBA31F-7B5B-48BB-81B4-FD9FF8BA7357",
+        "text": "前々からの予定があります",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720159986.352789",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsSzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前々からの予定があります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

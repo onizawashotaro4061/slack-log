@@ -1,0 +1,240 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719368625.824959",
+        "client_msg_id": "00d99b17-9841-404d-97e7-c5134ced605a",
+        "text": "<@U06LCE9HTP0> <@U06M7SU83G8> <@U06LG5XQGS1> <@U06LK0BP1TM>\n新規の子チャンネルにいれてほしい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zaSL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG5XQGS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0BP1TM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規の子チャンネルにいれてほしい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719368653.013129",
+        "client_msg_id": "eb73fd0a-0e3b-4519-aecb-88731ee8c638",
+        "text": "<@U06LMH412CU> も！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yrla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH412CU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " も！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719369094.913619",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1720138672.000000"
+        },
+        "client_msg_id": "f25c540b-919d-489a-83ee-9488c7a15358",
+        "text": "<!channel>\n第5回タスクフォース会（結成会）\n場所：和泉キャンパスLS402\n時間：10：00ー12：00\n議題：チーム長より近況報告\n　　：委員長より連絡\n　　：チーム会議\nチーム長は共有の準備をすすめること！（これまで、これからみたいな感じ）\nチーム会議もご自由にお使いください。\n※Slack・Notionは任意とする！\n\n新メンバーの皆さんへ！\nこんにちは。委員長の前です。\nタスクフォースに入ってくれてありがとう！\nみんなと会えるん楽しみにしてるよ。いっぱいはなそーね！待っております。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719369094.913619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1720225368.516279",
+        "reply_users": [
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1720225368.516279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3RR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n第5回タスクフォース会（結成会）\n場所：和泉キャンパスLS402\n時間：10：00ー12：00\n議題：チーム長より近況報告\n　　：委員長より連絡\n　　：チーム会議\nチーム長は共有の準備をすすめること！（これまで、これからみたいな感じ）\nチーム会議もご自由にお使いください。\n※Slack・Notionは任意とする！\n\n新メンバーの皆さんへ！\nこんにちは。委員長の前です。\nタスクフォースに入ってくれてありがとう！\nみんなと会えるん楽しみにしてるよ。いっぱいはなそーね！待っております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L97X3V6J",
+                    "U070VFTLATX",
+                    "U070YD83MD0",
+                    "U06LK5HCSE6",
+                    "U070RQ0TU6A"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070Y9Q9151",
+                    "U06LK0DN10T",
+                    "U06L97X3V6J",
+                    "U071B38HAM7",
+                    "U06LG6DR26R",
+                    "U06LK0DK7R9",
+                    "U06LCE9HTP0",
+                    "U06LMH412CU",
+                    "U070HT2C5KR",
+                    "U06LVK2FU1X",
+                    "U070VFTLATX",
+                    "U06LK5HCSE6",
+                    "U06LMH9MBFW",
+                    "U070HS35ECX",
+                    "U070RQ0TU6A",
+                    "U06L4GJ031V",
+                    "U0714V5MYTW",
+                    "U070Y9RLJTV",
+                    "U06LK3L6B4J",
+                    "U070YD7LPR8",
+                    "U070YD83MD0",
+                    "U070HS3G355",
+                    "U070VFZF6BF",
+                    "U06LK3Q6Y2W",
+                    "U06LCE9JG3G",
+                    "U06L4GH3T7H",
+                    "U06LMH5ACE8"
+                ],
+                "count": 27
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U071M6X5M16",
+                    "U06LG62UXPX",
+                    "U06LK3MF9FC",
+                    "U070RQ167FG",
+                    "U070Y9UEAAF",
+                    "U06LK0E89MH",
+                    "U06LG5XQGS1",
+                    "U06LJ4HJLMS",
+                    "U06LCECJD8W",
+                    "U06LXNZDHFT"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

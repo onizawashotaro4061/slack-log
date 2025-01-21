@@ -1,0 +1,130 @@
+[
+    {
+        "text": "【部門希望調査書について】\n<!channel>\nこんにちは！！次長が決定しましたね、おめでとございます！\nそこで継続の人には部門配属希望書の提出をお願いします！\n提出期限は3\/18の23:59でお願いします！！\nメールでこのword文書に入力したのを送ってね",
+        "files": [
+            {
+                "id": "F06PMERTP9B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LH4PDAQ3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNxor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【部門希望調査書について】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこんにちは！！次長が決定しましたね、おめでとございます！\nそこで継続の人には部門配属希望書の提出をお願いします！\n提出期限は3\/18の23:59でお願いします！！\nメールでこのword文書に入力したのを送ってね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710493451.905919",
+        "client_msg_id": "5fdb59fe-819e-4b86-bba1-6ef0409c325f",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06L4GM463H",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06L4GM463H",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LK3M7VGA",
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "役員会空気齋藤",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS",
+                    "U06L4GM5C87"
+                ],
+                "count": 4
+            },
+            {
+                "name": "頑張れよっしー",
+                "users": [
+                    "U06LK3M7VGA",
+                    "U06LCE8L8LW",
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06L4GM463H",
+                    "U06LK3M7VGA",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "きいろ",
+                "users": [
+                    "U06LCE8L8LW",
+                    "U06LK0EUE75",
+                    "U06L4GM463H"
+                ],
+                "count": 3
+            },
+            {
+                "name": "厳しいって",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06L4GM463H"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

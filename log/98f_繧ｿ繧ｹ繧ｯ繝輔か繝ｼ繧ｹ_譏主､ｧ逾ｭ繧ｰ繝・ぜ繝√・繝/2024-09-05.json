@@ -1,0 +1,260 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1725533698.377839",
+        "client_msg_id": "A840E8D0-ABB8-4BC6-8FB3-61C97F793712",
+        "text": "<!channel> \nお疲れ様です！\nそしてお久しぶりです佐名木です\n7日の総会及びプレ明の日の午前中9:00〜タスクフォース会があろうがなかろうがチーム会議を開きます！\n\n出席・欠席の回答を必ず全員お願いします！\n活動停止など色々ありまだ全員揃ったことがないのでみなさん参加してほしいです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1725667098.662679",
+        "reply_users": [
+            "U06L4GJ031V",
+            "U06LMHDAZKN",
+            "U070YD7LPR8"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GJ031V",
+                "ts": "1725534886.876969"
+            },
+            {
+                "user": "U06L4GJ031V",
+                "ts": "1725536004.432489"
+            },
+            {
+                "user": "U06LMHDAZKN",
+                "ts": "1725665921.797709"
+            },
+            {
+                "user": "U06L4GJ031V",
+                "ts": "1725666706.248239"
+            },
+            {
+                "user": "U070YD7LPR8",
+                "ts": "1725667098.662679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cZ6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\nそしてお久しぶりです佐名木です\n7日の総会及びプレ明の日の午前中9:00〜タスクフォース会があろうがなかろうがチーム会議を開きます！\n\n出席・欠席の回答を必ず全員お願いします！\n活動停止など色々ありまだ全員揃ったことがないのでみなさん参加してほしいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U070YD7LPR8",
+                    "U0714V5MYTW",
+                    "U06L4GJ031V",
+                    "U06LG62UXPX",
+                    "U070Y9SLJJX",
+                    "U070Y9VAKAP",
+                    "U06LMHDAZKN",
+                    "U06LG62T3MK",
+                    "U06LK0G7VCK"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LG5XQGS1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJ031V",
+        "type": "message",
+        "ts": "1725534886.876969",
+        "client_msg_id": "A5971F5D-3D06-4D2F-82FE-684B9702CC4E",
+        "text": "10時から局会議があるのでそれまでの参加になります:man-bowing::man-bowing:\nですが、話し合いのキリが付くまで参加しますすみません:man-bowing::man-bowing::man-bowing: :man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "22e4edeca85a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6785188097831_22e4edeca85a9e14d2ad_72.png",
+            "first_name": "田中唯衣",
+            "real_name": "田中唯衣",
+            "display_name": "Tanaka.Yui",
+            "team": "T06L90YHJF8",
+            "name": "steinfeld.br16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXiD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10時から局会議があるのでそれまでの参加になります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nですが、話し合いのキリが付くまで参加しますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LG5XQGS1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06LG5XQGS1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJ031V",
+        "type": "message",
+        "ts": "1725536004.432489",
+        "client_msg_id": "3322FEFC-87A1-41A3-98BA-72A5CBBDBE83",
+        "text": "あと実家から行くので少し遅れてしまったりしたらほんと申し訳ないです:man-bowing::man-bowing::man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "22e4edeca85a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6785188097831_22e4edeca85a9e14d2ad_72.png",
+            "first_name": "田中唯衣",
+            "real_name": "田中唯衣",
+            "display_name": "Tanaka.Yui",
+            "team": "T06L90YHJF8",
+            "name": "steinfeld.br16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725533698.377839",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtUJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと実家から行くので少し遅れてしまったりしたらほんと申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

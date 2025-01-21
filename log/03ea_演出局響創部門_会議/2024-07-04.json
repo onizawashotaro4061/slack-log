@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U071A394WUB",
+        "type": "message",
+        "ts": "1720083820.077659",
+        "client_msg_id": "1711274F-A759-4DE1-8A9D-1F7F6874246F",
+        "text": "看病しないといけないので今日のサークルお休みしますすみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b44673756aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7182164846420_b44673756aae275e305a_72.png",
+            "first_name": "古賀美織",
+            "real_name": "古賀美織",
+            "display_name": "Koga.Miori",
+            "team": "T06L90YHJF8",
+            "name": "miori.0_0-1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720061511.848239",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNzvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "看病しないといけないので今日のサークルお休みしますすみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

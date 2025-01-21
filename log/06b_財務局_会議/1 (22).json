@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U06LCE4DK46",
+        "type": "message",
+        "ts": "1713774244.663189",
+        "client_msg_id": "E2189F88-7349-4B93-B76B-A6C31BD584AE",
+        "text": ":重工: のイベント(?)があるので欠席します。ごめんなさい :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0abd4f4c8629",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699127839922_0abd4f4c86295022831b_72.jpg",
+            "first_name": "寺内優太",
+            "real_name": "寺内優太",
+            "display_name": "Terauchi.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "bayyuta04",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713759972.055309",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jm24P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "重工"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のイベント(?)があるので欠席します。ごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "airplane",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06L4GJ031V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "財_sfo",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,412 @@
+[
+    {
+        "user": "U06LG62UXPX",
+        "type": "message",
+        "ts": "1730497421.917839",
+        "client_msg_id": "5F14B131-9FB2-4A8F-86AE-12625C63FAAC",
+        "text": "<!channel> \nおはようございます :sunny: \nタトゥーシールの貼り方\/剥がし方はこちらをご覧ください！！！\n<https:\/\/www.digitaprint.jp\/tattoo_usage.php|https:\/\/www.digitaprint.jp\/tattoo_usage.php>\n\n・このタトゥーシールは顔(目元以外)、首、腕など基本的にどこにでも貼れます！\n・好きなものを切り取って使ってください！\n・イベント用なので1日で剥がしてください\n・貼る時に*はさみと水*が必要です！\n\n\n:warning:注意事項:warning:\n*帰宅時にはキャンパス内でタトゥーシールを剥がしてから*、キャンパスを出るようにお願いします！\n\n\n個人的には\n・切り取る時に角があると剥がれやすくなるため、なるべく曲線で余白なく切るのがおすすめです。\nあと面倒な方は\n・濡らしたティッシュではなく指で湿らせる\n・剥がしたい時に端から強めにこする\nでもいけました！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4811f0cc3f6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7742240370241_4811f0cc3f6b6b565c6c_72.png",
+            "first_name": "左中瑠奈",
+            "real_name": "左中瑠奈",
+            "display_name": "Sanaka.Runa",
+            "team": "T06L90YHJF8",
+            "name": "runa_924_sanakaru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.digitaprint.jp\/img\/ogp\/OGP.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 55862,
+                "from_url": "https:\/\/www.digitaprint.jp\/tattoo_usage.php",
+                "service_icon": "https:\/\/www.digitaprint.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.digitaprint.jp\/tattoo_usage.php",
+                "fallback": "印刷通販デジタ: タトゥーシール\/使用方法 [貼り方・剥がし方]｜印刷通販【デジタ】",
+                "text": "タトゥーシールの貼り方・剥がし方など使用方法をご案内します。貼る前の準備や貼り付ける手順などを動画でも解説しています。オリジナルのタトゥーシール作成は1枚から注文可能な印刷通販デジタへ。",
+                "title": "タトゥーシール\/使用方法 [貼り方・剥がし方]｜印刷通販【デジタ】",
+                "title_link": "https:\/\/www.digitaprint.jp\/tattoo_usage.php",
+                "service_name": "印刷通販デジタ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJRQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおはようございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "タトゥーシールの貼り方\/剥がし方はこちらをご覧ください！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.digitaprint.jp\/tattoo_usage.php",
+                                "text": "https:\/\/www.digitaprint.jp\/tattoo_usage.php"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "このタトゥーシールは顔(目元以外)、首、腕など基本的にどこにでも貼れます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・好きなものを切り取って使ってください！\n・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イベント用なので1日で剥がしてください\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "貼る時に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はさみと水",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が必要です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "注意事項"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "帰宅時にはキャンパス内でタトゥーシールを剥がしてから",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、キャンパスを出るようにお願いします！\n\n\n個人的には\n・切り取る時に角があると剥がれやすくなるため、なるべく曲線で余白なく切るのがおすすめです。\nあと面倒な方は\n・濡らしたティッシュではなく指で湿らせる\n・剥がしたい時に端から強めにこする\nでもいけました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U0710T3MCUC",
+                    "U06LK0BP1TM",
+                    "U071M771YMN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG62UXPX",
+        "type": "message",
+        "ts": "1730505117.204899",
+        "edited": {
+            "user": "U06LG62UXPX",
+            "ts": "1730505294.000000"
+        },
+        "client_msg_id": "1F21116A-3E5A-4ED7-A352-1AEDCF5EBF79",
+        "text": "<@U06L97X3V6J><@U06L2DCDLF9> <@U06LCE4DK46> <@U06LCEJ5HHU> <@U06LCEA6J1L> <@U06LE249H0V> <@U06LVUKD658> <@U070VFQM2N9> <@U070RQ2NG2J> <@U06LMHBUVT6> <@U06LXNYUXS5> <@U06LG610ADB>\n本日の19時頃から20時半まで食堂2階コンパルームBにチーム員がいるため、本日中に購入お願いします！\n来れない方は可能であれば局内等で代理の方に購入を頼むようお願いします:woman-bowing:\nまた購入したのにメンションされた方はご連絡ください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4811f0cc3f6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7742240370241_4811f0cc3f6b6b565c6c_72.png",
+            "first_name": "左中瑠奈",
+            "real_name": "左中瑠奈",
+            "display_name": "Sanaka.Runa",
+            "team": "T06L90YHJF8",
+            "name": "runa_924_sanakaru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gFMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L2DCDLF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE4DK46"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCEJ5HHU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCEA6J1L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LE249H0V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LVUKD658"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070VFQM2N9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ2NG2J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMHBUVT6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNYUXS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG610ADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日の19時頃から20時半まで食堂2階コンパルームBにチーム員がいるため、本日中に購入お願いします！\n来れない方は可能であれば局内等で代理の方に購入を頼むようお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた購入したのにメンションされた方はご連絡ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LG610ADB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LJRSQDC3",
+        "type": "message",
+        "ts": "1730506803.585689",
+        "client_msg_id": "75C29DA2-3F6F-4C17-ACBC-4411B49FA826",
+        "text": "<!channel>\nお疲れ様です！\n遺失物・迷子対応統括の渉外局副局長川本です。\n今日からの落し物、迷子対応についてリマインドです！\n\n落し物や迷子について川本に連絡をする際は、基本的に*インフォメーション系統Zello*での連絡をお願いいたします！！\n\nまた、迷子が発生した場合に実行委員のみなさまに情報を流す場合があります。その際はSlackやZelloを使用しますので、ご確認いただけますと幸いです！\n\nマニュアルにも記載がありますので再度ご確認お願いいたします！\n\nなにかわからない事がありましたら、ご連絡ください！よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ca52e9b93da5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6803186965556_ca52e9b93da5e5540ec3_72.png",
+            "first_name": "川本巴菜",
+            "real_name": "川本巴菜",
+            "display_name": "Kawamoto.Hana",
+            "team": "T06L90YHJF8",
+            "name": "jonaha828",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbfu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n遺失物・迷子対応統括の渉外局副局長川本です。\n今日からの落し物、迷子対応についてリマインドです！\n\n落し物や迷子について川本に連絡をする際は、基本的に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "インフォメーション系統Zello",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "での連絡をお願いいたします！！\n\nまた、迷子が発生した場合に実行委員のみなさまに情報を流す場合があります。その際はSlackやZelloを使用しますので、ご確認いただけますと幸いです！\n\nマニュアルにも記載がありますので再度ご確認お願いいたします！\n\nなにかわからない事がありましたら、ご連絡ください！よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LMH3BZ8C",
+                    "U06LK3HUVTL",
+                    "U06LXK3RF7B"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070VFTRR61",
+                    "U06LK3HUVTL"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

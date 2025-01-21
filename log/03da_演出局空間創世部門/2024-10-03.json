@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1728024601.407459",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1728024641.000000"
+        },
+        "client_msg_id": "50afb6fd-7132-40fc-ab0b-8d487361f690",
+        "text": "<!channel>\nリハーサル連絡！\n【時間】10\/4(金) 19:00～21:30\n【場所】LS501\n【議題】(予定)\n\n0.印刷担当の人は5限の時間になったらすぐ印刷(継続は教えてあげる)\n1.19:00～UGTリハーサル\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaHr8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリハーサル連絡！\n【時間】10\/4(金) 19:00～21:30\n【場所】LS501\n【議題】(予定)\n\n0.印刷担当の人は5限の時間になったらすぐ印刷(継続は教えてあげる)\n1.19:00～UGTリハーサル\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070HS2GY5V",
+                    "U06LMH5ACGL",
+                    "U070RQ0DUBG",
+                    "U0710T40TFW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

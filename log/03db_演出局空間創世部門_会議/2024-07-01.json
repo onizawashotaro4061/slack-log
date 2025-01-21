@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1719882416.397809",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1719920296.000000"
+        },
+        "client_msg_id": "3dfda5ca-d158-4e7b-ab4a-821c49146318",
+        "text": "*<!channel>* \n会議連絡！\n【時間】7\/2(火)局会議後～\n【場所】LS701 or LS703\n【議題】(予定)\n1.各種共有\n→議事録チェックについて\n→依頼書等資料チェックについて\n2.企画ロゴ制作(チームごと)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はなし！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bM375",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】7\/2(火)局会議後～\n【場所】LS701 or LS703\n【議題】(予定)\n1.各種共有\n→議事録チェックについて\n→依頼書等資料チェックについて\n2.企画ロゴ制作(チームごと)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はなし！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LG6EJPE1",
+                    "U070RQ0DUBG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U070RQ0DUBG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ふっかちゃん",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U070RQ0DUBG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

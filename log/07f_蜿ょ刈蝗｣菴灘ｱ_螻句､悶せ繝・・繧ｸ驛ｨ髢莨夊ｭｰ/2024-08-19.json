@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1724072914.303279",
+        "edited": {
+            "user": "U06M7SW8GAU",
+            "ts": "1724663568.000000"
+        },
+        "client_msg_id": "688c0e19-64da-413b-ac1f-c1755877092a",
+        "text": "<!channel>\n0820_第15回屋外ステージ部門会議\n【場所】和泉図書館グループ閲覧室3\n【時間】15：00～16：30\n【議題】1.共有事項（意思共有）\n　　　　2.企画書回収・第2回参加団体説明会について（意思共有）\n　　　　3.電子化資料について（意思共有）\n　　　　4.第3回参加団体説明会について（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U071M6ZSSLQ>\n                    チェック： <@U06LK3Q6Y2W> <@U06LK3PHPQA>\n\n久々ですね。めっちゃ緊張します。\nグル閲が予約いっぱい過ぎて変な時間になってしまいました。申し訳ございません。\n確認したらリアクションお願い！！\nもう何人か連絡もらってるけど、遅刻・欠席・早退は自分に連絡お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "625ww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0820_第15回屋外ステージ部門会議\n【場所】和泉図書館グループ閲覧室3\n【時間】15：00～16：30\n【議題】1.共有事項（意思共有）\n　　　　2.企画書回収・第2回参加団体説明会について（意思共有）\n　　　　3.電子化資料について（意思共有）\n　　　　4.第3回参加団体説明会について（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071M6ZSSLQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                    チェック： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3Q6Y2W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3PHPQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n久々ですね。めっちゃ緊張します。\nグル閲が予約いっぱい過ぎて変な時間になってしまいました。申し訳ございません。\n確認したらリアクションお願い！！\nもう何人か連絡もらってるけど、遅刻・欠席・早退は自分に連絡お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U070YA6CQLB",
+                    "U071M7KHNRW",
+                    "U06LXNZG6HX",
+                    "U070HS3G355",
+                    "U071M6X0B4Y",
+                    "U06LMH8RNBE"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U071M6ZSSLQ",
+                    "U070YA6CQLB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "佐久間社割",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q5M0S",
+                    "U06LMH8RNBE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "はる",
+                "users": [
+                    "U06LK0FPH2P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "鞠子寝る",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LMH8RNBE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

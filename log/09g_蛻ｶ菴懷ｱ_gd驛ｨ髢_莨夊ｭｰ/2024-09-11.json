@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U06LMH4MXDJ",
+        "type": "message",
+        "ts": "1726098017.862999",
+        "client_msg_id": "638566DF-F6C9-4395-826B-67257130D204",
+        "text": "パソコン忘れちゃってちょっと遅れます。すみません:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0951f2552e30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6734119506066_0951f2552e30d2437105_72.png",
+            "first_name": "北田紗妃",
+            "real_name": "北田紗妃",
+            "display_name": "Kitada.Saki",
+            "team": "T06L90YHJF8",
+            "name": "kkoto1739",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725964453.710689",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejybT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "パソコン忘れちゃってちょっと遅れます。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "余裕っしょ",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

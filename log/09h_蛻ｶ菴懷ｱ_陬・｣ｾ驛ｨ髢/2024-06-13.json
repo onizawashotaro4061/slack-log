@@ -1,0 +1,546 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9SAKC3",
+        "text": "<@U070Y9SAKC3>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279458.562689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ3G5DL",
+        "text": "<@U070RQ3G5DL>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279458.641179"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M7BBHDW",
+        "text": "<@U071M7BBHDW>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279458.711749"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3DFWLR",
+        "text": "<@U071B3DFWLR>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279458.774639"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQFLLR4",
+        "text": "<@U070RQFLLR4>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.048979"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3CMYKT",
+        "text": "<@U071B3CMYKT>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.118859"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710SYN1B6",
+        "text": "<@U0710SYN1B6>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.186099"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ1TLSJ",
+        "text": "<@U070RQ1TLSJ>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.256279"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YD8ST18",
+        "text": "<@U070YD8ST18>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.318509"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M6YAX2L",
+        "text": "<@U071M6YAX2L>さんがチャンネルに参加しました",
+        "inviter": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1718279459.378689"
+    },
+    {
+        "text": "<!channel>\nお疲れ様です！\n制作局装飾部門1年齋藤です！\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n<https:\/\/onedrive.live.com\/?cid=93481E220B586380&amp;id=93481E220B586380%2133792&amp;parId=93481E220B586380%2132213&amp;o=OneUp|OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月>\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\n議事録難しかったです！",
+        "files": [
+            {
+                "id": "F077YK1SBHQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U070RQ1TLSJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZWqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n制作局装飾部門1年齋藤です！\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?cid=93481E220B586380&id=93481E220B586380%2133792&parId=93481E220B586380%2132213&o=OneUp",
+                                "text": "OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\n議事録難しかったです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718279889.451729",
+        "client_msg_id": "5f8226e5-e04d-4e9e-862a-0494076b2a90",
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LMHSCW1J",
+                    "U06LK0FAL83",
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "装飾愛",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LMHSCW1J",
+                    "U06LXP316UR",
+                    "U06L4GPGUMV",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 7
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "制作_ゆい",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06L4GPGUMV",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "notes",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "かわdaichi",
+                "users": [
+                    "U06LK3LM7AN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です！！\n制作局装飾部門1年中塚です！\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n<https:\/\/onedrive.live.com\/?id=93481E220B586380%2132213&amp;cid=93481E220B586380|OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月>\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\nマカえんのライブに行ってから余韻にひたりすぎて毎日聞いてます。好きな人いたら語りましょう♪",
+        "files": [
+            {
+                "id": "F07814RGA9J",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U071B3CMYKT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YJACk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！！\n制作局装飾部門1年中塚です！\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?id=93481E220B586380%2132213&cid=93481E220B586380",
+                                "text": "OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\nマカえんのライブに行ってから余韻にひたりすぎて毎日聞いてます。好きな人いたら語りましょう♪"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718280417.881799",
+        "client_msg_id": "73cecadd-182e-445d-8349-7731560ba275",
+        "reactions": [
+            {
+                "name": "制作_さら",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "装飾愛",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かわdaichi",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U06L4GPGUMV"
+                ],
+                "count": 5
+            },
+            {
+                "name": "notes",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0FAL83",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "一本釣り",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U071M6YAX2L",
+        "type": "message",
+        "ts": "1718280586.352749",
+        "client_msg_id": "5f032847-54f0-4579-82ab-a37608a45a82",
+        "text": "<!channel>\nお疲れ様です。\n制作局装飾部門1年小林ですよと。\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n<https:\/\/onedrive.live.com\/?id=93481E220B586380%2132213&amp;cid=93481E220B586380|OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月>\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\n顎関節症になりました。いつはずれるかな。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5c50c4a5c1f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-01\/7355555139283_5c50c4a5c1f0d6a5f3f8_72.png",
+            "first_name": "小林祐也",
+            "real_name": "小林祐也",
+            "display_name": "Kobayashi.Yuya",
+            "team": "T06L90YHJF8",
+            "name": "yuya031752",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UTDBG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n制作局装飾部門1年小林ですよと。\n第13回装飾部門会議議事録をアップロードしました。\n場所は、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?id=93481E220B586380%2132213&cid=93481E220B586380",
+                                "text": "OneDrive＞各局＞08_制作局＞09_装飾部門＞00_部門会議＞02_議事録＞6月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n議題は、\n1.第2回イラレ講習会（意思共有）\n2.議事録講習会（意思共有）\n3.Notion講習会（意思共有）\n4.諸連絡（意思共有）\nです。\n顎関節症になりました。いつはずれるかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U070RQFLLR4",
+                    "U06L4GPGUMV"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U06LK0F2RC3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "制作_ゆうや",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "かわdaichi",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alphabet-white-g",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alphabet-white-o",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U06LK0FAL83"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0FP02F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F078BBA9ZG9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U071M6YAX2L",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1718280662.963159",
+        "client_msg_id": "e5186906-5c9a-4403-ae08-f82122bc995d"
+    }
+]

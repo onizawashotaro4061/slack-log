@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LCE7524E",
+        "type": "message",
+        "ts": "1729590712.681919",
+        "client_msg_id": "7CF73C7B-1767-434F-8553-17660CA4002D",
+        "text": "私とたまこ八幡山にインタビュー行ってて少し遅れますすみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d65e97bb6cdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7836600315591_d65e97bb6cdc5d1b86a1_72.png",
+            "first_name": "丹羽涼香",
+            "real_name": "丹羽涼香",
+            "display_name": "Niwa.Suzuka",
+            "team": "T06L90YHJF8",
+            "name": "suzusono28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729440036.774649",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DoZcd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私とたまこ八幡山にインタビュー行ってて少し遅れますすみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

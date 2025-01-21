@@ -1,0 +1,59 @@
+[
+    {
+        "text": "<!channel> お疲れ様ー\n会議でも共有した通り、新規チーム振り分けESをリリースします。\n期限は6\/28（金）23:59で、\n<mailto:140taigaisuisin@meidaisai.jp|140taigaisuisin@meidaisai.jp>\nまでワードファイルを送付して下さい。お願いしますー",
+        "files": [
+            {
+                "id": "F0795QVQR6D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZG4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様ー\n会議でも共有した通り、新規チーム振り分けESをリリースします。\n期限は6\/28（金）23:59で、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:140taigaisuisin@meidaisai.jp",
+                                "text": "140taigaisuisin@meidaisai.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまでワードファイルを送付して下さい。お願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718884800.978559",
+        "client_msg_id": "eb7aa2c4-bf03-4ed1-9def-3613111f1a07",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070YD83MD0",
+                    "U06LXNWG67K",
+                    "U071M6X5M16",
+                    "U070RQ1EK2S"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1720502602.722329",
+        "edited": {
+            "user": "U06LXNYUX7T",
+            "ts": "1720505028.000000"
+        },
+        "client_msg_id": "ef489214-d264-474c-a956-f24c44fcc39c",
+        "text": "<!channel> お疲れ様です！7月の会議は19日金曜日まで行います！！！把握よろしくおねがいします:woman-bowing:\n見た人絶対リアクション必須で！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPQ2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！7月の会議は19日金曜日まで行います！！！把握よろしくおねがいします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見た人絶対リアクション必須で！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U071B3Q87ED",
+                    "U070HS31CP9",
+                    "U06L4J69HV5",
+                    "U06L9S67MEJ",
+                    "U070HS93JUX",
+                    "U070Y9SLJJX",
+                    "U06L4GLRAK1",
+                    "U070VFRN7PX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "megamojiリザードン小原_バージョン2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U071B3BRGN5",
+                    "U06L4GLRAK1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "パンツ何色_のんちゃん専用",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "megaraiya",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "もりまいが足りない",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "あんじゅお気に入りのカレー",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L9S67MEJ",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

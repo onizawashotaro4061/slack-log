@@ -1,0 +1,250 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1729557988.174719",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1729574437.000000"
+        },
+        "client_msg_id": "01CF7A80-D1A8-452A-8FA6-C6528A2FEAB3",
+        "text": "<!channel>\n*【1025_第26回校友部門会議】*\n【時間】19:00〜20:40\n【場所】LS405\n【議題】\n• みんなの進捗報告会（意思共有）\n• のんちゃんゆうへいプレゼンツ:bangbang:運営マニュアルクイズ（意思共有）\n• ホムカ&明大祭への抱負（意思共有）\n• 諸連絡（意思共有）\nワンドラに上がってる各企画の運営マニュアルを読み込んできてねー！\n\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n今週末はホームカミングデーですね。\n校友部門の企画はもちろんのこと、今年のホムカは規模がでかそうでちょいと楽しみです。\n\n*欠席、遅刻の際は理由とともにスレッドに書いてください。*\n見たらスタンプ押してねー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729557988.174719",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1729850390.377519",
+        "reply_users": [
+            "U070Y9SLJJX",
+            "U06M7SUSYNL"
+        ],
+        "replies": [
+            {
+                "user": "U070Y9SLJJX",
+                "ts": "1729573679.970199"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1729819376.083799"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1729850390.377519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kIDeZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【1025_第26回校友部門会議】\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00〜20:40\n【場所】LS405\n【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの進捗報告会（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "のんちゃんゆうへいプレゼンツ"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "運営マニュアルクイズ（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ホムカ&明大祭への抱負（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ワンドラに上がってる各企画の運営マニュアルを読み込んできてねー！\n\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n今週末はホームカミングデーですね。\n校友部門の企画はもちろんのこと、今年のホムカは規模がでかそうでちょいと楽しみです。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻の際は理由とともにスレッドに書いてください。\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "見たらスタンプ押してねー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U071B3BRGN5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "校友ワンチーム",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SLJJX",
+        "type": "message",
+        "ts": "1729573679.970199",
+        "client_msg_id": "9F749549-FB33-476F-82E8-86C9EA921233",
+        "text": "フィールドスタディに参加しているため休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b2d82f968c7f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8039624742790_b2d82f968c7f3c2901df_72.png",
+            "first_name": "髙橋蒼人",
+            "real_name": "髙橋蒼人",
+            "display_name": "Takahashi.Aoto",
+            "team": "T06L90YHJF8",
+            "name": "nogi2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729557988.174719",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZRfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フィールドスタディに参加しているため休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

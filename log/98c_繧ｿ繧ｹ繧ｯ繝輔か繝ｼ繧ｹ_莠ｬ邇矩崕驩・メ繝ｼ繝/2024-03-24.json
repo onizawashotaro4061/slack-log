@@ -1,0 +1,132 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。城戸です。\n0322_第1回京王電鉄チーム会議議事録を\nOneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞3月\nにアップロードしました。\n議題は、\n1. 自己紹介（意思共有）\n2. 諸連絡（意見交換・決定）\n3. 一般企画書における目的について（意見交換・決定）\n4. 一般企画書における対象について（意見交換・決定）\n5. 今後の会議日程について（意見交換・決定）\nです。\nご確認のほどよろしくお願いします。\nみなさん初回会議お疲れ様でした！そして銀平議事録作成ありがとう！\nこれから本当にみなさんの力が必要なのでまずは企画書部分承認もらえるように頑張っていきましょー！\n以下にPDFを添付しました。",
+        "files": [
+            {
+                "id": "F06RQM62R5W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "514PR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。城戸です。\n0322_第1回京王電鉄チーム会議議事録を\nOneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞3月\nにアップロードしました。\n議題は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自己紹介（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一般企画書における目的について（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一般企画書における対象について（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今後の会議日程について（意見交換・決定）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。\nご確認のほどよろしくお願いします。\nみなさん初回会議お疲れ様でした！そして銀平議事録作成ありがとう！\nこれから本当にみなさんの力が必要なのでまずは企画書部分承認もらえるように頑張っていきましょー！\n以下にPDFを添付しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711269088.220289",
+        "client_msg_id": "9ed3edf1-8858-4ac2-8167-655783ba5a46",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LXNZDHFT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SBFPFS",
+        "text": "<@U06M7SBFPFS>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711334632.633729"
+    }
+]

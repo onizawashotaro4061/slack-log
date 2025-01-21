@@ -1,0 +1,256 @@
+[
+    {
+        "user": "U06LK3KJNJE",
+        "type": "message",
+        "ts": "1732947678.222289",
+        "client_msg_id": "421BFF1C-AE51-4915-9FA6-230AD1465046",
+        "text": "<!channel> \n【リマインド】\nお疲れ様です、財務局足立です！\n*11*月分の領収書・交通費の申請は*本日23:59*までです！\nまたレシートや領収書、履歴印字の原本の提出は、*12月5日まで*にお願いします :star2:\n\n申請用フォームは、\n領収書 :arrow_down:\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScW-NQiVQBYlYb_LygRG6D2WeWSXzZ39ZnmFnO1yF27Tw_UZw\/viewform?usp=sf_link|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScW-NQiVQBYlYb_LygRG6D2WeWSXzZ39ZnmFnO1yF27Tw_UZw\/viewform?usp=sf_link>\n\n交通費 :arrow_down: \n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdHx2NeX2HUDiOWGu3SbkYouTRRzaAAYnAJaFK0atZ71-pZnA\/viewform?usp=sf_link|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdHx2NeX2HUDiOWGu3SbkYouTRRzaAAYnAJaFK0atZ71-pZnA\/viewform?usp=sf_link>\n\nです！よろしくお願いします :star2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b962914616f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-03\/7668026566596_b962914616f7aa66543e_72.png",
+            "first_name": "足立光琉",
+            "real_name": "足立光琉",
+            "display_name": "Adachi.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hikarururu81204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwdVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【リマインド】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です、財務局足立です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "11",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "月分の領収書・交通費の申請は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日23:59",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "またレシートや領収書、履歴印字の原本の提出は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "月5日まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "にお願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star2",
+                                "unicode": "1f31f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申請用フォームは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "領収書 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_down",
+                                "unicode": "2b07-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScW-NQiVQBYlYb_LygRG6D2WeWSXzZ39ZnmFnO1yF27Tw_UZw\/viewform?usp=sf_link",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScW-NQiVQBYlYb_LygRG6D2WeWSXzZ39ZnmFnO1yF27Tw_UZw\/viewform?usp=sf_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "交通費 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_down",
+                                "unicode": "2b07-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdHx2NeX2HUDiOWGu3SbkYouTRRzaAAYnAJaFK0atZ71-pZnA\/viewform?usp=sf_link",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdHx2NeX2HUDiOWGu3SbkYouTRRzaAAYnAJaFK0atZ71-pZnA\/viewform?usp=sf_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！よろしくお願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star2",
+                                "unicode": "1f31f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LXNXNWGH",
+                    "U06LK0K4XGT",
+                    "U071M6XN2GG",
+                    "U06LMH3BZ8C"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LXNX1XPB",
+                    "U06LK3NH9MG",
+                    "U06LMH3BZ8C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNXNWGH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK3NH9MG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "財_ひかるん",
+                "users": [
+                    "U071M6XN2GG",
+                    "U06LMH49MQU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH3BZ8C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06LK0FAL83",
+                    "U06LMH3BZ8C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

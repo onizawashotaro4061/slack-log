@@ -1,0 +1,331 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1710910523.363359",
+        "edited": {
+            "user": "U06L2DCDLF9",
+            "ts": "1710910543.000000"
+        },
+        "client_msg_id": "be8e5941-a498-4b0e-8f6a-c7198d7e39e4",
+        "text": "*<!channel>* \n会議連絡！\n【時間】3\/21(月) 13:00〜17:00\n【場所】明日連絡します\n【議題】(予定)\n1.各種共有(意思共有)\n2.ステージ内新企画発表会(意思共有)\n3.GW講座（意見交換）\n\n議題ちょっと今確認できないから追加あったら連絡します！部門配属は3\/28（木）の予定です。お楽しみに～\n\n欠席、遅刻、早退はスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710910523.363359",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1710991126.834569",
+        "reply_users": [
+            "U06LK3L32MQ",
+            "U06LMH4T528",
+            "U06LK67B9PC",
+            "U06LXNY0MHP",
+            "U06M7T7SSDN",
+            "U06L4GM9N5V",
+            "U06LMHBUVT6",
+            "U06LK0G74NP",
+            "U06LCE9AKQW"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1710910603.361959"
+            },
+            {
+                "user": "U06LMH4T528",
+                "ts": "1710910886.307459"
+            },
+            {
+                "user": "U06LK67B9PC",
+                "ts": "1710915158.737809"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1710915829.561329"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1710943701.023879"
+            },
+            {
+                "user": "U06L4GM9N5V",
+                "ts": "1710980714.289699"
+            },
+            {
+                "user": "U06LMHBUVT6",
+                "ts": "1710990474.821919"
+            },
+            {
+                "user": "U06LK0G74NP",
+                "ts": "1710991119.260989"
+            },
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1710991126.834569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qXn2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】3\/21(月) 13:00〜17:00\n【場所】明日連絡します\n【議題】(予定)\n1.各種共有(意思共有)\n2.ステージ内新企画発表会(意思共有)\n3.GW講座（意見交換）\n\n議題ちょっと今確認できないから追加あったら連絡します！部門配属は3\/28（木）の予定です。お楽しみに～\n\n欠席、遅刻、早退はスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U06LG64U8DB",
+                    "U06M7T3TQ0Y",
+                    "U06LG63FM1B",
+                    "U06LK67B9PC"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG64U8DB",
+                    "U06M7T3TQ0Y"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LG64U8DB",
+                    "U06LG63FM1B"
+                ],
+                "count": 3
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG64U8DB",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LG63FM1B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1710910603.361959",
+        "client_msg_id": "1b0112d7-d364-4845-b5f2-3ba6cc131fc2",
+        "text": "免許合宿に行くため欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710910523.363359",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Q2fG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "免許合宿に行くため欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1710910886.307459",
+        "client_msg_id": "7E5E0764-8EC2-49A4-9DD2-38F24476AD41",
+        "text": "予定があるため欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710910523.363359",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34Lw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK67B9PC",
+        "type": "message",
+        "ts": "1710915158.737809",
+        "client_msg_id": "C907C2A2-1FF7-4346-9B6C-06A55916C545",
+        "text": "欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae403707ab14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-06\/6756337185909_ae403707ab14729d9211_72.png",
+            "first_name": "向田直照",
+            "real_name": "向田直照",
+            "display_name": "Mukoda.Naoteru",
+            "team": "T06L90YHJF8",
+            "name": "xiangtianzhizhao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710910523.363359",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvH3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1710915829.561329",
+        "client_msg_id": "321abc68-d4f4-4e1a-b0e0-ec3746597a6d",
+        "text": "予定中のため欠席します。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710910523.363359",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hnbpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定中のため欠席します。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06M7SSDQQG",
+        "type": "message",
+        "ts": "1718185858.397839",
+        "client_msg_id": "1CB5E2B8-8C1C-466A-95F3-8EA2F5F0602C",
+        "text": "ゼミの顔合わせが一応20時まであるので、欠席にします。間に合ったら会いに行きます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "24dce49c692c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7984115253670_24dce49c692c00feed8d_72.png",
+            "first_name": "峯岸勇世",
+            "real_name": "峯岸勇世",
+            "display_name": "Minegishi.Yusei",
+            "team": "T06L90YHJF8",
+            "name": "yusei37mng",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718156525.002549",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjlW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの顔合わせが一応20時まであるので、欠席にします。間に合ったら会いに行きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しゃしゃんな",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

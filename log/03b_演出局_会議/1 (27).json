@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U06L4GSPRHV",
+        "type": "message",
+        "ts": "1715069631.727279",
+        "client_msg_id": "CA671783-8E89-4863-B8DE-DE88B112A4E9",
+        "text": "私用で欠席します :pray: 申し訳ありません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6cd192bdc6ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6711819185841_6cd192bdc6ad9ff867e9_72.png",
+            "first_name": "神戸春穂",
+            "real_name": "神戸春穂",
+            "display_name": "Kanbe.Haruho",
+            "team": "T06L90YHJF8",
+            "name": "kh0117hk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715054503.970699",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "95N+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用で欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 申し訳ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDB48GJ",
+        "type": "message",
+        "ts": "1715075672.490759",
+        "client_msg_id": "ED6F160E-EF28-4EA8-9A2E-4468C3BCB06F",
+        "text": "3.4分遅れますすみません:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c5d0f79419c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7029544599861_0c5d0f79419c2062e6b2_72.png",
+            "first_name": "松浦真央",
+            "real_name": "松浦真央",
+            "display_name": "Matsuura.Mao",
+            "team": "T06L90YHJF8",
+            "name": "mao0501mao0501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcQXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3.4分遅れますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

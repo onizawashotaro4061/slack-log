@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06LCECJD8W",
+        "type": "message",
+        "ts": "1716458038.689459",
+        "client_msg_id": "D5E1354F-26C0-41C0-A80C-CDF3B3E10F74",
+        "text": "少し遅れます。すみません :woman-bowing::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fec49a6469cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7204615728544_fec49a6469cda795384d_72.png",
+            "first_name": "阿部裕佳",
+            "real_name": "阿部裕佳",
+            "display_name": "Abe.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "abuyujia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716427927.224229",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDWtQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少し遅れます。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

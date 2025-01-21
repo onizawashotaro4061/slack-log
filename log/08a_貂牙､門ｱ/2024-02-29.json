@@ -1,0 +1,69 @@
+[
+    {
+        "text": "<!channel> 139thでも流しましたが、よかったら事前準備の参考にしてください！",
+        "files": [
+            {
+                "id": "F06MWLEQYBA",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06MAAMDH1A",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYGkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 139thでも流しましたが、よかったら事前準備の参考にしてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709198592.286309",
+        "client_msg_id": "0e563e89-17d1-4798-88e1-98cf4598960c",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06L4CMKY8P",
+                    "U06LK3L6B4J",
+                    "U06LCE9EA3G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

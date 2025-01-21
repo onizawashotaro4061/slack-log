@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U0710SYN1B6",
+        "type": "message",
+        "ts": "1721116938.267269",
+        "client_msg_id": "EFAC42AA-DE75-41A8-853F-F55E0F329CBF",
+        "text": "体調悪いので欠席しますすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b8c4e82c5b65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8020417214082_b8c4e82c5b6552ff6dc6_72.png",
+            "first_name": "田口栞",
+            "real_name": "田口栞",
+            "display_name": "Taguchi.Shiori",
+            "team": "T06L90YHJF8",
+            "name": "t.shiori1204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721020810.287789",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ASDKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調悪いので欠席しますすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3CMYKT",
+        "type": "message",
+        "ts": "1721121956.117679",
+        "client_msg_id": "642B72EB-B7F3-48A7-AE42-C1DE54C859B0",
+        "text": "雨の影響でバスが全然来ないので少し遅刻しそうです。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3dd450d30383",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8113530146263_3dd450d303834a889601_72.png",
+            "first_name": "中塚更",
+            "real_name": "中塚更",
+            "display_name": "Nakatsuka Sara",
+            "team": "T06L90YHJF8",
+            "name": "twice4050sara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721020810.287789",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UL6Z8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "雨の影響でバスが全然来ないので少し遅刻しそうです。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

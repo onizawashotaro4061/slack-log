@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U070RQ3ND38",
+        "type": "message",
+        "ts": "1727692215.640619",
+        "client_msg_id": "2A425B75-C4CE-4F51-9CF6-EA40077FBCFC",
+        "text": "どうしても外せない用事があるので欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "76db0053b55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7130463878912_76db0053b55bc5e947e6_72.png",
+            "first_name": "品川航介",
+            "real_name": "品川航介",
+            "display_name": "Shinagawa.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinagawasan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727654403.279039",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gsz2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうしても外せない用事があるので欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFRN7PX",
+        "type": "message",
+        "ts": "1727743496.486639",
+        "client_msg_id": "F897A6B1-17F8-4920-BC3A-AB7C4302D299",
+        "text": "通院のため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "15cce351931b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-01\/7966829305810_15cce351931b99f69ada_72.png",
+            "first_name": "横田清佳",
+            "real_name": "横田清佳",
+            "display_name": "Yokota.Sayaka",
+            "team": "T06L90YHJF8",
+            "name": "bonsoir.sayaka25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727654403.279039",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZa4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "通院のため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

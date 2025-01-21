@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U06L4GKF78F",
+        "type": "message",
+        "ts": "1719308499.992529",
+        "client_msg_id": "577D4174-5375-4AA7-BD91-DD398824ED58",
+        "text": "体調不良の為、お休みします。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "57e69ef2c233",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7873118393524_57e69ef2c2334d9133e7_72.png",
+            "first_name": "北見純一朗",
+            "real_name": "北見純一朗",
+            "display_name": "Kitami.Junichirou",
+            "team": "T06L90YHJF8",
+            "name": "kitajun1111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719289417.372459",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGW1s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良の為、お休みします。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

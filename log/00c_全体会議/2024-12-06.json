@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U070HS28L15",
+        "type": "message",
+        "ts": "1733546351.963259",
+        "client_msg_id": "8d454e07-00df-4ae4-83a9-950fe536a059",
+        "text": "<!channel>\n【後期ニーズ調査明大祭実行委員会向けアンケート】\nお疲れ様です！総務局総務部門新規1年の古川です。\n後期ニーズ調査明大祭実行委員会向けアンケートの回答を*明日12月8日（日）23:59までに全員*お願いします！<https:\/\/forms.gle\/ihVjXhNo38XVEoAD8>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fd0f9d1c3de5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-07\/7100499114672_fd0f9d1c3de5d77e5020_72.png",
+            "first_name": "古川千花子",
+            "real_name": "古川千花子",
+            "display_name": "Furukawa.Chikako",
+            "team": "T06L90YHJF8",
+            "name": "f.chika123023",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/wDyuHAU0S1mV0ydMFi8p2li4yDfafAF627tGxesJkZcV44yNreIOjsznNT5Bq6ntysSID7NTg4k",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 35098,
+                "from_url": "https:\/\/forms.gle\/ihVjXhNo38XVEoAD8",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/ihVjXhNo38XVEoAD8",
+                "fallback": "Google Docs: 明大祭実行委員会向けアンケート",
+                "text": "本祭お疲れ様でした！\nよりよい明大祭をつくり上げるための次年度に向けたアンケートにご協力お願いいたします。",
+                "title": "明大祭実行委員会向けアンケート",
+                "title_link": "https:\/\/forms.gle\/ihVjXhNo38XVEoAD8",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xEmS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【後期ニーズ調査明大祭実行委員会向けアンケート】\nお疲れ様です！総務局総務部門新規1年の古川です。\n後期ニーズ調査明大祭実行委員会向けアンケートの回答を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日12月8日（日）23:59までに全員",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします！"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ihVjXhNo38XVEoAD8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070YD72JPL",
+                    "U06LCE9NLP8",
+                    "U071M6ZDDQ8",
+                    "U070HS23XV5",
+                    "U070VFZF6BF",
+                    "U06LK3MF9FC",
+                    "U071B38LED7",
+                    "U06LK3MPZ34"
+                ],
+                "count": 8
+            },
+            {
+                "name": "総_ちかこ",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U071M6ZDDQ8",
+                    "U070VFP05K7",
+                    "U070YD72JPL",
+                    "U070HS23XV5",
+                    "U070VFZF6BF",
+                    "U071B38LED7",
+                    "U06LK3MPZ34"
+                ],
+                "count": 8
+            },
+            {
+                "name": "グッドだね",
+                "users": [
+                    "U070YD72JPL",
+                    "U071M6ZDDQ8",
+                    "U06LCE9NLP8",
+                    "U070HS23XV5",
+                    "U070VFZF6BF",
+                    "U071B38LED7",
+                    "U06LK3MPZ34"
+                ],
+                "count": 7
+            },
+            {
+                "name": "華の当ニー",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U071B38LED7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U070HS23XV5",
+                    "U071B38LED7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

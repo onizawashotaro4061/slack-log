@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06LXP316UR",
+        "type": "message",
+        "ts": "1724939823.507729",
+        "client_msg_id": "57CD0219-FF9E-4873-88D8-8D0C8B2490C0",
+        "text": "しめかえしたよと",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cfc9310da862",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8116063170183_cfc9310da862f718ef36_72.png",
+            "first_name": "　",
+            "real_name": "　",
+            "display_name": "",
+            "team": "T06L90YHJF8",
+            "name": "yuina.4062",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJtib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえしたよと"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alphabet-white-t",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U071M6YAX2L",
+                    "U06LK3LM7AN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alphabet-white-o",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK0FP02F",
+                    "U071M6YAX2L",
+                    "U06LK3LM7AN"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

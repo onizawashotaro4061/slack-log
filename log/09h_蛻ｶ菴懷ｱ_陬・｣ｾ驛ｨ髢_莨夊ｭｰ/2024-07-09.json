@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U070RQ1TLSJ",
+        "type": "message",
+        "ts": "1720509033.953939",
+        "client_msg_id": "45CE1900-13E8-4687-86CE-60C232A60716",
+        "text": "発熱のため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "540998e30865",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-26\/8085772314131_540998e3086527a73318_72.png",
+            "first_name": "齋藤祐衣",
+            "real_name": "齋藤祐衣",
+            "display_name": "Saito.Yui",
+            "team": "T06L90YHJF8",
+            "name": "cherrylove252530",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720419432.889129",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GcDJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発熱のため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FAL83",
+        "type": "message",
+        "ts": "1720516163.714289",
+        "client_msg_id": "81400F64-0A7E-402A-AF94-F414B2F4B21A",
+        "text": "急遽姉に呼ばれたので8時ちょい前に早退します :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bd4686eab1e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8025160921732_bd4686eab1e93a57aabc_72.png",
+            "first_name": "栗山ひおな",
+            "real_name": "栗山ひおな",
+            "display_name": "Kuriyama.Hiona",
+            "team": "T06L90YHJF8",
+            "name": "mt.mrn.hio7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720419432.889129",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nm3RM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急遽姉に呼ばれたので8時ちょい前に早退します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

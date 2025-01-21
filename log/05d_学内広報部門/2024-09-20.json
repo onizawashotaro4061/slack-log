@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1726842157.759709",
+        "client_msg_id": "be9c92cb-4234-4379-9964-1ebfb75eb741",
+        "text": "<!channel>\nおつかれさまです\n今日Dietzのインタビューを終えて参加団体特集のインタビューがすべて終わりました:raised_hands:\n新規には今webの依頼書書いてもらってると思うんだけど、OneDriveのインタビューシートがあるところに写真も添付したので今後はそこも記入したうえでチーム長→部門長のチェックをもらってください:bow:期限は25日に設定してるのでよろしくお願いします。\n継続は引き続き参加団体特集の投稿テンプレの作成お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726842157.759709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1726843688.956279",
+        "reply_users": [
+            "U06L4GL1CUF"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1726843688.956279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+OC1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです\n今日Dietzのインタビューを終えて参加団体特集のインタビューがすべて終わりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規には今webの依頼書書いてもらってると思うんだけど、OneDriveのインタビューシートがあるところに写真も添付したので今後はそこも記入したうえでチーム長→部門長のチェックをもらってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限は25日に設定してるのでよろしくお願いします。\n継続は引き続き参加団体特集の投稿テンプレの作成お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LXNY8KMF",
+                    "U070Y9RLJTV",
+                    "U070HS55GQP",
+                    "U070VFY94H3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LK3KA09G",
+                    "U070VFY94H3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U071B38HAM7",
+                    "U070VFY94H3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1726843688.956279",
+        "client_msg_id": "c728fa16-9c88-4698-9e93-5c56a3a663dd",
+        "text": "写真はミュージカル研究会とcieloが出ていないので今後添付してもらう旨のメールを書くので少々お待ちください\nあと、駿台企画研究会のインタビューシート書いてくれた継続はOneDriveあげてほしいーー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726842157.759709",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6y0bF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "写真はミュージカル研究会とcieloが出ていないので今後添付してもらう旨のメールを書くので少々お待ちください\nあと、駿台企画研究会のインタビューシート書いてくれた継続はOneDriveあげてほしいーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

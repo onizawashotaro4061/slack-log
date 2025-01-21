@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711153429.299059",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1711153510.000000"
+        },
+        "client_msg_id": "DB8B83BA-7837-47F9-8058-8EE3A494BB93",
+        "text": "<!channel>\nおつかれさまです！\nおはようございます:sunny:\nSlackチームの吉良です。\nTrelloが4\/8から有料になってしまうので代替案を考えているところなのですが、\nその案の一つとして、Trelloに似たアプリを作ろうとしていて、\n何か追加したい機能やTrello関連で思ったことがあれば下のGoogleフォームに回答していただきたいです:pray::skin-tone-2:\nご協力よろしくお願いいたします:woman-bowing::skin-tone-2:\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdgtQzP2YLUTutHP-fohhFdcKl0ShrceMdea2nwAzrSl7kRhA\/viewform?usp=sf_link|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdgtQzP2YLUTutHP-fohhFdcKl0ShrceMdea2nwAzrSl7kRhA\/viewform?usp=sf_link>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVVSq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nおはようございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlackチームの吉良です。\nTrelloが4\/8から有料になってしまうので代替案を考えているところなのですが、\nその案の一つとして、Trelloに似たアプリを作ろうとしていて、\n何か追加したい機能やTrello関連で思ったことがあれば下のGoogleフォームに回答していただきたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご協力よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdgtQzP2YLUTutHP-fohhFdcKl0ShrceMdea2nwAzrSl7kRhA\/viewform?usp=sf_link",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdgtQzP2YLUTutHP-fohhFdcKl0ShrceMdea2nwAzrSl7kRhA\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06LHACMG91",
+                    "U06LE249H0V",
+                    "U06LGHETAFP",
+                    "U06L2DCDLF9",
+                    "U06LJBVA2DS",
+                    "U06LK3L6B4J",
+                    "U06LJ4HJLMS",
+                    "U06LCED6ZK8",
+                    "U06M7SUB2GY"
+                ],
+                "count": 10
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06M7SUULGY",
+                    "U06LGHETAFP",
+                    "U06LJRSQDC3",
+                    "U06LK3L6B4J",
+                    "U06LJ4HJLMS",
+                    "U06LCED6ZK8"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U06LCE8L8LW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

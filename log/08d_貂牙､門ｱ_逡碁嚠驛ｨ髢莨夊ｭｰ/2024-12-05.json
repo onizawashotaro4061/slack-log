@@ -1,0 +1,376 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1733450725.466829",
+        "client_msg_id": "1b5a7cab-9791-4aae-84c0-1d733f8a04d6",
+        "text": "*<!channel>*\n【第26回界隈部門会議】\n【場所】追ってリリースします\n【時間】19:00-20:40\n【議題】\n    ・協賛金振り込み進捗確認\n     ・りくさんコンテンツ\n　・諸連絡\n欠席、遅刻、早退は理由と共にスレッドに！！\n残す部門会議も残り２回、、、、頑張っていきましょう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733450725.466829",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1733477835.836159",
+        "reply_users": [
+            "U06M7SPUVEC",
+            "U06L4GLJVKR",
+            "U06LCED6ZK8",
+            "U071M740R32"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SPUVEC",
+                "ts": "1733450822.706939"
+            },
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1733450972.058099"
+            },
+            {
+                "user": "U06LCED6ZK8",
+                "ts": "1733460551.310619"
+            },
+            {
+                "user": "U071M740R32",
+                "ts": "1733477835.836159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoNNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第26回界隈部門会議】\n【場所】追ってリリースします\n【時間】19:00-20:40\n【議題】\n    ・協賛金振り込み進捗確認\n     ・りくさんコンテンツ\n　・諸連絡\n欠席、遅刻、早退は理由と共にスレッドに！！\n残す部門会議も残り２回、、、、頑張っていきましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちっひー",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U0710T3MCUC",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M740R32"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070YD778SE",
+                    "U071M740R32"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ちひろ落単",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M740R32",
+                    "U071B3CNHQR",
+                    "U0710T4CBHS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "スぺ語",
+                "users": [
+                    "U070YD778SE",
+                    "U071B3CNHQR",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "部門長田島",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "さすが部門長",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "界隈のアイドル",
+                "users": [
+                    "U070YD778SE",
+                    "U071B3CNHQR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "不動のセンター",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ちひろ冷たい",
+                "users": [
+                    "U070YD778SE",
+                    "U06LXK3RF7B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちひろ激熱",
+                "users": [
+                    "U071M740R32",
+                    "U070YD778SE",
+                    "U0710T4CBHS"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1733450822.706939",
+        "client_msg_id": "b3c2b2ae-d6e9-42c5-81fa-bcd540b6c0a5",
+        "text": "りくさんコンテンツ事前準備は特にないです！ただ、協賛の値段だったりページ数を話し合う上でどんなデータが使えるかなっていうのを考えておいてもらえると会議の時スムーズだと思います！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733450725.466829",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JhJXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りくさんコンテンツ事前準備は特にないです！ただ、協賛の値段だったりページ数を話し合う上でどんなデータが使えるかなっていうのを考えておいてもらえると会議の時スムーズだと思います！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070YD778SE",
+                    "U0710T3MCUC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1733450972.058099",
+        "client_msg_id": "C5841EDA-80CA-4FF2-B225-320D20567D34",
+        "text": "てるてる坊主作るか書きたい、クリーンウォング最後くらい晴れにしたい！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733450725.466829",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCePq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "てるてる坊主作るか書きたい、クリーンウォング最後くらい晴れにしたい！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCED6ZK8",
+        "type": "message",
+        "ts": "1733460551.310619",
+        "client_msg_id": "B86229FB-604C-4BAF-BD2A-C990F36AF413",
+        "text": "地元の友達が遊びに来てるので休みます、ごめんなさい:woman-bowing::skin-tone-2::woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "05d926c2553f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-07\/7099148392352_05d926c2553f9d8d4e40_72.png",
+            "first_name": "武村悠由",
+            "real_name": "武村悠由",
+            "display_name": "Takemura.Yuyu",
+            "team": "T06L90YHJF8",
+            "name": "yuyu.takemura95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733450725.466829",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y5apc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "地元の友達が遊びに来てるので休みます、ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ゆうゆ",
+                "users": [
+                    "U06LG62T3MK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

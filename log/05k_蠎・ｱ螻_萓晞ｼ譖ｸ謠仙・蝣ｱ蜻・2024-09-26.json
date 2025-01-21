@@ -1,0 +1,403 @@
+[
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1727335977.727989",
+        "client_msg_id": "01231945-5049-45A2-B598-D40B9DD7C1D4",
+        "text": "<@U06M7SPUVEC> おつかれさま〜！確認しました！この依頼は学内で受理してます :+1::skin-tone-2: :star2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727281165.306399",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDWP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SPUVEC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさま〜！確認しました！この依頼は学内で受理してます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star2",
+                                "unicode": "1f31f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1727336032.884339",
+        "client_msg_id": "46A65B45-CE6C-4665-900F-9F5DCCA98B30",
+        "text": "<@U06LCEA6J1L> おつかれさま〜！確認しました！これは部門じゃなくて局で受理します :star2: :white_check_mark:（副局長のわたしが担当します！）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727313544.246759",
+        "parent_user_id": "U06LCEA6J1L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTe2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCEA6J1L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさま〜！確認しました！これは部門じゃなくて局で受理します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star2",
+                                "unicode": "1f31f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（副局長のわたしが担当します！）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LCEA6J1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1727340085.824089",
+        "client_msg_id": "728796d6-8ec2-4896-ad73-bde0f9fe4778",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\nお疲れ様です！\n校友部門の太田悠翔です。\n校友インタビューSNS広報依頼書をOneDriveに提出いたしました。\n遅くなってしまい申し訳ありません。\nご確認よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727340085.824089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727609137.392929",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727609137.392929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDJgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n校友部門の太田悠翔です。\n校友インタビューSNS広報依頼書をOneDriveに提出いたしました。\n遅くなってしまい申し訳ありません。\nご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4J69HV5",
+        "text": "<@U06L4J69HV5>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1727340764.795199"
+    },
+    {
+        "user": "U070YD778SE",
+        "type": "message",
+        "ts": "1727395208.515379",
+        "client_msg_id": "8fcf7050-cf93-496b-ad93-9eaddff61605",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL> \nお疲れ様です！\n明大前ジャックチームの小野です。\n明大祭商店街SNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5fd4a11336e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-11\/7861390047509_5fd4a11336e210394d02_72.jpg",
+            "first_name": "小野のどか",
+            "real_name": "小野のどか",
+            "display_name": "Ono.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "nodokaxiaoye",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727395208.515379",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727609205.049659",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727609205.049659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZ7c5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n明大前ジャックチームの小野です。\n明大祭商店街SNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1727403111.216359",
+        "client_msg_id": "cce13c19-a49e-4b75-a352-37dd2f2c1e82",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\nお疲れ様です！\n界隈部門長の田島です。\n松原小学校×明大祭SNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。\n提出が遅れてしまい申し訳ありません。よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727403111.216359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727609259.945969",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727609259.945969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PS6Al",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n界隈部門長の田島です。\n松原小学校×明大祭SNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。\n提出が遅れてしまい申し訳ありません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1727410301.824039",
+        "client_msg_id": "243172B4-9F16-49C2-BA9F-496BA7FD0B84",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL> \nお疲れ様です！\n校友部門の坂爪です。\n校友歓迎スペース広報依頼書を\nOneDriveに提出しました。\n提出が遅くなり申し訳ありません。\nご確認お願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727410301.824039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727609302.022419",
+        "reply_users": [
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1727609302.022419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9noK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n校友部門の坂爪です。\n校友歓迎スペース広報依頼書を\nOneDriveに提出しました。\n提出が遅くなり申し訳ありません。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

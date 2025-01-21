@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1728376877.499869",
+        "client_msg_id": "C2A3D5A8-699F-4F36-9EEC-5E8F57B3E37B",
+        "text": "講義で遅れます。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728270987.545869",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAoeg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "講義で遅れます。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

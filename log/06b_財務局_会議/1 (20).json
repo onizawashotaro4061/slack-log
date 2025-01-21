@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06LMH49MQU",
+        "type": "message",
+        "ts": "1713260371.584889",
+        "edited": {
+            "user": "U06LMH49MQU",
+            "ts": "1713260713.000000"
+        },
+        "client_msg_id": "AD750D75-6725-4267-BF86-1461E8B0F72A",
+        "text": "京王線遅延してて絶対遅刻しますごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "217c2fb3f650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8121596033698_217c2fb3f6500c9897c9_72.png",
+            "first_name": "山田佳奈",
+            "real_name": "山田佳奈",
+            "display_name": "Yamada.Kana",
+            "team": "T06L90YHJF8",
+            "name": "mountain.kana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713156920.167459",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GntPn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王線遅延してて絶対遅刻しますごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3NH9MG",
+        "type": "message",
+        "ts": "1713261434.985039",
+        "client_msg_id": "5AF53FE5-8FA9-46AE-A1B8-A5229621C361",
+        "text": "同じく京王線遅延してて少し遅れます。ごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9006d2675710",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/8013814017552_9006d267571081f27ed6_72.png",
+            "first_name": "小川大翔",
+            "real_name": "小川大翔",
+            "display_name": "Ogawa.Yamato",
+            "team": "T06L90YHJF8",
+            "name": "daxiangxiaochuan99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713156920.167459",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08Ufu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じく京王線遅延してて少し遅れます。ごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

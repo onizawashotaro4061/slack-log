@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1730457380.599479",
+        "client_msg_id": "44BDD2C2-AA48-44EF-882C-3A0BF48AB69B",
+        "text": "<@U06LE9EH9QV> <@U06L97X3V6J> \n何度もメンションしてしまい大変申し訳ございません。明日11時から使用するのでチェックお願いします 。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "19dc4cb2d333",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-25\/6847930732262_19dc4cb2d333d736bf3f_72.png",
+            "first_name": "中山優梨",
+            "real_name": "中山優梨",
+            "display_name": "Nakayama.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yu03240na",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730438249.228169",
+        "parent_user_id": "U06LCFWR494",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWMkH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n何度もメンションしてしまい大変申し訳ございません。明日11時から使用するのでチェックお願いします 。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1726149830.077349",
+        "client_msg_id": "51275E18-E5B5-48BE-B90A-01B77F97A195",
+        "text": "しめかえし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2P\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3LM7AN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "装飾愛",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LK0F2RC3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かわdaichi",
+                "users": [
+                    "U06LXP316UR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXP316UR",
+        "type": "message",
+        "ts": "1726190247.997099",
+        "client_msg_id": "061EFA51-9D60-42A6-8B1A-7C4D2BD344D0",
+        "text": "最近あついーー！ありあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cfc9310da862",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8116063170183_cfc9310da862f718ef36_72.png",
+            "first_name": "　",
+            "real_name": "　",
+            "display_name": "",
+            "team": "T06L90YHJF8",
+            "name": "yuina.4062",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mlrR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近あついーー！ありあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "そってぃー",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LK3LM7AN",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1727408488.316709",
+        "client_msg_id": "18945dc7-5be4-4c07-a425-81b17f788f19",
+        "text": "お疲れ様です！\n今週末9\/29（日）のFSRに参加できる人は\n:00-出席: リアクションお願いします!!\n\n早稲田開催です！ちなみに僕は13:00までバイトしてるので13:30頃からの参加になると思います！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727408488.316709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727408641.843139",
+        "reply_users": [
+            "U06LG6DR26R"
+        ],
+        "replies": [
+            {
+                "user": "U06LG6DR26R",
+                "ts": "1727408641.843139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wAzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n今週末9\/29（日）のFSRに参加できる人は\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "00-出席"
+                            },
+                            {
+                                "type": "text",
+                                "text": " リアクションお願いします!!\n\n早稲田開催です！ちなみに僕は13:00までバイトしてるので13:30頃からの参加になると思います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U071B38HAM7",
+                    "U071M6X5M16",
+                    "U070YD83MD0",
+                    "U06L4H8CGQP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U071B38HAM7",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LG6DR26R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1727408525.715819",
+        "client_msg_id": "218b5dda-5142-441e-83d0-2bbf36d2a248",
+        "text": "<!channel>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4V12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG6DR26R",
+        "type": "message",
+        "ts": "1727408641.843139",
+        "client_msg_id": "98F95493-677F-4DD7-8D01-4C5FEA64DA34",
+        "text": "2時にバイト終わるのでそのあと向かいます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7a0221dd7dbc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6728214419184_7a0221dd7dbcde6c9d1a_72.png",
+            "first_name": "田中ひばり",
+            "real_name": "田中ひばり",
+            "display_name": "Tanaka.Hibari",
+            "team": "T06L90YHJF8",
+            "name": "hbrt0403",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727408488.316709",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh7f0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2時にバイト終わるのでそのあと向かいます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

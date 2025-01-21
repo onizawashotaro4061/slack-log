@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U06LCEF912S",
+        "type": "message",
+        "ts": "1720497829.464699",
+        "client_msg_id": "D2CE22DE-F0CC-4E31-8AA7-6C7DFD334342",
+        "text": "<!channel> \nお疲れ様です。継続2年の石塚です。\nオーキャンのご協力とともにシフト提出感謝しております。\nただいまよりシフトのリリースさせていただきます。ご確認よろしくお願いします！かっこついてる方は休憩時間なのでよろしくお願いします:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8137963b77b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-26\/8107219027488_8137963b77b96f55184d_72.png",
+            "first_name": "石塚颯",
+            "real_name": "石塚颯",
+            "display_name": "Ishizuka.Hayate",
+            "team": "T06L90YHJF8",
+            "name": "hayaten-12-26",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOggI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。継続2年の石塚です。\nオーキャンのご協力とともにシフト提出感謝しております。\nただいまよりシフトのリリースさせていただきます。ご確認よろしくお願いします！かっこついてる方は休憩時間なのでよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071B38HAM7",
+                    "U06L4GJBJP9",
+                    "U070VFQGRNZ",
+                    "U070Y9VV7MZ",
+                    "U06LK3L6B4J",
+                    "U06LCVDE88N",
+                    "U070VFY94H3",
+                    "U071M6ZVDMW",
+                    "U06LMH3952Q",
+                    "U06LK0BP1TM"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LCVDE88N",
+                    "U06LMH3952Q",
+                    "U06LK0BP1TM"
+                ],
+                "count": 4
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U071B38HAM7",
+                    "U06LMH3952Q"
+                ],
+                "count": 3
+            },
+            {
+                "name": "のびるゆうすけ",
+                "users": [
+                    "U071B38HAM7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "はやて",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LK0BP1TM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCVDE88N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LK0BP1TM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LG60SFEH",
+                    "U06L4GJBJP9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07BMPTG6MA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCEF912S",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1720497842.758949",
+        "client_msg_id": "CDFFA2A7-1FE1-46F5-A7D0-1EE4281E58C6"
+    }
+]

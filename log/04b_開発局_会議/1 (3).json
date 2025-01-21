@@ -1,0 +1,738 @@
+[
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1708959851.504009",
+        "edited": {
+            "user": "U06LMGM3CG4",
+            "ts": "1709003580.000000"
+        },
+        "client_msg_id": "b09f9ba7-fed4-4e41-ba91-1d3afb4fba25",
+        "text": "<!channel>\n【0227第2回開発局会議について】\n今回から2年継続強化キャンペーンが始まり、局会議の内容が盛りだくさんになってきます！気合い入れてやっていきましょう！\n頭よくなりましょう！\n\n【時間】\n13：00〜17:00\n\n【場所】\nLS606\n\n【事前準備】\n• Trelloに入っておくこと\n【持ち物】\nパソコン\n多角的な視点\n\n【議題】\n1. 各種報告・諸連絡（意思共有）\n2. 開発局について（意思共有）\n3. Trello講座（意思共有）\n4. メモ議事録講座（意思共有）\n5. GW講座①意見出し編（意見交換）\n6. ~ルールの共有（意見交換）~\n7. 次長について（意見交換）\n遅刻・欠席・早退をされる方はスレッドで必ず教えてください！\n\nみたらスタンプ！！！！！ （絶対押して！）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708959851.504009",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1708998095.921539",
+        "reply_users": [
+            "U06LK3ZBCN6",
+            "U06LE249H0V",
+            "U06M7SBFPFS",
+            "U06LCE809L6"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1708961212.270859"
+            },
+            {
+                "user": "U06LE249H0V",
+                "ts": "1708969225.033339"
+            },
+            {
+                "user": "U06M7SBFPFS",
+                "ts": "1708980736.519069"
+            },
+            {
+                "user": "U06M7SBFPFS",
+                "ts": "1708983931.024159"
+            },
+            {
+                "user": "U06LCE809L6",
+                "ts": "1708998095.921539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ptW5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0227第2回開発局会議について】\n今回から2年継続強化キャンペーンが始まり、局会議の内容が盛りだくさんになってきます！気合い入れてやっていきましょう！\n頭よくなりましょう！\n\n【時間】\n13：00〜17:00\n\n【場所】\nLS606\n\n【事前準備】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trelloに入っておくこと"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン\n多角的な視点\n\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告・諸連絡（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "開発局について（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trello講座（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メモ議事録講座（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW講座①意見出し編（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ルールの共有（意見交換）",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "次長について（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n遅刻・欠席・早退をされる方はスレッドで必ず教えてください！\n\nみたらスタンプ！！！！！ （絶対押して！）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "piggy",
+                "users": [
+                    "U06M7SBFPFS",
+                    "U06LCE809L6",
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K",
+                    "U06LCE9JG3G",
+                    "U06L4GM57JT",
+                    "U06L4GKGXB9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LCE809L6",
+                    "U06LG63FJUD",
+                    "U06LXP1JG0Z",
+                    "U06L4GKGXB9",
+                    "U06LK04QJ0K",
+                    "U06LCE9JG3G",
+                    "U06LMH49UQL"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LCE809L6",
+                    "U06LXP1JG0Z",
+                    "U06LK04QJ0K",
+                    "U06LCE9JG3G"
+                ],
+                "count": 5
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1708961212.270859",
+        "client_msg_id": "2DACB840-A0A9-4329-A5E7-66E9116CC7F3",
+        "text": "明日から免許合宿のため、しばらく会議出席できませんゴメンナサイ :man-bowing: \n自主猛勉強しておきます :man-bowing: :man-bowing: \n怖い塚田局長ご迷惑おかけします :man-bowing: :man-bowing: :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708959851.504009",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gy+W+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日から免許合宿のため、しばらく会議出席できませんゴメンナサイ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n自主猛勉強しておきます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n怖い塚田局長ご迷惑おかけします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tulip",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1708969225.033339",
+        "client_msg_id": "6AB6B2A1-AA9F-4FFB-8E4E-04B3003D3E7E",
+        "text": "潰れました。大変ご迷惑おかけしました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708959851.504009",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JFBU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "潰れました。大変ご迷惑おかけしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rage",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SBFPFS",
+        "type": "message",
+        "ts": "1708980736.519069",
+        "client_msg_id": "A217994B-2B14-40D8-AAB3-CC0E369D7BC8",
+        "text": "今日久に顔向けでできないです本当にごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6eda6720b151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7988044218854_6eda6720b151f1efc218_72.png",
+            "first_name": "鬼追華奈",
+            "real_name": "鬼追華奈",
+            "display_name": "Kioi.Hana",
+            "team": "T06L90YHJF8",
+            "name": "kyomomonom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708959851.504009",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Llve1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日久に顔向けでできないです本当にごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rage",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06M7SBFPFS",
+        "thread_ts": "1708959851.504009",
+        "root": {
+            "user": "U06LMGM3CG4",
+            "type": "message",
+            "ts": "1708959851.504009",
+            "edited": {
+                "user": "U06LMGM3CG4",
+                "ts": "1709003580.000000"
+            },
+            "client_msg_id": "b09f9ba7-fed4-4e41-ba91-1d3afb4fba25",
+            "text": "<!channel>\n【0227第2回開発局会議について】\n今回から2年継続強化キャンペーンが始まり、局会議の内容が盛りだくさんになってきます！気合い入れてやっていきましょう！\n頭よくなりましょう！\n\n【時間】\n13：00〜17:00\n\n【場所】\nLS606\n\n【事前準備】\n• Trelloに入っておくこと\n【持ち物】\nパソコン\n多角的な視点\n\n【議題】\n1. 各種報告・諸連絡（意思共有）\n2. 開発局について（意思共有）\n3. Trello講座（意思共有）\n4. メモ議事録講座（意思共有）\n5. GW講座①意見出し編（意見交換）\n6. ~ルールの共有（意見交換）~\n7. 次長について（意見交換）\n遅刻・欠席・早退をされる方はスレッドで必ず教えてください！\n\nみたらスタンプ！！！！！ （絶対押して！）",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1708959851.504009",
+            "reply_count": 5,
+            "reply_users_count": 4,
+            "latest_reply": "1708998095.921539",
+            "reply_users": [
+                "U06LK3ZBCN6",
+                "U06LE249H0V",
+                "U06M7SBFPFS",
+                "U06LCE809L6"
+            ],
+            "replies": [
+                {
+                    "user": "U06LK3ZBCN6",
+                    "ts": "1708961212.270859"
+                },
+                {
+                    "user": "U06LE249H0V",
+                    "ts": "1708969225.033339"
+                },
+                {
+                    "user": "U06M7SBFPFS",
+                    "ts": "1708980736.519069"
+                },
+                {
+                    "user": "U06M7SBFPFS",
+                    "ts": "1708983931.024159"
+                },
+                {
+                    "user": "U06LCE809L6",
+                    "ts": "1708998095.921539"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ptW5X",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【0227第2回開発局会議について】\n今回から2年継続強化キャンペーンが始まり、局会議の内容が盛りだくさんになってきます！気合い入れてやっていきましょう！\n頭よくなりましょう！\n\n【時間】\n13：00〜17:00\n\n【場所】\nLS606\n\n【事前準備】\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trelloに入っておくこと"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n【持ち物】\nパソコン\n多角的な視点\n\n【議題】\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "各種報告・諸連絡（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "開発局について（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trello講座（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "メモ議事録講座（意思共有）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GW講座①意見出し編（意見交換）"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ルールの共有（意見交換）",
+                                            "style": {
+                                                "strike": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "次長について（意見交換）"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n遅刻・欠席・早退をされる方はスレッドで必ず教えてください！\n\nみたらスタンプ！！！！！ （絶対押して！）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1708983931.024159",
+        "client_msg_id": "08B0B1E5-46F4-4A04-B735-B11D8982A181",
+        "text": "LS606です",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WcZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LS606です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE809L6",
+        "type": "message",
+        "ts": "1708998095.921539",
+        "client_msg_id": "5BD0B017-1FD9-4D33-8F6D-D6252651A7EC",
+        "text": "電車が遅延しまくっているのでおそらく15分ほど遅れます、すみません :woman-bowing: :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3962025e44e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-09\/7873916229472_3962025e44e826ece0d2_72.png",
+            "first_name": "倉内奏",
+            "real_name": "倉内奏",
+            "display_name": "Kurauchi.Kana",
+            "team": "T06L90YHJF8",
+            "name": "kana07160263",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708959851.504009",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PqVBL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅延しまくっているのでおそらく15分ほど遅れます、すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tulip",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCEJ5HHU",
+        "text": "<@U06LCEJ5HHU>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709008317.006419"
+    }
+]

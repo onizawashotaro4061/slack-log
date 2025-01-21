@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1715153213.581449",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1715732889.000000"
+        },
+        "client_msg_id": "2f4825ba-e145-4c7e-a331-97483f594144",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/9(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.芸能人誘致費について(意思共有)\n2.募集説明会の資料作成について(意思共有)\n3.一般企画書の進捗について(意思共有)\n4.OPと中夜のテーマについて(新企画チームは自由)\n5.チーム会議\n\n話すことたくさんあるし、チーム単位でもいろいろ相談することあるから、ハイペースで行こう！\n各チーム長！やれるなら明日の部門会議中に企画書完成させられるようにがんばろ！\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→くまくん、敲き→こむぎ、たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715153213.581449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715248855.588099",
+        "reply_users": [
+            "U06LK3L32MQ"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1715248855.588099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRjtO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/9(木)19:00～21:00\n【場所】LS304\n【議題】(予定)\n1.芸能人誘致費について(意思共有)\n2.募集説明会の資料作成について(意思共有)\n3.一般企画書の進捗について(意思共有)\n4.OPと中夜のテーマについて(新企画チームは自由)\n5.チーム会議\n\n話すことたくさんあるし、チーム単位でもいろいろ相談することあるから、ハイペースで行こう！\n各チーム長！やれるなら明日の部門会議中に企画書完成させられるようにがんばろ！\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→くまくん、敲き→こむぎ、たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "a部門はえぇ部門",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LCE9AKQW",
+                    "U06LXNY0MHP",
+                    "U06M7T7SSDN"
+                ],
+                "count": 7
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LCE9AKQW",
+                    "U06LMHDAZKN"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

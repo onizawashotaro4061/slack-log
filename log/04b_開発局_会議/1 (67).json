@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U071B3EHX6D",
+        "type": "message",
+        "ts": "1730288470.024189",
+        "client_msg_id": "B2860185-9D44-4FAA-83B9-DD6BFEE3333E",
+        "text": "家の事情で欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9507bf74773",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-22\/7154356299618_b9507bf747739feacb66_72.png",
+            "first_name": "吉本",
+            "real_name": "吉本 優吾",
+            "display_name": "Yoshimoto.Yugo",
+            "team": "T06L90YHJF8",
+            "name": "yugoal1016",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730263771.237649",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/4r7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家の事情で欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

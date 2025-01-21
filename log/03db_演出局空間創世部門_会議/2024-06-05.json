@@ -1,0 +1,225 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U071B39SGQH",
+        "text": "<@U071B39SGQH>さんがチャンネルに参加しました",
+        "inviter": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717598095.713899"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YDCB30A",
+        "text": "<@U070YDCB30A>さんがチャンネルに参加しました",
+        "inviter": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717598095.898069"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0710TSE9TN",
+        "text": "<@U0710TSE9TN>さんがチャンネルに参加しました",
+        "inviter": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717598095.976469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YE174KC",
+        "text": "<@U070YE174KC>さんがチャンネルに参加しました",
+        "inviter": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717598096.064449"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3917S5",
+        "text": "<@U071B3917S5>さんがチャンネルに参加しました",
+        "inviter": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717598096.134719"
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1717650592.699949",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1717650714.000000"
+        },
+        "client_msg_id": "a1d756df-0312-4ef4-af9e-73282135ed86",
+        "text": "*<!channel>* \n会議連絡！\n【時間】6\/6(木)19:00～21:00\n【場所】LS603\n【議題】(予定)\n1.部門方針について\n2.自己紹介\n3.Slackスタンプ作成\n4.アイスブレイク(レクリエーション)\n\n新規のみなさん！初めての部門会議ですね！\n今日はこの部門のあり方を知ることと、継続と新規が少しでも仲良くなることを目標に頑張っていきましょー！\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717650592.699949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717666337.134819",
+        "reply_users": [
+            "U070HS35ECX"
+        ],
+        "replies": [
+            {
+                "user": "U070HS35ECX",
+                "ts": "1717666337.134819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "42\/VC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】6\/6(木)19:00～21:00\n【場所】LS603\n【議題】(予定)\n1.部門方針について\n2.自己紹介\n3.Slackスタンプ作成\n4.アイスブレイク(レクリエーション)\n\n新規のみなさん！初めての部門会議ですね！\n今日はこの部門のあり方を知ることと、継続と新規が少しでも仲良くなることを目標に頑張っていきましょー！\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U070RQ0DUBG",
+                    "U06LCE9AKQW",
+                    "U071M771YMN",
+                    "U06LG6EJPE1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "くまくん",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ふっかちゃん",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bone",
+                "users": [
+                    "U071B3C42Q1",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ピンクだいち",
+                "users": [
+                    "U071M771YMN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "コッシー",
+                "users": [
+                    "U070HS35ECX",
+                    "U071M771YMN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "マックまき-1",
+                "users": [
+                    "U071B39SGQH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

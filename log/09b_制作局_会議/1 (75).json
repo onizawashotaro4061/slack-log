@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U071B3DFWLR",
+        "type": "message",
+        "ts": "1732781059.539059",
+        "client_msg_id": "179FFB89-78A0-4181-9BD7-6D3206257C9E",
+        "text": "友達との予定ありましたごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "06ec8a94a9f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032969160579_06ec8a94a9f72e2179f2_72.png",
+            "first_name": "西井緋那",
+            "real_name": "西井緋那",
+            "display_name": "Nishii.Hinata",
+            "team": "T06L90YHJF8",
+            "name": "nina212307",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732599607.597609",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gTab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "友達との予定ありましたごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0JCFHR",
+        "type": "message",
+        "ts": "1732782898.338909",
+        "client_msg_id": "6DBD58AB-65CF-4FBB-873A-EE8B2FACD09E",
+        "text": "風邪をひいてしまったためお休みします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c41549f3977",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8024575861397_0c41549f3977849cc606_72.png",
+            "first_name": "髙橋",
+            "real_name": "髙橋 美結",
+            "display_name": "Takahashi.Miyuu",
+            "team": "T06L90YHJF8",
+            "name": "satokonoatorie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732599607.597609",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FxI2H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪をひいてしまったためお休みします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LK3LM7AN",
+                    "U06LCE8L8LW",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U0710T0UFQC",
+        "type": "message",
+        "ts": "1732786784.423819",
+        "client_msg_id": "79F729E9-D880-460E-9249-D422959AED59",
+        "text": "バイトのオリエンテーションがあるためお休みします。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3d7dbf0112c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8024885003155_a3d7dbf0112c705d12ff_72.png",
+            "first_name": "畑ひとみ",
+            "real_name": "畑ひとみ",
+            "display_name": "Hata.Hitomi",
+            "team": "T06L90YHJF8",
+            "name": "hitomi5555",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732599607.597609",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bH8JY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトのオリエンテーションがあるためお休みします。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

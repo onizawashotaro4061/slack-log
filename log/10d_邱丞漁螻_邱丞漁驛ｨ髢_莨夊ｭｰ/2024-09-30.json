@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1727683336.889859",
+        "client_msg_id": "82a33877-4391-409f-98bd-f2c7a49c0257",
+        "text": "授業で遅れます:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727591878.938229",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCEej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業で遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1727688191.283099",
+        "client_msg_id": "b0e3541c-96a1-4fc1-8808-28ad4b84066f",
+        "text": "授業のため遅れます。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727591878.938229",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLVGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業のため遅れます。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

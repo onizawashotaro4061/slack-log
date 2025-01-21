@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1725700432.971389",
+        "client_msg_id": "F2AB94B8-A3DB-4AF5-887F-F1D36CB37576",
+        "text": "学生証たふとさん！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oSlIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生証たふとさん！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXNYCLJV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXNYCLJV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "まゆ-門限シンデレラ",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXNYCLJV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1725702693.514079",
+        "client_msg_id": "15DAB9B9-8695-4A6A-9B11-EC295C9EA144",
+        "text": "しめかえしました〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4maBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえしました〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

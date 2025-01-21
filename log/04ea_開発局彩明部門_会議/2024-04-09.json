@@ -1,0 +1,437 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK04QJ0K",
+        "text": "<@U06LK04QJ0K>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1712726566.868309"
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1712727896.711429",
+        "edited": {
+            "user": "U06LXNWG67K",
+            "ts": "1712819120.000000"
+        },
+        "client_msg_id": "d672f530-84c1-4067-a7f7-d862fa3e70f3",
+        "text": "<!channel>\n【0411第3回開発局A部門（仮）会議】\nお疲れ様でございます。さあ、遂に全員対面で揃うんじゃないですかね。盛り上がっていきましょう！\n\n【時間】\n19:00～20:40（多分5限から教室取れてるので暇な人はどうぞ）\n\n【場所】\nM510\n\n【持ち物】\nパソコン\n柔軟な発想力\n軽食\n\n【議題】\n1.各種共有（意思共有）\n2.考えられる明大生に所在する問題を出してみよう。（意見交換）\n3.根拠となるデータを探そう。（意見交換）\n\n遅刻・欠席・早退をする人はスレッドで早めに教えてください～\n\n見たらスタンプおなしゃす。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1712822484.101669",
+        "reply_users": [
+            "U06LK3ZBCN6",
+            "U06LXNWG67K",
+            "U06LCEJ5HHU"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1712728869.703159"
+            },
+            {
+                "user": "U06LXNWG67K",
+                "ts": "1712728920.169789"
+            },
+            {
+                "user": "U06LXNWG67K",
+                "ts": "1712728925.378129"
+            },
+            {
+                "user": "U06LXNWG67K",
+                "ts": "1712728926.685119"
+            },
+            {
+                "user": "U06LXNWG67K",
+                "ts": "1712728930.483579"
+            },
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1712728942.923469"
+            },
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1712732894.382659"
+            },
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1712810833.744219"
+            },
+            {
+                "user": "U06LK3ZBCN6",
+                "ts": "1712822484.101669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La+Z8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0411第3回開発局A部門（仮）会議】\nお疲れ様でございます。さあ、遂に全員対面で揃うんじゃないですかね。盛り上がっていきましょう！\n\n【時間】\n19:00～20:40（多分5限から教室取れてるので暇な人はどうぞ）\n\n【場所】\nM510\n\n【持ち物】\nパソコン\n柔軟な発想力\n軽食\n\n【議題】\n1.各種共有（意思共有）\n2.考えられる明大生に所在する問題を出してみよう。（意見交換）\n3.根拠となるデータを探そう。（意見交換）\n\n遅刻・欠席・早退をする人はスレッドで早めに教えてください～\n\n見たらスタンプおなしゃす。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE809L6",
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LCEJ5HHU",
+                    "U06LCE9JG3G"
+                ],
+                "count": 6
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE809L6",
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LMH49UQL",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LK3ZBCN6",
+                    "U06LCEJ5HHU",
+                    "U06LCE9JG3G"
+                ],
+                "count": 6
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06LCE809L6",
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "なつくん話長い",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か＿全力疾走なつくん煌めく汗",
+                "users": [
+                    "U06LK04QJ0K",
+                    "U06LCE8C51U",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LCE8C51U",
+                    "U06LK04QJ0K",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U06LCEJ5HHU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1712728869.703159",
+        "client_msg_id": "DFDB425C-31B7-4611-86B4-0EA87B4C8B7C",
+        "text": "教室とってんの5限からやろ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvnFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教室とってんの5限からやろ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1712728920.169789",
+        "client_msg_id": "7F0AF8F4-76F2-49B6-ACF9-B967AD6252E6",
+        "text": "4限もやったやん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhbhk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4限もやったやん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1712728925.378129",
+        "client_msg_id": "2A94D9A9-21AD-4A96-9A2A-D9B52D9BA1DB",
+        "text": "あれ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJUcw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1712728926.685119",
+        "client_msg_id": "5FEE973E-EA02-41B0-BE89-0170848721CA",
+        "text": "あ。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CmcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1712728930.483579",
+        "client_msg_id": "404E8206-CBE3-48E0-81D1-00A67124FEC0",
+        "text": "ごめん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZaVvq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1712728942.923469",
+        "client_msg_id": "F2F61509-7761-4FCD-97C5-42A0FE80541F",
+        "text": "はい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712727896.711429",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkA6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

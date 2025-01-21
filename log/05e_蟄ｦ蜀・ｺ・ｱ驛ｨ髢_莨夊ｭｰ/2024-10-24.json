@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1729761327.859629",
+        "client_msg_id": "99D5F552-39C8-4050-B22D-4C64831B843F",
+        "text": "ばいと終わってから当日広報の買い出し来たので遅れますすみません:woman-bowing::skin-tone-2::sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729674220.278929",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxdUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ばいと終わってから当日広報の買い出し来たので遅れますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

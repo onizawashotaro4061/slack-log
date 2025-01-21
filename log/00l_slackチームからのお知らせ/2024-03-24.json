@@ -1,0 +1,178 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711329148.576869",
+        "client_msg_id": "e9483b90-bd6b-480f-9be4-dff53854681d",
+        "text": "<!channel>\nおつかれさまです！\nおはようございます:sunny:\nSlackチームの吉良です。\n先日は、たくさんのご意見ありがとうございました！\nまだまだご意見募集中ですので、思いついたことがあればぜひ回答お願いいたします:pray::skin-tone-2:\n*また、意見をくれた方たちとイメージ共有したいのですが、*\n*直接お話できる方いらっしゃいませんか？？*\n*もしいらっしゃいましたら、DMで教えていただけると幸いです！*\n*なるべく全員名乗り出てくれたら嬉しいです*:smiling_face_with_tear:\nお忙しい中、お手数おかけいたしますが、\nご協力よろしくお願いいたします:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srKj+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nおはようございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlackチームの吉良です。\n先日は、たくさんのご意見ありがとうございました！\nまだまだご意見募集中ですので、思いついたことがあればぜひ回答お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "また、意見をくれた方たちとイメージ共有したいのですが、",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "直接お話できる方いらっしゃいませんか？？",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もしいらっしゃいましたら、DMで教えていただけると幸いです！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なるべく全員名乗り出てくれたら嬉しいです",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお忙しい中、お手数おかけいたしますが、\nご協力よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LJ4HJLMS",
+                    "U06M7SUULGY",
+                    "U06LGHETAFP",
+                    "U06LCE9EA3G",
+                    "U06LK3L6B4J",
+                    "U06M7ST2WTA"
+                ],
+                "count": 7
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LJ4HJLMS",
+                    "U06M7SU83G8",
+                    "U06LXK3RF7B",
+                    "U06M7SUULGY",
+                    "U06LCE9EA3G",
+                    "U06L4GM5C87",
+                    "U06LHACMG91",
+                    "U06LK3L6B4J",
+                    "U06M7ST2WTA",
+                    "U06L4GLJVKR",
+                    "U071M771YMN"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U06LCE9EA3G",
+                    "U06LKTXCZL4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U06LGHETAFP",
+                    "U06LCE9EA3G",
+                    "U06L4GM5C87",
+                    "U06L4GH3T7H",
+                    "U06LKTXCZL4",
+                    "U06LXNY8KMF",
+                    "U06LXR4BPS5",
+                    "U070VFRCQBF"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "user": "U06LTN26EFL",
+        "type": "message",
+        "ts": "1726472936.765199",
+        "client_msg_id": "A8B89F07-019C-40CB-B2F7-D1DB8D66075F",
+        "text": "<!channel>\n会議連絡\n【時間】9\/17（火）14:00～\n【場所】ついき\n【議題】\n1.各種共有\n2.チーム会議(副局入り)\n\n欠席、早退、遅刻はスレッド\n\n響創部門は欠席連絡しなくていいよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "81e50f810ef5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-09\/6775878430148_81e50f810ef5f90daf17_72.png",
+            "first_name": "佐藤旺亮　",
+            "real_name": "佐藤旺亮　",
+            "display_name": "Sato.Ousuke",
+            "team": "T06L90YHJF8",
+            "name": "ousuke0710",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726472936.765199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1726547943.807769",
+        "reply_users": [
+            "U0710TSE9TN",
+            "U06LG64U8DB"
+        ],
+        "replies": [
+            {
+                "user": "U0710TSE9TN",
+                "ts": "1726524218.982419"
+            },
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1726547943.807769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kymp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡\n【時間】9\/17（火）14:00～\n【場所】ついき\n【議題】\n1.各種共有\n2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "チーム会議(副局入り)\n\n欠席、早退、遅刻はスレッド\n\n響創部門は欠席連絡しなくていいよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "おうすけ",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726473690.225619",
+        "client_msg_id": "cc13c5db-bbc5-4fa0-8cfa-ef513284bfe4",
+        "text": "明日の会議場所は第1校舎202教室ですー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8Ig7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の会議場所は第1校舎202教室ですー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0710TSE9TN",
+        "type": "message",
+        "ts": "1726524218.982419",
+        "client_msg_id": "713FF380-EF6C-4BB1-9F42-A1AA34342E70",
+        "text": "私用のため欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "39ff39169d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-21\/8056188037494_39ff39169d2fe9aa6b4f_72.png",
+            "first_name": "佐藤遼成",
+            "real_name": "佐藤遼成",
+            "display_name": "Sato.Ryosei",
+            "team": "T06L90YHJF8",
+            "name": "ryosugar200601",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726472936.765199",
+        "parent_user_id": "U06LTN26EFL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CD2pD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG64U8DB",
+        "type": "message",
+        "ts": "1726547943.807769",
+        "client_msg_id": "08249E36-7B25-4C71-A92C-BB695FB1F367",
+        "text": "出演者説明会があるため終わり次第行きます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9e4ba1901d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6812397244962_9e4ba1901d3baf101920_72.png",
+            "first_name": "福田至",
+            "real_name": "福田至",
+            "display_name": "Fukuda.Itaru",
+            "team": "T06L90YHJF8",
+            "name": "itaru.fkd1117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726472936.765199",
+        "parent_user_id": "U06LTN26EFL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usynF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出演者説明会があるため終わり次第行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

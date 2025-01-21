@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U071B3DFWLR",
+        "type": "message",
+        "ts": "1717492363.552899",
+        "client_msg_id": "38BD10C0-98AC-4B22-ABC3-1BCA4975D3FD",
+        "text": "バイト早めに終わったので間に合いそうです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "06ec8a94a9f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032969160579_06ec8a94a9f72e2179f2_72.png",
+            "first_name": "西井緋那",
+            "real_name": "西井緋那",
+            "display_name": "Nishii.Hinata",
+            "team": "T06L90YHJF8",
+            "name": "nina212307",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717310095.942379",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PxJxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイト早めに終わったので間に合いそうです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LP6ZTYA1",
+        "type": "message",
+        "ts": "1717496117.929259",
+        "client_msg_id": "EE60B3D5-9E2E-4BDD-B2C0-6F50C2352B23",
+        "text": "おじさんちゃちゃいれんなよ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acacd59adece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-18\/6841130737232_acacd59adece7135664f_72.png",
+            "first_name": "上村優太",
+            "real_name": "上村優太",
+            "display_name": "Kamimura.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "yuta200409",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717310095.942379",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tNjAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おじさんちゃちゃいれんなよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "外房線って何",
+                "users": [
+                    "U06LK0EUE75"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711534070.295299"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LY5XNLBT",
+        "text": "<@U06LY5XNLBT>さんがチャンネルに参加しました",
+        "inviter": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711534074.968649"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE9HTP0",
+        "text": "<@U06LCE9HTP0>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546516.881999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GJBJP9",
+        "text": "<@U06L4GJBJP9>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546516.964229"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCEF912S",
+        "text": "<@U06LCEF912S>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546517.049469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCVDE88N",
+        "text": "<@U06LCVDE88N>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546517.170289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3LMEPL",
+        "text": "<@U06LK3LMEPL>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546517.249499"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCE78Y94",
+        "text": "<@U06LCE78Y94>さんがチャンネルに参加しました",
+        "inviter": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711546517.339409"
+    },
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1711547086.016419",
+        "edited": {
+            "user": "U06LY5XNLBT",
+            "ts": "1711547461.000000"
+        },
+        "client_msg_id": "2134E623-7670-46B0-9CC2-6F55AF2C2589",
+        "text": "<!channel>\n\n今みなさんを追加したのですがーーー\nちゃんと見れてる？\n学外、学外会議、学外議事録の3つのチャンネルに招待したはず！！\n\n大丈夫だったらなんか好きなスタンプ押してええ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3lfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n今みなさんを追加したのですがーーー\nちゃんと見れてる？\n学外、学外会議、学外議事録の3つのチャンネルに招待したはず！！\n\n大丈夫だったらなんか好きなスタンプ押してええ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 4
+            },
+            {
+                "name": "梅本瑛平",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かずま-kazumacity",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "まゆりん",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06L4GJBJP9",
+                    "U06LCEF912S",
+                    "U06LCVDE88N"
+                ],
+                "count": 4
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "広報-さくら-ふぅ",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ゆうか",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "再履きど",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "さな",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "竹中彩夏-寂しがり屋-",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "竹中彩夏-クールだけど-",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "広報局-ようへいチルドレン-",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おねむきどこう城戸",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3HUVTL",
+        "text": "<@U06LK3HUVTL>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711554719.788329"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3L6B4J",
+        "text": "<@U06LK3L6B4J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711554905.859429"
+    }
+]

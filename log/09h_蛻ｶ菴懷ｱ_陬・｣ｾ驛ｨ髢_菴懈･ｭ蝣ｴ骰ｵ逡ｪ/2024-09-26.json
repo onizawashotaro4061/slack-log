@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1727401994.245879",
+        "client_msg_id": "61DECC67-F8B6-43F4-8E94-D3184AA8AAF9",
+        "text": "おそめのかりあけ :sweat: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "849lZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おそめのかりあけ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat",
+                                "unicode": "1f613"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "isfp-冒険家-",
+                "users": [
+                    "U06LXP316UR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "わかな",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LXP316UR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "かわdaichi",
+                "users": [
+                    "U06LXP316UR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

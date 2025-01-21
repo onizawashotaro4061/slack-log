@@ -1,0 +1,456 @@
+[
+    {
+        "user": "U06L4TGH30F",
+        "type": "message",
+        "ts": "1725493472.478869",
+        "client_msg_id": "00311E09-D367-4A83-8F80-CE822F9CFF0E",
+        "text": "就活関連イベントがあるため休みます、すみません :sweat_drops: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bbeae4ee3238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-15\/7728244406805_bbeae4ee3238fecc24f3_72.png",
+            "first_name": "関田祐愛",
+            "real_name": "関田祐愛",
+            "display_name": "Sekita.Yua",
+            "team": "T06L90YHJF8",
+            "name": "yuatampo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725368273.593249",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOc2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "就活関連イベントがあるため休みます、すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LMH31QSG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "厳しいって",
+                "users": [
+                    "U06LK0EUE75"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U071B3CMYKT",
+        "thread_ts": "1725368273.593249",
+        "root": {
+            "user": "U06LH4PDAQ3",
+            "type": "message",
+            "ts": "1725368273.593249",
+            "edited": {
+                "user": "U06LH4PDAQ3",
+                "ts": "1725469721.000000"
+            },
+            "client_msg_id": "E79021C5-B3E0-4A0F-9FD9-9D64C158BDEF",
+            "text": "<!channel>\n【第22回制作局会議】\n日時:9月5日（木）13:30～\n場所:第一校舎209教室\n持ち物:パソコン、筆記用具\n議事録:名前テスト低順位者\n\n議題\n1.役員会報告(意思共有)\n2.部門報告(意思共有)\n3.役職紹介デザイン(意思共有)\n4.めいじつテスト(意思共有)\n5.夏の大反省会(意見交換)\n6.諸連絡(意思共有)\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nこの前全体合宿で今度局合宿があって幸せな局長です。最近みんな制作活動が忙しそうだけど、楽しいこと思い出もいっぱいつくろうね",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1725368273.593249",
+            "reply_count": 20,
+            "reply_users_count": 20,
+            "latest_reply": "1725507572.185029",
+            "reply_users": [
+                "U06LMHSCW1J",
+                "U06LXNZFWDP",
+                "U06LG6Q48SZ",
+                "U06L4GT8LNT",
+                "U070YD7LPR8",
+                "U06LK3M7VGA",
+                "U06LK3LM7AN",
+                "U070YD8ST18",
+                "U06LXNUQ989",
+                "U070Y9S80D9",
+                "U06M7SSUS0G",
+                "U070RQ1TLSJ",
+                "U070Y9S389Z",
+                "U06L4GPGUMV",
+                "U070RQ3G5DL",
+                "U06L4TGH30F",
+                "U071B3CMYKT",
+                "U06LK0EUE75",
+                "U06LK0FAL83",
+                "U071B3A7ERX"
+            ],
+            "replies": [
+                {
+                    "user": "U06LMHSCW1J",
+                    "ts": "1725368405.488829"
+                },
+                {
+                    "user": "U06LXNZFWDP",
+                    "ts": "1725368819.034949"
+                },
+                {
+                    "user": "U06LG6Q48SZ",
+                    "ts": "1725369338.517919"
+                },
+                {
+                    "user": "U06L4GT8LNT",
+                    "ts": "1725370238.218699"
+                },
+                {
+                    "user": "U070YD7LPR8",
+                    "ts": "1725370387.571219"
+                },
+                {
+                    "user": "U06LK3M7VGA",
+                    "ts": "1725371197.050169"
+                },
+                {
+                    "user": "U06LK3LM7AN",
+                    "ts": "1725371630.503239"
+                },
+                {
+                    "user": "U070YD8ST18",
+                    "ts": "1725371762.347349"
+                },
+                {
+                    "user": "U06LXNUQ989",
+                    "ts": "1725372387.772689"
+                },
+                {
+                    "user": "U070Y9S80D9",
+                    "ts": "1725374981.797159"
+                },
+                {
+                    "user": "U06M7SSUS0G",
+                    "ts": "1725414582.922629"
+                },
+                {
+                    "user": "U070RQ1TLSJ",
+                    "ts": "1725417159.128769"
+                },
+                {
+                    "user": "U070Y9S389Z",
+                    "ts": "1725419117.402389"
+                },
+                {
+                    "user": "U06L4GPGUMV",
+                    "ts": "1725419953.171569"
+                },
+                {
+                    "user": "U070RQ3G5DL",
+                    "ts": "1725425129.132129"
+                },
+                {
+                    "user": "U06L4TGH30F",
+                    "ts": "1725493472.478869"
+                },
+                {
+                    "user": "U071B3CMYKT",
+                    "ts": "1725498303.236079"
+                },
+                {
+                    "user": "U06LK0EUE75",
+                    "ts": "1725500325.535109"
+                },
+                {
+                    "user": "U06LK0FAL83",
+                    "ts": "1725506361.509309"
+                },
+                {
+                    "user": "U071B3A7ERX",
+                    "ts": "1725507572.185029"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mm\/Yx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n【第22回制作局会議】\n日時:9月5日（木）13:30～\n場所:第一校舎209教室\n持ち物:パソコン、筆記用具\n議事録:名前テスト低順位者\n\n議題\n1.役員会報告(意思共有)\n2.部門報告(意思共有)\n3."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "役職紹介デザイン(意思共有)"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n4."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "めいじつテスト(意思共有)"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n5.夏の大反省会(意見交換)\n6."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "諸連絡(意思共有)"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nこの前全体合宿で今度局合宿があって幸せな局長です。最近みんな制作活動が忙しそうだけど、楽しいこと思い出もいっぱいつくろうね"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1725498303.236079",
+        "client_msg_id": "B0A139F8-DB62-4A93-9884-EAE53DAA56BA",
+        "text": "熱あるので今日休みます。すみません:woman-bowing::skin-tone-2:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tB5mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱あるので今日休みます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06LCE8L8LW",
+                    "U06LK0F2RC3",
+                    "U06L4GM463H",
+                    "U070RQFLLR4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06L4GM463H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0EUE75",
+        "type": "message",
+        "ts": "1725500325.535109",
+        "client_msg_id": "FF206A5F-9DA6-4CB3-A469-92F235896401",
+        "text": "面接あるの忘れてました14:00-14:30だけ面接で抜けますすません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b3cf264a2219",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-02\/8132787401728_b3cf264a2219178fcc43_72.png",
+            "first_name": "保延虎太朗",
+            "real_name": "保延虎太朗",
+            "display_name": "Honobe.Kotaro",
+            "team": "T06L90YHJF8",
+            "name": "kotaro0204m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725368273.593249",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Akcr7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面接あるの忘れてました14:00-14:30だけ面接で抜けますすません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LMH31QSG",
+                    "U06LCE8L8LW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GM463H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FAL83",
+        "type": "message",
+        "ts": "1725506361.509309",
+        "edited": {
+            "user": "U06LK0FAL83",
+            "ts": "1725509860.000000"
+        },
+        "client_msg_id": "7A43B5DF-0A75-4BB6-92D9-0EF281DBD6B3",
+        "text": "ヘルプ先から地味に遠くて少し遅れます :woman-bowing: プラス寝過ごしましたごめんなさい:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bd4686eab1e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8025160921732_bd4686eab1e93a57aabc_72.png",
+            "first_name": "栗山ひおな",
+            "real_name": "栗山ひおな",
+            "display_name": "Kuriyama.Hiona",
+            "team": "T06L90YHJF8",
+            "name": "mt.mrn.hio7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725368273.593249",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWPi+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ヘルプ先から地味に遠くて少し遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " プラス寝過ごしましたごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3A7ERX",
+        "type": "message",
+        "ts": "1725507572.185029",
+        "client_msg_id": "5722025E-742C-42C9-8C5A-D5C595236ACD",
+        "text": "咳が酷く声も出ないため欠席します。直前の連絡で申し訳ありません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0317e73738c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-25\/7171007244629_0317e73738c08ad1fb92_72.png",
+            "first_name": "武田三都紀",
+            "real_name": "武田三都紀",
+            "display_name": "Takeda. Mitsuki",
+            "team": "T06L90YHJF8",
+            "name": "2mitsuki8fura11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725368273.593249",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+rvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "咳が酷く声も出ないため欠席します。直前の連絡で申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！\n新規の皆さんに向けて、チーム配属のESをリリースします！\nそんなに長く書かなくていいよ笑　簡潔に理由を書いていただければと思います。\n*6月19日(水)23：59まで*に私熊木のSlackのDMに提出してくださいっ！\n\n*あくまでもメインでタスクをやる広報が決まってるだけで、どのチームに入っても全ての活動に参加します！*\n\nこの間のチームコンペの資料とかも参考にしてねーーー！",
+        "files": [
+            {
+                "id": "F0788FXTUJ0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LY5XNLBT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gg1SR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n新規の皆さんに向けて、チーム配属のESをリリースします！\nそんなに長く書かなくていいよ笑　簡潔に理由を書いていただければと思います。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6月19日(水)23：59まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に私熊木のSlackのDMに提出してくださいっ！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あくまでもメインでタスクをやる広報が決まってるだけで、どのチームに入っても全ての活動に参加します！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこの間のチームコンペの資料とかも参考にしてねーーー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718374440.254059",
+        "edited": {
+            "user": "U06LY5XNLBT",
+            "ts": "1718374660.000000"
+        },
+        "client_msg_id": "df6c252c-563e-4b41-9e53-2f1937e482b6",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCVDE88N",
+                    "U070Y9VV7MZ",
+                    "U070U48JHL7"
+                ],
+                "count": 3
+            },
+            {
+                "name": "頑張れ-ふぁいと-",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06TU27FX08"
+                ],
+                "count": 2
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ゆうか",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "はやて",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06TU27FX08"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

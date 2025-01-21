@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U070Y9Q9151",
+        "type": "message",
+        "ts": "1725452628.248169",
+        "edited": {
+            "user": "U070Y9Q9151",
+            "ts": "1725452677.000000"
+        },
+        "client_msg_id": "3D249984-69CC-45E6-9EEF-DABB98A31E84",
+        "text": "予定があったため欠席しました。失念しておりました。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f4a8d315de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996339726980_3f4a8d315de39329ef11_72.png",
+            "first_name": "畑中康佑",
+            "real_name": "畑中康佑",
+            "display_name": "Hatanaka.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "koshat0513",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725275050.822419",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQVIi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があったため欠席しました。失念しておりました。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

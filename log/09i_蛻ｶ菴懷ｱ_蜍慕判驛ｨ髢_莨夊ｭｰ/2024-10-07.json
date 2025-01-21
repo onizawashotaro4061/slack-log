@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1728287273.655989",
+        "client_msg_id": "676D2967-3899-46B1-8161-3A6A3F99D2C9",
+        "text": "すみません低気圧で吐き気すごいのでお休みします ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728030164.826049",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zab2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません低気圧で吐き気すごいのでお休みします "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LXNUQ989"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

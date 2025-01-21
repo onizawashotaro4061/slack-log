@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1718352437.436199",
+        "client_msg_id": "4F344D3A-7378-4951-BD9E-797B1934F290",
+        "text": "学生証かなむ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayZFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生証かなむ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06L4GH3T7H",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LJ0SKMEZ",
+                    "U06LKHN3RE0",
+                    "U06LXNYCLJV"
+                ],
+                "count": 8
+            },
+            {
+                "name": "運営局_りゅうせい_j-soul",
+                "users": [
+                    "U06LK0FUAHZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1718372436.420669",
+        "client_msg_id": "D58264CA-D99E-4B5D-9FA9-792F86FEC308",
+        "text": "忘れてしもたしめかえし！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Qt9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "忘れてしもたしめかえし！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LXNYUX7T",
+                    "U06LK3ZBCN6",
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06L4GKC9N3",
+                    "U06LJ0SKMEZ",
+                    "U06LG62V1FX",
+                    "U06LKHN3RE0"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U06LXNYUX7T",
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP",
+                    "U070HS31CP9",
+                    "U06LG6B2NA1",
+                    "U06LJ0SKMEZ",
+                    "U06LXNYCLJV"
+                ],
+                "count": 8
+            },
+            {
+                "name": "かなむ",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06LJRSQDC3",
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

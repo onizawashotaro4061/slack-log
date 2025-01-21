@@ -1,0 +1,44 @@
+[
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F06UHEZ8BUY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712831447.702719",
+        "client_msg_id": "c2d6e3b0-3c27-428b-aa3a-13edb56d7729",
+        "reactions": [
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LK3KA09G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

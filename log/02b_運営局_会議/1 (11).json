@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U06LK5HCSE6",
+        "type": "message",
+        "ts": "1710937301.125729",
+        "client_msg_id": "812861C2-308F-490D-BD42-033C5CB0A156",
+        "text": "明日から参加します！今まで休んでてすみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "394ef22c99d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-23\/7759557964086_394ef22c99d7ec085d43_72.png",
+            "first_name": "大竹主真",
+            "real_name": "大竹主真",
+            "display_name": "Ohtake.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "ohtake.kazuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710817201.638419",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJSp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日から参加します！今まで休んでてすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LK0FUAHZ",
+                    "U06L4GPFEQ7",
+                    "U06LEAGKTSS",
+                    "U06LCEA6J1L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しばミーム",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06M7SQPKL0",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "turtle",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

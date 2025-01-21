@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1717405538.248669",
+        "client_msg_id": "3303B2FC-DEF4-477A-9648-3D0552EF3C1E",
+        "text": "体調不良で欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717301799.073099",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UbLml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

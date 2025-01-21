@@ -1,0 +1,157 @@
+[
+    {
+        "user": "U06LXNUQ989",
+        "type": "message",
+        "ts": "1715240702.809979",
+        "client_msg_id": "2829A385-29FA-4043-922E-CB538CE723D2",
+        "text": "ゼミの集まりのため早退します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e914cc217da1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7694401269331_e914cc217da1a8f508d0_72.png",
+            "first_name": "林咲希",
+            "real_name": "林咲希",
+            "display_name": "Hayashi Saki",
+            "team": "T06L90YHJF8",
+            "name": "sak.r.3a9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715065209.822689",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xr0Wx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの集まりのため早退します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U071B3BQRR7",
+        "type": "message",
+        "ts": "1715243363.948369",
+        "client_msg_id": "A72D5DD5-90AB-43DE-963D-64E999E304B0",
+        "text": "法政研があるので遅刻します。ごめんなさい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "85ea0f1e7b81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7186373562848_85ea0f1e7b81f4eab113_72.png",
+            "first_name": "樋口澄",
+            "real_name": "樋口澄",
+            "display_name": "Higuchi.Sumire",
+            "team": "T06L90YHJF8",
+            "name": "sumi2mimi9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715065209.822689",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6LjS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "法政研があるので遅刻します。ごめんなさい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06LG61U9QD",
+                    "U06LG6F13M3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNZFWDP",
+        "type": "message",
+        "ts": "1715248220.115999",
+        "client_msg_id": "C96E58DE-F506-4A7B-92D0-1CA75F70429B",
+        "text": "部活の集まりがあるのでロゴ発表の時だけおじゃましますごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "34c175b7ca4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6700410419106_34c175b7ca4bc80cf834_72.png",
+            "first_name": "上山千尋",
+            "real_name": "上山千尋",
+            "display_name": "Kamiyama.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chiroruchako_12103",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715065209.822689",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MJEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "部活の集まりがあるのでロゴ発表の時だけおじゃましますごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

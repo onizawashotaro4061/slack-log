@@ -1,0 +1,238 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1717750533.500169",
+        "client_msg_id": "2d2d77a8-f20d-4326-b2f2-33a85c6b91b5",
+        "text": "<@U06LCE9HTP0>\n京王との打ち合わせの前にチーム員のみんなで色々詰めながらがんばってね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khxRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n京王との打ち合わせの前にチーム員のみんなで色々詰めながらがんばってね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LXNZDHFT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1717824429.072279",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1717828604.000000"
+        },
+        "client_msg_id": "c1453535-a68a-4d65-87ff-8aaac9c95d0f",
+        "text": "<!channel>\nお疲れ様です。会議連絡です！\n0608_第8回タスクフォース京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】23:00〜\n【議題】\n1.新規配属について（意見交換・決定）\n2.京王との会議について（意見交換）\n\n<https:\/\/us05web.zoom.us\/j\/84253948957?pwd=KmQgRN9sc5I7ZcaWA7r1b0kQfhREnJ.1>\n\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717824429.072279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717826079.485539",
+        "reply_users": [
+            "U06L4J69HV5"
+        ],
+        "replies": [
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1717826079.485539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tyJlD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です！\n0608_第8回タスクフォース京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】23:00〜\n【議題】\n1.新規配属について（意見交換・決定）\n2.京王との会議について（意見交換）\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/84253948957?pwd=KmQgRN9sc5I7ZcaWA7r1b0kQfhREnJ.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L",
+                    "U06LXNZDHFT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "京王",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06L4J69HV5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK0DK7R9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1717826079.485539",
+        "client_msg_id": "BDA7D1A7-101A-4263-9ECB-079EDD87EF79",
+        "text": "23時までバイトなのでちょっと遅れるかもです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717824429.072279",
+        "parent_user_id": "U06LCE9HTP0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5VqlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "23時までバイトなのでちょっと遅れるかもです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

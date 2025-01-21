@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1712808715.005169",
+        "client_msg_id": "65A9B11A-016A-4923-B23D-BF5A45E3E9E0",
+        "text": "【4月期総会出欠フォームリマインド】\n<!channel> \nお疲れ様です。\n副委員長の橋本です。\n総会の出欠フォームは全員回答必須となっております。\nあと100名ぐらいの未回答の方、座席表作成のために回答をお願いします:bow:\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe0XDNHetLypi1FXF4FSVZkc2AJ-zHwV45Q5vLrcl-itNcc4Q\/viewform|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe0XDNHetLypi1FXF4FSVZkc2AJ-zHwV45Q5vLrcl-itNcc4Q\/viewform>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qvf41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【4月期総会出欠フォームリマインド】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n副委員長の橋本です。\n総会の出欠フォームは全員回答必須となっております。\nあと100名ぐらいの未回答の方、座席表作成のために回答をお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe0XDNHetLypi1FXF4FSVZkc2AJ-zHwV45Q5vLrcl-itNcc4Q\/viewform",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe0XDNHetLypi1FXF4FSVZkc2AJ-zHwV45Q5vLrcl-itNcc4Q\/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

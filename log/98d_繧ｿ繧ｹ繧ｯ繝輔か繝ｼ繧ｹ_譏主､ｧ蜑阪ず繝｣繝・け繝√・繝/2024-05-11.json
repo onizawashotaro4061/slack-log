@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1715413941.378059",
+        "edited": {
+            "user": "U06M7SU83G8",
+            "ts": "1715414083.000000"
+        },
+        "client_msg_id": "3152E523-4700-43B8-8ED5-648411D5A479",
+        "text": "<@U06LCECJD8W> \n細かい修正は後でいいから、ここに今日中に議事録出してほしい！\nパソコンなかったらバイト終わってからでいいよー\n<@U06LK0E89MH>はチェックよろしくねー\n\n<@U06LK5HCSE6> <@U06L4GLRAK1> \n依頼書の作成期限とか色々決めたから、議事録見て始動しましょう。\n2人ともちゃんと見るんやで:bangbang:\n（追記：みんなこれからSlack見たらリアクションよろ）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cldvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n細かい修正は後でいいから、ここに今日中に議事録出してほしい！\nパソコンなかったらバイト終わってからでいいよー\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0E89MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はチェックよろしくねー\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK5HCSE6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GLRAK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n依頼書の作成期限とか色々決めたから、議事録見て始動しましょう。\n2人ともちゃんと見るんやで"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n（追記：みんなこれからSlack見たらリアクションよろ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L4GLRAK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

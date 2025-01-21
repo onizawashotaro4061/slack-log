@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1714143616.458389",
+        "client_msg_id": "f1771626-99b7-4b3f-9e90-6b4ad1ba2f30",
+        "text": "<!channel>\nお疲れ様です！会議連絡です。\n0427_第4回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室3\n【時間】10：00〜12：00（最大）\n【議題】\n1.諸連絡（意思共有）\n2.連携部署を知ろう（意思共有）\n3.企画考案について（意見交換）\n4.今後の動きについて（意思共有）\n※議題変わる可能性あり。\n連絡遅くなってごめんなさい:bow:\nとうとう新規が入ってきますね〜会議終わったら昼ごはんでも食べに行きましょう！\n↓出席・欠席のスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1A0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！会議連絡です。\n0427_第4回タスクフォース京王電鉄チーム会議\n【場所】グループ閲覧室3\n【時間】10：00〜12：00（最大）\n【議題】\n1.諸連絡（意思共有）\n2.連携部署を知ろう（意思共有）\n3.企画考案について（意見交換）\n4.今後の動きについて（意思共有）\n※議題変わる可能性あり。\n連絡遅くなってごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとうとう新規が入ってきますね〜会議終わったら昼ごはんでも食べに行きましょう！\n↓出席・欠席のスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W",
+                    "U06L4J69HV5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LXNZDHFT",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

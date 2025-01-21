@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1716427927.224229",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1716447753.000000"
+        },
+        "client_msg_id": "774A0FCF-D321-46A1-A923-C1DF35FED0B8",
+        "text": "<!channel>\n会議連絡だよ\n\n【時間】5\/23 (木) 部門合同会議後\n【場所】LS305\n【議題】(予定)\n1. 各種報告（意思共有）\n2. 新規合流後の渉内活動について（意思共有）\n\nほかあれば追記する〜\n\n合同会議前に、それぞれでパンフデザインどうしたいとかは考えておいて欲しい！\n\nED、対決は必要があれば企画書敲くよー！\n\nみんな本当に頑張ってる、私も頑張ります\n\nスタンプ押してね\n欠席、遅刻、早退はスレッドへ :megamo:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716427927.224229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716458038.689459",
+        "reply_users": [
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1716458038.689459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dknwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよ\n\n【時間】5\/23 (木) 部門合同会議後\n【場所】LS305\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規合流後の渉内活動について（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nほかあれば追記する〜\n\n合同会議前に、それぞれでパンフデザインどうしたいとかは考えておいて欲しい！\n\nED、対決は必要があれば企画書敲くよー！\n\nみんな本当に頑張ってる、私も頑張ります\n\nスタンプ押してね\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "megamo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LK0G74NP",
+                    "U06L4GM9N5V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP",
+                    "U06L4GM9N5V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ナマケロ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

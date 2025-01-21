@@ -1,0 +1,59 @@
+[
+    {
+        "text": "<@U06L97X3V6J> <@U06LE9EH9QV>\nお疲れ様です。本日の14時から明大中野に訪問する際に先方にお渡しする付属校広報の企画書になります。\nギリギリとなってしまい申し訳ありません。\nご確認のほどよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F07BXV9D7KJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LH0yC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。本日の14時から明大中野に訪問する際に先方にお渡しする付属校広報の企画書になります。\nギリギリとなってしまい申し訳ありません。\nご確認のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720226615.073039",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1720226683.000000"
+        },
+        "client_msg_id": "637d5e51-c835-417a-a411-d083f8c0de9c",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

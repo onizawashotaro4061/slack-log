@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1715248531.391009",
+        "client_msg_id": "d6e27d1b-8e54-4f22-b200-db0c149b049d",
+        "text": "*<!channel>*\n0510_運営局役職会議議事録\n【時間】\n21：00〜23：00（予定）\n【場所】\nZoom\n【議題】\n1. 部門報告（意見交換）\n2. 設置物連携報告（意見交換）\n3. 諸連絡（意思共有）\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n今日の局会議頑張りましょう〜〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1jy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0510_運営局役職会議議事録\n【時間】\n21：00〜23：00（予定）\n【場所】\nZoom\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "設置物連携報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n今日の局会議頑張りましょう〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GHLP2B",
+                    "U06LG62V1FX",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_なおきくんさぁ",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

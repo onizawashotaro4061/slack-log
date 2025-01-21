@@ -1,0 +1,126 @@
+[
+    {
+        "text": "<!channel> 立て続けにごめんね、明日からの前期ぼ番です\nこのシフトで夏のテスト期間前までやってもらいます！\n\n過剰人員になってるとこは二人にしたので、人によって週１だったりします。\n人数が一人になっちゃったとこが何個かあるので、暇な子は遊びに行ってあげてください。\n名前一個もなかったり多かったり、これ以降の変更はまた僕に連絡してくださいね\n\n前期はこれでよろしくお願いしまーーす",
+        "files": [
+            {
+                "id": "F06TJ9R5BD0",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F06T3NNGAKH",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5kyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 立て続けにごめんね、明日からの前期ぼ番です\nこのシフトで夏のテスト期間前までやってもらいます！\n\n過剰人員になってるとこは二人にしたので、人によって週１だったりします。\n人数が一人になっちゃったとこが何個かあるので、暇な子は遊びに行ってあげてください。\n名前一個もなかったり多かったり、これ以降の変更はまた僕に連絡してくださいね\n\n前期はこれでよろしくお願いしまーーす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712687503.295279",
+        "client_msg_id": "1ea3bb7f-0b28-410a-9596-b13d4b45bb30",
+        "thread_ts": "1712687503.295279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712688531.078499",
+        "reply_users": [
+            "U06LE9EH9QV"
+        ],
+        "replies": [
+            {
+                "user": "U06LE9EH9QV",
+                "ts": "1712688531.078499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06M7SPUVEC",
+                    "U06LXNYCLJV",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LXNY0MHP",
+                    "U06LY5XNLBT",
+                    "U06L4GH4ETH",
+                    "U06LJ0SKMEZ",
+                    "U06LXNZDHFT",
+                    "U06LK3ZBCN6",
+                    "U06LK0F2RC3"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GH4ETH",
+                    "U06L4GM5C87",
+                    "U06LXNYCLJV",
+                    "U06LXNZDHFT",
+                    "U06LK0F2RC3"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "text": "早速すぎる訂正版",
+        "files": [
+            {
+                "id": "F06U7765716",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/5cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "早速すぎる訂正版"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712688531.078499",
+        "edited": {
+            "user": "U06LE9EH9QV",
+            "ts": "1712688561.000000"
+        },
+        "client_msg_id": "75eda5f2-938a-4e68-b62b-a98bb4b54a0b",
+        "thread_ts": "1712687503.295279",
+        "parent_user_id": "U06LE9EH9QV"
+    }
+]

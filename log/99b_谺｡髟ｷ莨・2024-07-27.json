@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1722075908.218099",
+        "client_msg_id": "8181AEA6-4D5A-4124-B110-CA9D9B609B9B",
+        "text": "<!channel> \n次長のみんなお疲れ様ー\nこの活動自粛機関での、夏休みのじつぼに関して何だけど、*予定通りじつぼにシフト制で入ってもらいます。*\nこの期間でも明大祭実行委員会宛てにじつぼに電話がかかってくるので、その電話に対して現状明大祭実行委員会が対応できない旨を返答してもらうために、大学から必要最低限の人数でのじつぼ常駐を認められてます。\nので、予定通りボ番シフトはあることを把握しておいてくださーい。\n後ほど気持ち程度の電話対応用の文章テンプレかなんか送るね\n\n大変な時期だけどごめんよご協力おねがいしますーみんなで頑張ってひとまず乗り切りましょう:muscle:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDlRf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n次長のみんなお疲れ様ー\nこの活動自粛機関での、夏休みのじつぼに関して何だけど、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "予定通りじつぼにシフト制で入ってもらいます。\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "この期間でも明大祭実行委員会宛てにじつぼに電話がかかってくるので、その電話に対して現状明大祭実行委員会が対応できない旨を返答してもらうために、大学から必要最低限の人数でのじつぼ常駐を認められてます。\nので、予定通りボ番シフトはあることを把握しておいてくださーい。\n後ほど気持ち程度の電話対応用の文章テンプレかなんか送るね\n\n大変な時期だけどごめんよご協力おねがいしますーみんなで頑張ってひとまず乗り切りましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LXNY0MHP",
+                    "U06LCE69DRU",
+                    "U06L4GM5C87",
+                    "U06LK0F2RC3",
+                    "U06LK0FUAHZ",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV",
+                    "U06LK3MF9FC",
+                    "U06LXNXNWGH",
+                    "U06LXNYUX7T"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LXNY0MHP",
+                    "U06LCE69DRU",
+                    "U06LK0FUAHZ",
+                    "U06L4GKC9N3",
+                    "U06LXNYCLJV",
+                    "U06LK3MF9FC",
+                    "U06LXNYUX7T"
+                ],
+                "count": 8
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "聖母-みちるさん",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

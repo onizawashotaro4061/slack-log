@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1712900294.837049",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1712900306.000000"
+        },
+        "client_msg_id": "28226F15-AAE0-466E-B144-F6F379B03E3E",
+        "text": "第2回タスクフォース会議\n<!channel>\n時間　10:00-12:00\n場所　ラーニングスクエアLS406教室\n議題　・現状共有\n　　　・各チームとの打ち合わせ\n\nSlackチームの参加は任意とする！\nということで明日お願いいたします！！\n企画書仕上げに行きましょう。\nビジョンのやつはちょっと待ってね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agdSH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "第2回タスクフォース会議\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n時間　10:00-12:00\n場所　ラーニングスクエアLS406教室\n議題　・現状共有\n　　　・各チームとの打ち合わせ\n\nSlackチームの参加は任意とする！\nということで明日お願いいたします！！\n企画書仕上げに行きましょう。\nビジョンのやつはちょっと待ってね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LK0BP1TM",
+                    "U06L4GLRAK1",
+                    "U06LJ4HJLMS",
+                    "U06LK5HCSE6",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06M7SETDKJ",
+                    "U06LCE9JG3G",
+                    "U06LK0E89MH",
+                    "U06LK0BP1TM",
+                    "U06L4GLRAK1",
+                    "U06LJ4HJLMS",
+                    "U06LK5HCSE6",
+                    "U06LCECJD8W"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6DR26R",
+                    "U06LK0DN10T",
+                    "U06LCE9HTP0",
+                    "U06LK0DK7R9",
+                    "U06L97X3V6J",
+                    "U06L4GH3T7H",
+                    "U06LCE9JG3G",
+                    "U06LXP1JG0Z",
+                    "U06LK0BP1TM",
+                    "U06L4GLRAK1",
+                    "U06LJ4HJLMS",
+                    "U06LK5HCSE6",
+                    "U06LH4PDAQ3",
+                    "U06LMH412CU",
+                    "U06LG5XQGS1",
+                    "U06LK3K88SW",
+                    "U06LK0G7VCK"
+                ],
+                "count": 18
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LJBVA2DS",
+                    "U06LK3Q6Y2W",
+                    "U06L4GLRAK1",
+                    "U06LG62UXPX",
+                    "U06LK3M7VGA",
+                    "U06LCE8L8LW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06L9S67MEJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

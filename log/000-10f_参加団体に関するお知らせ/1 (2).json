@@ -1,0 +1,726 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1730502419.816209",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1730509691.000000"
+        },
+        "client_msg_id": "2a7c5994-b155-4868-90a2-d7103ea0ddc5",
+        "text": "<!channel>\nおはようございます！\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\nチケット状況は以下のとおりです。\n\n• 参加団体名\n企画実施日時\n企画実施教室\nチケット状況\n\n\n• アニメ・声優研究会（女性）\n企画実施日時：12：00～13：20\n企画実施教室：第一校舎211教室\nチケット状況：残数30枚（11：30まで販売予定）\n\n• アニメ・声優研究会（男性）\n企画実施日時：15：00～16：20\n企画実施教室：第一校舎211教室\nチケット状況：残数100枚（14：30まで販売予定）\n\n• 駿台企画研究会　女優企画\n企画実施日時：16：00～17：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：残数330枚（販売時間：14：30～16：00）\n\n• 駿台企画研究会　声優企画\n企画実施日時：13：00～14：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：*完売*\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18Wjl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようございます！\n本日企画実施する教室枠ゲスト企画のチケットのお知らせです。\nチケット状況は以下のとおりです。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "参加団体名"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時\n企画実施教室\nチケット状況\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アニメ・声優研究会（女性）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：12：00～13：20\n企画実施教室：第一校舎211教室\nチケット状況：残数30枚（11：30まで販売予定）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アニメ・声優研究会（男性）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：15：00～16：20\n企画実施教室：第一校舎211教室\nチケット状況：残数100枚（14：30まで販売予定）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "駿台企画研究会　女優企画"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：16：00～17：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況：残数330枚（販売時間：14：30～16：00）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "駿台企画研究会　声優企画"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画実施日時：13：00～14：00\n企画実施教室：和泉ラーニングスクエアLS101教室\nチケット状況："
+                            },
+                            {
+                                "type": "text",
+                                "text": "完売",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n販売状況は変更になる可能性がございます。\nこれ以外の情報は参加団体に直接お問い合わせするようお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070VFTRR61",
+                    "U06LJRSQDC3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1730509738.437699",
+        "client_msg_id": "55d9a490-7856-483e-ac95-0cb5646363eb",
+        "text": "ごめんなさい、情報の誤りがあったので訂正してます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zbi+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい、情報の誤りがあったので訂正してます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L64D8E0P",
+        "type": "message",
+        "ts": "1730517050.690169",
+        "client_msg_id": "29593d68-db11-4ca4-b604-f36146ad3720",
+        "text": "<!channel>\n教室企画に関するお知らせです。\n以下の団体はパンフレットに記載がありますが*企画を実施いたしません*ので、来場者の方に聞かれた際はその旨をお伝えください。\n\n企画名：自主製作映画上映\n団体名：駿台映画製作研究部\n日時：本日11月2日(土)のみ企画実施\n場所：第一校舎402教室\n\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "68c79b720b6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721934118535_68c79b720b6bc4c69a73_72.png",
+            "first_name": "渋谷花音",
+            "real_name": "渋谷花音",
+            "display_name": "Shibuya.Kanon",
+            "team": "T06L90YHJF8",
+            "name": "shibukano51",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69TuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n教室企画に関するお知らせです。\n以下の団体はパンフレットに記載がありますが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画を実施いたしません",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ので、来場者の方に聞かれた際はその旨をお伝えください。\n\n企画名：自主製作映画上映\n団体名：駿台映画製作研究部\n日時：本日11月2日(土)のみ企画実施\n場所：第一校舎402教室\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7TE180Y",
+                    "U0710T3MCUC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730517400.929709",
+        "client_msg_id": "F06962DE-4AA7-4373-AFEA-77487C21F295",
+        "text": "<!channel> \n屋外ステージ企画に関するお知らせです。\n12:30〜12:50のメインステージ企画のAllround Piano Societyは雨天のため【*企画中止*】となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQecw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n屋外ステージ企画に関するお知らせです。\n12:30〜12:50のメインステージ企画のAllround Piano Societyは雨天のため【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画中止",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "】となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730517591.518059",
+        "client_msg_id": "39ba55f7-ac5b-42f7-9fba-c2a9e706ea07",
+        "text": "*<!channel>*\n屋外ステージ企画に関するお知らせです。\n12:00〜12:50のエントランスエリア企画のギターサークルストリー「street」]は雨天のため*12：30までの企画実施*となりました。\n短縮での実施となりますのでよろしくお願いいたします。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9RPm5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n屋外ステージ企画に関するお知らせです。\n12:00〜12:50のエントランスエリア企画のギターサークルストリー「street」]は雨天のため"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12：30までの企画実施",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。\n短縮での実施となりますのでよろしくお願いいたします。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730518326.591249",
+        "client_msg_id": "23eb9eb3-7f6c-4901-8e3f-caa161c56599",
+        "text": "*<!channel>*\n屋外ステージ企画に関するお知らせです。\n13:20〜13:40のパフォーマンスエリア企画の三曲研究部は雨天のため【*企画中止】*となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XPLq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n屋外ステージ企画に関するお知らせです。\n13:20〜13:40のパフォーマンスエリア企画の三曲研究部は雨天のため【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730522535.610559",
+        "client_msg_id": "c0c3e43d-b7e5-405f-9f87-1a0d1222694b",
+        "text": "<!channel>\n屋外ステージ企画に関するお知らせです。\n\n今後の屋外ステージ企画についてです。\n13:55〜14:15のメインステージ企画のビートルズ探偵団ストロベリーフィールズは雨天のため【*企画中止】*となりました。\n\n同じく、14：10～14：40のパフォーマンスエリア企画のギターサークルストリート「street」も雨天のため*【企画中止】*となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzGGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n屋外ステージ企画に関するお知らせです。\n\n今後の屋外ステージ企画についてです。\n13:55〜14:15のメインステージ企画のビートルズ探偵団ストロベリーフィールズは雨天のため【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。\n\n同じく、14：10～14：40のパフォーマンスエリア企画のギターサークルストリート「street」も雨天のため"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。\n\n他の参加団体企画についても決まり次第再度ご連絡いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730525744.661559",
+        "client_msg_id": "865894b1-7ead-40b0-8c3f-29efb6ca0c6b",
+        "text": "<!channel>\n14:10〜15：10のエントランスエリア企画のビ中野ダンスサークルSIGNは天候による業者判断のため、*14：40～15：00に短縮して企画実施*いたします。\n\n同じく、14：35～15：00のメインステージ企画のミュージカル研究会も業者判断のため、*14：40～15：00に短縮して企画実施*いたします。\n\nなお、15：00～15：30のパフォーマンスエリア企画のAllround Piano Societyは業者判断のため*【企画中止】*となりました。\n\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9W7Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n14:10〜15：10のエントランスエリア企画のビ中野ダンスサークルSIGNは天候による業者判断のため、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14：40～15：00に短縮して企画実施",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたします。\n\n同じく、14：35～15：00のメインステージ企画のミュージカル研究会も業者判断のため、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14：40～15：00に短縮して企画実施",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたします。\n\nなお、15：00～15：30のパフォーマンスエリア企画のAllround Piano Societyは業者判断のため"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となりました。\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730529060.122509",
+        "client_msg_id": "83fdee01-2ddb-4993-b8d4-402b010bedb3",
+        "text": "*<!channel>*\nたびたび失礼いたします！直前の連絡で申し訳ございません。\n15:20〜15：45のメインステージ企画のBEAT‐CLUBは天候による業者判断のため、パフォーマンスができない状況となりました。*15：30～15：35にマイクのみを使って簡単なパフォーマンスを実施いたします。*",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1u30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nたびたび失礼いたします！直前の連絡で申し訳ございません。\n15:20〜15：45のメインステージ企画のBEAT‐CLUBは天候による業者判断のため、パフォーマンスができない状況となりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15：30～15：35にマイクのみを使って簡単なパフォーマンスを実施いたします。",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LY8E3XA5",
+        "type": "message",
+        "ts": "1730529573.975209",
+        "client_msg_id": "ace1506c-c3ca-40e1-99ab-4d8137fa3929",
+        "text": "*<!channel>*\n16:10〜16:30\nメインステージ企画：フォークソング同好会\n→機材トラブルのため*【企画中止】*\n\n16：40～17：00\nエントランスエリア企画：フラサークルKa Nani Hoku\n→雨天予想のため*【企画中止】*\n\n※15：30～16：20\nエントランスエリア企画：アカペラサークルSound Arts\n現状企画実施中です！\n（機材トラブルで開始遅れましたが現在始まっております。）\n\n※16：10～16：30\nパフォーマンスエリア企画：中野ダンスサークルSIGN\n業者に40分に判断していただくので決まり次第ご連絡いたします。\n\n引き続きよろしくお願いいたします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8275497031d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8130411393733_8275497031d8f792fd79_72.png",
+            "first_name": "小嶋彩名",
+            "real_name": "小嶋彩名",
+            "display_name": "Kojima.Ayana",
+            "team": "T06L90YHJF8",
+            "name": "kojimaayana7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1aqN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n16:10〜16:30\nメインステージ企画：フォークソング同好会\n→機材トラブルのため"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n16：40～17：00\nエントランスエリア企画：フラサークルKa Nani Hoku\n→雨天予想のため"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【企画中止】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n※15：30～16：20\nエントランスエリア企画：アカペラサークルSound Arts\n現状企画実施中です！\n（機材トラブルで開始遅れましたが現在始まっております。）\n\n※16：10～16：30\nパフォーマンスエリア企画：中野ダンスサークルSIGN\n業者に40分に判断していただくので決まり次第ご連絡いたします。\n\n引き続きよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

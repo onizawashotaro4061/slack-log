@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1710343074.827929",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1710374612.000000"
+        },
+        "client_msg_id": "9271312e-0d24-4b76-a067-db7008331d3f",
+        "text": "<!channel>\n*【0314_第6回渉外局会議】*\n【時間】10:00～17:00\n【場所】LS506教室\n【議題】\n・パンフレット広告協賛ページサイズ・価格決め（意見交換・決定）\n\n事前準備提出期限：局長結城の140渉外局のSlackのDMに3月14日(木)の朝8:00まで\nドドンパ終了しちゃうみたいですね。ビビビックリ。かと言って乗りに行こうとはオオオモイマセン。\n遅くなってごめんね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "skKxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0314_第6回渉外局会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】10:00～17:00\n【場所】LS506教室\n【議題】\n・パンフレット広告協賛ページサイズ・価格決め（意見交換・決定）\n\n事前準備提出期限：局長結城の140渉外局のSlackのDMに3月14日(木)の朝8:00まで\nドドンパ終了しちゃうみたいですね。ビビビックリ。かと言って乗りに行こうとはオオオモイマセン。\n遅くなってごめんね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamoji",
+                "users": [
+                    "U06LG5XQGS1",
+                    "U06L4GLRAK1",
+                    "U06LG610ADB",
+                    "U06M7SETDKJ",
+                    "U06L4GH4ETH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LK3L6B4J",
+                    "U06L4GH4ETH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "都立町田",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U06M7ST2WTA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LJRSQDC3",
+        "type": "message",
+        "ts": "1710375467.239579",
+        "client_msg_id": "91623F90-3F75-4CA9-8F95-3A128B5BB765",
+        "text": "<!channel> \nLS506だよー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ca52e9b93da5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6803186965556_ca52e9b93da5e5540ec3_72.png",
+            "first_name": "川本巴菜",
+            "real_name": "川本巴菜",
+            "display_name": "Kawamoto.Hana",
+            "team": "T06L90YHJF8",
+            "name": "jonaha828",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+e2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLS506だよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

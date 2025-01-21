@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1721207450.221209",
+        "edited": {
+            "user": "U06LG5XQGS1",
+            "ts": "1721207468.000000"
+        },
+        "client_msg_id": "a678ec04-b649-4786-bd61-6afe87a8d00c",
+        "text": "<!channel>\nお疲れ様です\n昨日明大サポートの人と会議して色々状況が変化したので,\n急ぎで連絡しないといけない事項が多々あるので個別で連絡します！\n\n全体でも一度zoomで全部共有したいのですが,テスト期間になるので\n7月30日のどこかでzoomを行おうと思います\nつきましては7月30日の空いている時間をDMかLINEで明日までに送ってください:pray:\n見たらスタンプお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQ9RB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です\n昨日明大サポートの人と会議して色々状況が変化したので,\n急ぎで連絡しないといけない事項が多々あるので個別で連絡します！\n\n全体でも一度zoomで全部共有したいのですが,テスト期間になるので\n7月30日のどこかでzoomを行おうと思います\nつきましては7月30日の空いている時間をDMかLINEで明日までに送ってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見たらスタンプお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LG62UXPX",
+                    "U070Y9VAKAP",
+                    "U070YD7LPR8",
+                    "U0714V5MYTW",
+                    "U06LK0G7VCK",
+                    "U06LG62T3MK",
+                    "U06LMHDAZKN",
+                    "U070Y9SLJJX",
+                    "U06L4GJ031V"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U070YDPESTC",
+        "type": "message",
+        "ts": "1733230531.738519",
+        "client_msg_id": "A97BFD1B-1F1C-4B92-B23F-D86126B8E30C",
+        "text": "ライブにいくため欠席します 、すみません :cry: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e065e6f99945",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-21\/7601743012870_e065e6f999459fe6e0a1_72.png",
+            "first_name": "橋本真希",
+            "real_name": "橋本真希",
+            "display_name": "Hashimoto.Maki",
+            "team": "T06L90YHJF8",
+            "name": "snoopymh1013",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733107635.896709",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N5NPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ライブにいくため欠席します 、すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "楽しんでこい",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cherry_blossom",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちゃんまき",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LMH4MXDJ",
+                    "U06LG61U9QD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "制作_まき",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LMH4MXDJ",
+                    "U06LG61U9QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "text": "<!channel> お疲れ様です！\n部門長面談の日程を作成したので新規のみんなは確認お願い:pray:\nもし都合つかないとかあればDMかLINEで教えてほしいです:bow:",
+        "files": [
+            {
+                "id": "F07HZ5UU2Q7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAJns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\n部門長面談の日程を作成したので新規のみんなは確認お願い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもし都合つかないとかあればDMかLINEで教えてほしいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724566246.626149",
+        "client_msg_id": "82682fa7-f25b-4beb-8a7d-41952c5b0c23",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070HS2FRT9",
+                    "U070VFY94H3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

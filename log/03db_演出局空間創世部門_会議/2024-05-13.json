@@ -1,0 +1,455 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1715599352.108039",
+        "client_msg_id": "28abf333-0d61-475e-9f5a-19955dc3198e",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/13(月)22:30～\n【場所】Zoom\n【議題】(予定)\n1.新規合流後の渉内活動について\n\n今日は議題が少ないってことと、少し遅らせた方が人集まるかなってことで、30分ほど遅らせます。\n23時には終わらす予定ー\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ゆりか、敲き→いたる、たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715599352.108039",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1715607069.401719",
+        "reply_users": [
+            "U06LCE9AKQW",
+            "U06LK3L32MQ",
+            "U06LG64U8DB"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1715599735.498409"
+            },
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1715600053.036659"
+            },
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1715607069.401719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWYoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/13(月)22:30～\n【場所】Zoom\n【議題】(予定)\n1.新規合流後の渉内活動について\n\n今日は議題が少ないってことと、少し遅らせた方が人集まるかなってことで、30分ほど遅らせます。\n23時には終わらす予定ー\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ゆりか、敲き→いたる、たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "信田浦ちがう",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9AKQW",
+        "type": "message",
+        "ts": "1715599735.498409",
+        "client_msg_id": "F5D724C6-7232-4161-8CF7-2BE00F4A9DBA",
+        "text": "体調悪いのでお休みします :sob: ごめんなさい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2472c8032b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-14\/7568192270150_2472c8032b52ec9d5a6d_72.png",
+            "first_name": "田島こむぎ",
+            "real_name": "田島こむぎ",
+            "display_name": "Tajima.Komugi",
+            "team": "T06L90YHJF8",
+            "name": "komugi.t0201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715599352.108039",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9\/9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調悪いのでお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ごめんなさい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMHDAZKN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1715600053.036659",
+        "client_msg_id": "5505f165-7bf5-47af-8501-8907d6c1c3f7",
+        "text": "初出勤のため欠席します。ごめんさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715599352.108039",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHew0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "初出勤のため欠席します。ごめんさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "かっこいい",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LMHDAZKN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG64U8DB",
+        "type": "message",
+        "ts": "1715607069.401719",
+        "client_msg_id": "9BCF8B8F-13E4-4E1B-9C2F-5CC48C928B81",
+        "text": "すいません5分遅れます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9e4ba1901d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6812397244962_9e4ba1901d3baf101920_72.png",
+            "first_name": "福田至",
+            "real_name": "福田至",
+            "display_name": "Fukuda.Itaru",
+            "team": "T06L90YHJF8",
+            "name": "itaru.fkd1117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715599352.108039",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOoD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません5分遅れます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1715653418.016129",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1715732457.000000"
+        },
+        "client_msg_id": "ee4a96a2-97a1-4914-96f4-236540a65af3",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/14(火) 局会議後～\n【場所】LS502かLS503\n【議題】(予定)\n1.チーム会議\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はチーム会議のみだったのでなしにする！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715653418.016129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715660795.369459",
+        "reply_users": [
+            "U06LCE9AKQW"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1715660795.369459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAm+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/14(火) 局会議後～\n【場所】LS502かLS503\n【議題】(予定)\n1.チーム会議\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はチーム会議のみだったのでなしにする！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LCE9AKQW",
+                    "U06LK3L32MQ",
+                    "U06LMHDAZKN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMHDAZKN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9AKQW",
+        "type": "message",
+        "ts": "1715660795.369459",
+        "client_msg_id": "DD4ECA34-E617-4990-9CD3-3C6423F72659",
+        "text": "体調不良のため欠席します :sob: :sob: 議事録の日なのにごめん！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2472c8032b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-14\/7568192270150_2472c8032b52ec9d5a6d_72.png",
+            "first_name": "田島こむぎ",
+            "real_name": "田島こむぎ",
+            "display_name": "Tajima.Komugi",
+            "team": "T06L90YHJF8",
+            "name": "komugi.t0201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715653418.016129",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LN3p9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 議事録の日なのにごめん！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

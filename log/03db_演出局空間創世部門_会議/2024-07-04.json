@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U070RQ0DUBG",
+        "type": "message",
+        "ts": "1720086127.256919",
+        "client_msg_id": "2C7BE007-1BCF-4D05-AB66-94A872A14143",
+        "text": "塾講バイトのため欠席します。中々参加できなくて申し訳ありません :woman-bowing: :sweat_drops: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "59ccd257a091",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7760887307424_59ccd257a091eb3d7d5b_72.png",
+            "first_name": "吉田瞬",
+            "real_name": "吉田瞬",
+            "display_name": "Yoshida.Shun",
+            "team": "T06L90YHJF8",
+            "name": "yoshidashun.aousagi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720067451.662319",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgReh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "塾講バイトのため欠席します。中々参加できなくて申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

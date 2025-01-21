@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1716256262.391189",
+        "client_msg_id": "97738FAB-F12A-4674-A3B2-79F45CD13988",
+        "text": "<!channel> お疲れ様です！\n明日の10:00〜12:00で明大サポートの人たちとZoomするんですけど、参加できる人いますか？いたら連絡ください！\n\nあと、昨日唯さんと学生部との会議に出てきました！収益に関して話したんですが、結果としては基本的に発生した収益に関しては全て好きなようにしていいそうです。\nただ、すべて収益化するよりも明治大学に寄付や社会貢献もできるといいよねみたいな雰囲気ではありました！\nまた今度の会議のときに詳しく話します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716256262.391189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716256537.160959",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1716256537.160959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGmDC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\n明日の10:00〜12:00で明大サポートの人たちとZoomするんですけど、参加できる人いますか？いたら連絡ください！\n\nあと、昨日唯さんと学生部との会議に出てきました！収益に関して話したんですが、結果としては基本的に発生した収益に関しては全て好きなようにしていいそうです。\nただ、すべて収益化するよりも明治大学に寄付や社会貢献もできるといいよねみたいな雰囲気ではありました！\nまた今度の会議のときに詳しく話します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06L4GJ031V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1716256537.160959",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1716256542.000000"
+        },
+        "client_msg_id": "798BE23E-904D-4E03-947D-EDAB4B0BBCA4",
+        "text": "これについては追って僕とも調整しよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716256262.391189",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjPeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これについては追って僕とも調整しよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

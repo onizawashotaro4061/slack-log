@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1718609850.397219",
+        "client_msg_id": "99A1B237-8C3E-487B-A496-6CDB10453251",
+        "text": "すみません体調崩してしまったのでお休みします :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718450906.776459",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45GdV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません体調崩してしまったのでお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LK0DK7R9",
+                    "U070Y9S80D9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DK7R9",
+        "type": "message",
+        "ts": "1718617459.656509",
+        "client_msg_id": "22AA160A-5606-4A60-9F0B-D4104BAA8BC0",
+        "text": "京王遅れてるのでたぶん遅刻です:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab581055a4dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8060428663063_ab581055a4dd6481617f_72.png",
+            "first_name": "白川泰晟",
+            "real_name": "白川泰晟",
+            "display_name": "Shirakawa.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "shirakappa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718450906.776459",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MH3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王遅れてるのでたぶん遅刻です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

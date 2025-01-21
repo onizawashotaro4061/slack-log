@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U070RQFLLR4",
+        "type": "message",
+        "ts": "1718272730.094009",
+        "client_msg_id": "4938E0B6-453D-4E2F-9188-7FF9C75615BD",
+        "text": "連絡が直前になりすみません。家族の急用のため本日欠席いたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be7f6635c21c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7739852466162_be7f6635c21c493f57ff_72.png",
+            "first_name": "松本若菜",
+            "real_name": "松本若菜",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "satsumaimo1129",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718200476.217879",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I8fdK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "連絡が直前になりすみません。家族の急用のため本日欠席いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U071B3DFWLR",
+        "type": "message",
+        "ts": "1718273538.538169",
+        "client_msg_id": "25B2ACD7-62A2-4B84-A989-4DC67ADD835C",
+        "text": "ビジネスコンテストの集まりがあるので欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "06ec8a94a9f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7032969160579_06ec8a94a9f72e2179f2_72.png",
+            "first_name": "西井緋那",
+            "real_name": "西井緋那",
+            "display_name": "Nishii.Hinata",
+            "team": "T06L90YHJF8",
+            "name": "nina212307",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718200476.217879",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XV84L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ビジネスコンテストの集まりがあるので欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,208 @@
+[
+    {
+        "user": "U06LK67B9PC",
+        "type": "message",
+        "ts": "1714400115.138339",
+        "client_msg_id": "34225652-E1E1-4028-B326-E08F4022C067",
+        "text": "欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae403707ab14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-06\/6756337185909_ae403707ab14729d9211_72.png",
+            "first_name": "向田直照",
+            "real_name": "向田直照",
+            "display_name": "Mukoda.Naoteru",
+            "team": "T06L90YHJF8",
+            "name": "xiangtianzhizhao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714356097.493989",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kS699",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1714438801.413149",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1715222385.000000"
+        },
+        "client_msg_id": "bbffab3f-0b88-45d8-b346-9dc3e34b0e61",
+        "text": "<!channel>\n会議連絡！！\n\n【時間】4\/30 (火) 局会議後\n【場所】LS601\n【議題】(予定)\n1. 各種共有（意思共有）\n2. 新規合流後について （意見交換）\n終わったらチーム会議 〜\n新規かわいいしまぶしすぎるね、わたしもきらきらするためにイメチェンしようかな\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ :猫ミーム-ぱくぱく:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714438801.413149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1714471662.000919",
+        "reply_users": [
+            "U06LCECJD8W",
+            "U06LK67B9PC"
+        ],
+        "replies": [
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1714469774.694749"
+            },
+            {
+                "user": "U06LK67B9PC",
+                "ts": "1714471662.000919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OP9Vv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！！\n\n【時間】4\/30 (火) 局会議後\n【場所】LS601\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規合流後について （意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n終わったらチーム会議 〜\n新規かわいいしまぶしすぎるね、わたしもきらきらするためにイメチェンしようかな\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "猫ミーム-ぱくぱく"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "b部門はbぇすとな部門",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LXP2EGKT",
+                    "U06LK0G74NP",
+                    "U06LMH4T528",
+                    "U06LK3MF9FC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LXP2EGKT",
+                    "U06LG63FM1B",
+                    "U06LK0G74NP",
+                    "U06LMH4T528"
+                ],
+                "count": 5
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LXP2EGKT",
+                    "U06LK0G74NP",
+                    "U06LMH4T528",
+                    "U06L4GSPRHV"
+                ],
+                "count": 5
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06LK0G74NP",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

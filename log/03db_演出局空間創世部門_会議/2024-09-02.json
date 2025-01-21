@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U06LG6EJPE1",
+        "type": "message",
+        "ts": "1725267850.377169",
+        "client_msg_id": "172A0D54-2E8A-4B9C-A21A-D64A0A56CE85",
+        "text": "コロナってるのでお休みします :sneezing_face: みんなも気をつけてね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "97632c70aa39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-09\/7708266742385_97632c70aa39d3318ddb_72.png",
+            "first_name": "信田悠里加",
+            "real_name": "信田悠里加",
+            "display_name": "Shida.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yuri.shida12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725258615.355899",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jX5D5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナってるのでお休みします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sneezing_face",
+                                "unicode": "1f927"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みんなも気をつけてね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070HS35ECX",
+        "type": "message",
+        "ts": "1725274519.197869",
+        "client_msg_id": "5FBE43CC-7436-4320-AFDE-D384AAB22BC0",
+        "text": "私用のため欠席させていただきます。\n申し訳ございません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c112bd2c1394",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-05\/7227986313972_c112bd2c1394e3174a63_72.png",
+            "first_name": "森下真帆",
+            "real_name": "森下真帆",
+            "display_name": "Morishita.Maho",
+            "team": "T06L90YHJF8",
+            "name": "maho200602",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725258615.355899",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KH6P9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席させていただきます。\n申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YE174KC",
+        "type": "message",
+        "ts": "1725336078.528979",
+        "client_msg_id": "9349f9f2-2c83-430c-810c-6f577d2cd956",
+        "text": "私用のため早退します\n申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5e4cad7e14c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-30\/7044316637411_5e4cad7e14c01b6209d7_72.jpg",
+            "first_name": "岡崎　哲汰",
+            "real_name": "岡崎　哲汰",
+            "display_name": "Okazaki.Tetsuta",
+            "team": "T06L90YHJF8",
+            "name": "11tetu25ta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725258615.355899",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C363g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため早退します\n申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

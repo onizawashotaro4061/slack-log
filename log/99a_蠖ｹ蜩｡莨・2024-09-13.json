@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1726216376.763179",
+        "client_msg_id": "15C0C20F-A002-4656-8C22-C97092663645",
+        "text": "食堂コラボレーション広報（当日）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725323021.786389",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REIIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "食堂コラボレーション広報（当日）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1726286061.445469",
+        "client_msg_id": "4CDE0CA2-BF71-4186-B161-8F6D3C1C8AAD",
+        "text": "<!channel>\n明日これでいこうと思いますー\n0915_第29回役員会\n【場所】和泉キャンパス食堂3階明大祭実行委員会室\n【議題】\n1．当日食堂コラボレーション広報\n▶︎13：30〜14：00\n2．レッドブル企画書\n▶︎14：00〜14：30\n3．商店街関連\n▶︎14：30〜15：30\n4．各局報告\n▶︎15：30〜16：00",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HatZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日これでいこうと思いますー\n0915_第29回役員会\n【場所】和泉キャンパス食堂3階明大祭実行委員会室\n【議題】\n1．当日食堂コラボレーション広報\n▶︎13：30〜14：00\n2．レッドブル企画書\n▶︎14：00〜14：30\n3．商店街関連\n▶︎14：30〜15：30\n4．各局報告\n▶︎15：30〜16：00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06L2DCDLF9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L2DCDLF9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

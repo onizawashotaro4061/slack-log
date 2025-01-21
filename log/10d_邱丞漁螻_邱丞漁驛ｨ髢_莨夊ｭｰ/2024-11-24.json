@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U070VFP05K7",
+        "type": "message",
+        "ts": "1732488972.341879",
+        "client_msg_id": "0D6BF5CE-F051-4F56-A479-C7930695F511",
+        "text": "体調不良のためお休みします。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab127476ea03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-21\/7602916701810_ab127476ea037f32bf9b_72.png",
+            "first_name": "谷内田茉里",
+            "real_name": "谷内田茉里",
+            "display_name": "Yachida. Mari",
+            "team": "T06L90YHJF8",
+            "name": "wanliguneitian605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732420714.137869",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKkEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のためお休みします。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U070HS28L15",
+                    "U070HS23XV5",
+                    "U06LCE9NLP8",
+                    "U070YD8BGRG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U070HS28L15"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710SZCKS8",
+        "type": "message",
+        "ts": "1732493352.363769",
+        "client_msg_id": "42299272-D0CA-4BB0-A8AC-984E445E2896",
+        "text": "体調不良のためお休みします。すみません :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3970eac8e58",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7189431781461_a3970eac8e58ea798da7_72.png",
+            "first_name": "福島優佳",
+            "real_name": "福島優佳",
+            "display_name": "Fukushima.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "fukuyuka0730",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732420714.137869",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAp0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のためお休みします。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U070HS28L15",
+                    "U070HS23XV5",
+                    "U06LCE9NLP8",
+                    "U070YD8BGRG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U070HS28L15"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

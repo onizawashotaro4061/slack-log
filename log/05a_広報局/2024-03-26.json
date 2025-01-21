@@ -1,0 +1,87 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06R87SQGFP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LVK2FU1X",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1711440585.821399",
+        "client_msg_id": "5FF6F111-573B-49AC-9ABF-F75418BA363D"
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711440608.809059",
+        "client_msg_id": "F61D34DF-4384-4B86-8B0E-3E968491DEE9",
+        "text": "説明会の教室です！\n投稿作成の際に確認お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9ZY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "説明会の教室です！\n投稿作成の際に確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J",
+                    "U06LXNY8KMF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

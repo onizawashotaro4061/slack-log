@@ -1,0 +1,559 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1728613697.302429",
+        "client_msg_id": "F5BCCADA-B1EF-49C5-BC8E-8D807DFB6EAB",
+        "text": "<!channel>\n【第20回界隈部門会議】\n【場所】LS403\n【時間】19:00-20:40\n【議題】\n　・進捗確認（意思共有)\n　・みんなで作業！！！\n欠席、遅刻、早退は理由と共にスレッドに！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728613697.302429",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1728640744.120439",
+        "reply_users": [
+            "U06L4GLJVKR",
+            "U0710T3MCUC"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1728613743.639499"
+            },
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1728613876.958599"
+            },
+            {
+                "user": "U06L4GLJVKR",
+                "ts": "1728614037.749999"
+            },
+            {
+                "user": "U0710T3MCUC",
+                "ts": "1728640744.120439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHGpA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【第20回界隈部門会議】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】LS403"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00-20:40"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・進捗確認（意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・みんなで作業！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻、早退は理由と共にスレッドに！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U0710T3MCUC",
+                    "U070Y9WCHH9",
+                    "U06LCED6ZK8",
+                    "U070RQ5918W",
+                    "U071M6YLJRE",
+                    "U071M740R32",
+                    "U06LGHETAFP"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U070RQ5918W",
+                    "U06LGHETAFP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ちっひー",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U0710T3MCUC",
+                    "U06LCED6ZK8",
+                    "U070RQ5918W",
+                    "U06LGHETAFP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U0710T3MCUC",
+                    "U070Y9WCHH9",
+                    "U06LCED6ZK8",
+                    "U070RQ5918W",
+                    "U06LGHETAFP",
+                    "U071M740R32"
+                ],
+                "count": 8
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ちひろ渉外",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "スぺ語",
+                "users": [
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "youtuber宇野",
+                "users": [
+                    "U070YD778SE",
+                    "U06LCED6ZK8",
+                    "U06LGHETAFP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "さすが部門長",
+                "users": [
+                    "U070YD778SE",
+                    "U06LGHETAFP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "部門長田島",
+                "users": [
+                    "U070YD778SE",
+                    "U0710T3MCUC",
+                    "U06LGHETAFP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てやん",
+                "users": [
+                    "U06M7SPUVEC",
+                    "U06LGHETAFP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちひろ沸騰",
+                "users": [
+                    "U06LGHETAFP",
+                    "U0710T3MCUC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちゃら留大騎",
+                "users": [
+                    "U06LGHETAFP",
+                    "U0710T3MCUC",
+                    "U070YD778SE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "プロキャンパー岡本",
+                "users": [
+                    "U071B3CNHQR",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "茹でだ小宮",
+                "users": [
+                    "U071B3CNHQR",
+                    "U0710T3MCUC",
+                    "U070YD778SE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "あきらりんきらきらりん",
+                "users": [
+                    "U071B3CNHQR",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megamoji-1ヒトカゲりゅうしん",
+                "users": [
+                    "U071B3CNHQR",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1728613743.639499",
+        "client_msg_id": "8B7ECC42-C567-464F-96CD-69966F4A50D4",
+        "text": "声が出ないので欠席しますごめんなさい :sob: 絶対明日までに治す :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728613697.302429",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L55cJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "声が出ないので欠席しますごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 絶対明日までに治す "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06M7SPUVEC",
+                    "U06LCED6ZK8",
+                    "U070RQ5918W",
+                    "U071M740R32",
+                    "U0710T3MCUC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U070RQ5918W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1728613876.958599",
+        "client_msg_id": "4DEC8481-F865-4C7B-87ED-AE4B77D2B7BD",
+        "text": "<@U071M740R32> \n任務与えます:dizzy:\n\n*・玉の数何時に何個入れるのかを決めて私に連絡*\n紙でもWordでもExcelでもやりやすいのでいいよ！今日中だととーってもうれしいです助かります\n数学苦手な私でもわかるように今度解説してくれるとうれしいです\n\n連絡はつくようにしとくからわかんなかったらすぐ連絡して！ :sob: :pray::skin-tone-2: \n\nごめんねお願いします :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728613697.302429",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPsv2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071M740R32"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n任務与えます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy",
+                                "unicode": "1f4ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・玉の数何時に何個入れるのかを決めて私に連絡",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n紙でもWordでもExcelでもやりやすいのでいいよ！今日中だととーってもうれしいです助かります\n数学苦手な私でもわかるように今度解説してくれるとうれしいです\n\n連絡はつくようにしとくからわかんなかったらすぐ連絡して！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nごめんねお願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071M740R32"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U071M740R32"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1728614037.749999",
+        "client_msg_id": "4CDA9818-B591-4A52-BBB1-65529DE3E986",
+        "text": "<@U06M7SPUVEC> \n抽選券配付のやり方部門共有に送った通りなので再度確認お願いします。\n切ってくれた子ありがとう、ゆうたろう仕分けもありがとう！！改めて伝えてください褒めてください :face_holding_back_tears: :sparkling_heart: \nあとNIKSENの参加申込書お願いします。先週ポスト入れてて、来週ならいつでもって言われてる。なんかあっち忘れてそうな気もするけど。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728613697.302429",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxxrz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SPUVEC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n抽選券配付のやり方部門共有に送った通りなので再度確認お願いします。\n切ってくれた子ありがとう、ゆうたろう仕分けもありがとう！！改めて伝えてください褒めてください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkling_heart",
+                                "unicode": "1f496"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nあとNIKSENの参加申込書お願いします。先週ポスト入れてて、来週ならいつでもって言われてる。なんかあっち忘れてそうな気もするけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

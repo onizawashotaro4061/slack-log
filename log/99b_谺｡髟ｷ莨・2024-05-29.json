@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1716969381.571609",
+        "client_msg_id": "1BF60E08-C2AF-4343-85AB-5DF6BF2CB9FD",
+        "text": "13:00〜だったので出席させていただきます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716955066.263699",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjYz2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13:00〜だったので出席させていただきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

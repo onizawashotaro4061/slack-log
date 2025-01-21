@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1733411237.515999",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1733412737.000000"
+        },
+        "client_msg_id": "1fef1363-c6d8-46e7-a3db-39cc223ab415",
+        "text": "<!channel>\n*【1206_第30回校友部門会議】*\n【時間】19:00〜20:40\n【場所】後ほど連絡します。\n【議題】\n• 新賛助紹介大会（意思共有）\n• 新賛助考案大会（意思共有）\nｵﾂｶﾚｵﾂｶﾚ！太田です。\nなんかここに書くのバイトの話ばかりで申し訳ないのですが、\n最近バイトで部署が変わりまして、\nオフィスカジュアルがマストになっていたのですが、加えて今日、黒髪指示が出てしまいました。\nどの道成人式は黒髪にしようと思っていたのですが、いざ染めようと思うとちょっと悲しいです…。\n再来週までには黒髪になる予定ですので、\n今後は黒髪の太田をよろしくお願いいたします。\n\n*欠席、遅刻の際は理由とともにスレッドに書いてください。*\n見たらスタンプ押してねー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/F\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【1206_第30回校友部門会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】後ほど連絡します。\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新賛助紹介大会（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新賛助考案大会（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nｵﾂｶﾚｵﾂｶﾚ！太田です。\nなんかここに書くのバイトの話ばかりで申し訳ないのですが、\n最近バイトで部署が変わりまして、\nオフィスカジュアルがマストになっていたのですが、加えて今日、黒髪指示が出てしまいました。\nどの道成人式は黒髪にしようと思っていたのですが、いざ染めようと思うとちょっと悲しいです…。\n再来週までには黒髪になる予定ですので、\n今後は黒髪の太田をよろしくお願いいたします。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻の際は理由とともにスレッドに書いてください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見たらスタンプ押してねー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "今日もいけてるね",
+                "users": [
+                    "U071B3Q87ED",
+                    "U06M7SUSYNL",
+                    "U06L4GLRAK1",
+                    "U070HS31CP9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U071B3BRGN5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06L4GLRAK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

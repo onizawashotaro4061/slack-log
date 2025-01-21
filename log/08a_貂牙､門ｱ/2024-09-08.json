@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U06LCED6ZK8",
+        "type": "message",
+        "ts": "1725786117.942389",
+        "edited": {
+            "user": "U06LCED6ZK8",
+            "ts": "1725786336.000000"
+        },
+        "client_msg_id": "A8023148-B94C-4677-BB81-A676AD552C31",
+        "text": "<!channel> お疲れ様です！\nLINEで流した通り局アパレルのサイズを知りたいので、見た人はリアクションください :pray:\nこれも10日の会議前までにお願いします:bangbang: \n(XLの人は#マーク押してください！)",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "05d926c2553f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-07\/7099148392352_05d926c2553f9d8d4e40_72.png",
+            "first_name": "武村悠由",
+            "real_name": "武村悠由",
+            "display_name": "Takemura.Yuyu",
+            "team": "T06L90YHJF8",
+            "name": "yuyu.takemura95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725786117.942389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1726540457.018899",
+        "reply_users": [
+            "U06LXNYUX7T"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNYUX7T",
+                "ts": "1726540457.018899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhdSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\nLINEで流した通り局アパレルのサイズを知りたいので、見た人はリアクションください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれも10日の会議前までにお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n(XLの人は#マーク押してください！)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alphabet-white-s",
+                "users": [
+                    "U06LCED6ZK8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alphabet-white-m",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U070YDYBFGA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alphabet-white-l",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U071B3CNHQR",
+                    "U070YD778SE",
+                    "U06LK3NPUQ2",
+                    "U070HS31CP9",
+                    "U070Y9UPJG3",
+                    "U071M6YLJRE",
+                    "U070RQ0VCP8",
+                    "U06LHACMG91",
+                    "U06LK0E89MH",
+                    "U070RQ5918W",
+                    "U06M7SU83G8",
+                    "U070RQ3ND38",
+                    "U06L4CMKY8P",
+                    "U070VFRN7PX",
+                    "U070YD7LVT4",
+                    "U06LXNL2ZS5",
+                    "U06LGHETAFP",
+                    "U071B3Q87ED",
+                    "U070HS5NT63",
+                    "U070VFRCQBF",
+                    "U071M6XCB5W",
+                    "U0710T4CBHS",
+                    "U0710T3MCUC",
+                    "U06LCDQ2W6A",
+                    "U06L4GH4ETH",
+                    "U06LK3K88SW",
+                    "U06LXNYUX7T",
+                    "U071B3ES5NV",
+                    "U06M7SETDKJ",
+                    "U06L4GLJVKR",
+                    "U070VFTLATX",
+                    "U06LJRSQDC3",
+                    "U06LK0RAA7M",
+                    "U06LK0HTVQT",
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1",
+                    "U070HS3ELF9",
+                    "U06LXNYUXS5",
+                    "U06M7SPUVEC",
+                    "U06LMGND6EQ",
+                    "U06M7SUSYNL"
+                ],
+                "count": 42
+            },
+            {
+                "name": "alphabet-white-hash",
+                "users": [
+                    "U06LCED6ZK8",
+                    "U06L9S67MEJ",
+                    "U070Y9WCHH9",
+                    "U06LXK3RF7B",
+                    "U06LG610ADB",
+                    "U071M740R32",
+                    "U06LG5XQGS1",
+                    "U070HS93JUX",
+                    "U070Y9SLJJX",
+                    "U071B3CV89X",
+                    "U070Y9UEAAF",
+                    "U06LCE9EA3G",
+                    "U06L4J69HV5",
+                    "U071B3BRGN5",
+                    "U06LG62T3MK"
+                ],
+                "count": 15
+            }
+        ]
+    }
+]

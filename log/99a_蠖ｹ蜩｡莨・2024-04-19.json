@@ -1,0 +1,335 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713531752.503959",
+        "client_msg_id": "02d9dccd-984e-45ee-a59c-7d7e0797f64e",
+        "text": "開発局A部門\n開発局B部門",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712889547.086039",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKzri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開発局A部門\n開発局B部門"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713534594.698179",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1713536193.000000"
+        },
+        "client_msg_id": "43a04e60-2565-4ec2-ad98-f41dfec764ee",
+        "text": "0421_第11回役員会議（確定版）\n <!channel>\n時間：10：00～（MAX１９時）\n場所：リバティータワー1064教室\n・明大祭グッズ一般企画書　10：00～10：30\n・京王電鉄一般企画書　10：30～11：00\n・学外広報部門活動企画書　11：00～11：30\n・備品管理部門活動企画書　11：30～12：00\n・インフラ整備部門活動企画書　12：00～12：30\n・屋外ステージ部門活動企画書　12：30～13：00\nお昼休憩\n・WEB部門活動企画書　14：00～14：30\n・動画部門活動企画書　14：30～15：00\n・局長報告\n・予算折衝",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZf\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0421_第11回役員会議（確定版）\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n時間：10：00～（MAX１９時）\n場所：リバティータワー1064教室\n・明大祭グッズ一般企画書　10：00～10：30\n・京王電鉄一般企画書　10：30～11：00\n・学外広報部門活動企画書　11：00～11：30\n・備品管理部門活動企画書　11：30～12：00\n・インフラ整備部門活動企画書　12：00～12：30\n・屋外ステージ部門活動企画書　12：30～13：00\nお昼休憩\n・WEB部門活動企画書　14：00～14：30\n・動画部門活動企画書　14：30～15：00\n・局長報告\n・予算折衝"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06L2CSPXV5",
+                    "U06LKEPTCA0",
+                    "U06LH4PDAQ3",
+                    "U06LVK2FU1X",
+                    "U06LHACMG91"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "役員会空気齋藤",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "橋本",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "そら天才",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "塚田は今日も遅刻",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713534740.321069",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1714228375.000000"
+        },
+        "client_msg_id": "3f957d4d-9bb0-4fd6-87eb-301ca3335403",
+        "text": "0428_第12回役員会議（確定版）\n時間：10：00～（ＭＡＸ19時）\n場所：リバティータワー1064教室\n・局長報告　10：00～10：30\n・夏休みの会議日程について10：30～11：00\n・松原小学校　11：00～11：30\n・神田すずらん　11：30～12：00\n・教室　12：00～12：30\n・総務　12：30～13：00\nお昼休憩\n・屋外ステージ　14：00～14：30\n・開発A部門　14：30～15：00\n・装飾部門　15：00〜15：30\n・開発B部門　15：30～16:00\n・GD部門　16：00〜16：30",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713534740.321069",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1714105772.583129",
+        "reply_users": [
+            "U06LHACMG91",
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1713869372.197649"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1713914622.392959"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1713914663.169769"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1713954005.035999"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1714105666.174179"
+            },
+            {
+                "user": "U06LHACMG91",
+                "ts": "1714105772.583129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2LelL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0428_第12回役員会議（確定版）\n時間：10：00～（ＭＡＸ19時）\n場所：リバティータワー1064教室\n・局長報告　10：00～10：30\n・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "夏休みの会議日程について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10：30～11：00\n・松原小学校　11：00～11：30\n・神田すずらん　11：30～12：00\n・教室　12：00～12：30\n・総務　12：30～13：00\nお昼休憩\n・屋外ステージ　14：00～14：30\n・開発A部門　14：30～15：00\n・装飾部門　15：00〜15：30\n・開発B部門　15：30～16:00\n・GD部門　16：00〜16：30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713534771.080059",
+        "client_msg_id": "c1cf5dc7-8e48-4399-9eea-2414c0979cf8",
+        "text": "この週もう無理かも",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712889547.086039",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lnHxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この週もう無理かも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1713535116.409209",
+        "client_msg_id": "eb9cabba-768b-4a8e-94f4-9ae770fbf368",
+        "text": "運営局",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712989606.629289",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/jGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "運営局"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

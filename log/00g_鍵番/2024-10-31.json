@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1730380056.499329",
+        "client_msg_id": "3A3DAFEB-9AA3-4A68-A546-112629C593C2",
+        "text": "しめかえし本当にお疲れさまでした",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnjDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし本当にお疲れさまでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06L4GKC9N3",
+                    "U06LK3MF9FC",
+                    "U06LXNY0MHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06LK3ZBCN6",
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06L4GH3T7H",
+                    "U06LK3MF9FC",
+                    "U06LXNY0MHP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "チーム_ノンゼミ",
+                "users": [
+                    "U06LKTXCZL4",
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1730412147.371909",
+        "client_msg_id": "F5046D52-DF64-407A-BA24-5BE99850177A",
+        "text": "かりあけ！\n気合い入れてこー！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjVtx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ！\n気合い入れてこー！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2DCDLF9",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6",
+                    "U06LXNY0MHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LXNY0MHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070Y9UEAAF",
+                    "U06LK3MF9FC",
+                    "U06LXNY0MHP"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

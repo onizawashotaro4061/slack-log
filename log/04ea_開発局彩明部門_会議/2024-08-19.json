@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1724058138.139889",
+        "client_msg_id": "B2B219F4-60CC-4511-9A52-4964EC1620A7",
+        "text": "予定のため欠席しました。連絡遅れてしまい申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723950671.491559",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQDk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定のため欠席しました。連絡遅れてしまい申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1724131133.619049",
+        "edited": {
+            "user": "U06LXNWG67K",
+            "ts": "1724131154.000000"
+        },
+        "client_msg_id": "9DE6B4FE-C84E-459C-83D7-8744BDD9DB6B",
+        "text": "<!channel>\n【0821開発局彩明部門チーム会議】について\nお疲れ様でっさ。\n対面解禁　対面解禁\n　\n【時間】\n13:30〜終わったとこから帰っていいす\n\n【場所】\nグループ閲覧室4(図書館)\n学生証ないと入れないから忘れないでね\n\n【持ち物】\nパソコン\n学生証\n\n【議題】\nチーム\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n見たらスタンプ！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724131133.619049",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1724214433.011959",
+        "reply_users": [
+            "U0710T04DU4",
+            "U0710SZT276",
+            "U06LCEJ5HHU",
+            "U070Y9U9QEP"
+        ],
+        "replies": [
+            {
+                "user": "U0710T04DU4",
+                "ts": "1724142731.628919"
+            },
+            {
+                "user": "U0710SZT276",
+                "ts": "1724157799.560229"
+            },
+            {
+                "user": "U06LCEJ5HHU",
+                "ts": "1724200158.583169"
+            },
+            {
+                "user": "U070Y9U9QEP",
+                "ts": "1724214433.011959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p29Xz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0821開発局彩明部門チーム会議】について\nお疲れ様でっさ。\n対面解禁　対面解禁\n　\n【時間】\n13:30〜終わったとこから帰っていいす\n\n【場所】\nグループ閲覧室4(図書館)\n学生証ないと入れないから忘れないでね\n\n【持ち物】\nパソコン\n学生証\n\n【議題】\nチーム\n\n遅刻・欠席・早退は早めに教えてくだされ\n\n見たらスタンプ！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U070RQ167FG",
+                    "U071B3GT7FT",
+                    "U06LK7K9ALA",
+                    "U070HS5043H",
+                    "U0710SZT276",
+                    "U06LCE8C51U",
+                    "U07194G87BL"
+                ],
+                "count": 7
+            },
+            {
+                "name": "運営_なつ_ナツ",
+                "users": [
+                    "U0710T04DU4",
+                    "U06LMH49UQL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿なつくんハイドロポンプ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

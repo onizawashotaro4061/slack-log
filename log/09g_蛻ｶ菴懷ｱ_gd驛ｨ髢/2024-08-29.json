@@ -1,0 +1,67 @@
+[
+    {
+        "text": "<!channel>\nおつかれさまーーー！！！！\n今日の部門会議で使ったパンフレット制作に関する資料です！\n\n休んだ人ちゃんと読んどいてね！！\n制作頑張ろうぅ:00-すき:",
+        "files": [
+            {
+                "id": "F07JYSH85JR",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07JYSJNNF7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSMsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまーーー！！！！\n今日の部門会議で使ったパンフレット制作に関する資料です！\n\n休んだ人ちゃんと読んどいてね！！\n制作頑張ろうぅ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "00-すき"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724919620.069619",
+        "client_msg_id": "b8d6585f-37da-4722-b966-7b3f2fc0f662",
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LXNZFWDP",
+                    "U070Y9S389Z",
+                    "U06LMH4MXDJ",
+                    "U071M6YAERE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070Y9S389Z",
+                    "U06M7SSDQQG",
+                    "U06LMH4MXDJ",
+                    "U071M6YAERE"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

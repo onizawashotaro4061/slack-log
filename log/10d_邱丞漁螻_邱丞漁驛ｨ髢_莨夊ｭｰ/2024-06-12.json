@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U070VFP05K7",
+        "type": "message",
+        "ts": "1718175898.912359",
+        "client_msg_id": "B713BA4D-5600-4577-A279-798C61C23704",
+        "text": "用事がありお休みします。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab127476ea03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-21\/7602916701810_ab127476ea037f32bf9b_72.png",
+            "first_name": "谷内田茉里",
+            "real_name": "谷内田茉里",
+            "display_name": "Yachida. Mari",
+            "team": "T06L90YHJF8",
+            "name": "wanliguneitian605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718170536.852839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIOey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事がありお休みします。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS28L15",
+        "type": "message",
+        "ts": "1718186765.521109",
+        "client_msg_id": "465076C0-E078-4A45-BDEE-094096D6FC7F",
+        "text": "用事があるので行けません。申し訳ありません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fd0f9d1c3de5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-07\/7100499114672_fd0f9d1c3de5d77e5020_72.png",
+            "first_name": "古川千花子",
+            "real_name": "古川千花子",
+            "display_name": "Furukawa.Chikako",
+            "team": "T06L90YHJF8",
+            "name": "f.chika123023",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718170536.852839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2IlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるので行けません。申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1718231943.610219",
+        "client_msg_id": "6c0a952a-ab80-45f4-bbce-44ec51b7425a",
+        "text": "バイトがあるため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718170536.852839",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gEz+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトがあるため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U071B38LED7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

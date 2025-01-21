@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1722084127.583419",
+        "client_msg_id": "2D74AC1D-0F69-4CCD-B9AD-8D7DDCDF9E3E",
+        "text": "<@U06L2DCDLF9> 企画名notionじゃなくていいの？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721558936.895709",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFJqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L2DCDLF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 企画名notionじゃなくていいの？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1722084403.329589",
+        "client_msg_id": "DC3CEF90-9478-46C6-919A-4670ACEDDC99",
+        "text": "<@U06LDT584J1> 前回みたいことあって直させるのかわいそうだから、企画名だけおっけーもらったらそれ企画書に反映させてそれぞれ見てもらうって形にしよう思ってる〜。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721558936.895709",
+        "parent_user_id": "U06LCUTBMU5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCmQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LDT584J1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 前回みたいことあって直させるのかわいそうだから、企画名だけおっけーもらったらそれ企画書に反映させてそれぞれ見てもらうって形にしよう思ってる〜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1722137626.967139",
+        "client_msg_id": "F6130033-DF96-46E7-A31F-537CF768D0A1",
+        "text": "0804_第25回役員会\n議題\n・演出局響創部門活動企画書\n・演出局空間創世部門活動企画書\n・総務局総務部門活動企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOcZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0804_第25回役員会\n議題\n・演出局響創部門活動企画書\n・演出局空間創世部門活動企画書\n・総務局総務部門活動企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

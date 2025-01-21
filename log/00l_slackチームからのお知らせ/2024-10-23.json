@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1729732253.091159",
+        "client_msg_id": "4AEA089F-4379-49C1-B449-EDE3A403FA8E",
+        "text": "<!channel>\nおつかれさまです！\n本祭用の各種チャンネルを作りました！\nみなさんを追加したんですけど、もしインフォ系統なのに運営系統のチャンネル入ってるとかあったら教えてください :pray::skin-tone-2:  \nご確認のほど、よろしくお願いいたします :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYN\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\n本祭用の各種チャンネルを作りました！\nみなさんを追加したんですけど、もしインフォ系統なのに運営系統のチャンネル入ってるとかあったら教えてください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \nご確認のほど、よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8",
+                    "U06LXNYCLJV",
+                    "U06LK0FPH2P",
+                    "U06L4GH4ETH",
+                    "U070Y9Q9151",
+                    "U070YD778SE",
+                    "U070VFTRR61",
+                    "U06LKTXCZL4",
+                    "U0710T3MCUC",
+                    "U06LXR4BPS5",
+                    "U070VFRCQBF",
+                    "U071B3AKPPT",
+                    "U06LMH5ACGL",
+                    "U071M6XCB5W",
+                    "U06LH4PDAQ3",
+                    "U071M6YLJRE",
+                    "U06LK0G74NP",
+                    "U06L4GLJVKR",
+                    "U071M740R32",
+                    "U070Y9UEAAF",
+                    "U06M7SUULGY",
+                    "U06L4GH3T7H",
+                    "U06LMH49MQU",
+                    "U06LCE8L8LW",
+                    "U06LM0QJV3L",
+                    "U070RQ001V4"
+                ],
+                "count": 26
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U06LXNYCLJV",
+                    "U06L4GH4ETH",
+                    "U070YD778SE",
+                    "U06LKTXCZL4",
+                    "U06LH4PDAQ3",
+                    "U06L4GLJVKR",
+                    "U06LK3HUVTL",
+                    "U06LMH49MQU"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06L4GH4ETH",
+                    "U070YD778SE",
+                    "U06LKTXCZL4",
+                    "U06L4GLJVKR",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U070YD778SE",
+                    "U06LKTXCZL4",
+                    "U06LH4PDAQ3",
+                    "U06LK3ZBCN6",
+                    "U06L4GLJVKR",
+                    "U070Y9UEAAF",
+                    "U06M7SUULGY",
+                    "U06LCUTBMU5",
+                    "U06LXK3RF7B"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GLJVKR",
+                    "U06L2DCDLF9"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

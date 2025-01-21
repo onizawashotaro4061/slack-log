@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1713253979.824889",
+        "client_msg_id": "FA3F3B5C-BC74-495A-A331-4720516AA419",
+        "text": "<!channel> 今日の教室M406教室です！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3Uil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の教室M406教室です！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LG63FJUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG63FJUD",
+        "type": "message",
+        "ts": "1713261759.312179",
+        "client_msg_id": "AA335702-C22C-4E9F-B643-7556852766D2",
+        "text": "授業が長引いたので少し遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "578ecb56d74c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-07\/6920848967893_578ecb56d74ca4bd1c84_72.png",
+            "first_name": "田中怜",
+            "real_name": "田中怜",
+            "display_name": "Tanaka.Rei",
+            "team": "T06L90YHJF8",
+            "name": "reiranpo124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713161347.810439",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXkpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業が長引いたので少し遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK7K9ALA",
+        "type": "message",
+        "ts": "1713262434.387439",
+        "client_msg_id": "98271BCF-A915-4C8F-980C-E037ACB083A0",
+        "text": "7時半ぐらいに到着します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f30f97123fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-29\/7173633678983_f30f97123fbe12c9a3e3_72.png",
+            "first_name": "岡村　匠真",
+            "real_name": "岡村　匠真",
+            "display_name": "Okamura.Takuma",
+            "team": "T06L90YHJF8",
+            "name": "takuma_okm2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713161347.810439",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1J1Xj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7時半ぐらいに到着します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

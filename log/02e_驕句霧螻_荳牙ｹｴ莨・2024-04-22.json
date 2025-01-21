@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1713839294.426899",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1713839307.000000"
+        },
+        "client_msg_id": "378ed6d3-4891-42df-b96c-e29c14cdfddb",
+        "text": "*<!channel>*\n0425_運営局三年会会議\n【時間】\n17：40〜18：50\n【場所】\n和泉図書館グループ閲覧室2\n【議題】\n1. キャンパス巡回について（意見交換・決定）\n2. 諸連絡（意思共有）\n【持ち物】\n当日マニュアル\n確認したら自分の作ってもらったスタンプでリアクションを！\n欠席・遅刻・早退はグループLINEにて連絡\n\n時間帯については参加者を見て判断します。\n4限空いてるかたは出席を空いてない方は欠席のところにスタンプを押して欲しいです。（あくまで調査です）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n4BEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0425_運営局三年会会議\n【時間】\n17：40〜18：50\n【場所】\n和泉図書館グループ閲覧室2\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "キャンパス巡回について（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【持ち物】\n当日マニュアル\n確認したら自分の作ってもらったスタンプでリアクションを！\n欠席・遅刻・早退はグループLINEにて連絡\n\n時間帯については参加者を見て判断します。\n4限空いてるかたは出席を空いてない方は欠席のところにスタンプを押して欲しいです。（あくまで調査です）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LKHN3RE0",
+                    "U06L4GHLP2B",
+                    "U06L4H8CGQP",
+                    "U06LK3LHG0J"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LKHN3RE0",
+                    "U06L4GHAANB",
+                    "U06L4GPFEQ7"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U070Y9REPD1",
+        "type": "message",
+        "ts": "1727166753.418859",
+        "client_msg_id": "675EC961-BC67-4489-962B-48710F46C802",
+        "text": "体調が優れないため欠席させて頂きます、すいません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "18d5b1202a5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7787555960625_18d5b1202a5b18180f98_72.png",
+            "first_name": "北條大誠",
+            "real_name": "北條大誠",
+            "display_name": "Hojo.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "taisei200506162005061",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726827056.664179",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffKk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が優れないため欠席させて頂きます、すいません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNXNWGH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U070RQ0KT7Y",
+                    "U071M6X48E4",
+                    "U070YD6M598"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3KJNJE",
+        "type": "message",
+        "ts": "1727171651.495859",
+        "client_msg_id": "25F5B3EE-CAF3-4641-A974-84AA6C631DC7",
+        "text": "5分くらい遅れそう、すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b962914616f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-03\/7668026566596_b962914616f7aa66543e_72.png",
+            "first_name": "足立光琉",
+            "real_name": "足立光琉",
+            "display_name": "Adachi.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hikarururu81204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726827056.664179",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G89Ci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5分くらい遅れそう、すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_exhaling",
+                "users": [
+                    "U06LK3NH9MG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LK0E89MH",
+        "type": "message",
+        "ts": "1732868146.590789",
+        "client_msg_id": "547F6572-7ABC-4DCE-A1B1-7FDCF495FAFE",
+        "text": "体調不良のため休みます :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10abff051f8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491436038_10abff051f8ccf96b5c9_72.png",
+            "first_name": "大野聖雅",
+            "real_name": "大野聖雅",
+            "display_name": "Ohno.Seiga",
+            "team": "T06L90YHJF8",
+            "name": "seiga.ohno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732768495.415519",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFP8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため休みます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDYBFGA",
+        "type": "message",
+        "ts": "1732874224.483809",
+        "client_msg_id": "7F9E1FD0-99D3-4917-9D48-64602C0AE57A",
+        "text": "内科に行くため休みます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acfee07457a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7055264968576_acfee07457a5589f1b27_72.png",
+            "first_name": "井田礼香",
+            "real_name": "井田礼香",
+            "display_name": "Ida .Reika",
+            "team": "T06L90YHJF8",
+            "name": "idareika2005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732768495.415519",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tWsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "内科に行くため休みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LVK2FU1X",
+        "text": "<@U06LVK2FU1X>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711533979.653359"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L4GL1CUF",
+        "text": "<@U06L4GL1CUF>さんがチャンネルに参加しました",
+        "inviter": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1711533986.521239"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06LVK2FU1X",
+        "old_name": "05e_学外広報部門_会議",
+        "name": "05e_学内広報部門_会議",
+        "text": "チャンネル名を「05e_学外広報部門_会議」から「05e_学内広報部門_会議」に変更しました",
+        "type": "message",
+        "ts": "1711534039.373129"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNY8KMF",
+        "text": "<@U06LXNY8KMF>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.302099"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNZJBFT",
+        "text": "<@U06LXNZJBFT>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.385249"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNWSGPK",
+        "text": "<@U06LXNWSGPK>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.457649"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH3952Q",
+        "text": "<@U06LMH3952Q>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.521159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LMH3GJKE",
+        "text": "<@U06LMH3GJKE>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.602439"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3KA09G",
+        "text": "<@U06LK3KA09G>さんがチャンネルに参加しました",
+        "inviter": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1711534330.706149"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3HUVTL",
+        "text": "<@U06LK3HUVTL>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711554711.176199"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3L6B4J",
+        "text": "<@U06LK3L6B4J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711554875.077349"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "text": "楽しんでます！",
+        "files": [
+            {
+                "id": "F07AQ4F27D1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0JTYD9",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKiz\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "楽しんでます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719929107.436449",
+        "client_msg_id": "147F6CB5-44F8-43A8-969E-A49BA20D4B8F",
+        "thread_ts": "1719894477.235349",
+        "parent_user_id": "U06LK3KJNJE",
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LMH49MQU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "005_財務_局長",
+                "users": [
+                    "U06LK3KJNJE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "005_財務_副局",
+                "users": [
+                    "U06LK3KJNJE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "005_財務_sfo",
+                "users": [
+                    "U06LK3KJNJE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

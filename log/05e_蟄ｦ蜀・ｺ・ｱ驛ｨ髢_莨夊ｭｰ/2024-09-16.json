@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1726503076.677669",
+        "client_msg_id": "F3D71A29-83AD-4034-94B9-90AF419136EA",
+        "text": "私用のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726453924.204139",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cOZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9UKJV9",
+        "type": "message",
+        "ts": "1726542443.857029",
+        "client_msg_id": "768FE913-4461-4B43-9870-D1DD75004DBA",
+        "text": "部活が長引いてしまったため、遅刻します。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "60542bdcf632",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-15\/7121141390819_60542bdcf632226dd57a_72.png",
+            "first_name": "野々村真優",
+            "real_name": "野々村真優",
+            "display_name": "Nonomura.Mahiro",
+            "team": "T06L90YHJF8",
+            "name": "happymappygogo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NU+kR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "部活が長引いてしまったため、遅刻します。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

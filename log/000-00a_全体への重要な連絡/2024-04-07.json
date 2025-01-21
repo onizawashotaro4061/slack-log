@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1712487256.685349",
+        "client_msg_id": "184292AE-A9F4-401B-9F2C-FED0F6BD62DD",
+        "text": "<!channel>\nお疲れ様です。\n広報局長の梅本です。\n\n先ほどのフォームに不備があったため再度送信させていただきます。\n既に送信していただいた方は申し訳ありませんが、もう1度投票していただきたいです。\nお願いします。\n\n第140回明大祭実行委員会の明大祭コンセプト案を役員会にて3つに絞りました。\nこの中から今年のコンセプトを皆さんに決めていただきたいです。\n\n投票は13日(土)13：30までです。\n1人1票でお願いします。\n以下のリンクからお願いします。\n<https:\/\/forms.gle\/FWutKERrxTXBPQbaA|https:\/\/forms.gle\/FWutKERrxTXBPQbaA>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/FWutKERrxTXBPQbaA",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/RMku-m73csDHJfc0T0Czh0ZfzAOv2087tzJEAQwiLvkfPV0tBnY2lXMDVeQIyXKJb3LTknxebxQ",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 28334,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/FWutKERrxTXBPQbaA",
+                "fallback": "Google Docs: 第140回明大祭コンセプト決定",
+                "title": "第140回明大祭コンセプト決定",
+                "title_link": "https:\/\/forms.gle\/FWutKERrxTXBPQbaA",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/mFGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n広報局長の梅本です。\n\n先ほどのフォームに不備があったため再度送信させていただきます。\n既に送信していただいた方は申し訳ありませんが、もう1度投票していただきたいです。\nお願いします。\n\n第140回明大祭実行委員会の明大祭コンセプト案を役員会にて3つに絞りました。\nこの中から今年のコンセプトを皆さんに決めていただきたいです。\n\n投票は13日(土)13：30までです。\n1人1票でお願いします。\n以下のリンクからお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/FWutKERrxTXBPQbaA",
+                                "text": "https:\/\/forms.gle\/FWutKERrxTXBPQbaA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LMQR40J0",
+                    "U06M7SU83G8",
+                    "U06LCED6ZK8",
+                    "U06LMH9MBFW",
+                    "U06L4GM5C87",
+                    "U06L4GLJVKR",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SU83G8",
+                    "U06LCE9HTP0",
+                    "U06LCED6ZK8",
+                    "U06LMH9MBFW",
+                    "U06L4GM5C87",
+                    "U06LXNY8KMF",
+                    "U06L4GLJVKR",
+                    "U06LMH5ACGL",
+                    "U06LHACMG91",
+                    "U06LY5XNLBT",
+                    "U06LJ4HJLMS",
+                    "U06LXNX1A57",
+                    "U06LCE4EV2A",
+                    "U06L4GKC9N3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LMH9MBFW",
+                    "U06L4GM5C87",
+                    "U06LCUTBMU5",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LMH9MBFW",
+                    "U06LJ4HJLMS",
+                    "U06LK3LHG0J"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LMH9MBFW",
+                    "U06LK3HUVTL",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ヤンチャム",
+                "users": [
+                    "U06LK3LHG0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

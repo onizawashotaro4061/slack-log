@@ -1,0 +1,253 @@
+[
+    {
+        "user": "U06LJRSQDC3",
+        "type": "message",
+        "ts": "1726560744.980039",
+        "client_msg_id": "4973A783-0383-4A3C-A2B4-93A355A35006",
+        "text": "<@U06L4GH4ETH> 明日何時集合ですか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ca52e9b93da5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-14\/6803186965556_ca52e9b93da5e5540ec3_72.png",
+            "first_name": "川本巴菜",
+            "real_name": "川本巴菜",
+            "display_name": "Kawamoto.Hana",
+            "team": "T06L90YHJF8",
+            "name": "jonaha828",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pb7LJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GH4ETH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日何時集合ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1726562286.393769",
+        "edited": {
+            "user": "U06L4GH4ETH",
+            "ts": "1726562369.000000"
+        },
+        "client_msg_id": "12462336-de2c-4c05-b6bb-c6ddd6d1780d",
+        "text": "<!channel>\nお疲れ様です！\n直近で誠に申し訳ないです！\n\n当日の流れを説明させていただきます。\n13時30分に現地集合\n14:00～　スタート（着座状態）\n14:10～14:55　企業説明会(2社)\n15:10～17:00　名刺交換会兼交流会×2回\n17:05～　閉会式\n17:10～　アンケート記入\n17:20　終了予定\n\n場所は\n株式会社ユニークピース\n〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 6F\n\n当日は私服で大丈夫ですが、企業の方と交流するので派手すぎなければ大丈夫です。\n持ち物はボールペンとメモ帳でお願いいたします。\n\n今回の参加企業は、\n・株式会社シノケングループ\n<https:\/\/www.shinoken.co.jp\/>\n→不動産やデベロッパー系\n・株式会社プロトコーポレーション\n<https:\/\/www.proto-g.co.jp\/>\n→グーネット等中古車販売のメディアを運営\n以上の2社です。\n\n末筆ではございますが、皆さまのご協力に感謝申し上げます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.shinoken.co.jp\/",
+                "image_url": "https:\/\/www.shinoken.co.jp\/asset\/image\/_common\/ogimage.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 936871,
+                "service_icon": "https:\/\/www.shinoken.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.shinoken.co.jp\/",
+                "fallback": "株式会社シノケングループ: 株式会社シノケングループの事業内容をご紹介いたします。グループの力を集結し、お客様が安心できるように全面サポートをいたします。",
+                "text": "株式会社シノケングループのWebサイトです。お客様の生涯を通じて寄り添う、当社グループ独自の「ライフサポート」サービスをご紹介しています。",
+                "title": "株式会社シノケングループの事業内容をご紹介いたします。グループの力を集結し、お客様が安心できるように全面サポートをいたします。",
+                "title_link": "https:\/\/www.shinoken.co.jp\/",
+                "service_name": "株式会社シノケングループ"
+            },
+            {
+                "from_url": "https:\/\/www.proto-g.co.jp\/",
+                "service_icon": "https:\/\/www.proto-g.co.jp\/wp-content\/themes\/proto\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.proto-g.co.jp\/",
+                "fallback": "プロト 株式会社プロトコーポレーション(PROTO)",
+                "text": "クルマ・ポータルサイト「グーネット」をはじめとするモビリティ関連情報や、生活関連情報を提供する株式会社プロトコーポレーション",
+                "title": "プロト 株式会社プロトコーポレーション(PROTO)",
+                "title_link": "https:\/\/www.proto-g.co.jp\/",
+                "service_name": "proto-g.co.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXwMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n直近で誠に申し訳ないです！\n\n当日の流れを説明させていただきます。\n13時30分に現地集合\n14:00～　スタート（着座状態）\n14:10～14:55　企業説明会(2社)\n15:10～17:00　名刺交換会兼交流会×2回\n17:05～　閉会式\n17:10～　アンケート記入\n17:20　終了予定\n\n場所は\n株式会社ユニークピース\n〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 6F\n\n当日は私服で大丈夫ですが、企業の方と交流するので派手すぎなければ大丈夫です。\n持ち物はボールペンとメモ帳でお願いいたします。\n\n今回の参加企業は、\n・株式会社シノケングループ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.shinoken.co.jp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n→不動産やデベロッパー系\n・株式会社プロトコーポレーション\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.proto-g.co.jp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n→グーネット等中古車販売のメディアを運営\n以上の2社です。\n\n末筆ではございますが、皆さまのご協力に感謝申し上げます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1726621888.488189",
+        "client_msg_id": "57e35439-73cd-4e61-8169-ea8aa06b312c",
+        "text": "<!channel>\nおはようございます！\n本日はどうぞよろしくお願いいたします。\n\n株式会社ユニークピース\n〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 6F\nここに13時半集合でお願いいたします。\n\n今回運営スタッフとして加わる、僕と佐名木、星野、栗原の四人以外の皆さんは\n全員明大祭実行員であり3年生という設定でやらせていただいております。\n何卒ご理解いただけますようお願いいたします。\n\n重ねて申し上げますと、これは協賛活動であり一人5千円の激アツイベントです。\n皆様のご協力に感謝申し上げます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJL6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようございます！\n本日はどうぞよろしくお願いいたします。\n\n株式会社ユニークピース\n〒103-0002 東京都中央区日本橋馬喰町１丁目９−１ THECORNER日本橋east 6F\nここに13時半集合でお願いいたします。\n\n今回運営スタッフとして加わる、僕と佐名木、星野、栗原の四人以外の皆さんは\n全員明大祭実行員であり3年生という設定でやらせていただいております。\n何卒ご理解いただけますようお願いいたします。\n\n重ねて申し上げますと、これは協賛活動であり一人5千円の激アツイベントです。\n皆様のご協力に感謝申し上げます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3K88SW",
+                    "U06LH4PDAQ3",
+                    "U06LVK2FU1X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1726633742.951609",
+        "client_msg_id": "B985521F-9AF3-45DD-8E9D-D355AA99DC26",
+        "text": "<!channel> 急遽変更がありまして、シノケングループのみとなりました。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1Djd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 急遽変更がありまして、シノケングループのみとなりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LG610ADB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

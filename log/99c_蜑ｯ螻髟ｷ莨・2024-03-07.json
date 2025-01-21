@@ -1,0 +1,59 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06L97X3V6J",
+        "text": "<@U06L97X3V6J>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709881803.901519"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LDT584J1",
+        "text": "<@U06LDT584J1>さんがチャンネルに参加しました",
+        "inviter": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709881836.619479"
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1709881842.522269",
+        "client_msg_id": "A210BBBF-9374-464B-B4DD-69161923B116",
+        "text": "<@U06LDT584J1> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uljlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LDT584J1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

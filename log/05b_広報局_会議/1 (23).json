@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U06LXNZJBFT",
+        "type": "message",
+        "ts": "1713864461.519429",
+        "client_msg_id": "DC3819C4-A49B-4FB9-B89E-02BF38077379",
+        "text": "すみません :sweat_drops: :woman-bowing: どうしても外せない用事が入ってしまったので欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30f77d3d9864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6752550180912_30f77d3d9864b8f106d3_72.png",
+            "first_name": "岡部ちひろ",
+            "real_name": "岡部ちひろ",
+            "display_name": "Okabe.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "shiera.0122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713797194.541409",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEso0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どうしても外せない用事が入ってしまったので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG60SFEH",
+        "type": "message",
+        "ts": "1713865423.064689",
+        "client_msg_id": "C39F1AE6-0D32-4087-A922-DEA45CB3123F",
+        "text": "電車遅れてるからちょっと遅れるかもです :face_exhaling: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e05d20e652a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7177185164149_e05d20e652a4e4b9a686_72.png",
+            "first_name": "田中琴葉",
+            "real_name": "田中琴葉",
+            "display_name": "Tanaka.Kotoha",
+            "team": "T06L90YHJF8",
+            "name": "nmaru8645",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713797194.541409",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gOot8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅れてるからちょっと遅れるかもです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_exhaling",
+                                "unicode": "1f62e-200d-1f4a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

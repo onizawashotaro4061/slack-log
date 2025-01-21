@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U06LCE69DRU",
+        "type": "message",
+        "ts": "1727702655.422739",
+        "client_msg_id": "451bf886-9abd-4493-833c-1d17174a850b",
+        "text": "<!channel> \n【第23回Web部門会議】\n日時:10月1日（火）19:00〜21:00\n場所:食堂3階？\n\n持ち物:パソコン\n議事録:いらない\n\n議題\n1.Next講習会（意思共有）\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nやっとサイトオープンできたね〜\n新規のみんなには、更新のページとか作ってもらいたいので、一緒にお勉強頑張りましょう！\n\n教室取り忘れにつき、実行委員が占拠した食3でお勉強＆作業しましょう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "12e80b515780",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-16\/7900904960705_12e80b515780e764a5ae_72.jpg",
+            "first_name": "梅山翔央",
+            "real_name": "梅山翔央",
+            "display_name": "Umeyama.Sho",
+            "team": "T06L90YHJF8",
+            "name": "sho.ume.2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727702655.422739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1727776767.321739",
+        "reply_users": [
+            "U071B3A7ERX",
+            "U06LJB446QL"
+        ],
+        "replies": [
+            {
+                "user": "U071B3A7ERX",
+                "ts": "1727714604.125969"
+            },
+            {
+                "user": "U06LJB446QL",
+                "ts": "1727776767.321739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8NXK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【第23回Web部門会議】\n日時:10月1日（火）19:00〜21:00\n場所:食堂3階？\n\n持ち物:パソコン\n議事録:いらない\n\n議題\n1.Next講習会（意思共有）\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nやっとサイトオープンできたね〜\n新規のみんなには、更新のページとか作ってもらいたいので、一緒にお勉強頑張りましょう！\n\n教室取り忘れにつき、実行委員が占拠した食3でお勉強＆作業しましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LCE69DRU",
+                    "U0710SYJ892",
+                    "U06LG6Q48SZ",
+                    "U06LK0JCFHR",
+                    "U071B3A7ERX",
+                    "U0710T0UFQC",
+                    "U071B3EMJCR"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U071B3A7ERX",
+                    "U06L4GH3T7H",
+                    "U0710T0UFQC",
+                    "U06LJB446QL",
+                    "U070YDCRM1Q"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U071B3A7ERX",
+        "type": "message",
+        "ts": "1727714604.125969",
+        "client_msg_id": "8238587C-5587-4C09-841E-371B3538E5D8",
+        "text": "中野で5限まで授業があるので遅刻します :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0317e73738c0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-25\/7171007244629_0317e73738c08ad1fb92_72.png",
+            "first_name": "武田三都紀",
+            "real_name": "武田三都紀",
+            "display_name": "Takeda. Mitsuki",
+            "team": "T06L90YHJF8",
+            "name": "2mitsuki8fura11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727702655.422739",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0uJhC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中野で5限まで授業があるので遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LCE69DRU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

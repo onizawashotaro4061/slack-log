@@ -1,0 +1,109 @@
+[
+    {
+        "text": "<!channel>\nおつカレーー\n今年の反省テンプレ（広報期ごと）です！\n春新歓の反省は:warning:*5月1日(水)23：59*:warning:までだよー！！！！\n期限遅れだめー！\n\n丁寧に書いてくださいねえっ！がんばれえー",
+        "files": [
+            {
+                "id": "F0706V8LJUB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3HUVTL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZXaz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつカレーー\n今年の反省テンプレ（広報期ごと）です！\n春新歓の反省は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5月1日(水)23：59",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までだよー！！！！\n期限遅れだめー！\n\n丁寧に書いてくださいねえっ！がんばれえー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713872196.387789",
+        "client_msg_id": "034cee1a-074e-4148-886e-38bc65acf124",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LG60SFEH",
+                    "U06LXNY8KMF",
+                    "U06LCVDE88N",
+                    "U070VFQGRNZ",
+                    "U06LK3KA09G",
+                    "U070RQ543FG"
+                ],
+                "count": 7
+            },
+            {
+                "name": "みちる",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LG60SFEH",
+                    "U06LXNY8KMF",
+                    "U06LCVDE88N",
+                    "U06LXNWSGPK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "三銃士",
+                "users": [
+                    "U06LG60SFEH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "みちるさん_はな",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1714363651.759409",
+        "edited": {
+            "user": "U06LXK3RF7B",
+            "ts": "1714464037.000000"
+        },
+        "client_msg_id": "b683fa2d-8813-4a0a-a6dc-27613288f404",
+        "text": "*<!channel>*\n*【0430_第15回渉外局会議】*\n【時間】19:00～20:40\n【場所】~LS501~→グル閲3\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・物品協賛について（意見交換・決定）\n・諸連絡（意思共有）\n\n*今回は継続のみ！新規はおやすみ！また5\/7(火)に会いましょう！！*\n新規合流しましたね！みんな和泉で中野の子がいなくてぼくは寂しいです。\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714363651.759409",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1714470778.311849",
+        "reply_users": [
+            "U071M6YLJRE",
+            "U06L4J69HV5",
+            "U06LK0HTVQT"
+        ],
+        "replies": [
+            {
+                "user": "U071M6YLJRE",
+                "ts": "1714394289.365149"
+            },
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1714399716.782109"
+            },
+            {
+                "user": "U06LK0HTVQT",
+                "ts": "1714470778.311849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBJmN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0430_第15回渉外局会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00～20:40\n【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LS501",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→グル閲3\n【議題】\n・役員会報告（意思共有）\n・部門報告（意思共有）\n・物品協賛について（意見交換・決定）\n・諸連絡（意思共有）\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今回は継続のみ！新規はおやすみ！また5\/7(火)に会いましょう！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新規合流しましたね！みんな和泉で中野の子がいなくてぼくは寂しいです。\n※欠席・遅刻・早退する場合は理由とセットでスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06M7SUSYNL",
+                    "U06LHACMG91"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U06M7SPUVEC",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06M7SUSYNL",
+                    "U06LCED6ZK8",
+                    "U06L4GH4ETH",
+                    "U06LK0E89MH"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4CMKY8P",
+                    "U071M6YLJRE",
+                    "U06L4J69HV5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

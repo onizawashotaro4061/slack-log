@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1718685956.948159",
+        "client_msg_id": "b8088af9-6f81-499e-a8d0-602c2d5b6e0d",
+        "text": "*<!channel>* \n会議連絡！\n【時間】6\/18(火)局会議後～\n【場所】LS606\n【議題】(予定)\n1.Opening鑑賞会(GW)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→こむぎ、敲き→たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhdie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】6\/18(火)局会議後～\n【場所】LS606\n【議題】(予定)\n1.Opening鑑賞会(GW)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→こむぎ、敲き→たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "たっか株式会社",
+                "users": [
+                    "U070RQ0DUBG",
+                    "U071B3C42Q1",
+                    "U070HS2GY5V",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

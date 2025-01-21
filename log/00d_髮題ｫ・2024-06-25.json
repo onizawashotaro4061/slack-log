@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719362812.309319",
+        "client_msg_id": "9ece51ff-9dd3-4866-a923-b4528b709367",
+        "text": "<!channel>\n今日18時から作業部屋つかいまーす！\n把握願います！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTBOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日18時から作業部屋つかいまーす！\n把握願います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U0710T3MCUC",
+                    "U071M771YMN",
+                    "U06LKTXCZL4",
+                    "U06L4GM5C87",
+                    "U06LK0FUAHZ",
+                    "U06LXNZDHFT",
+                    "U070Y9Q9151",
+                    "U06LK3MF9FC",
+                    "U06LCE9NLP8",
+                    "U06LXNYCLJV",
+                    "U06LH4PDAQ3",
+                    "U06LXR4BPS5",
+                    "U06LCE69DRU"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "前向け_前",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCE69DRU",
+                    "U06LE249H0V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06LG668093"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

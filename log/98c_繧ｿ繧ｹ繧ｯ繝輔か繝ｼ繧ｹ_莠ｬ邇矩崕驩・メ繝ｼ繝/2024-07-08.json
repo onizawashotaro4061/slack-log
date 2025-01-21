@@ -1,0 +1,89 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！夜遅くのメンション失礼します。\n第9回タスクフォース京王電鉄チーム会議議事録を\nOneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞7月＞0706\nにアップロードしました。確認お願いします。\n\n議事録っていうよりそこにある会議資料見ておいてくださいね特に新規のみなさん！\n京王ってこんなことやってるチームだよってことがわかると思うので！\n\n以下にPDFを添付しました。",
+        "files": [
+            {
+                "id": "F07BDE7N805",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K2mqO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！夜遅くのメンション失礼します。\n第9回タスクフォース京王電鉄チーム会議議事録を\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OneDrive＞自分のファイル＞タスクフォース＞03_京王電鉄チーム＞02_議事録＞7月＞0706",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにアップロードしました。確認お願いします。\n\n議事録っていうよりそこにある会議資料見ておいてくださいね特に新規のみなさん！\n京王ってこんなことやってるチームだよってことがわかると思うので！\n\n以下にPDFを添付しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720453977.617299",
+        "client_msg_id": "5551f48b-1fc4-40c3-8d57-6ec90faaabe6",
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U070RQ167FG",
+                    "U06LCEA6J1L",
+                    "U06LK3Q6Y2W",
+                    "U070VFZF6BF",
+                    "U07194G87BL",
+                    "U070HS3G355",
+                    "U06LK0DK7R9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U070VFZF6BF",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "京王",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U070VFZF6BF",
+                    "U06LK0DK7R9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "あきひろ",
+                "users": [
+                    "U06M7SBFPFS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

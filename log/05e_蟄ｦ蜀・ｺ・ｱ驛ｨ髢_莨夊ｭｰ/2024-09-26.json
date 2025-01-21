@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U070HS202UX",
+        "type": "message",
+        "ts": "1727339522.677289",
+        "client_msg_id": "A8A4E4D0-41D4-4FE9-A565-CEA1F01E9628",
+        "text": "アルバイトのため欠席いたします。申し訳ございません :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acd9c95aa139",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7375268326848_acd9c95aa13947bb96a0_72.png",
+            "first_name": "舩渡川美月",
+            "real_name": "舩渡川美月",
+            "display_name": "Funatogawa.Mizuki",
+            "team": "T06L90YHJF8",
+            "name": "mizukifuna919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727265422.810799",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9KJh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アルバイトのため欠席いたします。申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

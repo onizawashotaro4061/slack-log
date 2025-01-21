@@ -1,0 +1,257 @@
+[
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1718339266.210509",
+        "client_msg_id": "613245fd-9fe6-4df2-be99-35d376e48a8d",
+        "text": "*<!channel>*\n0618 第13回運営局インフラ整備部門会議\n【時間】\n19 : 00~20 : 40\n【場所】\nM505\n【持ち物】\n*パソコン！！！！*\n【議題】\n1.各種報告（意思共有）\n2.議事録講座（意思共有）\n3.分別項目決め②（意見交換）\n4.諸連絡（意思共有）\n\n確認したらリアクションを！！！！（←何でもいいからスタンプ押してくれるとうれしいな:pleading_face:）\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\nついに僕にも継続インタビューの依頼が来ました。うれしいです^^　残り一枠は誰がとるのかな？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfoyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0618 第13回運営局インフラ整備部門会議\n【時間】\n19 : 00~20 : 40\n【場所】\nM505\n【持ち物】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パソコン！！！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n1.各種報告（意思共有）\n2.議事録講座（意思共有）\n3.分別項目決め②（意見交換）\n4.諸連絡（意思共有）\n\n確認したらリアクションを！！！！（←何でもいいからスタンプ押してくれるとうれしいな"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\nついに僕にも継続インタビューの依頼が来ました。うれしいです^^　残り一枠は誰がとるのかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LEAGKTSS",
+                    "U06M7SQPKL0",
+                    "U071B3AKPPT",
+                    "U06LG66Q84D",
+                    "U06LK5HCSE6",
+                    "U070HS3D85D",
+                    "U070Y9TREE7",
+                    "U06ME05BLJW",
+                    "U0710T03ZS8",
+                    "U071B3C838R",
+                    "U06LG61QB3P",
+                    "U070YD8A2EN",
+                    "U071B3ARX5F",
+                    "U06LM2P58KC",
+                    "U06LMH8Q2TW"
+                ],
+                "count": 15
+            },
+            {
+                "name": "運営_インフラ_チームインフラ",
+                "users": [
+                    "U06LEAGKTSS",
+                    "U06M7SQPKL0",
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U070Y9TREE7",
+                    "U06ME05BLJW",
+                    "U06LG61QB3P",
+                    "U06LM2P58KC",
+                    "U06LCE7DY6S"
+                ],
+                "count": 10
+            },
+            {
+                "name": "運営_インフラ_やや転びなおき",
+                "users": [
+                    "U06M7SQPKL0",
+                    "U06LEAGKTSS",
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U070HS3D85D",
+                    "U070Y9TREE7",
+                    "U06ME05BLJW",
+                    "U06LM2P58KC",
+                    "U06LG61QB3P"
+                ],
+                "count": 10
+            },
+            {
+                "name": "運営_なおきくんさぁ",
+                "users": [
+                    "U06M7SQPKL0",
+                    "U071B3AKPPT",
+                    "U06LEAGKTSS",
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U06ME05BLJW",
+                    "U06LG61QB3P",
+                    "U070Y9V6PRR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "明中の八軍",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U06LG61QB3P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_インフラ_りんたま",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U070HS3D85D",
+                    "U06ME05BLJW",
+                    "U06LG61QB3P",
+                    "U071B3AKPPT"
+                ],
+                "count": 7
+            },
+            {
+                "name": "運営_インフラ_こうきスカしてる",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U070HS3D85D",
+                    "U06ME05BLJW",
+                    "U06LG61QB3P",
+                    "U070HS7MJH5",
+                    "U070Y9V6PRR",
+                    "U070HS49ZD5"
+                ],
+                "count": 9
+            },
+            {
+                "name": "運営_インフラ_みいな",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK5HCSE6",
+                    "U070HS3D85D",
+                    "U06LG61QB3P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_チームインフラno1",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK5HCSE6",
+                    "U06LG61QB3P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LG61QB3P",
+                    "U06LK5HCSE6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_和田直樹_不死鳥",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LG61QB3P",
+                    "U06LK5HCSE6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_キャバクラ通いはほどほどに_なおき",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6",
+                    "U06LG61QB3P",
+                    "U070Y9V6PRR",
+                    "U06LG66Q84D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "運営_インフラ_しゅうご",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U070HS3D85D",
+                    "U06LG61QB3P",
+                    "U06LK5HCSE6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_インフラ_りんお前いいやつすぎるって",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06LK5HCSE6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_インフラ_和田直樹_灼熱",
+                "users": [
+                    "U06LG66Q84D",
+                    "U06LK5HCSE6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

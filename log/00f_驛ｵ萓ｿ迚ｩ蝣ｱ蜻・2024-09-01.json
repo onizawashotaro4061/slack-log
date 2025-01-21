@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1725245925.097989",
+        "client_msg_id": "1D27CCF0-87FF-41A8-B56B-7F3BB648ADD5",
+        "text": "<@U070RQ0VCP8> \nお疲れ様です〜\n荷物届いたのでじつぼ入り口に置いておきます〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725245925.097989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1725266834.532039",
+        "reply_users": [
+            "U06LXNZDHFT",
+            "U070RQ0VCP8"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNZDHFT",
+                "ts": "1725250613.399849"
+            },
+            {
+                "user": "U070RQ0VCP8",
+                "ts": "1725266834.532039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ArZm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ0VCP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です〜\n荷物届いたのでじつぼ入り口に置いておきます〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U06LHACMG91> <@U06L4GH4ETH> お疲れ様です\n企業宛に荷物届いてたのでレタケに突っ込んでおきました :man-bowing: ",
+        "files": [
+            {
+                "id": "F07K9QWUW94",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UwueY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GH4ETH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です\n企業宛に荷物届いてたのでレタケに突っ込んでおきました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725249740.996759",
+        "client_msg_id": "FC06FBA4-7B39-44E7-8560-D814C268363F",
+        "thread_ts": "1725249740.996759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725249813.307139",
+        "reply_users": [
+            "U06L4GH4ETH"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GH4ETH",
+                "ts": "1725249813.307139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06LHACMG91"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1725249813.307139",
+        "client_msg_id": "1823AA89-5C25-4A6B-96C0-52CD58843858",
+        "text": "ありがとう！ぶち込んどいて！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725249740.996759",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7FzZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう！ぶち込んどいて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U070RQ0VCP8> \nお疲れ様です〜\n二つ目の荷物が届いたので入り口に置いておきます〜",
+        "files": [
+            {
+                "id": "F07L590E82C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNZDHFT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iB5P6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ0VCP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です〜\n二つ目の荷物が届いたので入り口に置いておきます〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725250565.270929",
+        "client_msg_id": "8445AE07-C35F-494C-B715-50B2662BC15A",
+        "thread_ts": "1725250565.270929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725266892.775519",
+        "reply_users": [
+            "U070RQ0VCP8"
+        ],
+        "replies": [
+            {
+                "user": "U070RQ0VCP8",
+                "ts": "1725266892.775519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "写真添付し忘れてました:bow:",
+        "files": [
+            {
+                "id": "F07KV5GRHMX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNZDHFT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTIB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "写真添付し忘れてました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725250613.399849",
+        "client_msg_id": "E28A5A09-538F-44C0-B555-EAD21A7B2D7E",
+        "thread_ts": "1725245925.097989",
+        "parent_user_id": "U06LXNZDHFT"
+    },
+    {
+        "text": "<!channel> \n荷物届いたので共有します！\n宛名なくてどこの管轄かわからないので全体メンション失礼します :man-bowing: :man-bowing: ",
+        "files": [
+            {
+                "id": "F07K22CF755",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GM5C87",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqgNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n荷物届いたので共有します！\n宛名なくてどこの管轄かわからないので全体メンション失礼します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725253287.849659",
+        "client_msg_id": "962C5BCD-CEA4-4C7B-BD33-FD17C75A5C66",
+        "thread_ts": "1725253287.849659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725254132.419459",
+        "reply_users": [
+            "U070YD7LVT4"
+        ],
+        "replies": [
+            {
+                "user": "U070YD7LVT4",
+                "ts": "1725254132.419459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U070YD7LVT4",
+        "type": "message",
+        "ts": "1725254132.419459",
+        "client_msg_id": "B975350C-25B0-4F19-92E8-AD0CA139E110",
+        "text": "ありがとうございます僕です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3a8161c098cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-13\/7895122038496_3a8161c098cd9c7f1118_72.png",
+            "first_name": "荒怜樹",
+            "real_name": "荒怜樹",
+            "display_name": "Ara.Renju",
+            "team": "T06L90YHJF8",
+            "name": "ren.1225.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725253287.849659",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kx74D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます僕です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

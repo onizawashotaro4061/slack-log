@@ -1,0 +1,211 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SUSYNL",
+        "text": "<@U06M7SUSYNL>さんがチャンネルに参加しました",
+        "inviter": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1730450676.903619"
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1730450782.624649",
+        "edited": {
+            "user": "U06L4GH4ETH",
+            "ts": "1730461594.000000"
+        },
+        "client_msg_id": "dc6013ed-1c2f-4a41-bf06-60e886a868dc",
+        "text": "<!channel>\nお疲れ様です！\n渉外局企業部門長の本多叶武です。抽選企画企画責任者をやらせていただきますので、どうぞよろしくお願いいたします！\n明大祭大抽選会に関わる連携はこちらのチャンネルを用いて行わせていただきます！担当者を追加しちゃって大丈夫です！！\n緊急の際は次長間で連携させていただきます！\n\n先ほど、次長たちや企画担当者に３日間分の抽選券をお渡ししました！明日2日(土)に抽選会の景品表（来場者用）をお渡ししますのでよろしくお願いいたします。\n_*抽選券を渡す際や総務局の企画効果測定のアンケート回答をしてもらう際に、景品表を来場者に見せていただいです！*_（アンケート回答率と抽選券をもらってからの企画参加率をあげるため）よろしくお願いいたします！\n\n来場者対応などの大抽選会に関わるイレギュラーがあればこちらのチャンネルで <@U06L4GH4ETH> <@U06M7SETDKJ> （企画担当者）<@U06LG5XQGS1> をメンションのうえ、発信していただければと思います！\n\n明大祭大抽選会に関する情報は、第140回明大祭公式パンフレットのp14に掲載しておりますので、来場者の方に聞かれた場合はそちらも参照していただきたいです！\n\n皆様には_*抽選券のはけ具合*_の方を共有していただけますと幸いです。\nお忙しいとは思いますが本祭中すこし、すこーーしだけでも気にかけていただけますと幸いです:relieved:\n\n長々と失礼しました、、\nなにかありましたらお気軽にご連絡ください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HW2jI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n渉外局企業部門長の本多叶武です。抽選企画企画責任者をやらせていただきますので、どうぞよろしくお願いいたします！\n明大祭大抽選会に関わる連携はこちらのチャンネルを用いて行わせていただきます！担当者を追加しちゃって大丈夫です！！\n緊急の際は次長間で連携させていただきます！\n\n先ほど、次長たちや企画担当者に３日間分の抽選券をお渡ししました！明日2日(土)に抽選会の景品表（来場者用）をお渡ししますのでよろしくお願いいたします。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "抽選券を渡す際や総務局の企画効果測定のアンケート回答をしてもらう際に、景品表を来場者に見せていただいです！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "（アンケート回答率と抽選券をもらってからの企画参加率をあげるため）よろしくお願いいたします！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来場者対応などの大抽選会に関わるイレギュラーがあればこちらのチャンネルで "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GH4ETH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SETDKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " （企画担当者）"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG5XQGS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " をメンションのうえ、発信していただければと思います！\n\n明大祭大抽選会に関する情報は、第140回明大祭公式パンフレットのp14に掲載しておりますので、来場者の方に聞かれた場合はそちらも参照していただきたいです！\n\n皆様に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "抽選券のはけ具合",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "共有していただけますと幸いです。\nお忙しいとは思いますが本祭中すこし、すこーーしだけでも気にかけていただけますと幸いです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n長々と失礼しました、、\nなにかありましたらお気軽にご連絡ください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1730451360.599199",
+        "client_msg_id": "68120a8b-f52c-44fe-be7f-67989cb97f87",
+        "text": "Zello のチャンネル 140th明大祭大抽選会連携企画連携 をチェックしてください。\n<https:\/\/zello.me\/k\/iQMtx>\nこちら当日使用するZelloでございます。\n次長、担当者の方参加してください。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zello.me\/k\/iQMtx",
+                "service_icon": "https:\/\/zello.com\/img\/plain_57x57.png",
+                "thumb_url": "http:\/\/zello.com\/img\/shared.zello.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/zello.me\/k\/iQMtx",
+                "fallback": "Zello channels: 140th明大祭大抽選会連携企画連携",
+                "text": "Zello channel",
+                "title": "140th明大祭大抽選会連携企画連携",
+                "title_link": "https:\/\/zello.me\/k\/iQMtx",
+                "service_name": "Zello channels"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKiSY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zello のチャンネル 140th明大祭大抽選会連携企画連携 をチェックしてください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zello.me\/k\/iQMtx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら当日使用するZelloでございます。\n次長、担当者の方参加してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06L2CSPXV5",
+        "text": "<@U06L2CSPXV5>さんがチャンネルに参加しました",
+        "inviter": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1730452694.921349"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06M7TE180Y",
+        "text": "<@U06M7TE180Y>さんがチャンネルに参加しました",
+        "inviter": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1730455526.088239"
+    }
+]

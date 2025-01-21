@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U06LK0FUAHZ",
+        "type": "message",
+        "ts": "1730536586.493429",
+        "client_msg_id": "93C78F2B-DF8F-49F6-9DAE-482A61D67106",
+        "text": "<!channel> \n強風のため和泉図書館横休憩所付近GSを封鎖します。\n該当箇所のGS業務に入る方は業務なしでよろしくお願いいたします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6e0b846c4968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8120586451088_6e0b846c49682f74cad1_72.png",
+            "first_name": "和田直樹",
+            "real_name": "和田直樹",
+            "display_name": "Wada.Naoki",
+            "team": "T06L90YHJF8",
+            "name": "nao.wadaaa0703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoVAg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n強風のため和泉図書館横休憩所付近GSを封鎖します。\n該当箇所のGS業務に入る方は業務なしでよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1730606370.993049",
+        "client_msg_id": "14f1a974-b064-4971-bc08-6d4640aeab36",
+        "text": "<!channel>\n広告研究部の警備タスクが入ってる方、*参加団体の辞退に伴って警備はなし*でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wew1C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n広告研究部の警備タスクが入ってる方、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "参加団体の辞退に伴って警備はなし",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1730612734.698979",
+        "client_msg_id": "6C3DA8D2-3D46-4E15-A03A-42E88E8819F5",
+        "text": "<!channel> \n道路封鎖警備に入っている方、集合場所が校外インフォブースで本部から遠いせいか、集合時間への遅刻が非常に多いです。遅刻する場合必ず道路封鎖警備Zelloにて統括に報告をお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NkOka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n道路封鎖警備に入っている方、集合場所が校外インフォブース"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で本部から遠いせいか、集合時間への遅刻が非常に多いです。遅刻する場合必ず道路封鎖警備Zelloにて統括に報告をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

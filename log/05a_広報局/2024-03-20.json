@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1710938115.318699",
+        "client_msg_id": "CF7010E3-5E66-4F20-8079-0860A7707A90",
+        "text": "<!channel> \nお疲れ様です！\n新歓ブースの教室は和泉ラーニングスクエアLS606教室になりました！\n※LS606だけだと新入生伝わらない可能性もあるので、正式名称で使用してください。\n投稿を作成する人は確認お願いします:bow:\n\n新歓説明会の教室はまだ決まってないので、決まり次第連絡します:bangbang:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeiZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n新歓ブースの教室は和泉ラーニングスクエアLS606教室になりました！\n※LS606だけだと新入生伝わらない可能性もあるので、正式名称で使用してください。\n投稿を作成する人は確認お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n新歓説明会の教室はまだ決まってないので、決まり次第連絡します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3LMEPL",
+                    "U06LMH3952Q",
+                    "U06LXNY8KMF",
+                    "U06LCE9HTP0",
+                    "U06LXNWSGPK",
+                    "U06L4GL1CUF",
+                    "U06L4GJBJP9",
+                    "U06LK3KA09G"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LMH3952Q",
+                    "U06LK3LMEPL",
+                    "U06LXNY8KMF",
+                    "U06LCE9HTP0",
+                    "U06LXNWSGPK",
+                    "U06LJBVA2DS",
+                    "U06L4GJBJP9",
+                    "U06LK3KA09G"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LXNY8KMF",
+                    "U06LK3KA09G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LXNY8KMF",
+                    "U06LK3KA09G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fightingはな",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3KA09G",
+                    "U06LMH412CU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "落単",
+                "users": [
+                    "U06LK0EBWRH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報-あもあす",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

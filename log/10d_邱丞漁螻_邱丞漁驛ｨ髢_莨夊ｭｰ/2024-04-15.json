@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06LG62FNP7",
+        "type": "message",
+        "ts": "1713174837.541999",
+        "client_msg_id": "233448C9-9F92-4148-8C9D-C163241277C5",
+        "text": "5限長引きにつきちょい遅れますすみません:pray::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17560d48f669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7907757083890_17560d48f669ee035be4_72.png",
+            "first_name": "深石遥月",
+            "real_name": "深石遥月",
+            "display_name": "Fukaishi.Haruna",
+            "team": "T06L90YHJF8",
+            "name": "fukaishiharuna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713100621.330259",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PT625",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5限長引きにつきちょい遅れますすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

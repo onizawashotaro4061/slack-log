@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1727167725.064919",
+        "client_msg_id": "f5a715c4-21ab-4912-b353-c5826f6e0872",
+        "text": "あまり体調がよくないので欠席します。\nすみませんm(_ _)m",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727061958.174069",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sR5ld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あまり体調がよくないので欠席します。\nすみませんm(_ _)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LFKRD4MQ",
+                    "U06LXNYCLJV",
+                    "U06LK3MPZ34",
+                    "U06L2CSPXV5"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

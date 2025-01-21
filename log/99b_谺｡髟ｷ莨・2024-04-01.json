@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711968811.545289",
+        "client_msg_id": "D37002F1-537C-41E9-A7AD-F824AA90685B",
+        "text": "<@U06L4GH4ETH> :anger::anger:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711508728.094099",
+        "parent_user_id": "U06M7SETDKJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A400y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GH4ETH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "anger",
+                                "unicode": "1f4a2"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "anger",
+                                "unicode": "1f4a2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,487 @@
+[
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1710230310.829379",
+        "client_msg_id": "A27C71D4-C3F7-4331-B431-AE4182830653",
+        "text": "<!channel>\n【第4回制作局会議】\n日時:3月14日（木）11:00～\n場所:LS706教室\n持ち物:特になし\n議事録:今回はなしだ！\n\n議題\n1.カメ活について（意思共有）\n2.諸連絡\n3.カメ活\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n今週はみんなでカメ活だ！集合時間がいつもより早いの要注意です！解散はそれぞれの班でカメ活先で自由にお願いします！えもい写真待ってます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710230310.829379",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1710380696.127549",
+        "reply_users": [
+            "U06L4GH3T7H",
+            "U06LCE8L8LW",
+            "U06L4TGH30F",
+            "U06M7SSDQQG",
+            "U06LMHSCW1J",
+            "U06LXNUQ989",
+            "U06LJB446QL",
+            "U06LK0FP02F"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GH3T7H",
+                "ts": "1710230441.875249"
+            },
+            {
+                "user": "U06LCE8L8LW",
+                "ts": "1710235390.972839"
+            },
+            {
+                "user": "U06L4TGH30F",
+                "ts": "1710279838.744419"
+            },
+            {
+                "user": "U06M7SSDQQG",
+                "ts": "1710335146.395389"
+            },
+            {
+                "user": "U06LMHSCW1J",
+                "ts": "1710335519.455649"
+            },
+            {
+                "user": "U06LXNUQ989",
+                "ts": "1710342700.975729"
+            },
+            {
+                "user": "U06LJB446QL",
+                "ts": "1710378547.663609"
+            },
+            {
+                "user": "U06LK0FP02F",
+                "ts": "1710380696.127549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3Wnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回制作局会議】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日時:3月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日（木）1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0～"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所:LS70"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教室"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "持ち物:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "特になし\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議事録:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今回はなしだ！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議題"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.カメ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "活"
+                            },
+                            {
+                                "type": "text",
+                                "text": "について（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2.諸連絡\n3.カメ活\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出席・欠席・遅刻・早退スタンプで反応お願いしますー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "スレッドで理由もお願いします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n今週はみんなでカメ活だ！集合時間がいつもより早いの要注意です！解散はそれぞれの班でカメ活先で自由にお願いします！えもい写真待ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LCE8L8LW",
+                    "U06L4TGH30F",
+                    "U06M7SSDQQG",
+                    "U06LMHSCW1J",
+                    "U06LXNUQ989",
+                    "U06LXNZFWDP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LJ0SKMEZ",
+                    "U06L4GM463H",
+                    "U06LK0DK7R9",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR",
+                    "U06LK0DN10T",
+                    "U06LK0FAL83",
+                    "U06L4GM5C87",
+                    "U06L4GPGUMV",
+                    "U06LG61U9QD",
+                    "U06LK3LM7AN",
+                    "U06LJ4HJLMS",
+                    "U06LK3M7VGA",
+                    "U06LCE69DRU",
+                    "U06LMH31QSG",
+                    "U06LK0EUE75",
+                    "U06LJB446QL",
+                    "U06LG6Q48SZ",
+                    "U06LXNYGGHX",
+                    "U06LH4PDAQ3",
+                    "U06LXP316UR",
+                    "U06M7SSUS0G",
+                    "U06L4GT8LNT",
+                    "U06LMH9MBFW",
+                    "U06LG6F13M3",
+                    "U06LMH4MXDJ",
+                    "U06LG62UXPX"
+                ],
+                "count": 28
+            },
+            {
+                "name": "かっこいい",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "立直",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ロン",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "一発",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "跳満",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "だいち風呂入るな",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張れよっしー",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LJB446QL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1710230441.875249",
+        "client_msg_id": "B2639EFC-BC5D-4965-86B1-0A1066328EA5",
+        "text": "旅行中のため欠席いたします\n申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710230310.829379",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ulLYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行中のため欠席いたします\n申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8L8LW",
+        "type": "message",
+        "ts": "1710235390.972839",
+        "client_msg_id": "087F2E8E-53D9-4EEE-9BA5-A43332D6A1A2",
+        "text": "旅行なので欠席しますすみません :woman-bowing: :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "25aef12cc1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684573982727_25aef12cc1ba6a3600b7_72.png",
+            "first_name": "大貫真穂",
+            "real_name": "大貫真穂",
+            "display_name": "Onuki.Maho",
+            "team": "T06L90YHJF8",
+            "name": "o.maho.2003bamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710230310.829379",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1WuqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行なので欠席しますすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か＿二浪",
+                "users": [
+                    "U06LK0EUE75"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4TGH30F",
+        "type": "message",
+        "ts": "1710279838.744419",
+        "client_msg_id": "ADF3259C-248E-4DCB-9698-69A524225DAE",
+        "text": "バイトがあるので欠席します、すみません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bbeae4ee3238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-15\/7728244406805_bbeae4ee3238fecc24f3_72.png",
+            "first_name": "関田祐愛",
+            "real_name": "関田祐愛",
+            "display_name": "Sekita.Yua",
+            "team": "T06L90YHJF8",
+            "name": "yuatampo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710230310.829379",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSNxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトがあるので欠席します、すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

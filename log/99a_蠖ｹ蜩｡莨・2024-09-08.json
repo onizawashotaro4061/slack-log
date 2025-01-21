@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725779338.171899",
+        "client_msg_id": "e3a8b299-995c-4cdd-8a12-b35cb7f0d87c",
+        "text": "レッドブル企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725323021.786389",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PjOym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レッドブル企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,419 @@
+[
+    {
+        "user": "U071M6ZDDQ8",
+        "type": "message",
+        "ts": "1733119638.935679",
+        "edited": {
+            "user": "U071M6ZDDQ8",
+            "ts": "1733119740.000000"
+        },
+        "client_msg_id": "88B6C4CE-2675-499C-87A1-F5BB21E3A48B",
+        "text": "<!channel>\nお疲れ様です。\n12月3日(火)の第38回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n和泉ラーニングスクエアLS503教室\n【議題】\n1. 各種報告(意思共有)\n2. GW①(意見交換)\n3. GW②(意見交換)\n4. 3年生からひとこと\n5. 諸連絡\n【持ち物】\nパソコン\n\n【議事録】\nはると\n\n遅刻早退欠席の人はスレッドにおねがいします！\n\nいよいよ明日が最後の会議です、頑張りましょう！\n新規運営会お楽しみに！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5cda33ae72bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-07\/7690382705253_5cda33ae72bda858e4f4_72.png",
+            "first_name": "長谷川裕也",
+            "real_name": "長谷川裕也",
+            "display_name": "Hasegawa.Yuya",
+            "team": "T06L90YHJF8",
+            "name": "yuya682139",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733119638.935679",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1733218394.658769",
+        "reply_users": [
+            "U071B38LED7",
+            "U070YD72JPL",
+            "U070VFP05K7",
+            "U06LCFWR494",
+            "U06LM0QJV3L",
+            "U06LG668093",
+            "U070RQ001V4",
+            "U070YD8BGRG"
+        ],
+        "replies": [
+            {
+                "user": "U071B38LED7",
+                "ts": "1733119813.064289"
+            },
+            {
+                "user": "U070YD72JPL",
+                "ts": "1733121892.337539"
+            },
+            {
+                "user": "U070VFP05K7",
+                "ts": "1733129223.337309"
+            },
+            {
+                "user": "U06LCFWR494",
+                "ts": "1733146118.438069"
+            },
+            {
+                "user": "U06LM0QJV3L",
+                "ts": "1733181087.601379"
+            },
+            {
+                "user": "U06LG668093",
+                "ts": "1733195135.735069"
+            },
+            {
+                "user": "U070RQ001V4",
+                "ts": "1733217773.125289"
+            },
+            {
+                "user": "U070YD8BGRG",
+                "ts": "1733218394.658769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lzRYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n12月3日(火)の第38回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "和泉ラーニングスクエアLS503教室"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW①(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW②(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3年生からひとこと"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン\n\n【議事録】\nはると\n\n遅刻早退欠席の人はスレッドにおねがいします！\n\nいよいよ明日が最後の会議です、頑張りましょう！\n新規運営会お楽しみに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06LK3MPZ34",
+                    "U06LCE9NLP8",
+                    "U070Y9Q9151",
+                    "U070VFZF6BF",
+                    "U06LM0QJV3L",
+                    "U070HS28L15",
+                    "U06LG62FNP7",
+                    "U06LG6B2NA1",
+                    "U06M7SZ5WG0",
+                    "U06LMLKREUU",
+                    "U070HS23XV5",
+                    "U070YD72JPL",
+                    "U06LXNX1A57",
+                    "U070YD8BGRG",
+                    "U06M7TE180Y",
+                    "U070RQ001V4",
+                    "U070VFP05K7",
+                    "U06L2CSPXV5",
+                    "U0710SZCKS8",
+                    "U06LXNYCLJV"
+                ],
+                "count": 21
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U070HS28L15",
+                    "U06LMLKREUU",
+                    "U070YD72JPL",
+                    "U06M7TE180Y",
+                    "U06LG62FNP7",
+                    "U070VFTNHNZ",
+                    "U0710SZCKS8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "総務局_yuha01",
+                "users": [
+                    "U070VFZF6BF",
+                    "U06LCE9NLP8",
+                    "U070HS28L15",
+                    "U06LK3MPZ34",
+                    "U071B38LED7",
+                    "U070HS23XV5",
+                    "U070YD72JPL",
+                    "U06LXNX1A57",
+                    "U06LG62FNP7",
+                    "U070VFP05K7",
+                    "U0710SZCKS8"
+                ],
+                "count": 11
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U070HS28L15",
+                    "U070HS23XV5",
+                    "U070YD72JPL",
+                    "U06M7TE180Y",
+                    "U06LG62FNP7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "hatching_chick",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG62FNP7",
+                    "U070YD72JPL",
+                    "U070HS28L15"
+                ],
+                "count": 4
+            },
+            {
+                "name": "baby_chick",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG62FNP7",
+                    "U070YD72JPL",
+                    "U070HS28L15"
+                ],
+                "count": 4
+            },
+            {
+                "name": "hatched_chick",
+                "users": [
+                    "U06LG62FNP7",
+                    "U06LCE9NLP8",
+                    "U070YD72JPL",
+                    "U070HS28L15"
+                ],
+                "count": 4
+            },
+            {
+                "name": "グッドだね",
+                "users": [
+                    "U070YD72JPL",
+                    "U06LXNX1A57",
+                    "U070HS28L15",
+                    "U0710SZCKS8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "犯人は小林昌博",
+                "users": [
+                    "U06LG668093"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B38LED7",
+        "type": "message",
+        "ts": "1733119813.064289",
+        "client_msg_id": "911A6C98-B70D-4075-B7E3-D606D172AE9B",
+        "text": "家族との予定があるため欠席します。最後の会議なのに本当に申し訳ないです:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "adef3ebaad3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-30\/8117140921393_adef3ebaad3c82d8d2ab_72.png",
+            "first_name": "篠原利玖",
+            "real_name": "篠原利玖",
+            "display_name": "Shinohara.Riku",
+            "team": "T06L90YHJF8",
+            "name": "rikushino0710",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733119638.935679",
+        "parent_user_id": "U071M6ZDDQ8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9Mdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家族との予定があるため欠席します。最後の会議なのに本当に申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U071M6ZDDQ8",
+                    "U070YD72JPL",
+                    "U06M7TE180Y",
+                    "U0710SZCKS8",
+                    "U06LCE9NLP8",
+                    "U070VFTNHNZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U070YD72JPL",
+                    "U0710SZCKS8",
+                    "U06LCE9NLP8",
+                    "U070VFZF6BF",
+                    "U06LXNYCLJV"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U070YD72JPL",
+        "type": "message",
+        "ts": "1733121892.337539",
+        "client_msg_id": "1772d933-6196-4b71-852b-4ce881985139",
+        "text": "バイトのため、遅刻します。申し訳ございません。急ぎます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "90515e12708a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7694981498231_90515e12708a0701ba92_72.png",
+            "first_name": "櫻井大都",
+            "real_name": "櫻井大都",
+            "display_name": "Sakurai.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "harutos40",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733119638.935679",
+        "parent_user_id": "U071M6ZDDQ8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1d2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトのため、遅刻します。申し訳ございません。急ぎます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071M6ZDDQ8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U0710SZCKS8",
+                    "U06LCE9NLP8",
+                    "U070VFZF6BF",
+                    "U070VFTNHNZ",
+                    "U06LXNYCLJV"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

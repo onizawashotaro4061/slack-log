@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1712757559.958209",
+        "client_msg_id": "0E2130DF-1395-4ECE-9DB6-2AFB2EECBA05",
+        "text": "<!channel> 明日の三年会会議なくしますね。かわりに5限の時間に新歓やってるので来れる人は法被持ってきて参加してくださーい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSN30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日の三年会会議なくしますね。かわりに5限の時間に新歓やってるので来れる人は法被持ってきて参加してくださーい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GHAANB",
+                    "U06L4H8CGQP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

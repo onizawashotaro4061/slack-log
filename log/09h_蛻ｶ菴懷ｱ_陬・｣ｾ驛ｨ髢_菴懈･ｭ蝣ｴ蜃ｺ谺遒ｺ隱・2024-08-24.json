@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U06LMHSCW1J",
+        "type": "message",
+        "ts": "1724514597.808929",
+        "client_msg_id": "A671E2C0-3BB6-4F2D-BA5F-91A8443701B4",
+        "text": "多分バイトあるから早退",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "75cb365dc368",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-12\/7428073219441_75cb365dc368b8d2f98f_72.png",
+            "first_name": "大前史流",
+            "real_name": "大前史流",
+            "display_name": "Omae.Shiryu",
+            "team": "T06L90YHJF8",
+            "name": "takaoshiryu09050905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723174347.477729",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3eEPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分バイトあるから早退"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FAL83",
+        "type": "message",
+        "ts": "1724534814.890689",
+        "client_msg_id": "D8AD250B-A31B-4133-9108-B445D8795E5B",
+        "text": "朝バイトだった :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bd4686eab1e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8025160921732_bd4686eab1e93a57aabc_72.png",
+            "first_name": "栗山ひおな",
+            "real_name": "栗山ひおな",
+            "display_name": "Kuriyama.Hiona",
+            "team": "T06L90YHJF8",
+            "name": "mt.mrn.hio7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723174426.106239",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4skU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "朝バイトだった "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LK3LM7AN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

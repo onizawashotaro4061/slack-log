@@ -1,0 +1,187 @@
+[
+    {
+        "user": "U070HT2C5KR",
+        "type": "message",
+        "ts": "1732177355.713269",
+        "client_msg_id": "BF15417B-4A55-4E7C-B9F0-A63A12D13E37",
+        "text": "今朝から目眩がするため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "g85990b4d7ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85990b4d7ab5ccfaa3ccfae111600951.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "森野佑莉香",
+            "real_name": "森野佑莉香",
+            "display_name": "Morino.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yusangun2006",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732170557.823399",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0ldr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今朝から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "目眩がするため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U06LCE4EV2A",
+                    "U070YD83MD0",
+                    "U06LG63FJUD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SJQH1",
+        "type": "message",
+        "ts": "1732179276.638709",
+        "client_msg_id": "5B56977C-1CB6-4CEB-8970-A20ED95A02E3",
+        "text": "体調不良のため欠席します。申し訳ありません:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1ced3ef2c793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7137437986758_1ced3ef2c7932018d882_72.png",
+            "first_name": "千葉澪未",
+            "real_name": "千葉澪未",
+            "display_name": "Chiba. Remi",
+            "team": "T06L90YHJF8",
+            "name": "rchiba39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732170557.823399",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLWMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U06LCE4EV2A",
+                    "U070YD83MD0",
+                    "U06LG63FJUD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06LCE4EV2A",
+        "type": "message",
+        "ts": "1732181971.945129",
+        "client_msg_id": "7BD41E44-60C7-42C1-A57F-C91B51A3636F",
+        "text": "京王止まって笹塚から歩くので間に合わないかもです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9dca79c3a480",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7895481592224_9dca79c3a480ea4062ff_72.png",
+            "first_name": "佐藤諒成",
+            "real_name": "佐藤諒成",
+            "display_name": "Sato.Ryosei",
+            "team": "T06L90YHJF8",
+            "name": "ryokichi0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732170557.823399",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MlUtn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王止まって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "笹塚から歩くので間に合わないかもです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "か_本間すまん",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LMH49UQL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かっけえっす",
+                "users": [
+                    "U06LMH49UQL",
+                    "U06L4GKGXB9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

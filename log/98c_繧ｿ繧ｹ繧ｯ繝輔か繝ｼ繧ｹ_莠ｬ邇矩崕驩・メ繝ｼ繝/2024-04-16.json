@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1713330361.702679",
+        "edited": {
+            "user": "U06LCE9HTP0",
+            "ts": "1713421535.000000"
+        },
+        "client_msg_id": "4821fd02-4091-4caa-9e15-2fcc9a2f3307",
+        "text": "<!channel>\nお疲れ様です。会議連絡です。\n0418_第3回京王電鉄チーム会議\n【場所】グループ閲覧室3\n【時間】17：10〜18：50（最大）\n【議題】\n1.諸連絡（意思共有）\n2.今後のスケジュールについて（意思共有）\n3.一般企画書敲きについて（意見交換・決定）\n4.手段選定について（意思共有）\nになります。\n初の対面会議楽しみですね！\n見たらリアクションー:bangbang:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFghb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。会議連絡です。\n0418_第3回京王電鉄チーム会議\n【場所】グループ閲覧室3\n【時間】17：10〜18：50（最大）\n【議題】\n1.諸連絡（意思共有）\n2.今後のスケジュールについて（意思共有）\n3.一般企画書敲きについて（意見交換・決定）\n4.手段選定について（意思共有）\nになります。\n初の対面会議楽しみですね！\n見たらリアクションー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK3Q6Y2W",
+                    "U06LK0DK7R9",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

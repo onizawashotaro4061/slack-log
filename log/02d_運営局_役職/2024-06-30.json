@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1719796324.884189",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1719908486.000000"
+        },
+        "client_msg_id": "229cf036-37e5-4f58-bb69-0517fff134c4",
+        "text": "*<!channel>*\n0705_運営局役職会議\n【時間】\n21：30〜23：00（予定）\n【場所】\nZoom\n【議題】\n1. 部門報告（意見交換）\n2. 設置物連携について（意見交換）\n3. 諸連絡（意思共有）\n確認したらりゅうせいに関連するやつでリアクションを！\n欠席・遅刻は局長まで\n\n提出物・チェック物多いですが頑張りましょう！！\nちなみに局長の1週間の目標は時間に遅れずに授業で出ることです。（石井かんのすけと一緒に頑張ります）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njE+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0705_運営局役職会議\n【時間】\n21：30〜23：00（予定）\n【場所】\nZoom\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "設置物連携について（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらりゅうせいに関連するやつでリアクションを！\n欠席・遅刻は局長まで\n\n提出物・チェック物多いですが頑張りましょう！！\nちなみに局長の1週間の目標は時間に遅れずに授業で出ることです。（石井かんのすけと一緒に頑張ります）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LK3LHG0J",
+                    "U06LG62V1FX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営局_りゅうせい_j-soul",
+                "users": [
+                    "U06LK0FUAHZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GHLP2B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1717415767.924199",
+        "client_msg_id": "25E65BBE-BE7A-4653-A503-CDA107567E32",
+        "text": "<!channel>\nお疲れ様です。\n6月4日(火)の第20回総務局会議について連絡です。\n\n【時間】\n19:00〜20:40\n【場所】\n和泉ラーニングスクエア LS406教室\n【議題】\n1. 各種報告(意思共有)\n2. 6月期総会分析(意見交換)\n3. GW講座(意見交換)\n4. 諸連絡\n【持ち物】\nパソコン\n【議事録】\nはるな\n\n*遅刻早退欠席などはスレッドにお願いします！*\n\n今朝、緊急地震速報で目覚めました。普段、ゆったりとした音楽を目覚ましにしてるので、すごく気分が悪かったです。\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717415767.924199",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1717494118.412109",
+        "reply_users": [
+            "U070YD72JPL",
+            "U06M7SZ5WG0",
+            "U06LM0QJV3L"
+        ],
+        "replies": [
+            {
+                "user": "U070YD72JPL",
+                "ts": "1717422182.163399"
+            },
+            {
+                "user": "U06M7SZ5WG0",
+                "ts": "1717486525.760819"
+            },
+            {
+                "user": "U06LM0QJV3L",
+                "ts": "1717494118.412109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGLca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日(火)の第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "20"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回総務局会議について連絡です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "19:00〜20:40"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "和泉ラーニングスクエア LS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "406"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教室"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "6月期総会分析"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW講座(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【持ち物】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パソコン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議事録】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nはるな\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "今朝、緊急地震速報で目覚めました。普段、ゆったりとした音楽を目覚ましにしてるので、すごく気分が悪かったです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070HS23XV5",
+                    "U071B38LED7",
+                    "U06LG6B2NA1",
+                    "U06LFKRD4MQ",
+                    "U070RQ0TU6A",
+                    "U06M7TE180Y",
+                    "U070YD72JPL",
+                    "U06LCE9NLP8",
+                    "U070VFP05K7",
+                    "U070VFZF6BF",
+                    "U06LMLKREUU",
+                    "U070HS28L15",
+                    "U06LG668093",
+                    "U06LXNYCLJV",
+                    "U070YD8BGRG",
+                    "U06LK3MPZ34",
+                    "U070Y9Q9151",
+                    "U06LS7G3G0M",
+                    "U070RQ001V4",
+                    "U06LXNX1A57",
+                    "U06M7SZ5WG0",
+                    "U071M6ZDDQ8"
+                ],
+                "count": 22
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U071M6ZDDQ8",
+                    "U06LM0QJV3L",
+                    "U070YD72JPL",
+                    "U06LG62FNP7"
+                ],
+                "count": 4
+            },
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U06LM0QJV3L",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            },
+            {
+                "name": "anatomical_heart",
+                "users": [
+                    "U06M7TE180Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD72JPL",
+        "type": "message",
+        "ts": "1717422182.163399",
+        "client_msg_id": "E47DAB1F-9555-492D-845F-4584C5ECEC92",
+        "text": "バイトのため遅刻します。 :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "90515e12708a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7694981498231_90515e12708a0701ba92_72.png",
+            "first_name": "櫻井大都",
+            "real_name": "櫻井大都",
+            "display_name": "Sakurai.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "harutos40",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717415767.924199",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Te88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトのため遅刻します。 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "犯人は小林昌博",
+                "users": [
+                    "U06LG668093"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

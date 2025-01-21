@@ -1,0 +1,228 @@
+[
+    {
+        "user": "U070YDCRM1Q",
+        "type": "message",
+        "ts": "1729755628.973539",
+        "client_msg_id": "b5541784-950e-4e72-aa84-961e84649819",
+        "text": "前に予定を入れてしまったので遅刻します:smiling_face_with_tear:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ac312627de56",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-14\/8039674612529_ac312627de568e165dda_72.jpg",
+            "first_name": "東海敦子",
+            "real_name": "東海敦子",
+            "display_name": "Tokai.Atsuko",
+            "team": "T06L90YHJF8",
+            "name": "atuatu.a1315",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729581378.732559",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDQBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前に予定を入れてしまったので遅刻します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1729761985.654869",
+        "client_msg_id": "4C0636C7-E47B-4883-AFBF-EFE37F5D6742",
+        "text": "風邪でやすみます :sob: :sob: :sob: :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729581378.732559",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IDjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪でやすみます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LG62UXPX",
+                    "U06LG6Q48SZ",
+                    "U06LMH9MBFW",
+                    "U06L4GM5C87",
+                    "U06LXNYGGHX",
+                    "U06LK3LM7AN"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U070RQ3G5DL",
+        "type": "message",
+        "ts": "1729763712.386639",
+        "client_msg_id": "FB2BAD71-44EF-40E1-96DE-3712E8E9CBE5",
+        "text": "遅延の影響で少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "81070e22efba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-23\/7640563483040_81070e22efba66b75ecb_72.png",
+            "first_name": "上村侑正",
+            "real_name": "上村侑正",
+            "display_name": "Kamimura.Yusei",
+            "team": "T06L90YHJF8",
+            "name": "moseumiwari575",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729581378.732559",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7z121",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅延の影響で少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXP316UR",
+        "type": "message",
+        "ts": "1729764039.902099",
+        "client_msg_id": "E512EBF9-46EF-4CF0-9701-6E7E86669ECB",
+        "text": "ひおなと一緒に遅延に巻き込まれてて10分程度遅れちゃいますごめんなさい:sob::sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cfc9310da862",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8116063170183_cfc9310da862f718ef36_72.png",
+            "first_name": "　",
+            "real_name": "　",
+            "display_name": "",
+            "team": "T06L90YHJF8",
+            "name": "yuina.4062",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729581378.732559",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4M1tk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひおなと一緒に遅延に巻き込まれてて10分程度遅れちゃいますごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

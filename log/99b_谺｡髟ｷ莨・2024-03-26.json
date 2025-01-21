@@ -1,0 +1,160 @@
+[
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711508728.094099",
+        "client_msg_id": "175E7C30-2B11-49C3-8E34-BD4ED76F5BD0",
+        "text": "おつかれさまです、\n突然失礼いたします。\nSlackチームの吉良と申します。\nできている人もいる中で申し訳ないのですが、みなさんのステータスを\"次長\"に変えていただきたいです :pray::skin-tone-2: \nご多忙の中、お手数おかけいたしますが、\nご協力のほどよろしくお願いいたします:woman-bowing::skin-tone-2: :woman-bowing::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711508728.094099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711968811.545289",
+        "reply_users": [
+            "U06M7SETDKJ"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1711968811.545289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sC5s8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おつかれさまです、\n突然失礼いたします。\nSlackチームの吉良と申します。\nできている人もいる中で申し訳ないのですが、みなさんのステータスを\"次長\"に変えていただきたいです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nご多忙の中、お手数おかけいたしますが、\nご協力のほどよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06L4GM5C87",
+                    "U06LXNYUX7T",
+                    "U06LXNYCLJV",
+                    "U06LK3MF9FC",
+                    "U06LK0FUAHZ",
+                    "U06LJ0SKMEZ",
+                    "U06LG62V1FX",
+                    "U06L4GH4ETH",
+                    "U06LXNZDHFT",
+                    "U06L4GL1CUF",
+                    "U06M7SPUVEC"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06LE9EH9QV",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "slackチーム長吉良",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SPUVEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1711509352.689179",
+        "client_msg_id": "c530dd45-8888-43a5-a303-08ce311880ba",
+        "text": "<!channel>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

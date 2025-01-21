@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719368726.832479",
+        "client_msg_id": "4924c175-3821-4f64-a818-602a9db8002e",
+        "text": "<@U06LG5XQGS1>\nげんき？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719368726.832479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1719386831.304249",
+        "reply_users": [
+            "U06LG5XQGS1",
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06LG5XQGS1",
+                "ts": "1719386743.457279"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719386831.304249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OvK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LG5XQGS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nげんき？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

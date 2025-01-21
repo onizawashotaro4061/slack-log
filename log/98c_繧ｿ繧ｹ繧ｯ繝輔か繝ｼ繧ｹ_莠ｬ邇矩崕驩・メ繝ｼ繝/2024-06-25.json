@@ -1,0 +1,157 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719368791.862719",
+        "client_msg_id": "d850a414-b4cb-4723-b419-1e08f0ca629f",
+        "text": "<@U06LCE9HTP0> げんき？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jOU3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " げんき？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1719370086.848639",
+        "client_msg_id": "859C2A79-4F51-443E-A6FE-24F8F62AC7EC",
+        "text": "<@U06L97X3V6J> \n今度また7月頭に京王と会議したいなって思ってます。そろそろメール送るつもりです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370086.848639",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1719370120.458389",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719370120.458389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tzQS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今度また7月頭に京王と会議したいなって思ってます。そろそろメール送るつもりです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719370120.458389",
+        "client_msg_id": "516d8acc-dbb9-4fd2-8bbb-95651411ce49",
+        "text": "りょうかい！\nがんばーれ\nがくじとのやり取りも大変やけど",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370086.848639",
+        "parent_user_id": "U06LCE9HTP0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4000",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょうかい！\nがんばーれ\nがくじとのやり取りも大変やけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

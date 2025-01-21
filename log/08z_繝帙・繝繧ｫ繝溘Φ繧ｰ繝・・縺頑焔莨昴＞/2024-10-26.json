@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1729987784.933829",
+        "client_msg_id": "f0b5594a-a42e-4a47-90be-a34fe7f74adb",
+        "text": "<!channel> お疲れ様です！\n本日の昼食会場は\n・*LT9階 1093教室*\n\n・*AC8階 308F教室*\n\nの2教室となっております！\n休憩時間に各自で食べていただけると有難いです:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypGTD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\n本日の昼食会場は\n・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LT9階 1093教室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "AC8階 308F教室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nの2教室となっております！\n休憩時間に各自で食べていただけると有難いです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LXK3RF7B",
+                    "U06LCE4EV2A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "し_しんか_しんks-3",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

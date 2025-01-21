@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1732612650.646819",
+        "edited": {
+            "user": "U06LM0QJV3L",
+            "ts": "1732616661.000000"
+        },
+        "client_msg_id": "AE1A1574-35A8-47DE-93D2-BADD71A194B3",
+        "text": "ゼミのため遅刻します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522113.749589",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6D4kj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミのため遅刻します。すみま"
+                            },
+                            {
+                                "type": "text",
+                                "text": "せん。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1732614258.620219",
+        "client_msg_id": "B5F581AB-6173-43D1-9DD1-86BE910FC35F",
+        "text": "電車乗り間違えたので少し遅れます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732522113.749589",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SN6XO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車乗り間違えたので少し遅れます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

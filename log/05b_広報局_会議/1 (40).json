@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U071B38EX0R",
+        "type": "message",
+        "ts": "1717052412.388539",
+        "client_msg_id": "1ACF5D13-EFE3-4DB3-8DA0-5C2E453D7E41",
+        "text": "発熱してしまったため休みます。すいません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9df6f64c60c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-26\/7346138072529_9df6f64c60c701c30ebc_72.png",
+            "first_name": "小野﨑優斗",
+            "real_name": "小野﨑優斗",
+            "display_name": "Onozaki.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "onozaki.yuto082905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716943493.146089",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FcoBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発熱してしまったため休みます。すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U06LY5XNLBT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3KA09G",
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U0710T0NBFE",
+                    "U06LCVDE88N",
+                    "U06LXNY8KMF",
+                    "U070YD75PJ6"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

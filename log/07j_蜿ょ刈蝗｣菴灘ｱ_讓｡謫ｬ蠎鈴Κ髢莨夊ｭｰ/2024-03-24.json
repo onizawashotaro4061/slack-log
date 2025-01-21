@@ -1,0 +1,116 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LKTXCZL4",
+        "text": "<@U06LKTXCZL4>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711278170.286999"
+    },
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1711297764.141439",
+        "edited": {
+            "user": "U06LXNZDHFT",
+            "ts": "1711383091.000000"
+        },
+        "client_msg_id": "1618B62F-2224-4C4C-9478-4F7EF9B7E253",
+        "text": "0326_第1回模擬店部門会議\n\n【場所】グル閲3 (図書館の中！)\n\n【時間】10 : 00-12 : 00\n\n【議題】\n1.部門体制について   (意思共有)\n2.資料作成•チェック体制について（意見交換•決定）\n3.募集説明会について（意見交換•決定）\n4.今後の会議について（意見交換•決定)\n5.諸連絡   (意思共有)\n\n【持ち物】パソコン、やる気と元気\n\n【議事録】文責 : <@U06LG6DR26R> \n　　　　　チェック : <@U06L4GJDNUX> \n\n記念すべき1回目！不安しかないけど頑張ります:muscle:　議題多いので終わらなかったら午後の局会議の時に終わらせるよーん\n\n確認したらリアクションお願いー！！！\n遅刻•欠席•早退は俺に連絡してねーん。\n\nでは、気合い入れすぎず、力抜いて頑張ってこ。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkUtV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0326_第1回模擬店部門会議\n\n【場所】グル閲3 (図書館の中！)\n\n【時間】10 : 00-12 : 00\n\n【議題】\n1.部門体制について   (意思共有)\n2.資料作成•チェック体制について（意見交換•決定）\n3.募集説明会について（意見交換•決定）\n4.今後の会議について（意見交換•決定)\n5.諸連絡   (意思共有)\n\n【持ち物】パソコン、やる気と元気\n\n【議事録】文責 : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG6DR26R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n　　　　　チェック : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJDNUX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n記念すべき1回目！不安しかないけど頑張ります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　議題多いので終わらなかったら午後の局会議の時に終わらせるよーん\n\n確認したらリアクションお願いー！！！\n遅刻•欠席•早退は俺に連絡してねーん。\n\nでは、気合い入れすぎず、力抜いて頑張ってこ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SUB2GY",
+                    "U06LG6DR26R",
+                    "U06L4GJDNUX",
+                    "U06L4GLRPF1",
+                    "U06L4H5UASK",
+                    "U06LG63910V",
+                    "U06LK18Q06P"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LG6DR26R",
+                    "U06L4GLRPF1",
+                    "U06L4H5UASK",
+                    "U06LG63910V",
+                    "U06LK18Q06P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LK3RVDGA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LK0DLEQ3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

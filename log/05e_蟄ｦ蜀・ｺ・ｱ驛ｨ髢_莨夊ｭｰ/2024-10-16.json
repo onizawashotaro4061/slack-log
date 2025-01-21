@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1729096898.536099",
+        "edited": {
+            "user": "U06L4GL1CUF",
+            "ts": "1729398970.000000"
+        },
+        "client_msg_id": "26799ad3-036d-4123-80fa-2fa1e32fa286",
+        "text": "<!channel> \n1017_第25回広報局学内広報部門会議\n【時間】19:05～20:40\n【場所】和泉ラーニングスクエアLS505教室\n【持ち物】\nパソコン\n動きやすい靴\n【議題】\n1.諸連絡(意思共有)\n2.和泉キャンパスツアー(意思共有)\n【議事録】ひな→西村\n\n出席・欠席のスタンプ必須！\n遅刻、欠席、早退はスレッドへ\n\nもうカウントダウンですね、、\n後悔ない時間を過ごしましょう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729096898.536099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1729146697.531829",
+        "reply_users": [
+            "U070VFY94H3",
+            "U070HS55GQP"
+        ],
+        "replies": [
+            {
+                "user": "U070VFY94H3",
+                "ts": "1729129974.774619"
+            },
+            {
+                "user": "U070HS55GQP",
+                "ts": "1729146697.531829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCcIQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n1017_第25回広報局学内広報部門会議\n【時間】19:05～20:40\n【場所】和泉ラーニングスクエアLS505教室\n【持ち物】\nパソコン\n動きやすい靴\n【議題】\n1.諸連絡(意思共有)\n2.和泉キャンパスツアー(意思共有)\n【議事録】ひな→西村\n\n出席・欠席のスタンプ必須！\n遅刻、欠席、早退はスレッドへ\n\nもうカウントダウンですね、、\n後悔ない時間を過ごしましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U06LMH3952Q",
+                    "U06LXNWSGPK",
+                    "U070Y9RMP7D",
+                    "U06LK3KA09G",
+                    "U06LXNY8KMF",
+                    "U06LXNZJBFT",
+                    "U071B38HAM7",
+                    "U070HS202UX",
+                    "U070Y9RLJTV",
+                    "U06LMH3GJKE",
+                    "U070Y9UKJV9",
+                    "U070HS2FRT9"
+                ],
+                "count": 13
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U070VFY94H3",
+                    "U070HS55GQP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070VFY94H3",
+        "type": "message",
+        "ts": "1729129974.774619",
+        "client_msg_id": "6BEEBA96-24D0-40E2-A426-2FEF820E48FE",
+        "text": "私用のためお休みします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4f6853dd6fac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8051880304580_4f6853dd6facac08df22_72.png",
+            "first_name": "和田隼",
+            "real_name": "和田隼",
+            "display_name": "Wada.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "05haya03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729096898.536099",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OLM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のためお休みします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1729146697.531829",
+        "client_msg_id": "E4153698-A9B9-4994-B40B-FB680584A30D",
+        "text": "体調崩しちゃって、学校お休みしたのでこっちもお休みさせていただきます:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729096898.536099",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfyAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調崩しちゃって、学校お休みしたのでこっちもお休みさせていただきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

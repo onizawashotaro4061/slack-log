@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1727615581.950399",
+        "client_msg_id": "1B6C4421-8116-4458-A1B2-4A4758D39398",
+        "text": "〆 :bangbang: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzTpL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "〆 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0F2RC3",
+        "type": "message",
+        "ts": "1727658734.644439",
+        "client_msg_id": "D103B972-D7D5-4171-B2C9-CE5703CC891B",
+        "text": "かりあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "03e01b98e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876950106419_03e01b98e2515aaf86c7_72.png",
+            "first_name": "工藤大智",
+            "real_name": "工藤大智",
+            "display_name": "Kudo.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "cat.daichij31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyQOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

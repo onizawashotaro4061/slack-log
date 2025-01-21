@@ -1,0 +1,219 @@
+[
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1711937051.491249",
+        "client_msg_id": "CE210206-85D0-42B2-A0CC-DB7DF857B565",
+        "text": "エイプリルフールかりあけ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711937051.491249",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711940235.846639",
+        "reply_users": [
+            "U06L4CMKY8P",
+            "U06LK3HUVTL"
+        ],
+        "replies": [
+            {
+                "user": "U06L4CMKY8P",
+                "ts": "1711939064.832419"
+            },
+            {
+                "user": "U06LK3HUVTL",
+                "ts": "1711940235.846639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQt6m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エイプリルフールかりあけ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "聖母-みちるさん",
+                "users": [
+                    "U06LVK2FU1X",
+                    "U06LK3L6B4J",
+                    "U06LY5XNLBT",
+                    "U06LK3LKR9Q"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06LG60SFEH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4CMKY8P",
+        "type": "message",
+        "ts": "1711939064.832419",
+        "client_msg_id": "A35E8758-C9BE-4FAD-925F-E2D7E4F0AD1B",
+        "text": "つまり開けてないってこと？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b660bcd576fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7979995051652_b660bcd576fd7ddb68dc_72.png",
+            "first_name": "清野琴弓",
+            "real_name": "清野琴弓",
+            "display_name": "Seino.Kotomi",
+            "team": "T06L90YHJF8",
+            "name": "s.koto.0320",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711937051.491249",
+        "parent_user_id": "U06LK3HUVTL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w4Oo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "つまり開けてないってこと？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1711940235.846639",
+        "client_msg_id": "E7C825B0-52FD-4475-8FA4-9C8E2773991B",
+        "text": "<@U06L4CMKY8P> あごめんごめんごめんバリバリあけてます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711937051.491249",
+        "parent_user_id": "U06LK3HUVTL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3onOs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4CMKY8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あごめんごめんごめんバリバリあけてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3HUVTL",
+        "type": "message",
+        "ts": "1711949313.263659",
+        "client_msg_id": "4B43439C-4FCC-4E0A-84FD-654B000E4041",
+        "text": "しめかえし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd2790163d48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7614199820500_cd2790163d4858b62313_72.png",
+            "first_name": "川口みちる",
+            "real_name": "川口みちる",
+            "display_name": "Kawaguchi.Michiru",
+            "team": "T06L90YHJF8",
+            "name": "michiru0313",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2P\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

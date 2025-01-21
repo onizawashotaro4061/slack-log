@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1731821609.571669",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1732005340.000000"
+        },
+        "client_msg_id": "CF954BE7-3DBD-46A7-9413-63CEFDD3EA52",
+        "text": "<!channel>\n\n1119_第27回運営局備品管理部門会議\n【時間】\n19:00~ 20:40\n【場所】\nLS304\n【議題】\n1. 本祭の反省(意見交換)\n2.  新規ラストメッセージ(意思共有)\n3.  諸連絡（意思共有）\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n新規はラストメッセージのパワポのご用意を！\n残り少ない会議楽しんでいこ～～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWuDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n1119_第27回運営局備品管理部門会議\n【時間】\n19:00~ 20:40\n【場所】\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LS304"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本祭の反省(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 新規ラストメッセージ(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n新規はラストメッセージのパワポのご用意を！\n残り少ない会議楽しんでいこ～～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071M6Y794Y",
+                    "U06LKJS20KC",
+                    "U06LXP3HYQH",
+                    "U06LK3MMALA",
+                    "U06M7SX52RW",
+                    "U06LK0EQS59"
+                ],
+                "count": 6
+            },
+            {
+                "name": "運営_こいでともたか_t",
+                "users": [
+                    "U071M6Y794Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "キラキラたくみ",
+                "users": [
+                    "U071M6Y794Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "居眠りこたちゃん",
+                "users": [
+                    "U071M6Y794Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LKJS20KC",
+                    "U06M7SX52RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_ながしゅん_踊るブンカッキー",
+                "users": [
+                    "U06LKJS20KC",
+                    "U06LK0EQS59"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ジョージ2",
+                "users": [
+                    "U06LKJS20KC",
+                    "U06M7SX52RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "とほさんぷん",
+                "users": [
+                    "U0710T2V2HJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

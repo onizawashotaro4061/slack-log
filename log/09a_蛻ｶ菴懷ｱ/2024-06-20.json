@@ -1,0 +1,54 @@
+[
+    {
+        "text": "今日説明した資料です！",
+        "files": [
+            {
+                "id": "F079N7JS0AU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GH3T7H",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMo8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日説明した資料です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718883793.043959",
+        "client_msg_id": "eb6f0f21-8593-4237-87e1-97e18bfaea04",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U06L4GM463H",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LXNUQ989",
+                    "U070Y9QMUSX",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

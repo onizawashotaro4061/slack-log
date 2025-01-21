@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1716534408.476989",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1716621026.000000"
+        },
+        "client_msg_id": "f3ba0ed9-81ac-42f5-a9f3-ab2358904d91",
+        "text": "0526_第16回\n <!channel>\n場所：明大祭実行委員会室\n時間：11：00ー17：00(確定版)\n議題\n　　：サマーフェスタ一般企画書　11：00ー11：30\n　　：レッドブルを巡る議論について　11：30－12：00\n　　：新企画A一般企画書　12：00ー12：30\n　　：新企画B一般企画書　12：30ー13：00\n　　：エントラゲスト誘致.  13:00-13:30\n昼休憩（13：30ー14：30）\n　　：局長報告　14：30ー15:00\n　　：願書について　15：00－15：30\n　　：中夜祭一般企画書　15：30－16:00\n　　：講習会参加について　16：00－16:15\n　　：諸連絡　16：15－16：30",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716534408.476989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716534469.292239",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1716534469.292239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHGSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0526_第16回\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n場所：明大祭実行委員会室\n時間：11：00ー17：00(確定版)\n議題\n　　：サマーフェスタ一般企画書　11：00ー11：30\n　　：レッドブルを巡る議論について　11：30－12：00\n　　：新企画A一般企画書　12：00ー12：30\n　　：新企画B一般企画書　12：30ー13：00\n　　：エントラゲスト誘致.  13:00-13:30\n昼休憩（13：30ー14：30）\n　　：局長報告　14：30ー15:00\n　　：願書について　15：00－15：30\n　　：中夜祭一般企画書　15：30－16:00\n　　：講習会参加について　16：00－16:15\n　　：諸連絡　16：15－16：30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1716534469.292239",
+        "client_msg_id": "036f77ca-5b57-4485-8339-23f7ed5c7349",
+        "text": "追加したい議題があればスレッドに！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716534408.476989",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVrCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加したい議題があればスレッドに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

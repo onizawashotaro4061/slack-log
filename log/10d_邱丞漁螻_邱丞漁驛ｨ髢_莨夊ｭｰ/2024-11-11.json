@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U070YD8BGRG",
+        "type": "message",
+        "ts": "1731312935.148989",
+        "client_msg_id": "01290e4d-110f-406d-a782-43c66914122d",
+        "text": "体調がすぐれないので欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "13fb1e913b84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7720286708229_13fb1e913b84f7c24d15_72.png",
+            "first_name": "古田",
+            "real_name": "古田 真夕",
+            "display_name": "Furuta.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "furuta.mayu05ic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731220934.941549",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JhZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調がすぐれないので欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LG62FNP7",
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LXNYCLJV",
+                    "U070YD72JPL"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U070VFTNHNZ",
+        "type": "message",
+        "ts": "1731314058.985899",
+        "client_msg_id": "3C128EC7-48EB-42A1-BACF-798BDCBAEA26",
+        "text": "発熱のためおやすみします。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "45b14c5d5cbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7996632561345_45b14c5d5cbeacbe7e31_72.png",
+            "first_name": "木立倭乎",
+            "real_name": "木立倭乎",
+            "display_name": "Kidachi.Wako",
+            "team": "T06L90YHJF8",
+            "name": "muliwohu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731220934.941549",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5+5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発熱のためおやすみします。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LG62FNP7",
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LXNYCLJV",
+                    "U070YD72JPL"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U070RQ001V4",
+        "type": "message",
+        "ts": "1731315417.181469",
+        "client_msg_id": "994ecda4-4a07-4bd4-b91a-bf9d2651f5ba",
+        "text": "体調不良のため休ませてもらいます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ba5fd72e272",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-18\/7140529273716_6ba5fd72e272fcff0fa9_72.jpg",
+            "first_name": "高妻　瑠衣",
+            "real_name": "高妻　瑠衣",
+            "display_name": "Kozuma.Rui",
+            "team": "T06L90YHJF8",
+            "name": "lulu23blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731220934.941549",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tl8wl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため休ませてもらいます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MPZ34",
+                    "U06LG62FNP7",
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LXNYCLJV",
+                    "U070YD72JPL"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

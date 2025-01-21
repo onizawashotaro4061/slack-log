@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1719304210.984029",
+        "client_msg_id": "BCFCA410-8F75-461D-803C-161353B6467D",
+        "text": "体調不良で欠席させていただきます。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719286489.060739",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h+UGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で欠席させていただきます。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LK3HUVTL",
+                    "U06LXNWSGPK",
+                    "U06LMH3952Q"
+                ],
+                "count": 4
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LMH3952Q"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LCVDE88N",
+                    "U06LK3HUVTL",
+                    "U06LMH3952Q",
+                    "U06LK0EBWRH",
+                    "U06LCE9HTP0",
+                    "U06LY5XNLBT"
+                ],
+                "count": 7
+            },
+            {
+                "name": "西村-zidai",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LMH3952Q"
+                ],
+                "count": 2
+            },
+            {
+                "name": "crying_cat_face",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LMH3952Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

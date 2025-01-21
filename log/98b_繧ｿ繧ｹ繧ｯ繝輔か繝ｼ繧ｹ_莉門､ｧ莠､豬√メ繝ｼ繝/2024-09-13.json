@@ -1,0 +1,444 @@
+[
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1726233873.080299",
+        "client_msg_id": "0f2dc76b-58b4-438c-9000-478d078cd7d7",
+        "text": "<!channel>\nお疲れ様です！明日のチーム会議について連絡です。\n議題\n1．これまで（意思共有）\n2．gw（意見交換）\n3.  これから（意思共有）\n\nめっちゃ久しぶりだけど頑張りましょ！\n\n出欠はスタンプで必ずお願い！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726233873.080299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1726238615.150029",
+        "reply_users": [
+            "U06LXP1JG0Z",
+            "U06LMGM3CG4"
+        ],
+        "replies": [
+            {
+                "user": "U06LXP1JG0Z",
+                "ts": "1726234285.889359"
+            },
+            {
+                "user": "U06LMGM3CG4",
+                "ts": "1726238615.150029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMTda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！明日のチーム会議について連絡です。\n議題\n1．これまで（意思共有）\n2．gw（意見交換）\n3.  これから（意思共有）\n\nめっちゃ久しぶりだけど頑張りましょ！\n\n出欠はスタンプで必ずお願い！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U071B38HAM7",
+                    "U070Y9Q9151",
+                    "U06L4H8CGQP",
+                    "U070YD83MD0",
+                    "U071M6X5M16",
+                    "U06LCE9JG3G"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LXP1JG0Z",
+                    "U071M6X5M16"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LXP1JG0Z",
+                    "U06LG6DR26R",
+                    "U070HT2C5KR",
+                    "U06LMGM3CG4",
+                    "U070RQ2EQ86"
+                ],
+                "count": 6
+            },
+            {
+                "name": "002_演出_次長",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "003_開発_開",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LXP1JG0Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ではここでー",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "か＿本間宮の久大",
+                "users": [
+                    "U06LXP1JG0Z",
+                    "U071M6X5M16"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LXP1JG0Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1726234285.889359",
+        "client_msg_id": "EF0B2421-593A-47F2-A307-0A7DC2929797",
+        "text": "TOEICがあるため、欠席致します。次は出席します。申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726233873.080299",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/TWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TOEICがあるため、欠席致します。次は出席します。申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1726238615.150029",
+        "client_msg_id": "EC4F1B70-EB45-4C02-B9CC-EB4FAA51C625",
+        "text": "私用で欠席します…\nごめんなさい...",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726233873.080299",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrkCl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用で欠席します…\nごめんなさい..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1726276123.508799",
+        "client_msg_id": "2a061f35-ee25-4f1e-b834-90125a706e0e",
+        "text": "これまで\n　snsが始動！フォローしてね\n　明大祭の投稿もひなが作ってくれました！\n\nこれから\n　あした一橋で会議だよ！\n　10\/10の投稿を担当（提出は今月末が目安）\n　内容が未決定、明日の会議で決めます〜\n　ここですんなり決まれば、以降実地企画の話し合いができるかも！\n　これからの予定を確認、みんな来れそうかな？\ngw\n　これからの投稿どうする？\n　FSRの内容に基づいて、真面目に\n\n　サイト掲載の内容考えよう！\n　\n　＋タスクフォース会の様子を写真撮影",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TM1Jk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これまで\n　snsが始動！フォローしてね\n　明大祭の投稿もひなが作ってくれました！\n\nこれから\n　あした一橋で会議だよ！\n　10\/10の投稿を担当（提出は今月末が目安）\n　内容が未決定、明日の会議で決めます〜\n　ここですんなり決まれば、以降実地企画の話し合いができるかも！\n　これからの予定を確認、みんな来れそうかな？\ngw\n　これからの投稿どうする？\n　FSRの内容に基づいて、真面目に\n\n　サイト掲載の内容考えよう！\n　\n　＋タスクフォース会の様子を写真撮影"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07MEHBQEQK",
+                "created": 1726276319,
+                "timestamp": 1726276319,
+                "name": "Screenshot_20240914-092021.png",
+                "title": "Screenshot_20240914-092021.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LMH412CU",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 351768,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MEHBQEQK\/screenshot_20240914-092021.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MEHBQEQK\/download\/screenshot_20240914-092021.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 154,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 206,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 309,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1867,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 411,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEHBQEQK-5ae1d1394e\/screenshot_20240914-092021_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 439,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2520,
+                "thumb_tiny": "AwAwABTQ+UsRk5pwAHrUcnDAjGadgdwc\/WgB+BRQOBRQBG2A+SfwNKrDOMfkKGIzytAZSKAH0UUUANbcASPm9jTVcDgLj15qSk2r6CgAByOmKWjp0ooA\/9k=",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LMH412CU\/F07MEHBQEQK\/screenshot_20240914-092021.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07MEHBQEQK-0a3652fbc1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH412CU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1726276323.791519",
+        "client_msg_id": "d2dc5138-57b4-4ccd-8406-abd9b0ae424e"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07MH6QAGF6",
+                "created": 1726278408,
+                "timestamp": 1726278408,
+                "name": "0902_大学間FSR協議会_08.docx",
+                "title": "0902_大学間FSR協議会_08.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06LMH412CU",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 34583,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MH6QAGF6\/0902__________fsr__________08.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MH6QAGF6\/download\/0902__________fsr__________08.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MH6QAGF6-ebb7401dd4\/0902__________fsr__________08_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MH6QAGF6-ebb7401dd4\/0902__________fsr__________08_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LMH412CU\/F07MH6QAGF6\/0902__________fsr__________08.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07MH6QAGF6-c808d7b417",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH412CU",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1726278412.503679",
+        "client_msg_id": "55179372-16ef-4538-b417-12940b8bbe51"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07MEN2G7QA",
+                "created": 1726279055,
+                "timestamp": 1726279055,
+                "name": "140th版サイト文章作成書テンプレート.docx",
+                "title": "140th版サイト文章作成書テンプレート.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06L4H8CGQP",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 35156,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MEN2G7QA\/140th_____________________________________________.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MEN2G7QA\/download\/140th_____________________________________________.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEN2G7QA-aad3894b67\/140th______________________________________________converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MEN2G7QA-aad3894b67\/140th______________________________________________thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06L4H8CGQP\/F07MEN2G7QA\/140th_____________________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07MEN2G7QA-8325ff832a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4H8CGQP",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1726279059.532589",
+        "client_msg_id": "aacb7307-6271-4183-b49b-10e1761688c6"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1711176422.548219",
+        "client_msg_id": "3f63ba0b-d0ba-47f2-b8c4-ea181a4e791a",
+        "text": "<@U06LK0E89MH> ありがとう！\nまだ時間あるから、会議までに詳細を調べてきてほしい！\n・費用、管理者など\n現場の写真もできたらありがたい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710763727.221799",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/3OB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0E89MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとう！\nまだ時間あるから、会議までに詳細を調べてきてほしい！\n・費用、管理者など\n現場の写真もできたらありがたい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

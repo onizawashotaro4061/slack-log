@@ -1,0 +1,235 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1711264812.971969",
+        "client_msg_id": "BAD6DB28-DB6C-4744-AD78-FE84C1140162",
+        "text": "<@U06LCUTBMU5> ちょっと確認しないとわからないーー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710568280.663799",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qclp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCUTBMU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちょっと確認しないとわからないーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1711265221.344549",
+        "client_msg_id": "D0635C8F-386F-45B7-A83B-EDE9220686D1",
+        "text": "<@U06LE9EH9QV> <@U06L97X3V6J> そしたらこれは決定しながらやってもいいんじゃないかなーって思うんだけどどうでしょう？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710568280.663799",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8HHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そしたらこれは決定しながらやってもいいんじゃないかなーって思うんだけどどうでしょう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06L97X3V6J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1711343532.928659",
+        "client_msg_id": "7DB63FD6-5E1D-4234-94CC-458FDFAC5A34",
+        "text": "<!channel>\nきつきつやわまじでやばい\nよろしくお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yiGcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nきつきつやわまじでやばい\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1711343633.903669",
+        "text": "",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1710568280.663799",
+                "author_id": "U06L97X3V6J",
+                "channel_id": "C06NJQFJCKD",
+                "channel_team": "T06L90YHJF8",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06L90YHJF8",
+                        "channel": "C06NJQFJCKD",
+                        "ts": "1710568280.663799",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "jpBXw",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "0327_第8回役員会議\n10:00-挨拶\n10:30-17:00\n・MV一般企画書　16:00-17:00\n・渉外局活動企画書10:30-11:15\n・開発局活動企画書11:15-12:00\n・渉外局企業部門活動企画書14:00-15:00\n・明大祭コンセプト案選定12:00-12:30\n・大学紹介案件について12:30-13:00\n・新歓活動一般企画書及び新歓マニュアルについて　15:00-15:45\n・4月期総会について　15:45-16:00"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/140meidisai.slack.com\/archives\/C06NJQFJCKD\/p1710568280663799?thread_ts=1710568280.663799&cid=C06NJQFJCKD",
+                "is_share": true,
+                "fallback": "[March 16th, 2024 2:51 PM] maetouma: 0327_第8回役員会議\n10:00-挨拶\n10:30-17:00\n・MV一般企画書　16:00-17:00\n・渉外局活動企画書10:30-11:15\n・開発局活動企画書11:15-12:00\n・渉外局企業部門活動企画書14:00-15:00\n・明大祭コンセプト案選定12:00-12:30\n・大学紹介案件について12:30-13:00\n・新歓活動一般企画書及び新歓マニュアルについて　15:00-15:45\n・4月期総会について　15:45-16:00",
+                "text": "0327_第8回役員会議\n10:00-挨拶\n10:30-17:00\n・MV一般企画書　16:00-17:00\n・渉外局活動企画書10:30-11:15\n・開発局活動企画書11:15-12:00\n・渉外局企業部門活動企画書14:00-15:00\n・明大祭コンセプト案選定12:00-12:30\n・大学紹介案件について12:30-13:00\n・新歓活動一般企画書及び新歓マニュアルについて　15:00-15:45\n・4月期総会について　15:45-16:00",
+                "author_name": "前冬磨",
+                "author_link": "https:\/\/140meidisai.slack.com\/team\/U06L97X3V6J",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_48.png",
+                "author_subname": "前冬磨",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    }
+]

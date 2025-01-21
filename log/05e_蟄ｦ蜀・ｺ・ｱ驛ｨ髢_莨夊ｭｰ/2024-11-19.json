@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1732064324.346089",
+        "edited": {
+            "user": "U06L4GL1CUF",
+            "ts": "1732113639.000000"
+        },
+        "client_msg_id": "88173486-7fab-42ea-8e4f-171e2e3031af",
+        "text": "<!channel>\n1121_第28回広報局学内広報部門会議\n【時間】19：00～\n【場所】和泉ラーニングスクエアLS503教室\n【議事録】最後くらい俺やる？\n【チェック】最後だしチーム長に見てもらうか\n【持ち物】パソコン\n【準備】ラストメッセージのパワポをOneDriveにあげる\n【議題】\n1．諸連絡（意思共有）\n2．ラストメッセージ（意思共有）\n3．アフターフォロー広報考案（意思共有）\n\nこれが最後の部門会議です:sob:\n今年は28回部門会議を行いました。（昨年よりも１回多いのかな）\nってことでラストメッセージを作ってあげておいてください！\n\n１年間本当にお疲れ様、まだ少しタスクがあると思うので最後までやりきしましょう\nみんなのメッセージ楽しみにしてます:+1:\n\n出席・欠席のスタンプ、欠席、遅刻、早退はスレッドへ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732064324.346089",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1732183042.758769",
+        "reply_users": [
+            "U070Y9RMP7D",
+            "U070Y9UKJV9",
+            "U06LXNY8KMF"
+        ],
+        "replies": [
+            {
+                "user": "U070Y9RMP7D",
+                "ts": "1732146024.067959"
+            },
+            {
+                "user": "U070Y9UKJV9",
+                "ts": "1732160834.123509"
+            },
+            {
+                "user": "U06LXNY8KMF",
+                "ts": "1732182625.351559"
+            },
+            {
+                "user": "U06LXNY8KMF",
+                "ts": "1732183042.758769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgmdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1121_第28回広報局学内広報部門会議\n【時間】19：00～\n【場所】和泉ラーニングスクエアLS503教室\n【議事録】最後くらい俺やる？\n【チェック】最後だしチーム長に見てもらうか\n【持ち物】パソコン\n【準備】ラストメッセージのパワポをOneDriveにあげる\n【議題】\n1．諸連絡（意思共有）\n2．ラストメッセージ（意思共有）\n3．アフターフォロー広報考案（意思共有）\n\nこれが最後の部門会議です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今年は28回部門会議を行いました。（昨年よりも１回多いのかな）\nってことでラストメッセージを作ってあげておいてください！\n\n１年間本当にお疲れ様、まだ少しタスクがあると思うので最後までやりきしましょう\nみんなのメッセージ楽しみにしてます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n出席・欠席のスタンプ、欠席、遅刻、早退はスレッドへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U070Y9RLJTV",
+                    "U06LK3KA09G",
+                    "U071B38HAM7",
+                    "U06LXNWSGPK",
+                    "U06LXNY8KMF",
+                    "U06LMH3GJKE",
+                    "U070VFY94H3",
+                    "U06LXNZJBFT"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U070HS55GQP",
+                    "U070Y9RMP7D",
+                    "U070Y9UKJV9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "遅延",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

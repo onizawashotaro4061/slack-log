@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1728179785.379129",
+        "client_msg_id": "56A7387B-D90C-4349-80F4-D904175DA92F",
+        "text": "本祭当日、参加団体用に240部用意して欲しいです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727775336.402479",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9PDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本祭当日、参加団体用に240部用意して欲しいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1728181455.615889",
+        "client_msg_id": "B7A3E0F1-97A5-4EAA-873B-17F063A4C2E9",
+        "text": "未来のグラフィックデザイン部門新規へ10部",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727775336.402479",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uToiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "未来のグラフィックデザイン部門新規へ10部"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LH4PDAQ3",
+                    "U06LK3L8RNE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

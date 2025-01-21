@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1716441968.207739",
+        "client_msg_id": "74A6414F-6258-4521-AC4E-2A6CA82D497F",
+        "text": "ごめんなさい銀行思ってたより時間かかりそうで遅れます:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716046512.533459",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULg0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい銀行思ってたより時間かかりそうで遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報-さくら-ふぅ",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

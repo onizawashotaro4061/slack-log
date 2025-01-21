@@ -1,0 +1,227 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1712627396.889769",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1712633075.000000"
+        },
+        "client_msg_id": "B41350DB-52B9-41D3-9CC9-AFC1914149DF",
+        "text": "\n<!channel>\n会議連絡〜〜\n【時間】4\/9(火) 局会議後\n【場所】Zoomミーティング\n【議題】(予定)\n1. 各種共有 (意思共有)\n2. 新企画について (意見交換)\n\n欠席、遅刻、早退はスレッドへ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712627396.889769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712637202.104909",
+        "reply_users": [
+            "U06L4GM9N5V",
+            "U06LK0G74NP"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GM9N5V",
+                "ts": "1712630669.643879"
+            },
+            {
+                "user": "U06LK0G74NP",
+                "ts": "1712637202.104909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CtQZj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡〜〜\n【時間】4\/9(火) 局会議後\n【場所】Zoomミーティング\n【議題】(予定)\n1. 各種共有 (意思共有)\n2. 新企画について (意見交換)\n\n欠席、遅刻、早退はスレッドへ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bigな部門",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM9N5V",
+        "type": "message",
+        "ts": "1712630669.643879",
+        "client_msg_id": "E5E940AA-32B8-49DE-9B2E-B90295AB7E5E",
+        "text": "用事があるため欠席します。申し訳ないです :man-bowing: :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f45688bfc37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-28\/7808467937905_f45688bfc37a50c46fa6_72.png",
+            "first_name": "木幡海希",
+            "real_name": "木幡海希",
+            "display_name": "Kihata.Kaiki",
+            "team": "T06L90YHJF8",
+            "name": "kaiki.0715.kaiki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712627396.889769",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6tal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるため欠席します。申し訳ないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "餃子屋みんみん",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0G74NP",
+        "type": "message",
+        "ts": "1712637202.104909",
+        "client_msg_id": "B088FC84-7005-42AC-85CB-3EF6402211E3",
+        "text": "カメラオフで参加します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd6f8e9e0130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-10\/7860183395140_cd6f8e9e013042f5051f_72.png",
+            "first_name": "樋田駿之介",
+            "real_name": "樋田駿之介",
+            "display_name": "Hida.Shunnosuke",
+            "team": "T06L90YHJF8",
+            "name": "syunmoto1203",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712627396.889769",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5gNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カメラオフで参加します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

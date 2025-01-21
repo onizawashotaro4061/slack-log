@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U06LG62FNP7",
+        "type": "message",
+        "ts": "1718608084.790869",
+        "client_msg_id": "43DCEF58-ED74-463E-8DF1-833C6D689B7E",
+        "text": "コロナのため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17560d48f669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7907757083890_17560d48f669ee035be4_72.png",
+            "first_name": "深石遥月",
+            "real_name": "深石遥月",
+            "display_name": "Fukaishi.Haruna",
+            "team": "T06L90YHJF8",
+            "name": "fukaishiharuna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718527303.993709",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4Trw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナのため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LCE9NLP8",
+                    "U06LG668093",
+                    "U06LM0QJV3L",
+                    "U06M7TE180Y",
+                    "U06M7SZ5WG0"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

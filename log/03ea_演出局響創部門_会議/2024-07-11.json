@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U071B3ELL7K",
+        "type": "message",
+        "ts": "1720688921.985849",
+        "client_msg_id": "2675674a-1b15-4aa8-be0a-6b04a723e606",
+        "text": "15分ほど遅れます。直前の連絡で申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f803406dfcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-01\/7049807702596_3f803406dfcf4d435221_72.jpg",
+            "first_name": "吉田大地",
+            "real_name": "吉田大地",
+            "display_name": "Yoshida.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "yoshida2005kiha110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVlju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15分ほど遅れます。直前の連絡で申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "鬼追",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

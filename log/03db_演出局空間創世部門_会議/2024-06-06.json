@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U070HS35ECX",
+        "type": "message",
+        "ts": "1717666337.134819",
+        "client_msg_id": "2864F379-59D6-418F-AB04-D32556611B0B",
+        "text": "電車が遅延しているので、少し遅れるかもしれません。急ぎます！ごめんなさい :sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c112bd2c1394",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-05\/7227986313972_c112bd2c1394e3174a63_72.png",
+            "first_name": "森下真帆",
+            "real_name": "森下真帆",
+            "display_name": "Morishita.Maho",
+            "team": "T06L90YHJF8",
+            "name": "maho200602",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717650592.699949",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gv3hQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅延しているので、少し遅れるかもしれません。急ぎます！ごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

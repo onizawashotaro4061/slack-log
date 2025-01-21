@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LG64U8DB",
+        "type": "message",
+        "ts": "1718698348.635979",
+        "client_msg_id": "82B20362-B71B-455C-80D6-6C4211A2CAC9",
+        "text": "上記の理由により欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9e4ba1901d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6812397244962_9e4ba1901d3baf101920_72.png",
+            "first_name": "福田至",
+            "real_name": "福田至",
+            "display_name": "Fukuda.Itaru",
+            "team": "T06L90YHJF8",
+            "name": "itaru.fkd1117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718684572.264199",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ADK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記の理由により欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

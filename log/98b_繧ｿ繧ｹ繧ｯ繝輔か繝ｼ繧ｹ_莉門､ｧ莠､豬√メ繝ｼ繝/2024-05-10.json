@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U06LCE9JG3G",
+        "type": "message",
+        "ts": "1715351236.480819",
+        "client_msg_id": "9953686e-d45c-47ae-8fb5-431cbed3deb1",
+        "text": "申し訳ありません。通院のため欠席させていただきます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a5f5f476ebb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080938574369_5a5f5f476ebb002bb947_72.jpg",
+            "first_name": "玉越小絵",
+            "real_name": "玉越小絵",
+            "display_name": "Tamakoshi.Sae",
+            "team": "T06L90YHJF8",
+            "name": "saekopipipi05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715241859.817949",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXY0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申し訳ありません。通院のため欠席させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

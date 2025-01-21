@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U070Y9STSPM",
+        "type": "message",
+        "ts": "1720510064.581899",
+        "client_msg_id": "6FD81BE3-4B2C-422A-B4DA-91243D1AE178",
+        "text": "目が痛くて病院に行きたいのでお休みします。すみません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c3014b08f7be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-04\/7848408645440_c3014b08f7bef7b71838_72.png",
+            "first_name": "吉村月花",
+            "real_name": "吉村月花",
+            "display_name": "Yoshimura.Tsukika",
+            "team": "T06L90YHJF8",
+            "name": "knsunmoon1002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720450461.068759",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pjeP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "目が痛くて病院に行きたいのでお休みします。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U070Y9RMP7D",
+                    "U06LMH412CU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U071B38EX0R",
+        "type": "message",
+        "ts": "1720517255.617129",
+        "client_msg_id": "41C6D382-243B-4ADB-9C09-B0B397636643",
+        "text": "面接が入ってしまったため休みます。すいません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9df6f64c60c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-26\/7346138072529_9df6f64c60c701c30ebc_72.png",
+            "first_name": "小野﨑優斗",
+            "real_name": "小野﨑優斗",
+            "display_name": "Onozaki.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "onozaki.yuto082905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720450461.068759",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbhJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面接が入ってしまったため休みます。すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070RQ543FG",
+        "type": "message",
+        "ts": "1720519001.353549",
+        "edited": {
+            "user": "U070RQ543FG",
+            "ts": "1720521701.000000"
+        },
+        "client_msg_id": "D5724148-B0B4-4CCD-B345-43A597209ECB",
+        "text": "私用でお休みさせていただきます（ ;  ; ）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "963b6fa7361e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025830097990_963b6fa7361ecc21325b_72.png",
+            "first_name": "菊地菜々美",
+            "real_name": "菊地菜々美",
+            "display_name": "Kikuchi.Nanami",
+            "team": "T06L90YHJF8",
+            "name": "sakukoko2556",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720450461.068759",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yksuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用でお休みさせていただきます（ ;  ; ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

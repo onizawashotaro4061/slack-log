@@ -1,0 +1,76 @@
+[
+    {
+        "text": "この班で固まって座ってね",
+        "files": [
+            {
+                "id": "F0773JTJXAB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCFWR494",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Z61m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この班で固まって座ってね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718096380.408669",
+        "client_msg_id": "84c714fc-0e5a-475c-a7d7-135b3b57e390",
+        "thread_ts": "1717900610.470689",
+        "parent_user_id": "U06L2CSPXV5"
+    },
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1718099169.854379",
+        "client_msg_id": "640431C7-B0A4-40FA-8EDF-2F8A83350A88",
+        "text": "ゼミがあったので遅刻します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717900610.470689",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Odkq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミがあったので遅刻します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

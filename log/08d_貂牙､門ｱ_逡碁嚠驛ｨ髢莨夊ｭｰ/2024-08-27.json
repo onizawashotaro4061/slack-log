@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1724749144.715589",
+        "client_msg_id": "728E67B9-E59E-4D30-BCD4-7527DAA99531",
+        "text": "<@U070YDYBFGA> 何時着？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724730075.161329",
+        "parent_user_id": "U06L4GLJVKR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4mzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070YDYBFGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 何時着？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GLJVKR",
+        "type": "message",
+        "ts": "1724749152.240749",
+        "client_msg_id": "E95494FF-F95B-4EA9-80D7-7DE452B8DBAD",
+        "text": "<@U071M740R32> :rage:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "04fbcd9b4275",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699039446867_04fbcd9b42758b407adc_72.png",
+            "first_name": "重田梨亜",
+            "real_name": "重田梨亜",
+            "display_name": "Shigeta.Ria",
+            "team": "T06L90YHJF8",
+            "name": "ria.piano0715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724730075.161329",
+        "parent_user_id": "U06L4GLJVKR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h6zT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071M740R32"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rage",
+                                "unicode": "1f621"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071M740R32",
+        "type": "message",
+        "ts": "1724758524.030649",
+        "client_msg_id": "2B295D72-1D3A-425C-B96F-126C98B93294",
+        "text": "全体会議の方にだけ連絡してました！ごめんなさい！熱出しました:face_with_thermometer:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "876cf5e7cc35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7220379141713_876cf5e7cc353c8748d5_72.png",
+            "first_name": "草野佑太朗",
+            "real_name": "草野佑太朗",
+            "display_name": "Kusano.Yuutarou",
+            "team": "T06L90YHJF8",
+            "name": "k.yuuu118520",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724730075.161329",
+        "parent_user_id": "U06L4GLJVKR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wRNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体会議の方にだけ連絡してました！ごめんなさい！熱出しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_thermometer",
+                                "unicode": "1f912"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GLJVKR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

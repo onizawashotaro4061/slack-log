@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1717646141.878939",
+        "edited": {
+            "user": "U06M7SW8GAU",
+            "ts": "1718178235.000000"
+        },
+        "client_msg_id": "c1619baa-69d2-40bb-a278-c78738d575f5",
+        "text": "<!channel>\n0606_第10回屋外ステージ部門会議\n【場所】メディア棟M506教室\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.共有の仕方について（意思共有）\n　　　　3.第1回参加団体説明会に向けて（意見交換・決定）\n　　　　4.新規合流後の部門体制について（意見交換・決定）\n　　　　5.新規が行うタスクについて（意見交換・決定）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U06LK3PHPQA>\n                    チェック： <@U06LMH8RNBE>\n\n来週から新規が入ってくるのでスラックリリース早くします、、、、\n確認したらリアクションお願い！！\n遅刻・欠席・早退は自分に連絡お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2mIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0606_第10回屋外ステージ部門会議\n【場所】メディア棟M506教室\n【時間】19：00～20：40\n【議題】1.共有事項（意思共有）\n　　　　2.共有の仕方について（意思共有）\n　　　　3.第1回参加団体説明会に向けて（意見交換・決定）\n　　　　4.新規合流後の部門体制について（意見交換・決定）\n　　　　5.新規が行うタスクについて（意見交換・決定）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3PHPQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                    チェック： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH8RNBE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n来週から新規が入ってくるのでスラックリリース早くします、、、、\n確認したらリアクションお願い！！\n遅刻・欠席・早退は自分に連絡お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LG655N21",
+                    "U06LK3PHPQA",
+                    "U06L4GJ4H9D",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 5
+            },
+            {
+                "name": "オハナさん",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LG655N21"
+                ],
+                "count": 2
+            },
+            {
+                "name": "鞠子ひからない",
+                "users": [
+                    "U06L4GKC9N3",
+                    "U06LK3PHPQA",
+                    "U06LG655N21",
+                    "U06LK3ZBCN6",
+                    "U06LK0FPH2P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "はる",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "参団_教室_鞠子ひかれる",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

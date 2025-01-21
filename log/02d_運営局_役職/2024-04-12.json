@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712923110.312659",
+        "client_msg_id": "62580924-5833-4bc8-b790-d51c37206f1e",
+        "text": "<!channel>\nZoom ミーティングに参加する\n<https:\/\/us05web.zoom.us\/j\/88476803915?pwd=bnjVUazAjS9fdSLe6bDECIvbWsYCzP.1>\n\nミーティング ID： 884 7680 3915\nパスコード： 07iBpM",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/osN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nZoom ミーティングに参加する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/88476803915?pwd=bnjVUazAjS9fdSLe6bDECIvbWsYCzP.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID： 884 7680 3915\nパスコード： 07iBpM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

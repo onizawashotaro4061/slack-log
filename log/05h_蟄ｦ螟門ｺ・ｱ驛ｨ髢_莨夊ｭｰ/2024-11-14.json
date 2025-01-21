@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U071B38EX0R",
+        "type": "message",
+        "ts": "1731579005.532159",
+        "client_msg_id": "30B388FD-9BA8-4D50-94DD-1D9C9A98E50F",
+        "text": "ちょっと遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9df6f64c60c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-26\/7346138072529_9df6f64c60c701c30ebc_72.png",
+            "first_name": "小野﨑優斗",
+            "real_name": "小野﨑優斗",
+            "display_name": "Onozaki.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "onozaki.yuto082905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731492898.151259",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UE2D4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U071B38EX0R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

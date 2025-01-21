@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U071M700E48",
+        "type": "message",
+        "ts": "1729586949.222889",
+        "client_msg_id": "65EAB763-E4AB-40C7-A90B-DF60D40DDE28",
+        "text": "湘南新宿ラインが遅延してるため遅刻します :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5b8c50e3f718",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-05\/7529727964180_5b8c50e3f718313e1e7b_72.png",
+            "first_name": "広石陽",
+            "real_name": "広石陽",
+            "display_name": "hiroishi.hinata",
+            "team": "T06L90YHJF8",
+            "name": "itabashihouse.fan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729501119.578669",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zE292",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "湘南新宿ラインが遅延してるため遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0KT7Y",
+        "type": "message",
+        "ts": "1729590940.403929",
+        "client_msg_id": "7F2FD38A-F243-48C0-A005-1BCC66748048",
+        "text": "体調が悪いため少し遅れます。\n申し訳ございません :man-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "70a4093eac4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-28\/7031686092901_70a4093eac4e3d8ec45e_72.png",
+            "first_name": "上原大雅",
+            "real_name": "上原大雅",
+            "display_name": "Uehara.Taiga",
+            "team": "T06L90YHJF8",
+            "name": "taiga.ue3392",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729501119.578669",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XP0As",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪いため少し遅れます。\n申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

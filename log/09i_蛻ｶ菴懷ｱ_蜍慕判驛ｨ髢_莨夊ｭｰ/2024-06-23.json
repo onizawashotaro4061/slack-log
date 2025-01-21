@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LXNUQ989",
+        "type": "message",
+        "ts": "1719135050.197959",
+        "client_msg_id": "75075D63-8095-45F3-B63F-C5FE26889931",
+        "text": "待ってスレッドじゃなかったごめん！笑",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e914cc217da1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7694401269331_e914cc217da1a8f508d0_72.png",
+            "first_name": "林咲希",
+            "real_name": "林咲希",
+            "display_name": "Hayashi Saki",
+            "team": "T06L90YHJF8",
+            "name": "sak.r.3a9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718946082.357989",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NIyup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "待ってスレッドじゃなかったごめん！笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1719135196.564149",
+        "client_msg_id": "FDF08521-320E-4990-AAF8-FB190B254D19",
+        "text": "ほんとだ笑",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718946082.357989",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Z4Sy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんとだ笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

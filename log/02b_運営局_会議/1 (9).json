@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U06L4GPFEQ7",
+        "type": "message",
+        "ts": "1710432899.568129",
+        "client_msg_id": "67B79EE8-F91E-4752-AE3C-D9C47EF0C0C9",
+        "text": "村川さん、、日付け間違えてます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3759bcd2a7ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7182572634308_3759bcd2a7ea6196b8bc_72.png",
+            "first_name": "大谷亮太",
+            "real_name": "大谷亮太",
+            "display_name": "Otani.Ryota",
+            "team": "T06L90YHJF8",
+            "name": "ryota0210otani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710311728.956009",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNx9d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "村川さん、、日付け間違えてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "しゃしゃんな",
+                "users": [
+                    "U06LK3LHG0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1717164185.729359",
+        "client_msg_id": "EFBEBB13-E4B9-4831-AAF4-A2F12931541B",
+        "text": "【6月期総会の出欠のリマインド】\n<!channel> \n夜分遅くに失礼します。\n副委員長の橋本です。\n明日行われる6月期総会の出欠フォームに未回答の方が全体で約100人いらっしゃいます。\n教室の割り振りは出欠状況を確認しながら行います。\n出欠問わず全員回答必須ですので、未回答の方は早急にご回答ください。\n<https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7|https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/W_dv03nqvVGvgEkvMesyeaDTiZvMoZ120HJ5vOISTFa3733Hex2qgZKzPqVnCMM6SMrq0739AOw",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 22890,
+                "from_url": "https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7",
+                "fallback": "Google Docs: 6月期総会出欠フォーム",
+                "title": "6月期総会出欠フォーム",
+                "title_link": "https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Fhoq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【6月期総会の出欠のリマインド】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n夜分遅くに失礼します。\n副委員長の橋本です。\n明日行われる6月期総会の出欠フォームに未回答の方が全体で約100人いらっしゃいます。\n教室の割り振りは出欠状況を確認しながら行います。\n出欠問わず全員回答必須ですので、未回答の方は早急にご回答ください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7",
+                                "text": "https:\/\/forms.gle\/Zut9CQS3AnGaEJ6A7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJ4HJLMS",
+                    "U070Y9RLJTV",
+                    "U06LK0FUAHZ",
+                    "U06LJRSQDC3",
+                    "U06L4GLJVKR",
+                    "U06LMH3BZ8C",
+                    "U06L4GH3T7H",
+                    "U070RQ167FG",
+                    "U070YD778SE",
+                    "U070Y9Q9151",
+                    "U06LCE7DY6S",
+                    "U06LK3NH9MG",
+                    "U070HS5NT63"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "text": "【6月期総会の座席表】\n<!channel>\nお疲れ様です。\n副委員長の橋本です。\n本日行われる6月期総会の座席表を公開いたしますので、ご確認ください。\n今回の総会は*最初から縦割り班で座ってください*。\nまた、席は若干の余裕があるので、グループワークを行う際などは適宜席を移動してもらって大丈夫です！",
+        "files": [
+            {
+                "id": "F075YCRT63F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wC\/GU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【6月期総会の座席表】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n副委員長の橋本です。\n本日行われる6月期総会の座席表を公開いたしますので、ご確認ください。\n今回の総会は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最初から縦割り班で座ってください",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\nまた、席は若干の余裕があるので、グループワークを行う際などは適宜席を移動してもらって大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717205400.756099",
+        "client_msg_id": "ac2dd095-dbda-4b38-bb16-5546bee51115",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U071B3AKPPT",
+                    "U06LK5HCSE6",
+                    "U070HS28L15",
+                    "U06LK0DLEQ3",
+                    "U070RQ167FG",
+                    "U070RQ001V4",
+                    "U06LK0E89MH",
+                    "U06M7SETDKJ",
+                    "U06M7SU83G8",
+                    "U070HS7MJH5",
+                    "U070YD778SE",
+                    "U06L4GM463H",
+                    "U06LK3HUVTL",
+                    "U0710T3MCUC",
+                    "U06L4GLJVKR",
+                    "U070VFTRR61",
+                    "U06L4GHLP2B",
+                    "U06LCED6ZK8",
+                    "U06M7TE180Y",
+                    "U06LK0FUAHZ",
+                    "U070Y9Q9151",
+                    "U06LCE7DY6S",
+                    "U06LXR4BPS5",
+                    "U06LM0QJV3L",
+                    "U06LK3NH9MG",
+                    "U06LJ4HJLMS",
+                    "U070HS5NT63"
+                ],
+                "count": 28
+            },
+            {
+                "name": "ゆうすけ金貸して",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06M7SETDKJ",
+                    "U06LE9EH9QV",
+                    "U06LMH49MQU"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

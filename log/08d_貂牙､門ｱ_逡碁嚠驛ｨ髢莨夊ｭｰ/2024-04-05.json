@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1712333302.290779",
+        "client_msg_id": "EB084ABF-2F1B-4206-97CD-35A974F8FA59",
+        "text": "【第2回界隈部門会議】\n【場所】zoomミーティング\n【時間】詳細未定\n【議題】\n・下北沢について（意思共有）\n・挨拶回り確認事項（意思共有）\n・協賛活動について（意見交換・決定）\n・サイト依頼書担当者決め（意見交換・決定）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HMBZc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【第2回界隈部門会議】\n【場所】zoomミーティング\n【時間】詳細未定\n【議題】\n・下北沢について（意思共有）\n・挨拶回り確認事項（意思共有）\n・協賛活動について（意見交換・決定）\n・サイト依頼書担当者決め（意見交換・決定）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH",
+                    "U06L4GLJVKR",
+                    "U06LCED6ZK8",
+                    "U06LXNL2ZS5",
+                    "U06LGHETAFP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U06LJRSQDC3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1712333352.055999",
+        "client_msg_id": "F5B00333-D8DA-4BAF-BC2B-E9EE0618F818",
+        "text": "<!channel> 確認お願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNpOE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1712540503.576709",
+        "client_msg_id": "e485a196-1165-4e9c-ba20-8cca7af3095f",
+        "text": "*<!channel>* \n会議連絡！\n【時間】4\/9(火) 局会議後～\n【場所】Zoom\n【議題】(予定)\n1.新企画について(意見交換)\n\nみんな、ビアガーデン楽しんできてね！\n僕は家で大人しくしてます。(健康診断のため登校中なうですけど笑)\n\n欠席、遅刻、早退はスレッドへ～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712540503.576709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712636632.030369",
+        "reply_users": [
+            "U06M7T7SSDN",
+            "U06LCE9AKQW"
+        ],
+        "replies": [
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1712617430.303579"
+            },
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1712636632.030369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+Eio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】4\/9(火) 局会議後～\n【場所】Zoom\n【議題】(予定)\n1.新企画について(意見交換)\n\nみんな、ビアガーデン楽しんできてね！\n僕は家で大人しくしてます。(健康診断のため登校中なうですけど笑)\n\n欠席、遅刻、早退はスレッドへ～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06M7T3TQ0Y",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06M7T3TQ0Y",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

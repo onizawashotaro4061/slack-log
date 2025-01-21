@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070VFRE2PP",
+        "type": "message",
+        "ts": "1719302533.954609",
+        "client_msg_id": "A44C8538-0B2C-4704-A0A1-8206E836F137",
+        "text": "熱が出てしまったので欠席させていただきます、すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10cd93c0b030",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-21\/7162483361377_10cd93c0b030f125bf74_72.png",
+            "first_name": "鈴木杏",
+            "real_name": "鈴木杏",
+            "display_name": "Suzuki.Kou",
+            "team": "T06L90YHJF8",
+            "name": "kou_8110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719198602.070429",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfx6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "熱が出てしまったので欠席させていただきます、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

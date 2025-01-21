@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1725715648.217429",
+        "client_msg_id": "1A0ADE4F-3C85-4B64-B4AB-CB5A398527BD",
+        "text": "しめたーー！！！きょうもおつかれ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCcG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめたーー！！！きょうもおつかれ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LP6ZTYA1",
+                    "U06LK0F2RC3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！2年継続の阿部です。\n第27回演出局響創部門会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞05_響創部門＞02_議事録＞7月\nにアップロードしました。\n\n議題は\n1. 各種報告（意思共有）\nです。確認お願いします！\n\nみなさまいかがお過ごしですか。私は今日からテストが始まったので、久しぶりにたくさん勉強して頭がパンクしそうです:exploding_head:\n私の山場は水曜日なので、もう少し頑張りたいと思います、、。みなさんもキラキラな夏休み目指して頑張りましょう～！！:ocean::sunflower::watermelon:",
+        "files": [
+            {
+                "id": "F07CGE8LHFU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCECJD8W",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eH70W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！2年継続の阿部です。\n第27回演出局響創部門会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞05_響創部門＞02_議事録＞7月\nにアップロードしました。\n\n議題は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。確認お願いします！\n\nみなさまいかがお過ごしですか。私は今日からテストが始まったので、久しぶりにたくさん勉強して頭がパンクしそうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私の山場は水曜日なので、もう少し頑張りたいと思います、、。みなさんもキラキラな夏休み目指して頑張りましょう～！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ocean",
+                                "unicode": "1f30a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunflower",
+                                "unicode": "1f33b"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "watermelon",
+                                "unicode": "1f349"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721056218.035709",
+        "client_msg_id": "dfe64511-97e4-4e38-b550-b44d706a4d22",
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LK3MF9FC",
+                    "U06LK67B9PC",
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U071M6XB9DE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U071M6XB9DE",
+                    "U070RQ4E91U"
+                ],
+                "count": 7
+            },
+            {
+                "name": "b部門はbぇすとな部門",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U071M6XB9DE"
+                ],
+                "count": 5
+            },
+            {
+                "name": "べちこ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U071M6XB9DE",
+                    "U06LK3MF9FC",
+                    "U070RQ4E91U"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ちーべー",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U071M6XB9DE",
+                    "U06LMH5ACGL",
+                    "U070RQ4E91U",
+                    "U06LK3MF9FC"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

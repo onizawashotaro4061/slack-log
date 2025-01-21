@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719291675.679229",
+        "client_msg_id": "e6e5892c-7b87-4171-aaad-364ec388958b",
+        "text": "<!channel>\nマーケティング研究会と兼サーしてる人いるかなー？？\nそれか仲いい子が所属してるって子がいたらDMほしいです！\nおねがいします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719291675.679229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1719291806.030149",
+        "reply_users": [
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719291806.030149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yugFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマーケティング研究会と兼サーしてる人いるかなー？？\nそれか仲いい子が所属してるって子がいたらDMほしいです！\nおねがいします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ3ND38",
+                    "U06LG668093",
+                    "U070Y9RLJTV",
+                    "U06L4GLRAK1",
+                    "U06LK3NPUQ2"
+                ],
+                "count": 5
+            },
+            {
+                "name": "犯人は小林昌博",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06LK5HCSE6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719291806.030149",
+        "client_msg_id": "32e09a29-694e-4bab-9039-157de0760399",
+        "text": "みつかりましたー！\nありがとう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719291675.679229",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4te4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みつかりましたー！\nありがとう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

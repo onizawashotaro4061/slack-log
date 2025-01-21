@@ -1,0 +1,332 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1725257152.757019",
+        "client_msg_id": "63E586F8-286C-404A-B806-E2BB78E14296",
+        "text": "<!channel>\n会議連絡\n【時間】9\/2(火) 14:00〜\n【場所】ついき\n【議題】\n\n1.役員会報告（意思共有）\n2.部門報告（意思共有）\n3.台本について（前回の続き）（意思共有、意見交換）\n\n\n欠席、早退、遅刻はスレッド",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725257152.757019",
+        "reply_count": 14,
+        "reply_users_count": 14,
+        "latest_reply": "1725339689.264899",
+        "reply_users": [
+            "U071B3ELL7K",
+            "U06LG6EJPE1",
+            "U070HS35ECX",
+            "U06LMHBUVT6",
+            "U070HS2V7SB",
+            "U070YDB48GJ",
+            "U06LXP2EGKT",
+            "U06LMHDAZKN",
+            "U06LG64U8DB",
+            "U071B3C42Q1",
+            "U071A394WUB",
+            "U070HS2GY5V",
+            "U070RQ0DUBG",
+            "U06M7T3TQ0Y"
+        ],
+        "replies": [
+            {
+                "user": "U071B3ELL7K",
+                "ts": "1725257668.406879"
+            },
+            {
+                "user": "U06LG6EJPE1",
+                "ts": "1725267926.818879"
+            },
+            {
+                "user": "U070HS35ECX",
+                "ts": "1725274486.152299"
+            },
+            {
+                "user": "U06LMHBUVT6",
+                "ts": "1725289608.813379"
+            },
+            {
+                "user": "U070HS2V7SB",
+                "ts": "1725301782.510079"
+            },
+            {
+                "user": "U070YDB48GJ",
+                "ts": "1725328301.462109"
+            },
+            {
+                "user": "U06LXP2EGKT",
+                "ts": "1725329538.070449"
+            },
+            {
+                "user": "U06LMHDAZKN",
+                "ts": "1725333634.084519"
+            },
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1725336825.131359"
+            },
+            {
+                "user": "U071B3C42Q1",
+                "ts": "1725337006.762789"
+            },
+            {
+                "user": "U071A394WUB",
+                "ts": "1725338059.169319"
+            },
+            {
+                "user": "U070HS2GY5V",
+                "ts": "1725339124.679249"
+            },
+            {
+                "user": "U070RQ0DUBG",
+                "ts": "1725339584.275889"
+            },
+            {
+                "user": "U06M7T3TQ0Y",
+                "ts": "1725339689.264899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPJBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9\/2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(火) 14:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】ついき"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.役員会報告（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2.部門報告（意思共有）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3."
+                            },
+                            {
+                                "type": "text",
+                                "text": "台本について（前回の続き）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（意思共有、意見交換）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、早退、遅刻はスレッド"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LMHDAZKN",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U0710T40TFW",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LMHDAZKN",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LCECJD8W",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1725257218.982319",
+        "client_msg_id": "08e724f1-78da-4c51-9854-6610665157c2",
+        "text": "<!channel> 明日の会議場所は第一校舎301ですー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFB81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日の会議場所は第一校舎301ですー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3ELL7K",
+        "type": "message",
+        "ts": "1725257668.406879",
+        "client_msg_id": "159d1a2e-b1f6-46a2-ad18-c8a2cb34684e",
+        "text": "ゼミの実習があるため、欠席致します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f803406dfcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-01\/7049807702596_3f803406dfcf4d435221_72.jpg",
+            "first_name": "吉田大地",
+            "real_name": "吉田大地",
+            "display_name": "Yoshida.Daichi",
+            "team": "T06L90YHJF8",
+            "name": "yoshida2005kiha110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725257152.757019",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJtkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの実習があるため、欠席致します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1715675712.575659",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1715822816.000000"
+        },
+        "client_msg_id": "ba1adca1-53f8-45fd-96b5-0b9f81f7c60f",
+        "text": "<!channel>\n会議連絡遅くなってごめんちゃいな！！！\n\n【時間】5\/14 (火) 局会議後\n【場所】わからんあとで追記\n【議題】(予定)\n1. 各種共有（意思共有）\n終わったらチーム会議 〜\n\n今日に限って財布忘れて危うく分担金払えないところだったので家に取りに帰りました疲れた\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ :car:\n\n追記：今回の議事録なしで！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2TJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡遅くなってごめんちゃいな！！！\n\n【時間】5\/14 (火) 局会議後\n【場所】わからんあとで追記\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n終わったらチーム会議 〜\n\n今日に限って財布忘れて危うく分担金払えないところだったので家に取りに帰りました疲れた\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n追記：今回の議事録なしで！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

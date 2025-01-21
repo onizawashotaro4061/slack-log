@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1732003505.661079",
+        "edited": {
+            "user": "U06LKTXCZL4",
+            "ts": "1732003545.000000"
+        },
+        "client_msg_id": "EB3EC0F3-2E0D-4711-8594-191EA3FBB740",
+        "text": "<!channel> 今日第一校舎503教室でーす！\n5限から空いてます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WGERv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日第一校舎503教室でーす！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5限から空いてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

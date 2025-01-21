@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06LCE9JG3G",
+        "type": "message",
+        "ts": "1709131151.011589",
+        "client_msg_id": "ab0f49d8-483e-4d9c-bdc4-a6a5e2ea37b0",
+        "text": "3月4日、5日、26日にすでに予定が入ってしまっていたため欠席させていただきます。ご迷惑おかけして申し訳ありません。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a5f5f476ebb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080938574369_5a5f5f476ebb002bb947_72.jpg",
+            "first_name": "玉越小絵",
+            "real_name": "玉越小絵",
+            "display_name": "Tamakoshi.Sae",
+            "team": "T06L90YHJF8",
+            "name": "saekopipipi05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05mp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3月4日、5日、26日にすでに予定が入ってしまっていたため欠席させていただきます。ご迷惑おかけして申し訳ありません。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LVUKD658",
+        "type": "message",
+        "ts": "1709190927.639929",
+        "client_msg_id": "F657181A-D631-440D-A686-9B131E7AA7E2",
+        "text": "12日休みます。大変申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "31af5c779596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7112616420641_31af5c7795962339c845_72.png",
+            "first_name": "師岡凌",
+            "real_name": "師岡凌",
+            "display_name": "Morooka.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "gxim17728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709006869.879829",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JuxG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12日休みます。大変申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

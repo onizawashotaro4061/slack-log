@@ -1,0 +1,430 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1709536376.407999",
+        "client_msg_id": "D93DEB66-6F47-4589-B698-3495638D47A7",
+        "text": "<!channel> ここへ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWRma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ここへ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "純",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LG6EJPE1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "なこちゃん",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LMH5ACGL",
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1",
+                    "U06LXP2EGKT"
+                ],
+                "count": 6
+            },
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "すけさん",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LMH5ACGL",
+                    "U06LK0G74NP",
+                    "U06LXP2EGKT",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMH4T528",
+                    "U06LK3L32MQ",
+                    "U06M7T3TQ0Y",
+                    "U06LK0G74NP",
+                    "U06LG6EJPE1",
+                    "U06LCE9AKQW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMH4T528",
+                    "U06LK67B9PC",
+                    "U06LK0G74NP",
+                    "U06LG63FM1B",
+                    "U06LG64U8DB",
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1",
+                    "U06LXP2EGKT"
+                ],
+                "count": 9
+            },
+            {
+                "name": "ゆりか",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "さすがにね",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LK3MF9FC",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "河野太郎",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LCECJD8W",
+                    "U06LG64U8DB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "餃子屋みんみん",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LMH4T528",
+                    "U06LMHDAZKN",
+                    "U06LCECJD8W",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "おたそ",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おうすけ",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK3L32MQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おたそ-1",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "下高井戸民",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN",
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U06LCECJD8W"
+                ],
+                "count": 5
+            },
+            {
+                "name": "一途なたっか",
+                "users": [
+                    "U06LK3L32MQ",
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "押忍押忍",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "じゅんちゃんはーと",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "いたりあん",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LCECJD8W",
+                    "U06LK3MF9FC",
+                    "U06LG64U8DB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "姿勢＿阿部祐佳",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCECJD8W",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かわの",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "純大だよ",
+                "users": [
+                    "U06LMH4T528"
+                ],
+                "count": 1
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LMH4T528"
+                ],
+                "count": 2
+            },
+            {
+                "name": "遅刻厳禁＿ひだ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06L4GKF78F",
+                    "U06LMHDAZKN",
+                    "U06LCECJD8W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LMH5ACGL",
+                    "U06M7T3TQ0Y"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ちゃんまき",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "北見純一朗",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LK0G74NP",
+                    "U06LCECJD8W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "じんぎすかいき",
+                "users": [
+                    "U06LCE9AKQW",
+                    "U06LK0G74NP",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LCE9AKQW",
+                    "U06LK0G74NP",
+                    "U06L4GKF78F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP",
+                    "U06LMH4T528",
+                    "U06LK3L32MQ",
+                    "U06L4GRJ2LF",
+                    "U06LMH5ACGL",
+                    "U06M7T3TQ0Y",
+                    "U06LMHDAZKN",
+                    "U06LG64U8DB",
+                    "U06LCE9AKQW",
+                    "U06LXP2EGKT"
+                ],
+                "count": 12
+            },
+            {
+                "name": "kawamura",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LG63FM1B",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCECJD8W",
+                    "U06LMHDAZKN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "チャラ男代表駿之助",
+                "users": [
+                    "U06LXP2EGKT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "straight-flash",
+                "users": [
+                    "U06LG64U8DB",
+                    "U06LMH5ACGL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "翔平の嫁",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06MSAMGS1J",
+                    "U06LMH5ACGL",
+                    "U06LG64U8DB",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "田都の絆",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06L4GKF78F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "今日はラーメン",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U06LJBVA2DS",
+        "type": "message",
+        "ts": "1711525923.969169",
+        "client_msg_id": "DEB3AD5E-9909-46C4-A1B8-E37EEC086306",
+        "text": "<!channel>（@継続）\nお疲れさまです！\n*画像講座の提出期限今月中です*:fire:\nまだ取りかかれてないよ〜って人早め早めに終わらせましょうー！！\nわからないこととかあったら聞いてください",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d680743f8d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-05\/7825535056214_d680743f8d3b9f6569a0_72.png",
+            "first_name": "伊東美波（Slackチーム）",
+            "real_name": "伊東美波（Slackチーム）",
+            "display_name": "Ito.Minami",
+            "team": "T06L90YHJF8",
+            "name": "minami.373.mi.wave",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711525923.969169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711549260.162289",
+        "reply_users": [
+            "U06LJBVA2DS"
+        ],
+        "replies": [
+            {
+                "user": "U06LJBVA2DS",
+                "ts": "1711549260.162289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SggQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（@継続）\nお疲れさまです！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "画像講座の提出期限今月中です",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "まだ取りかかれてないよ〜って人早め早めに終わらせましょうー！！\nわからないこととかあったら聞いてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06LK3LMEPL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "悟空",
+                "users": [
+                    "U06LCVDE88N",
+                    "U06LK3HUVTL",
+                    "U06LK0BP1TM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LK0EBWRH",
+                    "U06LY5XNLBT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "みちる",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "聖母-みちるさん",
+                "users": [
+                    "U06LXNWSGPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "広報局-ようへいチルドレン-",
+                "users": [
+                    "U06LK0EBWRH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06LJBVA2DS",
+        "thread_ts": "1711525923.969169",
+        "root": {
+            "user": "U06LJBVA2DS",
+            "type": "message",
+            "ts": "1711525923.969169",
+            "client_msg_id": "DEB3AD5E-9909-46C4-A1B8-E37EEC086306",
+            "text": "<!channel>（@継続）\nお疲れさまです！\n*画像講座の提出期限今月中です*:fire:\nまだ取りかかれてないよ〜って人早め早めに終わらせましょうー！！\nわからないこととかあったら聞いてください",
+            "team": "T06L90YHJF8",
+            "thread_ts": "1711525923.969169",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1711549260.162289",
+            "reply_users": [
+                "U06LJBVA2DS"
+            ],
+            "replies": [
+                {
+                    "user": "U06LJBVA2DS",
+                    "ts": "1711549260.162289"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SggQA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "（@継続）\nお疲れさまです！\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "画像講座の提出期限今月中です",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false,
+                                        "strike": false
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "fire",
+                                    "unicode": "1f525",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false,
+                                        "strike": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false,
+                                        "strike": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "まだ取りかかれてないよ〜って人早め早めに終わらせましょうー！！\nわからないこととかあったら聞いてください"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1711549260.162289",
+        "client_msg_id": "76A0FF9D-F7C2-4538-9712-60D8DEF64CA4",
+        "text": "もう出してくれてる人ありがとうございます :innocent: \n\n出してくれた人もまだの人も参考画像と制作画像どっちがどっちかわかるように添付ファイルの名前変えてくれるととーっても助かります！！！！",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4p+Q5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう出してくれてる人ありがとうございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n出してくれた人もまだの人も参考画像と制作画像どっちがどっちかわかるように添付ファイルの名前変えてくれるととーっても助かります！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

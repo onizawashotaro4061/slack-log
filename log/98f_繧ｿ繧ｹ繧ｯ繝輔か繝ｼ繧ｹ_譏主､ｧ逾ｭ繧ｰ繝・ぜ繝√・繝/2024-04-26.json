@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1714145390.372869",
+        "client_msg_id": "349B285F-8B4C-4F1F-86FF-4E843A035810",
+        "text": "<!channel> \n遅い時間にすいません！\n明日10:30〜会議です！！！\nリマインド忘れてたんで一応 :scream: \n場所は 和泉図書館のグル閲です〜\n遅刻欠席は連絡お願いします！\n左中さんと浦さんは確認済みなので大丈夫です:ok_woman:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714145390.372869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714147060.987859",
+        "reply_users": [
+            "U06LG62UXPX"
+        ],
+        "replies": [
+            {
+                "user": "U06LG62UXPX",
+                "ts": "1714147060.987859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5ZQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n遅い時間にすいません！\n明日10:30〜会議です！！！\nリマインド忘れてたんで一応 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream",
+                                "unicode": "1f631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n場所は 和泉図書館のグル閲です〜\n遅刻欠席は連絡お願いします！\n左中さんと浦さんは確認済みなので大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_woman",
+                                "unicode": "1f646"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F071JDT25NC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG5XQGS1",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1714145442.451129",
+        "client_msg_id": "0F300153-8BAE-4B35-A0FB-52D9E88417A1"
+    },
+    {
+        "user": "U06LG62UXPX",
+        "type": "message",
+        "ts": "1714147060.987859",
+        "client_msg_id": "73A595E2-B1F7-4944-8D0F-18D3031B4405",
+        "text": "マスコットの会議11時半からになったので途中まで参加しますー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4811f0cc3f6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7742240370241_4811f0cc3f6b6b565c6c_72.png",
+            "first_name": "左中瑠奈",
+            "real_name": "左中瑠奈",
+            "display_name": "Sanaka.Runa",
+            "team": "T06L90YHJF8",
+            "name": "runa_924_sanakaru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714145390.372869",
+        "parent_user_id": "U06LG5XQGS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2gw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マスコットの会議11時半からになったので途中まで参加しますー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

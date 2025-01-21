@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1715090003.926089",
+        "edited": {
+            "user": "U06LK0BP1TM",
+            "ts": "1715090024.000000"
+        },
+        "client_msg_id": "91E78DF6-141E-4B71-8531-4805B55CF750",
+        "text": "<!channel> \nおつかれさまです！！本格始動が遅くなり申し訳ないです:man-bowing:\n今週5月11日（土）*タスクフォース会のあと、13時頃から企画書の内容以降の敲き、詰めや企業へのアプローチ法、またその場合のテンプレート作成の有無*などもう役員会で完全承認貰いに行く感じでGWしたいんですけど皆さん時間ありますか…？？\n急な報告ですみません！！\n行ける人は出席スタンプ、無理な人は欠席スタンプで！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agf7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです！！本格始動が遅くなり申し訳ないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今週5月11日（土）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "タスクフォース会のあと、13時頃から企画書の内容以降の敲き、詰めや企業へのアプローチ法、またその場合のテンプレート作成の有無",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "などもう役員会で完全承認貰いに行く感じでGWしたいんですけど皆さん時間ありますか…？？\n急な報告ですみません！！\n行ける人は出席スタンプ、無理な人は欠席スタンプで！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LMH5ACE8",
+                    "U06LK3L6B4J",
+                    "U06LK0DN10T",
+                    "U06LK3K88SW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06LMH5ACE8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3L6B4J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMH9MBFW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

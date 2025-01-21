@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U0710T14PU4",
+        "type": "message",
+        "ts": "1719238053.339619",
+        "client_msg_id": "2E51A5FC-028B-43AC-A5DB-1B38E53BACDD",
+        "text": "明日も5限のため遅刻します、申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fc3fa55a4200",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8043086565669_fc3fa55a420035625947_72.png",
+            "first_name": "渡辺康介",
+            "real_name": "渡辺康介",
+            "display_name": "Kousuke.Watanabe",
+            "team": "T06L90YHJF8",
+            "name": "k.watanabe0504",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719198602.070429",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CoM+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日も5限のため遅刻します、申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3EHX6D",
+        "type": "message",
+        "ts": "1719267583.819719",
+        "client_msg_id": "F60026E1-9109-4752-8CBA-6B5F1CD03C6D",
+        "text": "家の用事で欠席します、すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9507bf74773",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-22\/7154356299618_b9507bf747739feacb66_72.png",
+            "first_name": "吉本",
+            "real_name": "吉本 優吾",
+            "display_name": "Yoshimoto.Yugo",
+            "team": "T06L90YHJF8",
+            "name": "yugoal1016",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719198602.070429",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lo2Sn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家の用事で欠席します、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3GT7FT",
+        "type": "message",
+        "ts": "1719293687.159639",
+        "edited": {
+            "user": "U071B3GT7FT",
+            "ts": "1719293700.000000"
+        },
+        "client_msg_id": "B94B4BE6-53A9-42D5-A8F9-E87ED0D7C3D2",
+        "text": "本日も5限があるため遅れます。よろしくお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "daa4c610e9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7868832497826_daa4c610e9c175bfabb5_72.png",
+            "first_name": "栢本有人",
+            "real_name": "栢本有人",
+            "display_name": "Kayamoto.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "yu10kayam10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719198602.070429",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kh87y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日も5限があるため遅れます。よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

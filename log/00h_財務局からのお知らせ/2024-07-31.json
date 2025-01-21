@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1722470405.400509",
+        "client_msg_id": "2038851B-6CDD-44CE-99C9-58141E9BBCA2",
+        "text": "<!channel> 【領収書・交通費申請についての諸連絡】\nお疲れ様です。表記の件について、何点かご連絡いたします。\n\n・現在活動停止期間で実行委員会室に入れないかと思いますが、申請いただいた領収書や履歴印字は活動が再開した際に回収しますので、無くさずに保管していただくようお願いします。\n・履歴印字についてはICカードの利用回数によって過去のものを印字できなくなる可能性もありますので、申請された方はその印字が残るように早めにご発行ください。\n・申請に不備がある場合メールにてご連絡しておりますので、申請した方は必ずメールもご確認ください。また、修正のやりとりについては活動停止に合わせて一旦ストップしておりますので、活動再開後に再度ご連絡する場合があります。そちらも把握のほどよろしくお願いします。\n\n以上、よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0RhE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【領収書・交通費申請についての諸連絡】\nお疲れ様です。表記の件について、何点かご連絡いたします。\n\n・現在活動停止期間で実行委員会室に入れないかと思いますが、申請いただいた領収書や履歴印字は活動が再開した際に回収しますので、無くさずに保管していただくようお願いします。\n・履歴印字についてはICカードの利用回数によって過去のものを印字できなくなる可能性もありますので、申請された方はその印字が残るように早めにご発行ください。\n・申請に不備がある場合メールにてご連絡しておりますので、申請した方は必ずメールもご確認ください。また、修正のやりとりについては活動停止に合わせて一旦ストップしておりますので、活動再開後に再度ご連絡する場合があります。そちらも把握のほどよろしくお願いします。\n\n以上、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06L4GLJVKR",
+                    "U06M7SETDKJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNXNWGH",
+                    "U06M7SUSYNL",
+                    "U06LCE8L8LW",
+                    "U06L4GH4ETH",
+                    "U06M7SQ7QL8",
+                    "U070Y9S389Z",
+                    "U06LK0JTYD9",
+                    "U06LXNX1XPB"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06M7SUSYNL",
+                    "U06LCE8L8LW",
+                    "U06LCE9NLP8",
+                    "U06L4GH4ETH",
+                    "U06LJRSQDC3",
+                    "U06LXNX1XPB"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06M7SUSYNL",
+                    "U06LCE8L8LW",
+                    "U06LCE9NLP8",
+                    "U06LJ4HJLMS",
+                    "U0710T3MCUC",
+                    "U06LXNX1XPB",
+                    "U070VFTRR61"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

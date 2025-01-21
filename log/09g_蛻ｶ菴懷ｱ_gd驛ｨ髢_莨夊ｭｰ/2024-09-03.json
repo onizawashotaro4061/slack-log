@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U06LXNZFWDP",
+        "type": "message",
+        "ts": "1725365454.751849",
+        "client_msg_id": "2EBA9A5B-4830-45DB-A55D-0B79A66C479A",
+        "text": "東北にいます。欠席します。ごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "34c175b7ca4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6700410419106_34c175b7ca4bc80cf834_72.png",
+            "first_name": "上山千尋",
+            "real_name": "上山千尋",
+            "display_name": "Kamiyama.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chiroruchako_12103",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725342594.056229",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTwNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東北にいます。欠席します。ごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mountain",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LG61U9QD",
+                    "U070Y9S1CRH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LG61U9QD",
+        "type": "message",
+        "ts": "1725400198.561639",
+        "client_msg_id": "BA988E53-0CF6-426E-B2A3-B84692ACA954",
+        "text": "ゼミるので欠席濃厚です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a9f6b2783864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-08\/8001648090898_a9f6b2783864aa2d27d7_72.png",
+            "first_name": "柴田遥",
+            "real_name": "柴田遥",
+            "display_name": "Shibata.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "haruka1202s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725342594.056229",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fw+gj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミるので欠席濃厚です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばはる_寝言",
+                "users": [
+                    "U06L4GM5C87",
+                    "U070Y9S1CRH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しゃばはる",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "たまには_休め",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

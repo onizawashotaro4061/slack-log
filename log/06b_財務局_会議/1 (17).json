@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1712622072.251489",
+        "client_msg_id": "BAA4D6E5-3A6D-4392-94F1-E7AFFE858220",
+        "text": "面接があるので、若干遅れるかも知れません。次長インタビュー聴きたすぎるのでガンダします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712451609.467559",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXIcr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面接があるので、若干遅れるかも知れません。次長インタビュー聴きたすぎるのでガンダします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "005_財務_次長",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

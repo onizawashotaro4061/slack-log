@@ -1,0 +1,335 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1713798443.755749",
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1713798600.297799",
+        "reply_users": [
+            "U06TU27FX08",
+            "U06L4GJBJP9"
+        ],
+        "replies": [
+            {
+                "user": "U06TU27FX08",
+                "ts": "1713798501.490019"
+            },
+            {
+                "user": "U06TU27FX08",
+                "ts": "1713798510.880959"
+            },
+            {
+                "user": "U06L4GJBJP9",
+                "ts": "1713798560.322509"
+            },
+            {
+                "user": "U06TU27FX08",
+                "ts": "1713798580.841699"
+            },
+            {
+                "user": "U06L4GJBJP9",
+                "ts": "1713798600.297799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LCEF912S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "広報-さくら-はぁ",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なるようにならない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "鉄道オタクきどこうわら",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06LCE78Y94"
+                ],
+                "count": 1
+            },
+            {
+                "name": "es",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06TU27FX08"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1713798501.490019",
+        "client_msg_id": "062BB0DD-E20D-4BB1-BD27-8694FC4CCB77",
+        "text": "議事録ここ？じゃない",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UyO0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "議事録ここ？じゃない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1713798510.880959",
+        "client_msg_id": "D9958ABE-491F-4D38-8959-8E102A693C08",
+        "text": "かも",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+UQqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1713798560.322509",
+        "client_msg_id": "0af56a53-0f6c-4fd7-8b1d-5eb81cd843e0",
+        "text": "<@U06TU27FX08> 広報局の議事録にあげる感じ！？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0w9ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TU27FX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 広報局の議事録にあげる感じ！？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TU27FX08",
+        "type": "message",
+        "ts": "1713798580.841699",
+        "client_msg_id": "53975382-EB07-44F5-BFF9-E07190485C91",
+        "text": "そう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e738bde7461b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7974267271363_e738bde7461b6d8acc96_72.png",
+            "first_name": "滝本さくら",
+            "real_name": "滝本さくら",
+            "display_name": "Takimoto.Sakura",
+            "team": "T06L90YHJF8",
+            "name": "takisak317",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5etB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GJBJP9",
+        "type": "message",
+        "ts": "1713798600.297799",
+        "client_msg_id": "9df5a83a-e286-4d0c-bfec-f23eec2c69db",
+        "text": "すみませんんん…あげ直します:sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a01af2049896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8090790150342_a01af2049896a5d82bb9_72.png",
+            "first_name": "山崎友夏",
+            "real_name": "山崎友夏",
+            "display_name": "Yamazaki.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "yama.za.ki.8551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713798443.755749",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/Yrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみませんんん…あげ直します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "竹中彩夏",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なるようにならない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

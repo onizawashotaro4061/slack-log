@@ -1,0 +1,69 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です。制作局3年大里です。\n第2回明大祭グッズチーム会議議事録をアップロードしました。",
+        "files": [
+            {
+                "id": "F06QL09C3HV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0G7VCK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vdlos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。制作局3年大里です。\n第2回明大祭グッズチーム会議議事録をアップロードしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711199627.094459",
+        "client_msg_id": "44ca716c-06d1-420a-894f-d2fcb5b574e3",
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LG62UXPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kissing_closed_eyes",
+                "users": [
+                    "U06LG62UXPX",
+                    "U06L4GJ031V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG5XQGS1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

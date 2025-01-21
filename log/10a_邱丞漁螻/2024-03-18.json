@@ -1,0 +1,191 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1710766265.051009",
+        "client_msg_id": "25F52EC5-2C32-4AF6-9166-5AFEE426A5A2",
+        "text": "<!channel> \n明日の開発局との合同会議に向けて、139の報告書読んだり、どんなデータがあるかを把握したりなど、準備しておいてねー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VnO+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n明日の開発局との合同会議に向けて、139の報告書読んだり、どんなデータがあるかを把握したりなど、準備しておいてねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LXNX1A57"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LG6B2NA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06M7TE180Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LXNX1A57",
+        "type": "message",
+        "ts": "1710767208.312199",
+        "client_msg_id": "d41ce96e-8da9-489e-b7ae-926aabc3415d",
+        "text": "<https:\/\/sites.google.com\/meidaisai.jp\/keitatsu-edition\/%E3%83%9B%E3%83%BC%E3%83%A0>\n138と137も余裕があれば読んでおくと非常によき",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c7047e104ff9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7704209341270_c7047e104ff9716eb557_72.png",
+            "first_name": "中宮拓斗",
+            "real_name": "中宮拓斗",
+            "display_name": "Nakamiya.Takuto",
+            "team": "T06L90YHJF8",
+            "name": "abcdefgace.wmd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh5.googleusercontent.com\/oL9L6wlMyGVjDqQo__rOHCzGZVDhGkGnFRg1qmOyZqQAWmLOUKcApf0xkK-cjQtdDvS4rLtg_WZ7vCUOhi_p7qY",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 989634,
+                "from_url": "https:\/\/sites.google.com\/meidaisai.jp\/keitatsu-edition\/%E3%83%9B%E3%83%BC%E3%83%A0",
+                "service_icon": "https:\/\/lh6.googleusercontent.com\/MZcEASGYgR34iECYHQEK7_Pu52TgIgfvd6EoWg786y5kfGuNqa5H5BbG5iUUM-iQQKMYNmKUUQgK_8mx1oI_Y1LgjDKhkeNy8vQNKzWRtOlXnHej",
+                "id": 1,
+                "original_url": "https:\/\/sites.google.com\/meidaisai.jp\/keitatsu-edition\/%E3%83%9B%E3%83%BC%E3%83%A0",
+                "fallback": "明実データベース_β版",
+                "text": "分析一覧\n実施年度\n139まとめ\n138まとめ\n137まとめ\n136以前\nアンケート対象ごと",
+                "title": "明実データベース_β版",
+                "title_link": "https:\/\/sites.google.com\/meidaisai.jp\/keitatsu-edition\/%E3%83%9B%E3%83%BC%E3%83%A0",
+                "service_name": "sites.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnLtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sites.google.com\/meidaisai.jp\/keitatsu-edition\/%E3%83%9B%E3%83%BC%E3%83%A0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n138と137も余裕があれば読んでおくと非常によき"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LXNYCLJV",
+                    "U06LMLKREUU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNX1A57",
+        "type": "message",
+        "ts": "1710822571.053509",
+        "client_msg_id": "0e96e119-c919-4171-9727-037089a7ead3",
+        "text": "<https:\/\/1drv.ms\/w\/s!At9Ni-LYZp0Njm4podOa9D1QsBwA?e=n31Up5>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c7047e104ff9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7704209341270_c7047e104ff9716eb557_72.png",
+            "first_name": "中宮拓斗",
+            "real_name": "中宮拓斗",
+            "display_name": "Nakamiya.Takuto",
+            "team": "T06L90YHJF8",
+            "name": "abcdefgace.wmd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFlj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/1drv.ms\/w\/s!At9Ni-LYZp0Njm4podOa9D1QsBwA?e=n31Up5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1727147296.701089",
+        "client_msg_id": "DC526A44-FB7A-4469-8BDA-7086FC7EC8D4",
+        "text": "<!channel> 今日の会議はLS403教室です:santa:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCTfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の会議はLS403教室です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "santa",
+                                "unicode": "1f385"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "christmas_tree",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U071B38LED7",
+                    "U070YD72JPL",
+                    "U070VFZF6BF",
+                    "U06LMLKREUU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U070HS28L15",
+                    "U071B38LED7",
+                    "U070VFZF6BF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1727148120.964919",
+        "client_msg_id": "B6016455-A87E-47CF-BB94-DCAD3875A384",
+        "text": "五限につき遅刻します。ごめんなさい:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727061958.174069",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxIP4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "五限につき遅刻します。ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

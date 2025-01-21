@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U06LCE8L8LW",
+        "type": "message",
+        "ts": "1711599557.666719",
+        "client_msg_id": "E1ED926F-5AE0-41F6-8ABE-1E41633CD2FC",
+        "text": "ごめんなさいかりあけてます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "25aef12cc1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684573982727_25aef12cc1ba6a3600b7_72.png",
+            "first_name": "大貫真穂",
+            "real_name": "大貫真穂",
+            "display_name": "Onuki.Maho",
+            "team": "T06L90YHJF8",
+            "name": "o.maho.2003bamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDTB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいかりあけてます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCUTBMU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8L8LW",
+        "type": "message",
+        "ts": "1711600207.228219",
+        "client_msg_id": "C8C7316D-F964-4E5E-80A0-C2B54452FFC3",
+        "text": "しめてLS404!",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "25aef12cc1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684573982727_25aef12cc1ba6a3600b7_72.png",
+            "first_name": "大貫真穂",
+            "real_name": "大貫真穂",
+            "display_name": "Onuki.Maho",
+            "team": "T06L90YHJF8",
+            "name": "o.maho.2003bamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGSi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめてLS404!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

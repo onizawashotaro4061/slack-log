@@ -1,0 +1,260 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1718083230.949589",
+        "client_msg_id": "d5fa2ac8-763e-41b8-ab98-2bb24d981cbe",
+        "text": "メール対応よろしくね <@U06LCE9HTP0>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/39X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メール対応よろしくね "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE9HTP0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1718085118.423279",
+        "client_msg_id": "3be3a699-24c2-44f6-bd18-c1370a21e723",
+        "text": "<https:\/\/ooh-media.keio-ag.co.jp\/media\/ad\/train>\nこれなんかに使えるかもしれやんからとりあえず渡す！\n意味ないもんかもやけど渡すねん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718085118.423279",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1718085326.537499",
+        "reply_users": [
+            "U06L97X3V6J",
+            "U06LCE9HTP0"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1718085195.985719"
+            },
+            {
+                "user": "U06LCE9HTP0",
+                "ts": "1718085295.792689"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1718085326.537499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ooh-media.keio-ag.co.jp\/media\/ad\/train",
+                "service_icon": "https:\/\/ooh-media.keio-ag.co.jp\/apple-touch-icon-precomposed.png",
+                "thumb_url": "https:\/\/ooh-media.keio-ag.co.jp\/keio_media\/wp-content\/uploads\/2019\/03\/ogp.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "ts": 1582210239,
+                "id": 1,
+                "original_url": "https:\/\/ooh-media.keio-ag.co.jp\/media\/ad\/train",
+                "fallback": "KEIO MEDIA-京王線・井の頭線の交通広告: 車両メディア | KEIO MEDIA-京王線・井の頭線の交通広告",
+                "text": "京王の交通広告 広告別で探す 広告を選択 デジタルメディア 駅メディア 車両メディア ボードメディア 車両メディアTRAIN MEDIA 通勤・通学利用者をはじめとする幅広い層に、車内というクローズドな空間でアプローチ。京王線・井の頭線の車両メディアは、視認しやすい位置にあり訴求効果を一層高めています。 中づりポスター 車両の中央部分に掲出される、乗客の視線を集められる車両メディアの大定番です。",
+                "title": "車両メディア | KEIO MEDIA-京王線・井の頭線の交通広告",
+                "title_link": "https:\/\/ooh-media.keio-ag.co.jp\/media\/ad\/train",
+                "service_name": "KEIO MEDIA-京王線・井の頭線の交通広告"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8l\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ooh-media.keio-ag.co.jp\/media\/ad\/train"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれなんかに使えるかもしれやんからとりあえず渡す！\n意味ないもんかもやけど渡すねん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1718085195.985719",
+        "client_msg_id": "8586076c-37c4-4a2f-b368-6e3c2b6d3160",
+        "text": "なんかアイデア思いついたら俺に連絡して！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718085118.423279",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IK8Vi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかアイデア思いついたら俺に連絡して！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718085295.792689",
+        "client_msg_id": "03ABD914-21EA-4546-BA2C-B543AFD1EBDA",
+        "text": "ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718085118.423279",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDtEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1718085326.537499",
+        "client_msg_id": "51e0d804-2925-425e-8966-2b3edc03b130",
+        "text": "<https:\/\/ooh-media.keio-ag.co.jp\/files\/media\/ad\/digital07.pdf>\nちなみにね俺これ好き",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718085118.423279",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z8Y22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ooh-media.keio-ag.co.jp\/files\/media\/ad\/digital07.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nちなみにね俺これ好き"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

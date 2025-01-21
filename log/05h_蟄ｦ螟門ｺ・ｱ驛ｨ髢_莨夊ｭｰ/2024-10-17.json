@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U06LCVDE88N",
+        "type": "message",
+        "ts": "1729155348.467159",
+        "client_msg_id": "87AB3E19-7B7E-460F-9518-EDEA3337A402",
+        "text": "歯医者の診察が長引いた影響で少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "da6fd5c057cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-14\/7750579849344_da6fd5c057cfae0e1b67_72.png",
+            "first_name": "駒井一真",
+            "real_name": "駒井一真",
+            "display_name": "Komai.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmpoli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729082533.648349",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxJoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "歯医者の診察が長引いた影響で少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

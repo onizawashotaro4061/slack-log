@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1733443204.885659",
+        "client_msg_id": "331A8F55-7B6B-4428-916F-A73DED2D8190",
+        "text": "【出欠フォームのリマインド】\n<!channel> \nお疲れ様です。橋本です。\n上記フォーム（12月期総会・委員長選挙）に未回答の方がいらっしゃいます。\n出席・欠席・遅刻・早退いずれの場合でも回答が必須となりますので、早急にご回答ください。\nよろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYwUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【出欠フォームのリマインド】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。橋本です。\n上記フォーム（12月期総会・委員長選挙）に未回答の方がいらっしゃいます。\n出席・欠席・遅刻・早退いずれの場合でも回答が必須となりますので、早急にご回答ください。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LCE8L8LW",
+                    "U070VFTRR61"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

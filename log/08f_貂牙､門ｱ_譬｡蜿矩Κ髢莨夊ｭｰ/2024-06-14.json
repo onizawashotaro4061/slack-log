@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1718356019.775129",
+        "client_msg_id": "750D740B-11F1-4019-A52D-F7026B1FC49C",
+        "text": "体調が悪いため欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718328152.916559",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LS82l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪いため欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SLJJX",
+        "type": "message",
+        "ts": "1718356531.564339",
+        "client_msg_id": "5060C251-1E7A-460F-869D-176765DA009E",
+        "text": "研修が長引いてるため数分遅れます:woman-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b2d82f968c7f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8039624742790_b2d82f968c7f3c2901df_72.png",
+            "first_name": "髙橋蒼人",
+            "real_name": "髙橋蒼人",
+            "display_name": "Takahashi.Aoto",
+            "team": "T06L90YHJF8",
+            "name": "nogi2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718328152.916559",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gWMXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "研修が長引いてるため数分遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

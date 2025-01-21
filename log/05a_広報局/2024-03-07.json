@@ -1,0 +1,149 @@
+[
+    {
+        "text": "<!channel> \n画像講座の提出は02_Instagramにお願い！",
+        "files": [
+            {
+                "id": "F06NFRE1Z2R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LVK2FU1X",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ge2RV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n画像講座の提出は02_Instagramにお願い！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709874493.930649",
+        "client_msg_id": "5F5B99F5-1B6D-4404-B14A-41EB8BEDC53F",
+        "reactions": [
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LK3HUVTL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "チーム長は次回までに現状まとまってる投稿を表に埋めて提出してください。\nだいたい〇日前後ってやつも乗っけてほしいです！\n不確定で大丈夫なので",
+        "files": [
+            {
+                "id": "F06P7SZTE1W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LVK2FU1X",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/X2zO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チーム長は次回までに現状まとまってる投稿を表に埋めて提出してください。\nだいたい〇日前後ってやつも乗っけてほしいです！\n不確定で大丈夫なので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709881338.281719",
+        "client_msg_id": "5319b688-e689-420e-a452-060cb6037609"
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1709881398.497679",
+        "client_msg_id": "c7e8aca9-8d07-4674-9c18-c1d0909906ec",
+        "text": "<@U06LCVDE88N> <@U06LK3KA09G> <@U06LMH3952Q>\n↑↑要確認！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5LZ+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCVDE88N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3KA09G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH3952Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑↑要確認！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06LK3KA09G",
+                    "U06LCVDE88N",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

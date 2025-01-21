@@ -1,0 +1,357 @@
+[
+    {
+        "text": "<https:\/\/us05web.zoom.us\/j\/82648612357?pwd=gb3qxbSNCnheWKs5QaKvibCIKYpo8C.1>\nリンクこれで！",
+        "files": [
+            {
+                "id": "F07K6MJ8MRB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07K2USGC8N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfmL1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/82648612357?pwd=gb3qxbSNCnheWKs5QaKvibCIKYpo8C.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリンクこれで！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725023721.432789",
+        "client_msg_id": "f78f36df-79b3-43e9-bcde-c1e8f255986f",
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n会議で話したとおり、明大前ジャックプロジェクトの企画効果測定について\n実地調査\/企画アンケート、この*二つの項目で調査内容\/質問内容を各自二つ以上*出してもらいます！\n詳細はパワポを見て貰えばいいんだけど、\n例えば実地調査の調査項目だったら、「明大通りの動線は確保できていたか、歩行者天国の来場者明大祭に流れていたか（歩行者天国だけみて帰ってしまっていないか）」などなど、来年度の企画実施のために活かせる内容を考案して欲しいです！\n*期限は9\/2 23:59 とします。*短いけど頑張って！\n※もしも自分の考えた内容がすでに出ていたりしたら、その意見に:+1:のリアクションをお願いします！\n<@U06LCECJD8W> <@U06L4GLRAK1> <@U071B3CV89X> <@U0710SZA5J8>\nわかんなかったら連絡ちょうだい！",
+        "files": [
+            {
+                "id": "F07KYSLNRGQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rjPC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議で話したとおり、明大前ジャックプロジェクトの企画効果測定について\n実地調査\/企画アンケート、この"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二つの項目で調査内容\/質問内容を各自二つ以上",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "出してもらいます！\n詳細はパワポを見て貰えばいいんだけど、\n例えば実地調査の調査項目だったら、「明大通りの動線は確保できていたか、歩行者天国の来場者明大祭に流れていたか（歩行者天国だけみて帰ってしまっていないか）」などなど、来年度の企画実施のために活かせる内容を考案して欲しいです！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限は9\/2 23:59 とします。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "短いけど頑張って！\n※もしも自分の考えた内容がすでに出ていたりしたら、その意見に"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のリアクションをお願いします！\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GLRAK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B3CV89X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710SZA5J8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nわかんなかったら連絡ちょうだい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725028854.072559",
+        "client_msg_id": "4890e87f-6c2c-46e9-b943-e805536403be",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070YD778SE",
+                    "U06LK5HCSE6",
+                    "U0710SZA5J8",
+                    "U071B3CV89X",
+                    "U070YA6CQLB",
+                    "U06L4GLRAK1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "猫ミーム-現実逃避",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725028879.875309",
+        "client_msg_id": "eac973ab-a24b-4f67-9f2e-14f882b2010a",
+        "text": "実地調査の調査項目はこちらに",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725028879.875309",
+        "reply_count": 10,
+        "reply_users_count": 10,
+        "latest_reply": "1725547106.665829",
+        "reply_users": [
+            "U070YD778SE",
+            "U06LK0E89MH",
+            "U071B3CB42V",
+            "U0710SZA5J8",
+            "U070YA6CQLB",
+            "U070VFQM2N9",
+            "U070HS3CTQX",
+            "U071B3CV89X",
+            "U06LK5HCSE6",
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U070YD778SE",
+                "ts": "1725257454.405329"
+            },
+            {
+                "user": "U06LK0E89MH",
+                "ts": "1725268422.769569"
+            },
+            {
+                "user": "U071B3CB42V",
+                "ts": "1725272670.797259"
+            },
+            {
+                "user": "U0710SZA5J8",
+                "ts": "1725272841.036389"
+            },
+            {
+                "user": "U070YA6CQLB",
+                "ts": "1725275257.233619"
+            },
+            {
+                "user": "U070VFQM2N9",
+                "ts": "1725281235.551979"
+            },
+            {
+                "user": "U070HS3CTQX",
+                "ts": "1725313706.756149"
+            },
+            {
+                "user": "U071B3CV89X",
+                "ts": "1725339423.228749"
+            },
+            {
+                "user": "U06LK5HCSE6",
+                "ts": "1725407762.202309"
+            },
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1725547106.665829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMQMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実地調査の調査項目はこちらに"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725028909.305989",
+        "client_msg_id": "ae08b923-de14-48b5-b054-f367e5f2b823",
+        "text": "企画アンケートの質問項目はこちらに",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725028909.305989",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1725547617.825299",
+        "reply_users": [
+            "U070YD778SE",
+            "U06LK0E89MH",
+            "U071B3CB42V",
+            "U070YA6CQLB",
+            "U070VFQM2N9",
+            "U071B3CV89X",
+            "U06LK5HCSE6",
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U070YD778SE",
+                "ts": "1725257600.253849"
+            },
+            {
+                "user": "U06LK0E89MH",
+                "ts": "1725268032.557219"
+            },
+            {
+                "user": "U071B3CB42V",
+                "ts": "1725272919.747139"
+            },
+            {
+                "user": "U070YA6CQLB",
+                "ts": "1725275495.978069"
+            },
+            {
+                "user": "U070VFQM2N9",
+                "ts": "1725281659.730829"
+            },
+            {
+                "user": "U071B3CV89X",
+                "ts": "1725339153.789299"
+            },
+            {
+                "user": "U06LK5HCSE6",
+                "ts": "1725407836.569379"
+            },
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1725547617.825299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ead4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画アンケートの質問項目はこちらに"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

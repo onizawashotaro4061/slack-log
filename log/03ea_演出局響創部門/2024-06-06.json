@@ -1,0 +1,291 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070VFPTCF7",
+        "text": "<@U070VFPTCF7>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1717668958.441869"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ4E91U",
+        "text": "<@U070RQ4E91U>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1717668959.092929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070VFSETUM",
+        "text": "<@U070VFSETUM>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1717668961.732989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9RH075",
+        "text": "<@U070Y9RH075>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1717668964.651019"
+    },
+    {
+        "user": "U06LK0G74NP",
+        "type": "message",
+        "ts": "1717669334.357909",
+        "client_msg_id": "BAAC648D-6CB6-42E9-9C14-9DFF97051301",
+        "text": "お",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cd6f8e9e0130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-10\/7860183395140_cd6f8e9e013042f5051f_72.png",
+            "first_name": "樋田駿之介",
+            "real_name": "樋田駿之介",
+            "display_name": "Hida.Shunnosuke",
+            "team": "T06L90YHJF8",
+            "name": "syunmoto1203",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCzEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1717669344.570509",
+        "client_msg_id": "adbcc76c-53dc-4208-8f6f-670ceb1b0fc9",
+        "text": "<!channel>\nここにスタンプ押してみてね！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdvCJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここにスタンプ押してみてね！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "塾講の絆",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LXP2EGKT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "まちがいない",
+                "users": [
+                    "U070Y9RH075",
+                    "U06LK3MF9FC",
+                    "U06LG63FM1B",
+                    "U06LMH4T528",
+                    "U070RQ4E91U",
+                    "U06LXP2EGKT",
+                    "U071M6XB9DE"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ヤンニョム",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U070RQ4E91U",
+                    "U06LG63FM1B",
+                    "U06LMH4T528",
+                    "U06LXP2EGKT",
+                    "U070VFPTCF7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "なこちゃん",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LXP2EGKT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "純チャン",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LCECJD8W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "大地",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U071B3ELL7K",
+                    "U06LMH4T528",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "パン屋さん",
+                "users": [
+                    "U071M6XB9DE",
+                    "U06LK3MF9FC",
+                    "U06LMH4T528",
+                    "U06LXP2EGKT",
+                    "U06LCECJD8W"
+                ],
+                "count": 5
+            },
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LXP2EGKT",
+                    "U06LK3MF9FC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "はなこ",
+                "users": [
+                    "U070VFNR337",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U071M6XB9DE",
+                    "U070RQ4E91U"
+                ],
+                "count": 5
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "米津玄師",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U071B3ELL7K",
+                    "U06LXP2EGKT",
+                    "U071M6XB9DE",
+                    "U070RQ4E91U",
+                    "U070VFNR337"
+                ],
+                "count": 6
+            },
+            {
+                "name": "巨人しか勝たん",
+                "users": [
+                    "U070Y9RH075",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U070RQ4E91U"
+                ],
+                "count": 4
+            },
+            {
+                "name": "天使まおちゃん",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT",
+                    "U071M6XB9DE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "団地ともお",
+                "users": [
+                    "U070VFSETUM",
+                    "U071B3ELL7K",
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "爆音ボイス",
+                "users": [
+                    "U070VFNR337",
+                    "U06LXP2EGKT",
+                    "U06LK3MF9FC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

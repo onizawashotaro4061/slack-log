@@ -1,0 +1,109 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9SLJJX",
+        "text": "<@U070Y9SLJJX>さんがチャンネルに参加しました",
+        "inviter": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1719753440.855829"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9VAKAP",
+        "text": "<@U070Y9VAKAP>さんがチャンネルに参加しました",
+        "inviter": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1719753440.923589"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0714V5MYTW",
+        "text": "<@U0714V5MYTW>さんがチャンネルに参加しました",
+        "inviter": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1719753440.993119"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YD7LPR8",
+        "text": "<@U070YD7LPR8>さんがチャンネルに参加しました",
+        "inviter": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1719753441.058049"
+    },
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1719753721.013699",
+        "client_msg_id": "3b0610b5-d960-4d87-bb70-973860cf7fcd",
+        "text": "<!channel>\nお疲れ様です！\n新規の子達をslackに入れました～:partying_face:\nこれから仲良くしていきましょう！！\n\n7月6日(土)10:00～のタスクフォース会についての連絡です。\n新規合流後初の大事な会なのですが、\n渉外局の大切な資財獲得活動と日程が被ってしまい\n僕、富田、高橋が参加できません:cry:\n\n話し合ってほしいことや、共有事項などは\nどうにかして共有しますので、当日はよろしくお願いします！\n新規継続関わらず仲良くなってくれると嬉しいです:laughing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5Iou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n新規の子達をslackに入れました～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれから仲良くしていきましょう！！\n\n7月6日(土)10:00～のタスクフォース会についての連絡です。\n新規合流後初の大事な会なのですが、\n渉外局の大切な資財獲得活動と日程が被ってしまい\n僕、富田、高橋が参加できません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n話し合ってほしいことや、共有事項などは\nどうにかして共有しますので、当日はよろしくお願いします！\n新規継続関わらず仲良くなってくれると嬉しいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GJ031V",
+                    "U06LG62T3MK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

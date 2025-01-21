@@ -1,0 +1,156 @@
+[
+    {
+        "user": "U06LK3L6B4J",
+        "type": "message",
+        "ts": "1727853702.455909",
+        "client_msg_id": "A847F280-B189-4FE2-A51A-3E050A45F592",
+        "text": "<@U06LCE69DRU> \nお疲れ様です。遅くなってすみません、、、\n三年会で受理しています！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b925ea28340a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7766629710085_b925ea28340aea0a43cd_72.png",
+            "first_name": "橋本ひろな",
+            "real_name": "橋本ひろな",
+            "display_name": "Hashimoto.Hirona",
+            "team": "T06L90YHJF8",
+            "name": "sax.euph.3293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727665313.269289",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ey9gQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE69DRU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。遅くなってすみません、、、\n三年会で受理しています！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1727937969.541859",
+        "client_msg_id": "A03EE77C-4331-40F7-8FC6-43A6AFAFB2BD",
+        "text": "<@U06LK3L6B4J> <@U06LK3HUVTL>\nお疲れ様です！\n対外推進部門長の飯田です。\nCan Make Candle SNS広報依頼書をOneDriveに提出しました。\nご確認よろしくお願いします。\n遅くなってしまい本当にすみません :sob:\nご確認よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727937969.541859",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1728379865.127259",
+        "reply_users": [
+            "U06LK3L6B4J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L6B4J",
+                "ts": "1728379865.127259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vT0Qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3HUVTL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対外推進部門長の飯田です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCan Make Candle "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SNS広報依頼書をOneDriveに提出しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご確認よろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなってしまい本当にすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご確認"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

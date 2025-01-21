@@ -1,0 +1,90 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様ですー、中保です。\n該当者は絶対確認してほしんですけど、合宿先の1日目夜・2日目朝、昼にご飯が出てきます！確か夜とかビュッフェ形式だったと思うんですけど、その際に『*アレルギー*』を持っている人はこのスレッドにリアクションを押してください！\n\n本来は下記のファイルを該当者が直接FAXで宿に送る必要があったのですが、活動停止の影響で期限を過ぎてしまい、今先方に確認中なので、一旦該当者の数だけ確認したいので:hand:\n↑このリアクションをお願いします！",
+        "files": [
+            {
+                "id": "F07JG3X0XGU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ac64x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様ですー、中保です。\n該当者は絶対確認してほしんですけど、合宿先の1日目夜・2日目朝、昼にご飯が出てきます！確か夜とかビュッフェ形式だったと思うんですけど、その際に『"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アレルギー",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "』を持っている人はこのスレッドにリアクションを押してください！\n\n本来は下記のファイルを該当者が直接FAXで宿に送る必要があったのですが、活動停止の影響で期限を過ぎてしまい、今先方に確認中なので、一旦該当者の数だけ確認したいので"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑このリアクションをお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724559869.686469",
+        "edited": {
+            "user": "U06LE9EH9QV",
+            "ts": "1724560005.000000"
+        },
+        "client_msg_id": "34fafae9-4d5a-4f09-851a-754f337c073a",
+        "thread_ts": "1724559869.686469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1724650393.790769",
+        "reply_users": [
+            "U06LE9EH9QV"
+        ],
+        "replies": [
+            {
+                "user": "U06LE9EH9QV",
+                "ts": "1724650393.790769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U06LE9EH9QV",
+                    "U06TU27FX08",
+                    "U06LK5HCSE6",
+                    "U070Y9STSPM",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

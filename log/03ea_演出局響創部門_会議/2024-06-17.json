@@ -1,0 +1,223 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1718683433.342919",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1718714452.000000"
+        },
+        "client_msg_id": "FCF9A11E-C968-4C85-99CA-96A8C54BA0ED",
+        "text": "<!channel>\n会議連絡！\n\n【時間】6\/18 (火) 局会議後\n【場所】LS601\n【議題】\n1. 各種共有（意思共有）\n2. パワーポイントGW（意思共有）\n本格的に引越し準備を進めているんだけど、そのせいで疲れがぜんぜん取れません :weary:\n誰か10分で疲労消してくれる薬開発してください:pill:\n\nみたらスタンプ！\n欠席、遅刻、早退はスレッドへ :pill:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718683433.342919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1718684092.217429",
+        "reply_users": [
+            "U06LMH4T528"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH4T528",
+                "ts": "1718684092.217429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mPHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n\n【時間】6\/18 (火) 局会議後\n【場所】LS601\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "パワーポイントGW（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n本格的に引越し準備を進めているんだけど、そのせいで疲れがぜんぜん取れません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "weary",
+                                "unicode": "1f629"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n誰か10分で疲労消してくれる薬開発してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pill",
+                                "unicode": "1f48a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nみたらスタンプ！\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pill",
+                                "unicode": "1f48a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "死にたくない",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beautiful部門",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1718684092.217429",
+        "client_msg_id": "86B96ECC-114F-4B6E-8907-FABC944E7D4D",
+        "text": "体調不良のため欠席します。申し訳ございません :smiling_face_with_tear: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718683433.342919",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QBfiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なこちゃん",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

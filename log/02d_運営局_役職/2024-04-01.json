@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712017510.727609",
+        "edited": {
+            "user": "U06LKHN3RE0",
+            "ts": "1712145559.000000"
+        },
+        "client_msg_id": "6f7cd9a9-4817-41cf-bb91-07e431fe298a",
+        "text": "<!channel>\n0403_運営局役職会議\n【時間】\n21：00〜23：00（予定）\n【場所】\nZoom\n【議題】\n1. 部門報告（意見交換）\n2. 安全対策部門活動企画書敲き（意見交換）\n3. 局長報告（意思共有）\n4. 諸連絡（意思共有）\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n2でこれまで連携したことを聞きます！だからかくじまとめておいてくださいね〜\n3については、要相談案件です・・・",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cUNEs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0403_運営局役職会議\n【時間】\n21：00〜23：00（予定）\n【場所】\nZoom\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "安全対策部門活動企画書敲き（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "局長報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n2でこれまで連携したことを聞きます！だからかくじまとめておいてくださいね〜\n3については、要相談案件です・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GHLP2B",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-huh",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営_なおきくんさぁ",
+                "users": [
+                    "U06LK3LHG0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

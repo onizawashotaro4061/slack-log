@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LK3NPUQ2",
+        "type": "message",
+        "ts": "1713228199.334429",
+        "client_msg_id": "AE08B2B8-CBEB-421C-B6E5-E8EF362EF7CA",
+        "text": "諸事情で30分遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "166eec50e217",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6737106609027_166eec50e217c93d1caf_72.png",
+            "first_name": "安井統悟",
+            "real_name": "安井統悟",
+            "display_name": "Yasui.Togo",
+            "team": "T06L90YHJF8",
+            "name": "togotogo0428",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713145622.614549",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5IHEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "諸事情で30分遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

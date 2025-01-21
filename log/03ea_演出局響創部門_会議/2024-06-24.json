@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1719289417.372459",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1719289452.000000"
+        },
+        "client_msg_id": "1d03e81e-9241-4bca-b3ea-90617ffa86b5",
+        "text": "<!channel>\n会議連絡！だよ\n新規は今日はなしで大丈夫！！\n\n【時間】6\/25 (火) 局会議後\n【場所】のちほど記入〜（LS606がいい）\n【議題】\n1. 新規チーム配属ESについて（各種共有）\nみんな最近どう？私は夏バテなのか毎日ざるそば祭だよ:ramen:\n\nスタンプ押してほしいんだ\n欠席、遅刻、早退はスレッドに必ず書いてねー！！:ramen:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719289417.372459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1719308499.992529",
+        "reply_users": [
+            "U06L4GKF78F"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GKF78F",
+                "ts": "1719308499.992529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SylM4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！だよ\n新規は今日はなしで大丈夫！！\n\n【時間】6\/25 (火) 局会議後\n【場所】のちほど記入〜（LS606がいい）\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規チーム配属ESについて（各種共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nみんな最近どう？私は夏バテなのか毎日ざるそば祭だよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ramen",
+                                "unicode": "1f35c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nスタンプ押してほしいんだ\n欠席、遅刻、早退はスレッドに必ず書いてねー！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ramen",
+                                "unicode": "1f35c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U071M6XB9DE",
+                    "U070Y9RH075",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U071B3ELL7K",
+                    "U06LK0G74NP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

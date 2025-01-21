@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U071B3BRGN5",
+        "type": "message",
+        "ts": "1718958082.582349",
+        "client_msg_id": "84E73DEF-2411-43B1-86CE-D40551BEDEF6",
+        "text": "18:00～20:00まで軽音サークルでの練習があるので大幅に遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ea79168b5985",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-04\/7827117475861_ea79168b5985a3470ba6_72.png",
+            "first_name": "村上佑成",
+            "real_name": "村上佑成",
+            "display_name": "Murakami. Yusei",
+            "team": "T06L90YHJF8",
+            "name": "yuyu3160na",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718945163.046089",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kx6m\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18:00～20:00まで軽音サークルでの練習があるので大幅に遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1718963093.479339",
+        "client_msg_id": "34293E7A-9247-414C-82A8-2A5B5797E3A9",
+        "text": "入院開けなのでおやすみします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718945163.046089",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1wUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入院開けなのでおやすみします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS93JUX",
+        "type": "message",
+        "ts": "1718963679.828989",
+        "client_msg_id": "de119581-1744-4b1e-ade2-559cdf63a003",
+        "text": "交通遅延で20分程遅れます。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "95fb6d165f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-04\/7975435552147_95fb6d165f3e9aa15c32_72.jpg",
+            "first_name": "橋本遼馬",
+            "real_name": "橋本遼馬",
+            "display_name": "Hashimoto. Ryoma",
+            "team": "T06L90YHJF8",
+            "name": "rhashimoiiyudane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718945163.046089",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m1Q3x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "交通遅延で20分程遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

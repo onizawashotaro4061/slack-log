@@ -1,0 +1,606 @@
+[
+    {
+        "user": "U06LG6Q48SZ",
+        "type": "message",
+        "ts": "1714748391.993569",
+        "client_msg_id": "D4A533F6-731E-4E3E-A4C8-5547F4BC802B",
+        "text": "<!channel>\nお疲れ様です！制作局2年の丸山です。\nギリギリセーフ :sweat_drops: :sweat_drops:\n第5回Web部門会議議事録をOneDriveにアップロードしました。\n場所は\n<https:\/\/onedrive.live.com\/?cid=93481E220B586380&amp;id=93481E220B586380%2119694&amp;parId=93481E220B586380%2114333&amp;o=OneUp|自分のファイル＞各局＞08_制作局＞07_Web部門＞00_部門会議＞02_議事録＞3,4月>\nです。\n議題は、\n1. 作業進捗報告（意思共有）\n2.　プレサイトについて（意思共有）\n1. 新規合流後の予定（意見交換）\nです。\n\nみなさんGWいかがお過ごしですか？？\n私は今軽井沢に来ているんですけど、自然がいっぱいで美味しいものがたくさんあってほんとに最高です:laughing: :sparkles: 今日は山登って神社行って美術館行って食べて歩いてお買い物して…1日で3万歩以上歩いてました:footprints:⸒⸒\nところで軽井沢にはわんちゃんを連れた人がたくさんいるんですけど、どの子も全く吠えないでお利口にしていられるのはなんでなんでしょうか？ :thinking_face: :thinking_face:品のいい街には品のいい人やわんこが集まるのかな…？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae661f68bcc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6721146914263_ae661f68bcc5330096cb_72.png",
+            "first_name": "丸山彩羽",
+            "real_name": "丸山彩羽",
+            "display_name": "Maruyama.Iroha",
+            "team": "T06L90YHJF8",
+            "name": "irohas.calpis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAkAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！制作局2年の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "丸山"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nギリギリセーフ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回Web部門会議議事録をOneDriveにアップロードしました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?cid=93481E220B586380&id=93481E220B586380%2119694&parId=93481E220B586380%2114333&o=OneUp",
+                                "text": "自分のファイル＞各局＞08_制作局＞07_Web部門＞00_部門会議＞02_議事録＞3,4月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "議題は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "作業進捗報告"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2.　プレサイトについて（意思共有）\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規合流後の予定"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nみなさんGWいかがお過ごしですか？？\n私は今軽井沢に来ているんですけど、自然がいっぱいで美味しいものがたくさんあってほんとに最高です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日は山登って神社行って美術館行って食べて歩いてお買い物して…1日で3万歩以上歩いてました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "footprints",
+                                "unicode": "1f463"
+                            },
+                            {
+                                "type": "text",
+                                "text": "⸒⸒\nところで軽井沢にはわんちゃんを連れた人がたくさんいるんですけど、どの子も全く吠えないでお利口にしていられるのはなんでなんでしょうか？ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "品のいい街には品のいい人やわんこが集まるのかな…？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LMHSCW1J",
+                    "U06LK0F2RC3",
+                    "U06M7SSDQQG",
+                    "U06L4GM5C87",
+                    "U06LJB446QL",
+                    "U06LK0DK7R9",
+                    "U06L4GM463H",
+                    "U06LJ4HJLMS",
+                    "U06LK0FP02F",
+                    "U06LMH9MBFW"
+                ],
+                "count": 10
+            },
+            {
+                "name": "シリキ・ウトゥンドゥ",
+                "users": [
+                    "U06LJB446QL",
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LJ4HJLMS",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U06LJB446QL",
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LJ4HJLMS",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ジョージ上裸",
+                "users": [
+                    "U06LJB446QL",
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LJ4HJLMS",
+                    "U06LK0FP02F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "いろは_1",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LJB446QL",
+                    "U06LK3LM7AN",
+                    "U06LK0DK7R9",
+                    "U06LG6F13M3",
+                    "U06LG61U9QD",
+                    "U06LXNYGGHX",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06L4GM463H",
+                    "U06LMH31QSG",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXP316UR",
+                    "U06LXNUQ989",
+                    "U06LK3M7VGA",
+                    "U06LK0JCFHR",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LK0DN10T",
+                    "U06L4GH3T7H",
+                    "U06LMH9MBFW"
+                ],
+                "count": 22
+            },
+            {
+                "name": "いろは_3",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH31QSG",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0JCFHR",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LMH9MBFW"
+                ],
+                "count": 12
+            },
+            {
+                "name": "いろは_4",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH31QSG",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0JCFHR",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LMH9MBFW"
+                ],
+                "count": 12
+            },
+            {
+                "name": "いろは_5",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0JCFHR",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LMH9MBFW"
+                ],
+                "count": 11
+            },
+            {
+                "name": "いろは_6",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0JCFHR",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LMH9MBFW",
+                    "U06M7SSDQQG"
+                ],
+                "count": 12
+            },
+            {
+                "name": "いろは_7",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 10
+            },
+            {
+                "name": "いろは_8",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 10
+            },
+            {
+                "name": "いろは_9",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 10
+            },
+            {
+                "name": "いろは_10",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LXNZFWDP",
+                    "U06LCE69DRU",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXP316UR",
+                    "U06LXNUQ989",
+                    "U06LK0F2RC3",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 11
+            },
+            {
+                "name": "鋼のweb部門",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0DK7R9",
+                    "U06LG6F13M3",
+                    "U06LXNYGGHX",
+                    "U06LXNZFWDP",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "議事録おつかれ",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LG6F13M3",
+                    "U06LXNYGGHX",
+                    "U06LXNZFWDP",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LXNZFWDP",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXNUQ989",
+                    "U070RQFLLR4",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNYGGHX",
+                    "U06LXNZFWDP",
+                    "U06LG6F13M3",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXP316UR",
+                    "U06LXNUQ989",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 10
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNYGGHX",
+                    "U06LK3L8RNE",
+                    "U06LXNZFWDP",
+                    "U06LG6F13M3",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXP316UR",
+                    "U06LXNUQ989",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 11
+            },
+            {
+                "name": "いろは_2",
+                "users": [
+                    "U06LG61U9QD",
+                    "U06LXNYGGHX",
+                    "U06LXNZFWDP",
+                    "U06LMH4MXDJ",
+                    "U06LJ4HJLMS",
+                    "U06LXP316UR",
+                    "U06LXNUQ989",
+                    "U06LK0FP02F",
+                    "U06LK0JCFHR"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "text": "アウトでしたごめんなさい߹ ߹",
+        "files": [
+            {
+                "id": "F071Q3MTX6J",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LG6Q48SZ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2N+EH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アウトでしたごめんなさい߹ ߹"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714748686.226529",
+        "edited": {
+            "user": "U06LG6Q48SZ",
+            "ts": "1714748701.000000"
+        },
+        "client_msg_id": "6c50f9e2-4524-4219-8715-2ebda181adb8",
+        "reactions": [
+            {
+                "name": "きどこうだいじょうぶだよー",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LK0FP02F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK0EUE75",
+                    "U06LK0FP02F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LK0FP02F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U070YD8ST18",
+        "type": "message",
+        "ts": "1718698672.987919",
+        "client_msg_id": "A9969A98-33C9-4516-8A65-B266F5725638",
+        "text": "雨のせいか片頭痛がひどいので帰ります :woman-bowing: 欠席でお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a86ee4dd71f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-16\/7597448787809_a86ee4dd71f890f4c9d2_72.png",
+            "first_name": "村角美咲",
+            "real_name": "村角美咲",
+            "display_name": "Murazumi.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "murazumimisaki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718531944.303159",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kdvvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "雨のせいか片頭痛がひどいので帰ります "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 欠席でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK0F2RC3",
+                    "U06LP6ZTYA1",
+                    "U070RQFLLR4",
+                    "U06LG6F13M3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "余裕っしょ",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "厳しいって",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許さん-1",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

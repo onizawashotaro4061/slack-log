@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1709087998.947939",
+        "edited": {
+            "user": "U06LE9EH9QV",
+            "ts": "1709088043.000000"
+        },
+        "client_msg_id": "C6BC56BE-5BB0-48B1-ABBB-EED3C5BDA2B8",
+        "text": "【次長募集に関して】\n<!channel>\nリマインド\n次長募集は*本日の23：59迄*となっております！\n提出遅れのないようにね\n\n【*※次長募集における補足内容*】\n第140回明大祭実行委員会において、局内の次長立候補者が1人もいない場合、\n該当局は部門を発足することができません。\nもしくは、他局で溢れた次長候補者の転局を特例として認め、該当局の次長とすることで部門の発足を認めます。\n\n自局で候補者を出せるのがベストだと思いますが、そうゆう場合もあるということを理解しておいてねー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZeLkR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【次長募集に関して】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリマインド\n次長募集は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日の23：59迄",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となっております！\n提出遅れのないようにね\n\n【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※次長募集における補足内容",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "】\n第140回明大祭実行委員会において、局内の次長立候補者が1人もいない場合、\n該当局は部門を発足することができません。\nもしくは、他局で溢れた次長候補者の転局を特例として認め、該当局の次長とすることで部門の発足を認めます。\n\n自局で候補者を出せるのがベストだと思いますが、そうゆう場合もあるということを理解しておいてねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LMH5ACE8",
+                    "U06LK0FUAHZ",
+                    "U06LCE8L8LW",
+                    "U06M7TE180Y",
+                    "U06LK3MMALA",
+                    "U06LMGM3CG4",
+                    "U06LCE7DY6S",
+                    "U06LCUTBMU5",
+                    "U06LFKRD4MQ",
+                    "U06LXK3RF7B",
+                    "U06LMH49MQU",
+                    "U06LJ4HJLMS",
+                    "U06LK3LHG0J",
+                    "U06LCE9NLP8",
+                    "U06LXNY8KMF",
+                    "U06L97X3V6J",
+                    "U06LH4PDAQ3",
+                    "U06L4GKF78F",
+                    "U06LK3LKR9Q",
+                    "U06LM0QJV3L",
+                    "U06L4GLJVKR"
+                ],
+                "count": 22
+            },
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "text": "<@U070VFRCQBF> \nお疲れ様です！\n荷物届いたのでじつぼに置いてあります！",
+        "files": [
+            {
+                "id": "F07KKELTVHV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GM5C87",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BclCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070VFRCQBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n荷物届いたのでじつぼに置いてあります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725500166.030619",
+        "client_msg_id": "0D89DCDF-D762-4AEB-9998-ED77EC6D8831",
+        "thread_ts": "1725500166.030619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1725585470.797139",
+        "reply_users": [
+            "U070VFRCQBF"
+        ],
+        "replies": [
+            {
+                "user": "U070VFRCQBF",
+                "ts": "1725585470.797139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

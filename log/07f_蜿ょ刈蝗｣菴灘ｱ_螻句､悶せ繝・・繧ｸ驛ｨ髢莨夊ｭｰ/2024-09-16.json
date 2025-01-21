@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U06LK0FPH2P",
+        "type": "message",
+        "ts": "1726552686.491829",
+        "client_msg_id": "9BC6203F-C6B9-4C96-AA0C-D8659BA36590",
+        "text": "<!channel> 第一校舎302教室だって :grey_exclamation: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7f9d38b31dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-28\/8080869375191_7f9d38b31dd0cfa3b645_72.png",
+            "first_name": "小林美佐紀",
+            "real_name": "小林美佐紀",
+            "display_name": "Kobayashi.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "like25white",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1CN9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 第一校舎302教室だって "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grey_exclamation",
+                                "unicode": "2755"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

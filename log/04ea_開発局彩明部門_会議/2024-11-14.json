@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1731573325.568589",
+        "client_msg_id": "7A3B77E3-DA38-44CD-997D-7CA0F5A35803",
+        "text": "所属している研究室（のようなもの）の講演会が19時まであるので少し遅れるかもしれません。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731566820.216329",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7Z3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所属している研究室（のようなもの）の講演会が19時まであるので少し遅れるかもしれません。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCEJ5HHU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH49UQL",
+        "type": "message",
+        "ts": "1731575032.022629",
+        "client_msg_id": "1BD5736A-511E-4B01-BAC0-D451D6301D12",
+        "text": "体調が悪化してしまったため休みます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dbe6f5d664d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-07\/7678635751815_dbe6f5d664d5226c2aaa_72.png",
+            "first_name": "佐藤花恋",
+            "real_name": "佐藤花恋",
+            "display_name": "Sato.Karen",
+            "team": "T06L90YHJF8",
+            "name": "s.karen160827",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731566820.216329",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3rSx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪化してしまったため休みます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCEJ5HHU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

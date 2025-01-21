@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U06LG6F13M3",
+        "type": "message",
+        "ts": "1731547165.691549",
+        "client_msg_id": "8F510B6D-0087-4AE7-981B-17E239E7C2D2",
+        "text": "体調悪くてお休みしますごめんね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae3a1cd9bccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-11\/7268994475441_ae3a1cd9bccdea72982a_72.png",
+            "first_name": "畠田莉奈",
+            "real_name": "畠田莉奈",
+            "display_name": "Hatakeda.Rina",
+            "team": "T06L90YHJF8",
+            "name": "hinatazaka6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731064166.030849",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KyRkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調悪くてお休みしますごめんね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "とうご_かんとう",
+                "users": [
+                    "U071M6YAX2L",
+                    "U06L4GPGUMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LP6ZTYA1",
+        "type": "message",
+        "ts": "1731569396.255819",
+        "client_msg_id": "ED9E9EFA-EF67-49F6-8F41-5B772C796F79",
+        "text": "用事できたから今日いけないです。ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acacd59adece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-18\/6841130737232_acacd59adece7135664f_72.png",
+            "first_name": "上村優太",
+            "real_name": "上村優太",
+            "display_name": "Kamimura.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "yuta200409",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731064166.030849",
+        "parent_user_id": "U06LK0FAL83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QrXU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事できたから今日いけないです。ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

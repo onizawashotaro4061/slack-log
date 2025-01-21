@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LMQR40J0",
+        "type": "message",
+        "ts": "1715508699.031329",
+        "client_msg_id": "F3512218-A463-424B-9925-CC36F118C958",
+        "text": "就活で欠席します。いつも申し訳ないです。\n分担金は <@U06LMH49MQU> に渡してるので、よろしくお願いします :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7b64c6893ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-20\/7892810979191_7b64c6893ef19bd8841a_72.png",
+            "first_name": "中井俊介",
+            "real_name": "中井俊介",
+            "display_name": "Nakai.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "nakashun5551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715494038.326579",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u73lC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "就活で欠席します。いつも申し訳ないです。\n分担金は "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH49MQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に渡してるので、よろしくお願いします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "財_なかだまや",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

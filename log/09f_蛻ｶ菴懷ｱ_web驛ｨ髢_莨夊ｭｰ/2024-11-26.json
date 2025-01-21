@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1732612236.338879",
+        "client_msg_id": "C283A007-1D19-42A6-ABAB-D50FF4B81CB5",
+        "text": "<@U071B3EMJCR> 新宿直でいいっぽい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732540525.919669",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SriDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071B3EMJCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 新宿直でいいっぽい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071B3EMJCR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710SYJ892",
+        "type": "message",
+        "ts": "1732615466.753139",
+        "client_msg_id": "6DB8F6B2-C1BF-4439-9539-6319AE856C26",
+        "text": "10分くらい遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4902efb8a47b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7029547866885_4902efb8a47bfc9e3bf4_72.png",
+            "first_name": "伊藤汰海",
+            "real_name": "伊藤汰海",
+            "display_name": "Ito.Taiga",
+            "team": "T06L90YHJF8",
+            "name": "itiger4649",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732540525.919669",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0yAEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10分くらい遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

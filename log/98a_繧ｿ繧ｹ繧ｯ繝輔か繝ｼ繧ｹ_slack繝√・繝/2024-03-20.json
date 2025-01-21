@@ -1,0 +1,329 @@
+[
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1710922866.434069",
+        "client_msg_id": "6F08B51B-6C6C-438F-81D4-F463C251AC0A",
+        "text": "<@U06M7SETDKJ> Trelloとりあえず最低限の機能で作ろうと思うんだけど、追加したい機能とかみんなに聞いてまとめてもらうのお願いしてもいいかな？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1711439626.391359",
+        "reply_users": [
+            "U06M7SETDKJ",
+            "U06LJ4HJLMS"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1711000733.522349"
+            },
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1711245053.973589"
+            },
+            {
+                "user": "U06LJ4HJLMS",
+                "ts": "1711248070.604469"
+            },
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1711249226.968329"
+            },
+            {
+                "user": "U06LJ4HJLMS",
+                "ts": "1711249593.836089"
+            },
+            {
+                "user": "U06M7SETDKJ",
+                "ts": "1711435504.387069"
+            },
+            {
+                "user": "U06LJ4HJLMS",
+                "ts": "1711439626.391359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hW6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SETDKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Trelloとりあえず最低限の機能で作ろうと思うんだけど、追加したい機能とかみんなに聞いてまとめてもらうのお願いしてもいいかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1710922912.842979",
+        "client_msg_id": "B84472F1-9D97-44DB-B8C2-477DF1CC091E",
+        "text": "あとTrelloのために用意したメンバーのデータがあればslackとか別のアプリのパクリみたいなの作っても流用できるから、そういうアイディアあったら教えてほしいです:cry:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvJ8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとTrelloのために用意したメンバーのデータがあればslackとか別のアプリのパクリみたいなの作っても流用できるから、そういうアイディアあったら教えてほしいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1710923650.555069",
+        "client_msg_id": "00939011-1870-44F4-B33C-7287FA3AC4B6",
+        "text": "ていうかプログラミングできる人とかやりたい人いますか？いたら一緒にやりたいんだけど\n\n雄大は確定でお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ly1bN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ていうかプログラミングできる人とかやりたい人いますか？いたら一緒にやりたいんだけど\n\n雄大は確定でお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LJB446QL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1710924224.284369",
+        "client_msg_id": "C8B7AF0E-8754-4174-B6A2-8FD18CDE95F5",
+        "text": "<@U06LJ4HJLMS> 手伝えることあればやりたいです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710924224.284369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710924830.355139",
+        "reply_users": [
+            "U06LJ4HJLMS"
+        ],
+        "replies": [
+            {
+                "user": "U06LJ4HJLMS",
+                "ts": "1710924830.355139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcBWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LJ4HJLMS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 手伝えることあればやりたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1710924830.355139",
+        "client_msg_id": "A3A48982-7AF5-43E9-AB9E-7F5D532E5AB5",
+        "text": "やった！ありがと！あとで色々伝えます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710924224.284369",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2gIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やった！ありがと！あとで色々伝えます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1711000733.522349",
+        "client_msg_id": "5969aedc-fcc9-4ca0-a72b-82e6f06425c4",
+        "text": "りょうかいです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710922866.434069",
+        "parent_user_id": "U06LJ4HJLMS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "puWip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょうかいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LJ4HJLMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

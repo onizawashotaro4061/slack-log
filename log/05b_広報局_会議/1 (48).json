@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1718703797.813069",
+        "client_msg_id": "3E4C22FC-479C-42CD-8CCD-3DF835F99C14",
+        "text": "今起きた遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718605378.114099",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayGa7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今起きた遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH",
+                    "U06LMH3952Q",
+                    "U06TU27FX08",
+                    "U06LK3KA09G",
+                    "U06LCE9HTP0",
+                    "U070HS55GQP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH",
+                    "U06LMH3952Q",
+                    "U06LCE9HTP0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sushi",
+                "users": [
+                    "U06LMH3952Q",
+                    "U06TU27FX08",
+                    "U06LK3KA09G",
+                    "U06LCE9HTP0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3KA09G",
+                    "U06LCE9HTP0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LG60SFEH",
+        "type": "message",
+        "ts": "1718704142.389999",
+        "client_msg_id": "3ED46F25-E113-4E05-AABA-11BAD5649260",
+        "text": "図書館で寝てて乗り換えまけなかったので遅れますごめんなさいや",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e05d20e652a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-28\/7177185164149_e05d20e652a4e4b9a686_72.png",
+            "first_name": "田中琴葉",
+            "real_name": "田中琴葉",
+            "display_name": "Tanaka.Kotoha",
+            "team": "T06L90YHJF8",
+            "name": "nmaru8645",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718605378.114099",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIEao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "図書館で寝てて乗り換えまけなかったので遅れますごめんなさいや"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH",
+                    "U06LMH3952Q"
+                ],
+                "count": 3
+            },
+            {
+                "name": "走れ",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK0EBWRH",
+                    "U06LMH3952Q"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

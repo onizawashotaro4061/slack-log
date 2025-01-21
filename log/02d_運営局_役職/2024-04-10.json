@@ -1,0 +1,325 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1712812115.106579",
+        "client_msg_id": "8BBB002B-32F8-4A8E-8892-07161BB7B9D9",
+        "text": "<!channel> \n0403_運営局役職会議\n【時間】\n21：00〜23：00（予定）\n【場所】\nZoom\n【議題】\n1. 部門報告（意見交換）\n2. 備品管理部門活動企画書敲き（意見交換）\n3. インフラ整備部門活動企画書敲き（意見交換\n4. Trelloについて（意見交換・決定）\n5. 諸連絡（意思共有）\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n企画書二つあります。頑張りましょう！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712812115.106579",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1712812577.029239",
+        "reply_users": [
+            "U06LK3LHG0J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3LHG0J",
+                "ts": "1712812558.245809"
+            },
+            {
+                "user": "U06LK3LHG0J",
+                "ts": "1712812577.029239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FY9R8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0403_運営局役職会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21：00〜23：00（予定）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zoom"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "備品管理"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "部門活動企画書敲き（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インフラ整備"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "部門活動企画書敲き（意見交換"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trelloについて（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認したらリアクションを！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席・遅刻は局長まで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n企画書二つあります。頑張りましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LK0FUAHZ",
+                    "U06L4GHLP2B",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "運営_インフラ_やや転びなおき",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06L4GKK0CF",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_もえ_ぴーもえver早い",
+                "users": [
+                    "U06L4GKK0CF",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3LHG0J",
+        "type": "message",
+        "ts": "1712812558.245809",
+        "client_msg_id": "8CD502C3-C303-41F6-BA47-5378421FBDA6",
+        "text": "区画整理20日にやるならその確認もしたいよーー :sneezing_face: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e493b8a939b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491209382_3e493b8a939b3a11cdae_72.png",
+            "first_name": "高橋萌衣",
+            "real_name": "高橋萌衣",
+            "display_name": "Takahashi.Moe",
+            "team": "T06L90YHJF8",
+            "name": "moepooh0408",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712812115.106579",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UbAHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "区画整理20日にやるならその確認もしたいよーー "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sneezing_face",
+                                "unicode": "1f927"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3LHG0J",
+        "type": "message",
+        "ts": "1712812577.029239",
+        "client_msg_id": "5DB7D730-05DF-49B8-9E6C-9DBB0B9388A1",
+        "text": "んあでも連携のとこでやればいっか :relieved: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e493b8a939b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491209382_3e493b8a939b3a11cdae_72.png",
+            "first_name": "高橋萌衣",
+            "real_name": "高橋萌衣",
+            "display_name": "Takahashi.Moe",
+            "team": "T06L90YHJF8",
+            "name": "moepooh0408",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712812115.106579",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzfyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "んあでも連携のとこでやればいっか "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

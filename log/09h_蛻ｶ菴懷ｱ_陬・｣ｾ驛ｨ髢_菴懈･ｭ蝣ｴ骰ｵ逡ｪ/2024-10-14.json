@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U06LG6F13M3",
+        "type": "message",
+        "ts": "1728915800.875289",
+        "client_msg_id": "F9CD998A-48F7-4693-BC9F-D618C85AF4C6",
+        "text": "閉めたーー！だいちゆいなひなたの全速力:woman-running::skin-tone-2:‍:arrow_right:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae3a1cd9bccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-11\/7268994475441_ae3a1cd9bccdea72982a_72.png",
+            "first_name": "畠田莉奈",
+            "real_name": "畠田莉奈",
+            "display_name": "Hatakeda.Rina",
+            "team": "T06L90YHJF8",
+            "name": "hinatazaka6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDp\/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉めたーー！だいちゆいなひなたの全速力"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-running",
+                                "unicode": "1f3c3-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "‍"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_right",
+                                "unicode": "27a1-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LP6ZTYA1",
+                    "U06LK0F2RC3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-偉業",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0FP02F",
+        "type": "message",
+        "ts": "1728954093.716739",
+        "client_msg_id": "7C2A7FF1-2590-4BE3-B0AE-CD99A8253B01",
+        "text": "かりあけー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4be38cf8c93e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102538693812_4be38cf8c93e32166096_72.png",
+            "first_name": "松本和佳奈",
+            "real_name": "松本和佳奈",
+            "display_name": "Matsumoto.Wakana",
+            "team": "T06L90YHJF8",
+            "name": "waka.4615",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVeh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

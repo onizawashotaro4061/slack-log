@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1730117713.713819",
+        "client_msg_id": "94A153D6-D407-49F1-A15D-31A208CB4B5B",
+        "text": "学生証おれです！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gimBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生証おれです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1730159890.156649",
+        "client_msg_id": "2935C2E4-AB50-4D1C-818D-82C3545E8188",
+        "text": "かりあけ〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hUVhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8",
+                    "U0710T3MCUC",
+                    "U071M6YLJRE",
+                    "U06L4GH4ETH",
+                    "U06LCED6ZK8",
+                    "U071M740R32",
+                    "U06L4GLJVKR",
+                    "U06LY5XNLBT",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6",
+                    "U06LJ0SKMEZ",
+                    "U06LK3MF9FC"
+                ],
+                "count": 12
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06L4GLJVKR",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6",
+                    "U06LK3MF9FC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06L4GLJVKR",
+                    "U06L4GKC9N3",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ちひろ沸騰",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

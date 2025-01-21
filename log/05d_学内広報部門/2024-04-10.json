@@ -1,0 +1,72 @@
+[
+    {
+        "text": "<!channel> これ、明日の会議で使う部門活動企画書です。これに則って半年間活動していくので少し読んでもらったほうがGWもしやすくなると思うのでよろしくです:pray:",
+        "files": [
+            {
+                "id": "F06TK831TS9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjOcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ、明日の会議で使う部門活動企画書です。これに則って半年間活動していくので少し読んでもらったほうがGWもしやすくなると思うのでよろしくです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712747447.784329",
+        "client_msg_id": "adf7b367-635a-4de6-a12c-3147d6745a25",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U06LXNWSGPK",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK",
+                    "U06LXNY8KMF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNWSGPK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

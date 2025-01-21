@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U0710SZT2S0",
+        "type": "message",
+        "ts": "1728380941.003629",
+        "client_msg_id": "946E5A8A-E327-4369-A503-80EF3436A616",
+        "text": "間違えて女性専用車に乗ってしまい、5分ほど遅れてしまうかもしれません申し訳ございません :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "16cbb4bcf140",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-03\/7967603719302_16cbb4bcf1400cabf9d3_72.png",
+            "first_name": "西村海明",
+            "real_name": "西村海明",
+            "display_name": "Nishimura.Kaimei",
+            "team": "T06L90YHJF8",
+            "name": "kaimei24kaimei24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8btGP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間違えて女性専用車に乗ってしまい、5分ほど遅れてしまうかもしれません申し訳ございません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "interrobang",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LK0JTYD9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070Y9REPD1",
+        "type": "message",
+        "ts": "1728381646.455139",
+        "client_msg_id": "1D3A85D4-842D-4BEE-B4DD-B5B64ACD12CB",
+        "text": "西武線が大幅に遅延したため20分ほど遅れます、大変申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "18d5b1202a5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7787555960625_18d5b1202a5b18180f98_72.png",
+            "first_name": "北條大誠",
+            "real_name": "北條大誠",
+            "display_name": "Hojo.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "taisei200506162005061",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302573.446249",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kTQ5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "西武線が大幅に遅延したため20分ほど遅れます、大変申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

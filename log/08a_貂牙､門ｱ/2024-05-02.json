@@ -1,0 +1,194 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1714644859.700749",
+        "client_msg_id": "460a27ef-fa9e-43c8-9582-e0599e2abcbf",
+        "text": ":point_up_2::point_up_2::point_up_2:\n<@U06LK0RAA7M> <@U071B3ES5NV> <@U070HS3ELF9> <@U0710T0ESTE> <@U070VFRCQBF> <@U070RQ3ND38>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NnpEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0RAA7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B3ES5NV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070HS3ELF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710T0ESTE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070VFRCQBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ3ND38"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK0RAA7M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1714662806.548359",
+        "client_msg_id": "0ADF6641-48DA-49E0-8083-1A260A4C687B",
+        "text": "<!channel> \n夜遅くにごめんね！！\n\n【新規のみんなへ】\n誓約書の期限は*5\/3の23:59まで*です！\n<mailto:shogai@meidaisai.jp|shogai@meidaisai.jp>\nにpdfファイルにして送ってください。\n\n正式に入るか迷ってる子とかいたら\nなんでも相談してください！\n\nよろしくお願いします！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8HbzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n夜遅くにごめんね！！\n\n【新規のみんなへ】\n誓約書の期限は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5\/3の23:59まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:shogai@meidaisai.jp",
+                                "text": "shogai@meidaisai.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにpdfファイルにして送ってください。\n\n正式に入るか迷ってる子とかいたら\nなんでも相談してください！\n\nよろしくお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U0710T4CBHS",
+                    "U071M6YLJRE",
+                    "U06LJRSQDC3",
+                    "U070YD778SE",
+                    "U06L4GLRAK1",
+                    "U070Y9WCHH9",
+                    "U070Y9UEAAF",
+                    "U071B3CV89X",
+                    "U070VFTLATX",
+                    "U070HS31CP9",
+                    "U071W456MHQ",
+                    "U0710T3MCUC",
+                    "U071M740R32"
+                ],
+                "count": 14
+            }
+        ]
+    }
+]

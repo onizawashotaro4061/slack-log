@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U0710T14PU4",
+        "type": "message",
+        "ts": "1718081595.777949",
+        "client_msg_id": "AAD998A2-6FEA-436F-9FBD-2B7346173F79",
+        "text": "5限があるため遅刻します、申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fc3fa55a4200",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8043086565669_fc3fa55a420035625947_72.png",
+            "first_name": "渡辺康介",
+            "real_name": "渡辺康介",
+            "display_name": "Kousuke.Watanabe",
+            "team": "T06L90YHJF8",
+            "name": "k.watanabe0504",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717998879.842139",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPU1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5限があるため遅刻します、申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9SJQH1",
+        "type": "message",
+        "ts": "1718085852.574889",
+        "client_msg_id": "8409871D-62AB-42F8-98B5-809DB090DDA4",
+        "text": "体調不良のため休みます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "1ced3ef2c793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7137437986758_1ced3ef2c7932018d882_72.png",
+            "first_name": "千葉澪未",
+            "real_name": "千葉澪未",
+            "display_name": "Chiba. Remi",
+            "team": "T06L90YHJF8",
+            "name": "rchiba39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717998879.842139",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MfAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため休みます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

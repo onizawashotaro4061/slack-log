@@ -1,0 +1,316 @@
+[
+    {
+        "text": "<!channel>\nおつかれ～\n今日の会議で共有したサンセツの資料作りをチーム員の4人に書いてほしいので分担お願いします:bow:\nパワポ確認お願いします\nあと、引継ぎも書き始めたいのでよろしくです～",
+        "files": [
+            {
+                "id": "F07B0C26PE1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQxnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれ～\n今日の会議で共有したサンセツの資料作りをチーム員の4人に書いてほしいので分担お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパワポ確認お願いします\nあと、引継ぎも書き始めたいのでよろしくです～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720109833.589919",
+        "client_msg_id": "7fef185a-6e97-477c-93cb-2f369b366fa2",
+        "thread_ts": "1720109833.589919",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1720197508.674409",
+        "reply_users": [
+            "U06LXNY8KMF",
+            "U06LK3KA09G",
+            "U06LMH3GJKE",
+            "U06L4GL1CUF",
+            "U06LXNZJBFT"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNY8KMF",
+                "ts": "1720143059.305429"
+            },
+            {
+                "user": "U06LK3KA09G",
+                "ts": "1720143091.014349"
+            },
+            {
+                "user": "U06LMH3GJKE",
+                "ts": "1720159597.715109"
+            },
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1720160747.953839"
+            },
+            {
+                "user": "U06LXNZJBFT",
+                "ts": "1720163640.012899"
+            },
+            {
+                "user": "U06LK3KA09G",
+                "ts": "1720190690.974319"
+            },
+            {
+                "user": "U06L4GL1CUF",
+                "ts": "1720197508.674409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "がんばる",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LXNY8KMF",
+                    "U06L4GL1CUF",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LXNY8KMF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1720143059.305429",
+        "client_msg_id": "BE413B8C-C3DA-403A-B023-E0539DE900AC",
+        "text": "おくすて資料やりたいでーす",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720109833.589919",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMSBo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おくすて資料やりたいでーす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1720143091.014349",
+        "client_msg_id": "B289D3C0-63CA-41D9-AD95-B6627155E17A",
+        "text": "さんせつの資料『模擬店資料』やりまーす :fairy: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720109833.589919",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WkDnA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さんせつの資料『模擬店資料』やりまーす "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fairy",
+                                "unicode": "1f9da"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH3GJKE",
+        "type": "message",
+        "ts": "1720159597.715109",
+        "client_msg_id": "E83A8B50-7B69-4649-9097-FAB95325BCD4",
+        "text": "教室資料やります",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "734eb66f15a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6714257233234_734eb66f15a18fcdbfae_72.png",
+            "first_name": "西村隼",
+            "real_name": "西村隼",
+            "display_name": "Nishimura.Hayato",
+            "team": "T06L90YHJF8",
+            "name": "harigane86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720109833.589919",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VsfHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教室資料やります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1720160747.953839",
+        "client_msg_id": "1ea520cf-238e-4144-9220-b370122089f9",
+        "text": "<@U06LXNZJBFT>パワポ作ってもらってもいいですか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720109833.589919",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKkvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNZJBFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パワポ作ってもらってもいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

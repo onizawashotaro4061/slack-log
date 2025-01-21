@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1720661878.331629",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1720661898.000000"
+        },
+        "client_msg_id": "40AB4B91-0658-44C0-B928-84A2A97A4D16",
+        "text": "<!channel>\n会議連絡だよーん\n\n【時間】7\/11 (木) 19:00-20:40\n【場所】LS406\n【議題】\n1. 各種報告（意思共有）\n\nおわったらチーム会議！\n今日は夏休み前最後なので、チームの時間たっぷりとるよ〜\n\n議事録→べち、チーム報告→対決\n欠席、遅刻、早退はスレッドへ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xIMOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよーん\n\n【時間】7\/11 (木) 19:00-20:40\n【場所】LS406\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nおわったらチーム会議！\n今日は夏休み前最後なので、チームの時間たっぷりとるよ〜\n\n議事録→べち、チーム報告→対決\n欠席、遅刻、早退はスレッドへ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LK0G74NP",
+                    "U070YDB48GJ",
+                    "U06LCECJD8W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06L4GKF78F",
+                    "U070Y9RH075",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "田都の絆",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LXP2EGKT",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

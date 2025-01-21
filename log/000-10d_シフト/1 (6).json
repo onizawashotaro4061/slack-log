@@ -1,0 +1,985 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1730620335.007099",
+        "edited": {
+            "user": "U06LDT584J1",
+            "ts": "1730620346.000000"
+        },
+        "client_msg_id": "e2d7d45e-d1e3-442b-af97-12b41b6c3ddd",
+        "text": "<@U070Y9T5W4B> <@U06M7SSDQQG> <@U071B38HAM7> <@U06LG60SFEH> <@U06L4GM5C87>\n• パンフレット配布シフト　*シフト削除*\n17：30～19：00　GD①野間帆南美\n17：00～18：00　GD②峯岸勇世\n18：00～19：00　学内①永井陽菜\n17：30～19：00　広報③田中琴葉",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730590695.143409",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkC5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9T5W4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SSDQQG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B38HAM7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG60SFEH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GM5C87"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "パンフレット配布シフト　"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "シフト削除",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "17：30～19：00　GD①野間帆南美\n17：00～18：00　GD②峯岸勇世\n18：00～19：00　学内①永井陽菜\n17：30～19：00　広報③田中琴葉"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1730621260.084359",
+        "client_msg_id": "cdda562f-7b3e-4e1d-bb56-56f8a561bd39",
+        "text": "<@U06LK0G74NP> <@U06LMH3BZ8C> <@U06M7SU83G8>\n• 17：30～18：30　道路封鎖警備\n響創②樋田駿之介→実務②清水麻代",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730590695.143409",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MdhUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0G74NP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH3BZ8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SU83G8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17：30～18：30　道路封鎖警備"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "響創②樋田駿之介→実務②清水麻代"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n夜分遅くに失礼します。本祭3日目のシフトです。\n当日中、当日朝にシフト変更がある可能性が高いため、ご迷惑をお掛け致しますが柔軟に対応していただければ幸いです。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F07UQTT54LU",
+                "created": 1730649587,
+                "timestamp": 1730649587,
+                "name": "1104_【シフト】本祭3日目_24.xlsx",
+                "title": "1104_【シフト】本祭3日目_24.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LE9EH9QV",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 253803,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UQTT54LU\/1104______________________3_______24.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UQTT54LU\/download\/1104______________________3_______24.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UQTT54LU-ebbd5c9149\/1104______________________3_______24_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UQTT54LU-ebbd5c9149\/1104______________________3_______24_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LE9EH9QV\/F07UQTT54LU\/1104______________________3_______24.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07UQTT54LU-8d2c276ddb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c46KK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに失礼します。本祭3日目のシフトです。\n当日中、当日朝にシフト変更がある可能性が高いため、ご迷惑をお掛け致しますが柔軟に対応していただければ幸いです。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730649695.972139",
+        "client_msg_id": "83a7dbc2-c2e7-4081-854e-894abd64de5d",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LK3HUVTL",
+                    "U06L4GH3T7H",
+                    "U070HS5NT63",
+                    "U06LK3NPUQ2",
+                    "U06M7SU83G8",
+                    "U06M7TE180Y",
+                    "U06LH4PDAQ3",
+                    "U06LMH9MBFW",
+                    "U06LY8E3XA5",
+                    "U0710T3MCUC",
+                    "U070VFTRR61",
+                    "U06L4CMKY8P",
+                    "U06LHACMG91",
+                    "U07194G87BL",
+                    "U06LMH49MQU"
+                ],
+                "count": 16
+            },
+            {
+                "name": "no_good",
+                "users": [
+                    "U06LK3NPUQ2",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LMQR40J0",
+                    "U06LK3ZBCN6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ありがとう",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です、かなりの人数がシフト変更になっていますので、全員変更がなかったとしても一度は再度自分のシフトに目を通して追加・削除・変更などないかご確認をお願いします。\nご迷惑をお掛け致しますがよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F07UP16HQCA",
+                "created": 1730678636,
+                "timestamp": 1730678636,
+                "name": "1104_【シフト】本祭3日目_25.xlsx",
+                "title": "1104_【シフト】本祭3日目_25.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LE9EH9QV",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 254000,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UP16HQCA\/1104______________________3_______25.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UP16HQCA\/download\/1104______________________3_______25.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UP16HQCA-2d58dbffbd\/1104______________________3_______25_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UP16HQCA-2d58dbffbd\/1104______________________3_______25_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LE9EH9QV\/F07UP16HQCA\/1104______________________3_______25.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07UP16HQCA-3445fc21e6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6I+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です、かなりの人数がシフト変更になっていますので、全員変更がなかったとしても一度は再度自分のシフトに目を通して追加・削除・変更などないかご確認をお願いします。\nご迷惑をお掛け致しますがよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730678709.215209",
+        "client_msg_id": "5c545472-6664-425c-a708-1ed121416377",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYUX7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1730678895.415839",
+        "edited": {
+            "user": "U06LE9EH9QV",
+            "ts": "1730678907.000000"
+        },
+        "client_msg_id": "372B724D-8D98-4CC0-AC45-1758C2884E71",
+        "text": "周りの変更後シフトまだ見てない人にも声がけをお願いしますー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qr8ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "周りの変更後シフト"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まだ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "見てない人にも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "声がけ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "をお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "開・広訂正版です",
+        "files": [
+            {
+                "id": "F07UL83MDHT",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZaG\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開・広訂正版です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730681999.404889",
+        "client_msg_id": "0228c2a2-dcb4-4d70-b1c6-6d638d015076",
+        "thread_ts": "1730681999.404889",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730682452.807949",
+        "reply_users": [
+            "U06LE9EH9QV"
+        ],
+        "replies": [
+            {
+                "user": "U06LE9EH9QV",
+                "ts": "1730682452.807949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07UP1LR3J7",
+                "created": 1730682445,
+                "timestamp": 1730682445,
+                "name": "1104_【シフト】本祭3日目_26.xlsx",
+                "title": "1104_【シフト】本祭3日目_26.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LE9EH9QV",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 254138,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UP1LR3J7\/1104______________________3_______26.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07UP1LR3J7\/download\/1104______________________3_______26.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UP1LR3J7-2a91d99478\/1104______________________3_______26_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07UP1LR3J7-2a91d99478\/1104______________________3_______26_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LE9EH9QV\/F07UP1LR3J7\/1104______________________3_______26.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07UP1LR3J7-0300984edc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1730682452.807949",
+        "client_msg_id": "b18c0eb4-100e-451d-85d6-8528ab4ef8ed",
+        "thread_ts": "1730681999.404889",
+        "parent_user_id": "U06LE9EH9QV"
+    },
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1730683529.739229",
+        "client_msg_id": "c2449a9d-5af3-41e3-a8bf-d23dc450299b",
+        "text": "【本祭3日目のシフト変更】\n <!channel>\n• *13：00～14：30　GS巡回（図書館）*\n響創①松浦真央→界隈②小宮令衣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730683529.739229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730686874.260029",
+        "reply_users": [
+            "U06LDT584J1"
+        ],
+        "replies": [
+            {
+                "user": "U06LDT584J1",
+                "ts": "1730686874.260029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTM+l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【本祭3日目のシフト変更】\n "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "13：00～14：30　GS巡回（図書館）",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "響創①松浦真央→界隈②小宮令衣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1730686874.260029",
+        "client_msg_id": "e696622f-b8b0-40f6-82b5-49c10048ddd0",
+        "text": "<@U06LMH31QSG> <@U0710SYJ892> <@U071B3CMYKT> <@U0710SYN1B6> <@U06LK3L8RNE> <@U06LXP316UR> <@U06L4GM5C87> <@U06LXK3RF7B>\n• *12：00～13：00　パンフレット配布シフト*\nGD②川口裕次郎→Web①伊藤汰海\n装飾①中塚更→装飾①田口栞\n• *13：00～14：00　パンフレット配布シフト*\n装飾②反田結菜→制作③小野隼兵\n• *12：30～14：00　食券補助*\nGD①川口裕次郎、装飾②反田結菜　シフト追加でお願いします！\n• *12：30～14：00　食堂巡回*\n装飾①中塚更　シフト追加でお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730683529.739229",
+        "parent_user_id": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kx\/1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH31QSG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710SYJ892"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U071B3CMYKT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710SYN1B6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L8RNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXP316UR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GM5C87"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXK3RF7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12：00～13：00　パンフレット配布シフト",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GD②川口裕次郎→Web①伊藤汰海\n装飾①中塚更→装飾①田口栞\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "13：00～14：00　パンフレット配布シフト",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "装飾②反田結菜→制作③小野隼兵\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12：30～14：00　食券補助",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GD①川口裕次郎、装飾②反田結菜　シフト追加でお願いします！\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12：30～14：00　食堂巡回",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "装飾①中塚更　シフト追加でお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "【本祭3日目のシフト変更】\nすみません本部記録のシフトをすっかり入れ忘れておりました、、、\n<@U06LK3KA09G> <@U06LMH3952Q> <@U070HS55GQP> <@U070VG0DP0D> <@U06LXNWSGPK> <@U070Y9STSPM> <@U070U48JHL7> <@U070Y9VV7MZ> <@U06LMH4MXDJ>\nシフト追加させていただいたのでご確認お願いします、、、、",
+        "files": [
+            {
+                "id": "F07URQGG6TW",
+                "created": 1730688414,
+                "timestamp": 1730688414,
+                "name": "1104_【シフト】本祭3日目_27.xlsx",
+                "title": "1104_【シフト】本祭3日目_27.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LE9EH9QV",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 254401,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07URQGG6TW\/1104______________________3_______27.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07URQGG6TW\/download\/1104______________________3_______27.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07URQGG6TW-a967857db9\/1104______________________3_______27_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07URQGG6TW-a967857db9\/1104______________________3_______27_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LE9EH9QV\/F07URQGG6TW\/1104______________________3_______27.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07URQGG6TW-4ab475a64e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGTA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【本祭3日目のシフト変更】\nすみません本部記録のシフトをすっかり入れ忘れておりました、、、\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3KA09G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH3952Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070HS55GQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070VG0DP0D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNWSGPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9STSPM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070U48JHL7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9VV7MZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH4MXDJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nシフト追加させていただいたのでご確認お願いします、、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730688439.665579",
+        "client_msg_id": "a4e33a97-c04c-4a3c-9dfb-8f9246f45803"
+    }
+]

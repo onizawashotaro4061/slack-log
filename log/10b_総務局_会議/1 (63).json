@@ -1,0 +1,361 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1727603098.823469",
+        "edited": {
+            "user": "U06L2CSPXV5",
+            "ts": "1727608387.000000"
+        },
+        "client_msg_id": "DC28A2A1-8E96-40EB-8F81-A46FDF62307A",
+        "text": "<!channel>\nお疲れ様です。\n10月1日(火)の第30回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n和泉ラーニングスクエアLS403教室\n【議題】\n1. 各種報告(意思共有)\n2. zello講座(意思共有)\n3. チーム会議(意見交換)\n4. 諸連絡\n【持ち物】\nパソコン\n*イヤホン*\n【議事録】\nりく\n\n*遅刻早退欠席などはスレッドにお願いします！*\n\n気温が下がってきたから、体調管理に気をつけようー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727603098.823469",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1727774738.903529",
+        "reply_users": [
+            "U070YD72JPL",
+            "U06LM0QJV3L",
+            "U06LG668093",
+            "U0710T39SS0",
+            "U06LCFWR494"
+        ],
+        "replies": [
+            {
+                "user": "U070YD72JPL",
+                "ts": "1727607519.646219"
+            },
+            {
+                "user": "U06LM0QJV3L",
+                "ts": "1727617100.122049"
+            },
+            {
+                "user": "U06LG668093",
+                "ts": "1727629523.898289"
+            },
+            {
+                "user": "U0710T39SS0",
+                "ts": "1727771242.906209"
+            },
+            {
+                "user": "U06LCFWR494",
+                "ts": "1727774738.903529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXlNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n10月1日(火)の第30回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n和泉ラーニングスクエアLS403教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "zello講座(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議(意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イヤホン",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【議事録】\nりく\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "気温が下がってきたから、体調管理に気をつけようー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "総務＿けいた２",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U06M7TE180Y",
+                    "U071B38LED7",
+                    "U06LK3MPZ34",
+                    "U070YD72JPL",
+                    "U070HS23XV5",
+                    "U070VFZF6BF",
+                    "U06LS7G3G0M",
+                    "U070RQ001V4",
+                    "U06LMLKREUU",
+                    "U06LFKRD4MQ",
+                    "U06LG62FNP7"
+                ],
+                "count": 12
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06LG6B2NA1",
+                    "U071B38LED7",
+                    "U070YD72JPL",
+                    "U070VFZF6BF",
+                    "U06LCE9NLP8",
+                    "U071M6ZDDQ8"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U071M6ZDDQ8",
+                    "U070VFP05K7",
+                    "U06LXNX1A57",
+                    "U06M7SZ5WG0"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ぴ",
+                "users": [
+                    "U06LCE9NLP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD72JPL",
+        "type": "message",
+        "ts": "1727607519.646219",
+        "client_msg_id": "AAB7FFD7-ACCC-4C11-BDC4-7EED17F930FF",
+        "text": "バイトのため遅刻します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "90515e12708a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7694981498231_90515e12708a0701ba92_72.png",
+            "first_name": "櫻井大都",
+            "real_name": "櫻井大都",
+            "display_name": "Sakurai.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "harutos40",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727603098.823469",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UmveA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトのため遅刻します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1727617100.122049",
+        "client_msg_id": "9EA7507F-61F5-4CFB-925F-EF889F7E6137",
+        "text": "ゼミがあるので遅刻します :woman-bowing: すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727603098.823469",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbuXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミがあるので遅刻します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1727629523.898289",
+        "edited": {
+            "user": "U06LG668093",
+            "ts": "1727645371.000000"
+        },
+        "client_msg_id": "84A3BA85-0547-4566-B9C2-E86E2BC99BA7",
+        "text": "インターンにつき遅刻します。直前期なのにごめんなさい:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727603098.823469",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13f\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンにつき"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。直前期なのにごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

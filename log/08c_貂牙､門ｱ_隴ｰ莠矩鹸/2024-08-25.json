@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U070RQ3ND38",
+        "type": "message",
+        "ts": "1724594575.650409",
+        "client_msg_id": "ba84b037-1826-4a5b-83de-819739414f93",
+        "text": "*<!channel>*\nお疲れ様です。\n遅れまして大変申し訳ございません。\nまた、<@U06LG5XQGS1> さん、<@U06LXK3RF7B> さん、大変お手数おかけしました。\n\n0820_第19回企業部門会議議事録を\n<https:\/\/onedrive.live.com\/?cid=93481E220B586380&amp;id=93481E220B586380%2147864&amp;parId=93481E220B586380%2147328&amp;o=OneUp|OneDrive＞自分のファイル＞各局＞07_渉外局＞5-2.企業部門＞2.部門会議資料＞8月＞0820_第19回企業部門会議議事録>\nにアップロードしました。\n議題は、\n1.部門長報告（意思共有）\n2.電話掛けについて（意見交換・決定）\n3.盛況に繋がるブース企画を考えよう！（意見交換）\n4.諸連絡（意思共有）\nご確認よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "76db0053b55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7130463878912_76db0053b55bc5e947e6_72.png",
+            "first_name": "品川航介",
+            "real_name": "品川航介",
+            "display_name": "Shinagawa.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinagawasan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724594575.650409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1724595420.405679",
+        "reply_users": [
+            "U070RQ3ND38"
+        ],
+        "replies": [
+            {
+                "user": "U070RQ3ND38",
+                "ts": "1724595420.405679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WTG6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n遅れまして大変申し訳ございません。\nまた、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG5XQGS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXK3RF7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん、大変お手数おかけしました。\n\n0820_第19回企業部門会議議事録を\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?cid=93481E220B586380&id=93481E220B586380%2147864&parId=93481E220B586380%2147328&o=OneUp",
+                                "text": "OneDrive＞自分のファイル＞各局＞07_渉外局＞5-2.企業部門＞2.部門会議資料＞8月＞0820_第19回企業部門会議議事録"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにアップロードしました。\n議題は、\n1.部門長報告（意思共有）\n2.電話掛けについて（意見交換・決定）\n3.盛況に繋がるブース企画を考えよう！（意見交換）\n4.諸連絡（意思共有）\nご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "monkey_face",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06LCE9EA3G",
+                    "U071M6XCB5W",
+                    "U06LJRSQDC3",
+                    "U070HS5NT63",
+                    "U070YD778SE"
+                ],
+                "count": 7
+            },
+            {
+                "name": "しなこー",
+                "users": [
+                    "U070HS31CP9",
+                    "U06M7SETDKJ",
+                    "U0710T3MCUC",
+                    "U070RQ0VCP8",
+                    "U070HS5NT63",
+                    "U06LCE9EA3G",
+                    "U06M7SU83G8",
+                    "U071M6XCB5W",
+                    "U06LJRSQDC3"
+                ],
+                "count": 9
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LCE9EA3G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "チーム柏陽",
+                "users": [
+                    "U070HS5NT63",
+                    "U06LCE9EA3G",
+                    "U071M6XCB5W",
+                    "U06LJRSQDC3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "添付漏れ\n<@U070RQ0VCP8> ありがとうありがとう",
+        "files": [
+            {
+                "id": "F07J7M0A9D4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U070RQ3ND38",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Loaew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添付漏れ\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ0VCP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうありがとう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724595420.405679",
+        "client_msg_id": "e3fa0f80-dd8b-4839-bbb7-1931c9d95e24",
+        "thread_ts": "1724594575.650409",
+        "parent_user_id": "U070RQ3ND38",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U070RQ0VCP8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

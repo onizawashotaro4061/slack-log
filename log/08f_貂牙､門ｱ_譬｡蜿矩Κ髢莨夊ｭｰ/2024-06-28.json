@@ -1,0 +1,438 @@
+[
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1719560739.030899",
+        "edited": {
+            "user": "U06M7SUSYNL",
+            "ts": "1719560756.000000"
+        },
+        "client_msg_id": "D0F6D6AA-0903-42BC-8609-499B35A9D5C1",
+        "text": "<!channel>\n*【0628_第14回校友部門会議】*\n【時間】19:00〜19:30\n【場所】Zoom会議\n【議題】\n• 新規電話掛け進捗状況報告(意思共有)\n• 諸連絡（意思共有）\nお疲れ様です！\n今日だけ私が失礼します :woman-bowing::skin-tone-2:\n今日は雨やばい&はーちゃんお風邪&大人の事情で*zoomにて部門会議*をします！\n\nみんなお家でリラックスしながら参加してね :relieved: \n\n私いつも自宅から最寄り駅まで電チャリで20分の山道を抜けて通っているんですけど、歳を重ねるにつれて雨の日が怖くて怖くて仕方ないんですね、、。\nみんなも今日は授業が終わったら気をつけてお家に帰って、部門会議に備えてね。\n\n欠席、遅刻の際は*具体的な理由ととも*にスレッドに書いてください！\n見た人はスタンプと\nはーちゃんへのお大事にコメントよろしくね。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1719569305.999229",
+        "reply_users": [
+            "U070HS31CP9",
+            "U06L4J69HV5",
+            "U070Y9UPJG3",
+            "U071B3Q87ED",
+            "U06M7SUSYNL"
+        ],
+        "replies": [
+            {
+                "user": "U070HS31CP9",
+                "ts": "1719561058.016669"
+            },
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1719568773.019119"
+            },
+            {
+                "user": "U070Y9UPJG3",
+                "ts": "1719569161.352179"
+            },
+            {
+                "user": "U071B3Q87ED",
+                "ts": "1719569279.051909"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1719569305.999229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugVND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0628_第14回校友部門会議】\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00〜19:30\n【場所】Zoom会議\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規電話掛け進捗状況報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n今日だけ私が失礼します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日は雨やばい&はーちゃんお風邪&大人の事情で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "zoomにて部門会議",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "をします！\n\nみんなお家でリラックスしながら参加してね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n私いつも自宅から最寄り駅まで電チャリで20分の山道を抜けて通っているんですけど、歳を重ねるにつれて雨の日が怖くて怖くて仕方ないんですね、、。\nみんなも今日は授業が終わったら気をつけてお家に帰って、部門会議に備えてね。\n\n欠席、遅刻の際は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "具体的な理由ととも",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "にスレッドに書いてください！\n見た人はスタンプと\nはーちゃんへのお大事にコメントよろしくね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U070HS93JUX",
+                    "U070HS31CP9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "小田急",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LJRSQDC3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070HS31CP9",
+        "type": "message",
+        "ts": "1719561058.016669",
+        "client_msg_id": "FC160A9E-9626-471F-81E1-467A2D510F1C",
+        "text": "はーちゃんお大事に :smiling_face_with_tear: 直賛で会いましょ :two_hearts: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7baadb4e0f38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-29\/7948202165157_7baadb4e0f38b46e39fe_72.png",
+            "first_name": "山本そよ",
+            "real_name": "山本そよ",
+            "display_name": "Yamamoto.Soyo",
+            "team": "T06L90YHJF8",
+            "name": "shanbensoyo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "awE8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はーちゃんお大事に "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 直賛で会いましょ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1719568773.019119",
+        "client_msg_id": "E6A36F2C-5E94-4A6B-933F-613EC10AB923",
+        "text": "電車の中なので少し遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIZ99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車の中なので少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070Y9UPJG3",
+        "type": "message",
+        "ts": "1719569161.352179",
+        "client_msg_id": "9F85AC9B-8D17-4EDF-A9BD-E15824D19B3A",
+        "text": "コロナで声が出にくいので聞くだけの参加になります :woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4ce8d7593494",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-13\/8021871334531_4ce8d7593494ec0c7664_72.png",
+            "first_name": "富山歩咲",
+            "real_name": "富山歩咲",
+            "display_name": "Tomiyama. Ayusa",
+            "team": "T06L90YHJF8",
+            "name": "ayusa0915",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JhxkA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナで声が出にくいので聞くだけの参加になります "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3Q87ED",
+        "type": "message",
+        "ts": "1719569279.051909",
+        "client_msg_id": "76EC807A-7C1B-4323-AE86-802FF7C3A4AB",
+        "text": "どこから入るのですか",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "058a46552ad7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8043988975714_058a46552ad79e5bccc3_72.png",
+            "first_name": "稲葉　翔大",
+            "real_name": "稲葉　翔大",
+            "display_name": "Inaba.Shodai",
+            "team": "T06L90YHJF8",
+            "name": "shodai25ina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LlMHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこから入るのですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1719569305.999229",
+        "client_msg_id": "AE114538-F4AB-4077-A07C-E5FEEF7D950E",
+        "text": "<@U071B3Q87ED> 多分リンク送られてくるぜいそろそろ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719560739.030899",
+        "parent_user_id": "U06M7SUSYNL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65Qv9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071B3Q87ED"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 多分リンク送られてくるぜいそろそろ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1709255792.263719",
+        "client_msg_id": "C6AD8879-EE79-4C77-ADED-34926A4A710F",
+        "text": "【Slackのプロフィール設定について】\n<!channel>\n制作局長の齋藤です！\n:008_制作_制: のスタンプをつけとくとか細かいプロフィールの設定まで完璧にしちゃいたいから、slackチームからのお知らせのとこにあるパワポとか見ながらみんな*4日*までに終わらせよう！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709255792.263719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1709259834.153869",
+        "reply_users": [
+            "U06L4GH3T7H",
+            "U06LH4PDAQ3"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GH3T7H",
+                "ts": "1709256312.820179"
+            },
+            {
+                "user": "U06LH4PDAQ3",
+                "ts": "1709259834.153869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mkxao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【Slackのプロフィール設定について】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n制作局長の齋藤です！\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "008_制作_制"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のスタンプをつけとくとか細かいプロフィールの設定まで完璧にしちゃいたいから、slackチームからのお知らせのとこにあるパワポとか見ながらみんな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4日",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までに終わらせよう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LJB446QL",
+                    "U06M7SSDQQG",
+                    "U06LJ4HJLMS",
+                    "U06LCE8L8LW"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH3T7H",
+        "type": "message",
+        "ts": "1709256312.820179",
+        "client_msg_id": "4894D0CD-B13A-4569-9024-635AD439EB8C",
+        "text": "<@U06LH4PDAQ3> 三年は制と三年会のどっちかで揃える？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3de4687e904b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6684564472967_3de4687e904beeebb4d6_72.png",
+            "first_name": "鬼沢祥太朗",
+            "real_name": "鬼沢祥太朗",
+            "display_name": "Onizawa.Shotaro",
+            "team": "T06L90YHJF8",
+            "name": "shotaro10072003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709255792.263719",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ndcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LH4PDAQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 三年は制と三年会のどっちかで揃える？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LH4PDAQ3",
+        "type": "message",
+        "ts": "1709259834.153869",
+        "client_msg_id": "660E79ED-C8AD-4344-9608-C3DA6ADC6EF5",
+        "text": "<@U06L4GH3T7H> 去年は制だったけど今年3年多いし五役以外は三年会にしとくか",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "034bc240731b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699734095876_034bc240731b001767ec_72.png",
+            "first_name": "齋藤義弘",
+            "real_name": "齋藤義弘",
+            "display_name": "Saito.Yoshihiro",
+            "team": "T06L90YHJF8",
+            "name": "3110ydqff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709255792.263719",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgnE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GH3T7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 去年は制だったけど今年3年多いし五役以外は三年会にしとくか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GH3T7H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

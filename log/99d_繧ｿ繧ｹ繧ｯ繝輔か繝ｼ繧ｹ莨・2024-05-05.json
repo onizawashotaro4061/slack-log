@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1714968854.303999",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1715130309.000000"
+        },
+        "client_msg_id": "9C36FA53-A8F3-47B7-8AE7-995BEFD83CD0",
+        "text": "第3回タスクフォース会議\n<!channel>\n日付　5月11日\n時間　10:00-12:00\n場所　第一校舎315教室\n議題:現状共有\n　　:各チームとの打ち合わせ\n　　:チーム会議\n　　:新規について\nslackチーム・Notionチームの参加は任意とする\n今月もよろしくね！チーム長はこの時間使ってやりたいこと考えてもらえるとうれしいです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6y2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "第3回タスクフォース会議\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n日付　5月11日\n時間　10:00-12:00\n場所　第一校舎315教室\n議題:現状共有\n　　:各チームとの打ち合わせ\n　　:チーム会議\n　　:新規について\nslackチーム・Notionチームの参加は任意とする\n今月もよろしくね！チーム長はこの時間使ってやりたいこと考えてもらえるとうれしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCE9HTP0",
+                    "U06LK0BP1TM",
+                    "U06L4GJ031V",
+                    "U06LK0DK7R9",
+                    "U06LK0E89MH",
+                    "U06LG6DR26R",
+                    "U06LG62UXPX",
+                    "U06LMH412CU",
+                    "U06LJ4HJLMS",
+                    "U06LK3L6B4J",
+                    "U06LXP1JG0Z",
+                    "U06LCECJD8W",
+                    "U06L4GH3T7H"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LK5HCSE6",
+                    "U06LK0DN10T",
+                    "U06M7SETDKJ",
+                    "U06LXNY0MHP",
+                    "U06L4GLRAK1",
+                    "U06LH4PDAQ3",
+                    "U06LCE8L8LW",
+                    "U06LMH5ACE8",
+                    "U06LK3K88SW",
+                    "U06LK3M7VGA"
+                ],
+                "count": 11
+            },
+            {
+                "name": "タスクフォース",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCE9HTP0",
+                    "U06M7SETDKJ",
+                    "U06LK0E89MH"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06L4GH3T7H",
+                    "U06L4GJ031V",
+                    "U06LXP1JG0Z",
+                    "U06LCE9HTP0"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

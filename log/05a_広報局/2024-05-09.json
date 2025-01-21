@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1715257644.617729",
+        "client_msg_id": "9D473694-CB89-4259-9E98-C66A27AFB57E",
+        "text": "<!channel>\n<https:\/\/www.notion.so\/team\/1928e6de-f4bc-42ff-a708-da2ed2614e6c\/join|https:\/\/www.notion.so\/team\/1928e6de-f4bc-42ff-a708-da2ed2614e6c\/join>\nNotionチームから大事なお知らせです\n24時間以内に上のリンクに全員入ってください！\nお願いします:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715257644.617729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715257662.850559",
+        "reply_users": [
+            "U06LVK2FU1X"
+        ],
+        "replies": [
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1715257662.850559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEKDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/team\/1928e6de-f4bc-42ff-a708-da2ed2614e6c\/join",
+                                "text": "https:\/\/www.notion.so\/team\/1928e6de-f4bc-42ff-a708-da2ed2614e6c\/join"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNotionチームから大事なお知らせです\n24時間以内に上のリンクに全員入ってください！\nお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071B38HAM7",
+                    "U06LG60SFEH",
+                    "U06LK0EBWRH",
+                    "U06LK3HUVTL",
+                    "U070Y9RMP7D",
+                    "U06LJBVA2DS",
+                    "U06LCE9HTP0",
+                    "U070RQ543FG",
+                    "U070HS2FRT9",
+                    "U070HS55GQP",
+                    "U070Y9RLJTV",
+                    "U070VFQGRNZ",
+                    "U06LK3L6B4J",
+                    "U070VFY94H3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "一人っ子三役",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J"
+                ],
+                "count": 2
+            },
+            {
+                "name": "時代を回す",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1715257662.850559",
+        "client_msg_id": "BD0436AB-646C-497D-AF3C-C45E356FE024",
+        "text": "あ、お疲れ様です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715257644.617729",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "17GDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、お疲れ様です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071B38HAM7",
+                    "U070Y9RMP7D",
+                    "U06LK3L6B4J",
+                    "U070VFY94H3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "だいち-ｸｯｸｯｸｯｸｯ",
+                "users": [
+                    "U06L4GJBJP9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

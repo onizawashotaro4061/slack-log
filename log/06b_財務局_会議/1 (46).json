@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U070Y9REPD1",
+        "type": "message",
+        "ts": "1727776825.386259",
+        "client_msg_id": "EC2E9E24-2820-4076-81AE-8417D9844C1A",
+        "text": "腹を下してしまったので30分ほど遅れます、すみません:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "18d5b1202a5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7787555960625_18d5b1202a5b18180f98_72.png",
+            "first_name": "北條大誠",
+            "real_name": "北條大誠",
+            "display_name": "Hojo.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "taisei200506162005061",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727230638.537349",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYBCH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹を下してしまったので30分ほど遅れます、すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U071M6X48E4",
+                    "U070YD6M598"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

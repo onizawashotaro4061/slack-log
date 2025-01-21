@@ -1,0 +1,182 @@
+[
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1728951084.780969",
+        "client_msg_id": "445F2568-AC69-42B2-B8AD-EE06DA49605D",
+        "text": "ゼミの終わる時間によりますが、遅刻するかもしれないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728882281.139639",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYl8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミの終わる時間によりますが、遅刻するかもしれないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCFWR494",
+        "type": "message",
+        "ts": "1728957363.661289",
+        "client_msg_id": "EF684EDB-DDD0-41D0-86AD-0E189A933EA4",
+        "text": "体調戻らないので欠席します。体調管理できてなくて申し訳ないです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8117deae8669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-25\/7949285472929_8117deae86694755082b_72.png",
+            "first_name": "松尾美佑",
+            "real_name": "松尾美佑",
+            "display_name": "Matsuo.Miyu",
+            "team": "T06L90YHJF8",
+            "name": "miyucchim.33",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728882281.139639",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkge4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調戻らないので欠席します。体調管理できてなくて申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LG62FNP7",
+                    "U06LG668093",
+                    "U06LXNX1A57",
+                    "U06LCE9NLP8",
+                    "U06L2CSPXV5",
+                    "U06M7TE180Y",
+                    "U06LM0QJV3L"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1728967355.044109",
+        "client_msg_id": "E76A3B47-FC48-48C2-A023-28BF2FA60AC4",
+        "text": "講義で遅刻します。ごめんなさい:disappointed:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728882281.139639",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mjlvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "講義で遅刻します。ごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LS7G3G0M",
+        "type": "message",
+        "ts": "1728972701.271999",
+        "client_msg_id": "DAEE062A-980A-4DDC-B079-E13E16BED584",
+        "text": "ゼミのガイダンスに出席しなければならないため1時間弱遅刻します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f74e95454b62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-27\/7618535908055_f74e95454b6229ae79e5_72.png",
+            "first_name": "塩田結衣",
+            "real_name": "塩田結衣",
+            "display_name": "Shiota.Yui",
+            "team": "T06L90YHJF8",
+            "name": "salt.pooh3922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728882281.139639",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bB77H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミのガイダンスに出席しなければならないため1時間弱遅刻します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

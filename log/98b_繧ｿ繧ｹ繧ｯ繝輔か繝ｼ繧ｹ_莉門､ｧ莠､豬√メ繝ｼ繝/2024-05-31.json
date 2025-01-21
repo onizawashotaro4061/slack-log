@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1717144291.431979",
+        "edited": {
+            "user": "U06LMH412CU",
+            "ts": "1717144340.000000"
+        },
+        "client_msg_id": "69be18c1-282d-46d1-b295-817cc3ec942c",
+        "text": "<!channel>\nお疲れさまです！明日の会議連絡です\n\n議題\n1．代表者会議報告\n2．0615の資料について\n3．新規募集について\n\n明日いけなくてごめんなさい、来た人で頑張って欲しいです！会議終わったら誰でもよいので俺に報告お願いします！\n*出欠はスタンプでお願い！*\n\nあとLINEで言った月曜Zoomの件も、各自予定確認しておいてください～",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717144291.431979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717199803.945049",
+        "reply_users": [
+            "U06LCE9JG3G"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9JG3G",
+                "ts": "1717199803.945049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPhVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです！明日の会議連絡です\n\n議題\n1．代表者会議報告\n2．0615の資料について\n3．新規募集について\n\n明日いけなくてごめんなさい、来た人で頑張って欲しいです！会議終わったら誰でもよいので俺に報告お願いします！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出欠はスタンプでお願い！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nあとLINEで言った月曜Zoomの件も、各自予定確認しておいてください～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LMH412CU",
+                    "U06LCE9JG3G",
+                    "U06LCEJ5HHU",
+                    "U06LG6DR26R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LMH412CU",
+                    "U06LMGM3CG4",
+                    "U06L4H8CGQP",
+                    "U06LXNY0MHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-遅刻",
+                "users": [
+                    "U06LMH412CU",
+                    "U06LXP1JG0Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9JG3G",
+        "type": "message",
+        "ts": "1717199803.945049",
+        "client_msg_id": "0c302754-d946-4722-b7e4-349f42f2749f",
+        "text": "すいません、バスが遅れてるので10分くらい遅刻します:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5a5f5f476ebb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080938574369_5a5f5f476ebb002bb947_72.jpg",
+            "first_name": "玉越小絵",
+            "real_name": "玉越小絵",
+            "display_name": "Tamakoshi.Sae",
+            "team": "T06L90YHJF8",
+            "name": "saekopipipi05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717144291.431979",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEPbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、バスが遅れてるので10分くらい遅刻します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LMH412CU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

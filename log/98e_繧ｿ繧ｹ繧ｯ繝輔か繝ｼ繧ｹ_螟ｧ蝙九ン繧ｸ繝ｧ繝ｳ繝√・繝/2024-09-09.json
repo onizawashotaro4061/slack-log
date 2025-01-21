@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1725891485.000439",
+        "edited": {
+            "user": "U06LK0BP1TM",
+            "ts": "1725891504.000000"
+        },
+        "client_msg_id": "B4CAC238-BB78-4D1C-B082-AF1D3164F4AB",
+        "text": "<!channel> おつかれさまです！！\n今週末、タスクフォース会あるのでみんな出席よろしく:man-bowing:\nあとワンドラの店舗のリストアップ進んでなさそうなんでお願いしたいです:pray:\nもしキャパ的にみんなきついとかあれば全然言ってもらっていいし週末にもう一回ちゃんと話しあえればなって思ってます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725891485.000439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1726230115.171009",
+        "reply_users": [
+            "U06LMH5ACE8",
+            "U070HS35ECX"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH5ACE8",
+                "ts": "1726017422.673709"
+            },
+            {
+                "user": "U070HS35ECX",
+                "ts": "1726230115.171009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WSQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさまです！！\n今週末、タスクフォース会あるのでみんな出席よろしく"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあとワンドラの店舗のリストアップ進んでなさそうなんでお願いしたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもしキャパ的にみんなきついとかあれば全然言ってもらっていいし週末にもう一回ちゃんと話しあえればなって思ってます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0DN10T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

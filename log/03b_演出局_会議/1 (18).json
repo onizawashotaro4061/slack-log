@@ -1,0 +1,449 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1712628943.868949",
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1712636992.599519",
+        "reply_users": [
+            "U06LXNY0MHP",
+            "U06LG6EJPE1",
+            "U06L4GRJ2LF",
+            "U06LK3L32MQ",
+            "U06LMH4T528",
+            "U06LMH5ACGL",
+            "U06M7T7SSDN",
+            "U06M7T3TQ0Y"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1712629059.852769"
+            },
+            {
+                "user": "U06LG6EJPE1",
+                "ts": "1712629111.053079"
+            },
+            {
+                "user": "U06L4GRJ2LF",
+                "ts": "1712629275.469859"
+            },
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1712630185.288799"
+            },
+            {
+                "user": "U06LMH4T528",
+                "ts": "1712632407.014619"
+            },
+            {
+                "user": "U06LMH5ACGL",
+                "ts": "1712633009.633769"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1712634548.477339"
+            },
+            {
+                "user": "U06M7T3TQ0Y",
+                "ts": "1712636992.599519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06LMH4T528",
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LG64U8DB",
+                    "U06LXNY0MHP"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1712629059.852769",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1712629238.000000"
+        },
+        "client_msg_id": "62003228-76c1-4552-905b-e54df3b21736",
+        "text": "13:00からの履修登録先着戦争に外出先から参戦するので少しばかり遅れると思います。申し訳ございません。\n\n追記 : 体調悪くなったら欠席の連絡します。(まだ熱38℃出る時もあるので)",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYseq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13:00からの履修登録先着戦争に外出先から参戦するので少しばかり遅れると思います。申し訳ございません。\n\n追記 : 体調悪くなったら欠席の連絡します。(まだ熱38℃出る時もあるので)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "かわの",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG6EJPE1",
+        "type": "message",
+        "ts": "1712629111.053079",
+        "client_msg_id": "F83B6E0F-DEEF-49EB-BC8D-072C346511E9",
+        "text": "私も履修登録先着戦争行くので途中抜けます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "97632c70aa39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-09\/7708266742385_97632c70aa39d3318ddb_72.png",
+            "first_name": "信田悠里加",
+            "real_name": "信田悠里加",
+            "display_name": "Shida.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yuri.shida12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6oVSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も履修登録先着戦争行くので途中抜けます。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GRJ2LF",
+        "type": "message",
+        "ts": "1712629275.469859",
+        "client_msg_id": "39B0E90E-F546-4D11-9E18-27703CDA2385",
+        "text": "予定があるため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "dc5a31c84d10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6726633736497_dc5a31c84d10db65c51e_72.png",
+            "first_name": "大山未琴",
+            "real_name": "大山未琴",
+            "display_name": "Oyama.Mikoto",
+            "team": "T06L90YHJF8",
+            "name": "makkurokurosuke.ked35",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/eqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1712630185.288799",
+        "client_msg_id": "964e44b4-1b24-43ab-ae1a-ae618a41fb6a",
+        "text": "自分も履修登録のため送れます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6E7JT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も履修登録のため送れます。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LK0G74NP",
+                    "U06L4GKF78F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH4T528",
+        "type": "message",
+        "ts": "1712632407.014619",
+        "client_msg_id": "684D65BA-6B65-48E3-90B9-687CD4106B6E",
+        "text": "私も履修登録先着戦争行くので遅れます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b1a5133e2475",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8140341891569_b1a5133e2475580ae25e_72.png",
+            "first_name": "鈴木菜々子",
+            "real_name": "鈴木菜々子",
+            "display_name": "Suzuki.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "75chan.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBgUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も履修登録先着戦争行くので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅れます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH5ACGL",
+        "type": "message",
+        "ts": "1712633009.633769",
+        "edited": {
+            "user": "U06LMH5ACGL",
+            "ts": "1712633249.000000"
+        },
+        "client_msg_id": "FB1AF0C9-62D8-4D93-97CC-E687EFACF280",
+        "text": "履修登録の対面募集に行くため送れます。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "80e95ee505dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-04\/7241064541184_80e95ee505ddee9fe8ae_72.png",
+            "first_name": "加藤楓華",
+            "real_name": "加藤楓華",
+            "display_name": "Kato.Fuka",
+            "team": "T06L90YHJF8",
+            "name": "fuka.0203.sora",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6zeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "履修登録の対面募集に行くため送れます。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7T7SSDN",
+        "type": "message",
+        "ts": "1712634548.477339",
+        "client_msg_id": "62486881-3e58-4690-8f55-018ae37c4a25",
+        "text": "免許の本試験があるため欠席します。間に合えば参加します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9bdd6ad335f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6735699381570_b9bdd6ad335f08da6742_72.jpg",
+            "first_name": "熊耳諒",
+            "real_name": "熊耳諒",
+            "display_name": "Kumagami.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "orca8424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8Jio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "免許の本試験があるため欠席します。間に合えば参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7T3TQ0Y",
+        "type": "message",
+        "ts": "1712636992.599519",
+        "client_msg_id": "EB3232DA-267B-4448-A7F1-00A066CF4ED9",
+        "text": "健康診断行くので欠席します。\nごめんなさい。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "514ee859b39b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7079930546113_514ee859b39b2c3c22b5_72.png",
+            "first_name": "太田聡",
+            "real_name": "太田聡",
+            "display_name": "Ota.So",
+            "team": "T06L90YHJF8",
+            "name": "so-ota.616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628943.868949",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJXW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "健康診断行くので欠席します。\nごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

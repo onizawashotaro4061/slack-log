@@ -1,0 +1,160 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1717638564.242949",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1717668281.000000"
+        },
+        "client_msg_id": "F06A2AA9-24B2-41E5-8534-5EC8CCD545E1",
+        "text": "<!channel>\n会議連絡だよー\n\n【時間】6\/6 (木) 19:00〜20:40\n【場所】LS604\n【議題】\n1. 新規のみんなへ（意思共有）\n2. 各種報告（意思共有）\n3. NotionとSlack をマスターしよう！（意思共有）\nほかあれば追記！時間余ったらどうする？解散してもいいし、遊んでもいいよ〜\n\n新規合流後初部門会議！みんな楽しもうね :smiling_face_with_3_hearts:\n\nスタンプ押してね 〜\n欠席、遅刻、早退はスレッドへ ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/\/3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡だよー\n\n【時間】6\/6 (木) 19:00〜20:40\n【場所】LS604\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規のみんなへ（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "NotionとSlack をマスターしよう！（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nほかあれば追記！時間余ったらどうする？解散してもいいし、遊んでもいいよ〜\n\n新規合流後初部門会議！みんな楽しもうね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nスタンプ押してね 〜\n欠席、遅刻、早退はスレッドへ ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LG63FM1B",
+                    "U06L4GM9N5V",
+                    "U06LCECJD8W",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCECJD8W",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06L4GKF78F",
+                    "U06LK0G74NP"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

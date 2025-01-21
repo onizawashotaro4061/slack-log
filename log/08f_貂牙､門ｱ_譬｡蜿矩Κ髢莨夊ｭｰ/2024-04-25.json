@@ -1,0 +1,436 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1714043949.246429",
+        "client_msg_id": "2553bb49-5d8f-4d6f-bcd4-54f72cec7b4f",
+        "text": "<!channel>\n*【0425_第6回校友部門会議】*\n【時間】19:00〜20:40\n【場所】M513\n【議題】\n• みんなの今　15分（意思共有）\n• ご芳名について　15分（意見交換・決定）\n• 直接賛助行ける日程について　15分（意見交換・決定）\n• ホームカミングデー・校友歓迎スペース企画書について　50分（意見交換・決定）\n• 諸連絡　5分（意思共有）\n明日の会議では、直接賛助の日程を決めるので、\n各自、*5〜7月のスケジュールを確認*しておいてください。\n欠席、遅刻の際は、理由とともにスレッドでスレッドで返信してください。\n見たらスタンプ押してね↓",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1714119251.577439",
+        "reply_users": [
+            "U06M7SUSYNL",
+            "U06LXNYUX7T",
+            "U06L4J69HV5",
+            "U06LXNYUXS5"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1714088017.449029"
+            },
+            {
+                "user": "U06LXNYUX7T",
+                "ts": "1714097553.685099"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1714111164.118169"
+            },
+            {
+                "user": "U06L4J69HV5",
+                "ts": "1714112479.385209"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1714119222.943159"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1714119251.577439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zoxl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0425_第6回校友部門会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】M513\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの今　15分（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ご芳名について　15分（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "直接賛助行ける日程について　15分（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ホームカミングデー・校友歓迎スペース企画書について　50分（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡　5分（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n明日の会議では、直接賛助の日程を決めるので、\n各自、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5〜7月のスケジュールを確認",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "しておいてください。\n欠席、遅刻の際は、理由とともにスレッドでスレッドで返信してください。\n見たらスタンプ押してね↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L9S67MEJ",
+                    "U06L4J69HV5",
+                    "U06LXNYUX7T",
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "校友ワンチーム",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "パンツ何色_のんちゃん専用",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7ST2WTA",
+                    "U06M7SUSYNL",
+                    "U06L4GLRAK1",
+                    "U06LXNYUXS5"
+                ],
+                "count": 5
+            },
+            {
+                "name": "運営_あんじゅ_あいよー",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "はるひろかわいい",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06L4GLRAK1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1714088017.449029",
+        "client_msg_id": "E25486B7-1000-4F1B-B32F-08A063BB675F",
+        "text": "お腹の調子が良くないので夕方の調子次第ではzoomで傍聴させてください :sob: また連絡します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jl66G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お腹の調子が良くないので夕方の調子次第ではzoomで傍聴させてください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " また連絡します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7ST2WTA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1714097553.685099",
+        "client_msg_id": "0706BBFC-2E30-49D7-BAFA-28D5BED5FC54",
+        "text": "お大事にしてね :sob: くれぐれも無理しないで！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBI4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お大事にしてね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " くれぐれも無理しないで！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U06M7SUSYNL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1714111164.118169",
+        "client_msg_id": "6362C3DA-3ECE-441D-BBB8-1E643449203B",
+        "text": "お腹治りました！出席します！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTVHS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お腹治りました！出席します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4J69HV5",
+        "type": "message",
+        "ts": "1714112479.385209",
+        "client_msg_id": "E9A069C6-8EA4-4C9F-BF12-93C015EA36DA",
+        "text": "美容院伸びたら遅れるかもです。すいません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "74cb2170ad12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721985376496_74cb2170ad1254f7fe70_72.png",
+            "first_name": "坂爪馨",
+            "real_name": "坂爪馨",
+            "display_name": "Sakazume.Kaoru",
+            "team": "T06L90YHJF8",
+            "name": "kaonanry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714043949.246429",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJe6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "美容院伸びたら遅れるかもです。すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

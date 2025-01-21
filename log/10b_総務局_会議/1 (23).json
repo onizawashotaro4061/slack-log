@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1714964010.941219",
+        "client_msg_id": "7B5D356F-BFF5-4C8C-A5BC-57428BBE7156",
+        "text": "<!channel>\nお疲れ様です。\n5月7日(火)の第16回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n和泉ラーニングスクエア LS603教室\n【議題】\n1. 各種報告(意思共有)\n2. onedriveについて(意思共有)\n3. notionについて(意思共有)\n4. 総務局について(意思共有)\n5. 新規自己紹介(意思共有)\n6. 諸連絡\n【持ち物】\nパソコン\n【議事録】\nゆうり\n\n*遅刻早退欠席などはスレッドにお願いします！*\n\n\nゴールデンウィーク楽しめましたか？？\n自分はコナン見に行きました。けど、メガネ忘れてあまんり見えませんでした:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714964010.941219",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1715050293.908119",
+        "reply_users": [
+            "U070YD72JPL",
+            "U06LMLKREUU",
+            "U06LM0QJV3L",
+            "U06LMH5ACE8"
+        ],
+        "replies": [
+            {
+                "user": "U070YD72JPL",
+                "ts": "1715001508.353769"
+            },
+            {
+                "user": "U06LMLKREUU",
+                "ts": "1715003084.111319"
+            },
+            {
+                "user": "U06LM0QJV3L",
+                "ts": "1715049502.801499"
+            },
+            {
+                "user": "U06LMH5ACE8",
+                "ts": "1715050293.908119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoJ7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n5月7日(火)の第16回総務局会議について連絡です。\n\n【時間】\n19:00〜21:00\n【場所】\n和泉ラーニングスクエア LS603教室\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "onedriveについて(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "notionについて(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "総務局について(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規自己紹介(意思共有)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n【持ち物】\nパソコン\n【議事録】\nゆうり\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席などはスレッドにお願いします！\n\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゴールデンウィーク楽しめましたか？？\n自分はコナン見に行きました。けど、メガネ忘れてあまんり見えませんでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LM0QJV3L",
+                    "U06LXNX1A57",
+                    "U06LG62FNP7",
+                    "U06M7SZ5WG0",
+                    "U06LK3MPZ34",
+                    "U06LFKRD4MQ",
+                    "U070HS23XV5",
+                    "U06M7TE180Y",
+                    "U06LMLKREUU",
+                    "U070RQ0TU6A",
+                    "U071M6ZDDQ8",
+                    "U070YD72JPL",
+                    "U070Y9Q9151",
+                    "U06LS7G3G0M",
+                    "U070YD8BGRG",
+                    "U06LXNYCLJV",
+                    "U070VFZF6BF"
+                ],
+                "count": 18
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LM0QJV3L",
+                    "U06LG62FNP7",
+                    "U06LK5HCSE6"
+                ],
+                "count": 5
+            },
+            {
+                "name": "総務＿けいた２",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG6B2NA1",
+                    "U06LM0QJV3L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U06LM0QJV3L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyeglasses",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LG62FNP7",
+                    "U06M7TE180Y"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

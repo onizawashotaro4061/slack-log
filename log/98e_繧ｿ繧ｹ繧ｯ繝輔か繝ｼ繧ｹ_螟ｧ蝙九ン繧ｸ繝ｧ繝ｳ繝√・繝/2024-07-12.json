@@ -1,0 +1,482 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1720769054.553359",
+        "client_msg_id": "17a11880-61a0-43c1-8c60-1dbd964e61c5",
+        "text": "<!channel> 大型ビジョンで流す動画もさ本祭当日に明大祭で流せたらおもろいと思うからさんだんのビジョン統括とかと連携とってみてくれん？こじあややった気がするけど",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720769054.553359",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1720870731.294979",
+        "reply_users": [
+            "U06LK0BP1TM",
+            "U06L97X3V6J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1720802313.333629"
+            },
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1720802317.514009"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1720870731.294979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftJXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大型ビジョンで流す動画もさ本祭当日に明大祭で流せたらおもろいと思うからさんだんのビジョン統括とかと連携とってみてくれん？こじあややった気がするけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \nこれ対応よろしく！",
+        "files": [
+            {
+                "id": "F07C7U8DZ6Y",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L97X3V6J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gY3Tu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこれ対応よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720771766.898449",
+        "client_msg_id": "36B654CF-C68F-48FD-95EC-90AF7EAD83F1",
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720802313.333629",
+        "client_msg_id": "218D8111-0777-466E-93A2-CC24EC52C64E",
+        "text": "流す意味としては「こういう活動してましたよ」的なことをアピールするため？？ちょっと新宿渋谷で流すものとおんなじもん流すといみあいとか変わってこうへんかな？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720769054.553359",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NR67j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "流す意味としては「こういう活動してましたよ」的なことをアピールするため？？ちょっと新宿渋谷で流すものとおんなじもん流すといみあいとか変わってこうへんかな？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720802317.514009",
+        "client_msg_id": "47F2836D-BB51-479B-9CB0-737091D5C4EB",
+        "text": "<@U06L97X3V6J> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720769054.553359",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqXG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1720851986.028149",
+        "client_msg_id": "FD131DA6-1C00-4431-B73B-CF640F3E8188",
+        "text": "<!channel> \nお疲れ様です！\n動画内容やポスター、ビラ関連についてもう少し話し合いたいと思っているので16日（火）の夕方や夜とか空いてますか！！？？\nテスト前で忙しくて無理な人とか全然言ってもらって大丈夫なんでスレッドにお願いします:man-bowing:\n参加できるよって人リアクションお願い！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720851986.028149",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1720922693.665919",
+        "reply_users": [
+            "U06LMH9MBFW",
+            "U06LK0DN10T",
+            "U06LK3MF9FC",
+            "U070HS35ECX",
+            "U06LK3K88SW",
+            "U070Y9UEAAF",
+            "U06LVK2FU1X",
+            "U06LMH5ACE8",
+            "U070RQ0TU6A"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH9MBFW",
+                "ts": "1720852208.361509"
+            },
+            {
+                "user": "U06LK0DN10T",
+                "ts": "1720852419.812019"
+            },
+            {
+                "user": "U06LK3MF9FC",
+                "ts": "1720852442.459849"
+            },
+            {
+                "user": "U070HS35ECX",
+                "ts": "1720853468.765479"
+            },
+            {
+                "user": "U06LK3K88SW",
+                "ts": "1720864235.399889"
+            },
+            {
+                "user": "U070Y9UEAAF",
+                "ts": "1720869940.712759"
+            },
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1720870883.162399"
+            },
+            {
+                "user": "U06LMH5ACE8",
+                "ts": "1720871228.621879"
+            },
+            {
+                "user": "U070RQ0TU6A",
+                "ts": "1720922693.665919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0yxK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\n動画内容やポスター、ビラ関連についてもう少し話し合いたいと思っているので16日（火）の夕方や夜とか空いてますか！！？？\nテスト前で忙しくて無理な人とか全然言ってもらって大丈夫なんでスレッドにお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n参加できるよって人リアクションお願い！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070YDBG6N6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1720852208.361509",
+        "client_msg_id": "56C910AB-CF47-4295-AF4E-A5AB1B381875",
+        "text": "16時〜17時半以外は大丈夫です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720851986.028149",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CaHdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "16時〜17時半以外は大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1720852419.812019",
+        "client_msg_id": "25961200-3534-40a7-aabd-fca52de65343",
+        "text": "12時半～17時、19時以降が空いてます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720851986.028149",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlY3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12時半～17時、19時以降が空いてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1720852442.459849",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1720853622.000000"
+        },
+        "client_msg_id": "DD4FC956-7200-4B06-9C09-D9D49A885709",
+        "text": "21:00以降が空いております！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720851986.028149",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wl0F1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21:00以降が空いております！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS35ECX",
+        "type": "message",
+        "ts": "1720853468.765479",
+        "client_msg_id": "D73CDAA8-EBB1-451F-A679-A07B5072D925",
+        "text": "15:20-19:00、21:00以降が空いてます！:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c112bd2c1394",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-05\/7227986313972_c112bd2c1394e3174a63_72.png",
+            "first_name": "森下真帆",
+            "real_name": "森下真帆",
+            "display_name": "Morishita.Maho",
+            "team": "T06L90YHJF8",
+            "name": "maho200602",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720851986.028149",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Faih0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15:20-19:00、21:00以降が空いてます！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

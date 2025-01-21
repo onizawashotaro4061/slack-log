@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U070YDBG6N6",
+        "type": "message",
+        "ts": "1729763676.726189",
+        "client_msg_id": "17F112DC-5DBF-4085-B15C-F162E09BE134",
+        "text": "すみません！歯医者いまでたのでちょっと遅れます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6292777e4e40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8151928727697_6292777e4e404bb1f438_72.png",
+            "first_name": "黒田若葉",
+            "real_name": "黒田若葉",
+            "display_name": "Kurota.Wakaba",
+            "team": "T06L90YHJF8",
+            "name": "uniwakabasamaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729746652.926019",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESg1w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません！歯医者いまでたのでちょっと遅れます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YDBG6N6",
+        "type": "message",
+        "ts": "1729764834.468459",
+        "client_msg_id": "2505BED0-7A69-43DF-B9A5-3061A10D574E",
+        "text": "電車が遅延で全然発車しないのでめっちゃ遅れます :sob: :sob: :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6292777e4e40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8151928727697_6292777e4e404bb1f438_72.png",
+            "first_name": "黒田若葉",
+            "real_name": "黒田若葉",
+            "display_name": "Kurota.Wakaba",
+            "team": "T06L90YHJF8",
+            "name": "uniwakabasamaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729746652.926019",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iW5sP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車が遅延で全然発車しないのでめっちゃ遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "落単",
+                "users": [
+                    "U06LCE4EV2A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "話してみたい",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

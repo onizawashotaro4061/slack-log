@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1715221156.661669",
+        "client_msg_id": "9dbc85b9-96b9-4b0f-8901-5c07ec363a73",
+        "text": "<!channel>\nごめんスマホぶっ壊れたからここで連絡するね！\n今日3限の時間に今後の動きについて共有したいから、和泉で集まりましょう。\n場所は図書館グループ閲覧室①です！\n13：00～　石井がいるので、もし3限きつそうだっらたこの時間に来て欲しい！\n\n上記の通り連絡が取れないから、何かあればSlackのDMでお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715221156.661669",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715228089.093929",
+        "reply_users": [
+            "U06M7SU83G8",
+            "U06LK5HCSE6"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1715226399.747269"
+            },
+            {
+                "user": "U06LK5HCSE6",
+                "ts": "1715228089.093929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YK9B4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nごめんスマホぶっ壊れたからここで連絡するね！\n今日3限の時間に今後の動きについて共有したいから、和泉で集まりましょう。\n場所は図書館グループ閲覧室①です！\n13：00～　石井がいるので、もし3限きつそうだっらたこの時間に来て欲しい！\n\n上記の通り連絡が取れないから、何かあればSlackのDMでお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1715226399.747269",
+        "client_msg_id": "DBFDEEBD-F792-4CAD-B094-6843F6C658F5",
+        "text": "ごめん授業終わってちょっと遅れそうだから誰か入っててください！\n予約番号88218です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715221156.661669",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwonH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん授業終わってちょっと遅れそうだから誰か入っててください！\n予約番号88218です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK5HCSE6",
+        "type": "message",
+        "ts": "1715228089.093929",
+        "client_msg_id": "3ECA918A-1B70-41A7-B7D1-68EB8267F970",
+        "text": "自分チェックインしました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "394ef22c99d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-23\/7759557964086_394ef22c99d7ec085d43_72.png",
+            "first_name": "大竹主真",
+            "real_name": "大竹主真",
+            "display_name": "Ohtake.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "ohtake.kazuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715221156.661669",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OsRc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分チェックインしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

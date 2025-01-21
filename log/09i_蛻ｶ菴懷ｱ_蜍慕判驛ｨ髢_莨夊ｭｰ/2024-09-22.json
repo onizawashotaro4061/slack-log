@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1726994413.254129",
+        "edited": {
+            "user": "U06LJ0SKMEZ",
+            "ts": "1727009798.000000"
+        },
+        "client_msg_id": "AC5AA538-0254-4DE1-8B62-D286344A8237",
+        "text": "<!channel>\n【第17回動画部門会議】\n日時:9月23日（月）19:00-\n場所:ls404\n持ち物:パソコン\n議事録:だれか\n\n議題\n1.本祭について(意思共有)\n2.撮影技術伝達(意思共有)(新規みんないそうだったら)\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n\n連絡おそくなってごめんなさい :pray: 先輩方と千田ちゃんが来ます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726994413.254129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1727058078.292969",
+        "reply_users": [
+            "U070Y9S80D9"
+        ],
+        "replies": [
+            {
+                "user": "U070Y9S80D9",
+                "ts": "1727058078.292969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9J+p5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第17回動画部門会議】\n日時:9月23日（月）19:00-\n場所:ls404\n持ち物:パソコン\n議事録:だれか\n\n議題\n1.本祭について(意思共有)\n2.撮影技術伝達(意思共有)(新規みんないそうだったら)\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n\n連絡おそくなってごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 先輩方と千田ちゃんが来ます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U06LXNUQ989",
+                    "U070YD7LPR8",
+                    "U06LK0DK7R9",
+                    "U070YD7KHLJ",
+                    "U070Y9QMUSX",
+                    "U06LXNYGGHX",
+                    "U071B3BQRR7",
+                    "U070HS3CTQX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U070Y9S80D9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070Y9S80D9",
+        "type": "message",
+        "ts": "1727058078.292969",
+        "client_msg_id": "4C5CB6F0-5556-46F3-886A-AB6C3D5A0F94",
+        "text": "会議なの忘れてて歯医者の予約入れてしまったのでお休みしますごめんなさい :sweat_drops: 千田さん会いたかったです :cry: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ce7400c1c674",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8034245277127_ce7400c1c67454d2ba1d_72.png",
+            "first_name": "田口莉子",
+            "real_name": "田口莉子",
+            "display_name": "Taguchi.Riko",
+            "team": "T06L90YHJF8",
+            "name": "riko10050422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726994413.254129",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQB4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会議なの忘れてて歯医者の予約入れてしまったのでお休みしますごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 千田さん会いたかったです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "伝説の部門員ちだ",
+                "users": [
+                    "U070Y9QMUSX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U070Y9QMUSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

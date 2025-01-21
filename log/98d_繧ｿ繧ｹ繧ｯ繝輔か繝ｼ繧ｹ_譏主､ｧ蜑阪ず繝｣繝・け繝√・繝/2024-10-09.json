@@ -1,0 +1,537 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1728462276.307519",
+        "client_msg_id": "B726FA9F-35F9-4C12-81B1-51E37EDD0BFE",
+        "text": "<@U06LK0E89MH> <@U06LK0RAA7M> \nリストアップ完成したらこことワンドラに添付お願い！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728462276.307519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1728462650.072329",
+        "reply_users": [
+            "U06LK0RAA7M"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0RAA7M",
+                "ts": "1728462650.072329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+Xzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0E89MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0RAA7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nリストアップ完成したらこことワンドラに添付お願い！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LK0E89MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0RAA7M",
+        "type": "message",
+        "ts": "1728462650.072329",
+        "client_msg_id": "DA151EE4-152D-402A-AB55-3CC22AB42B81",
+        "text": "バイトおわったらあげるにゃん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "acb72a7e4c72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8060400866192_acb72a7e4c72c09b3e9b_72.png",
+            "first_name": "小原",
+            "real_name": "小原 涼輔",
+            "display_name": "Kobara.Ryosuke",
+            "team": "T06L90YHJF8",
+            "name": "kobararyo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728462276.307519",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pN+MB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトおわったらあげるにゃん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n中野地域のリストアップが完成したのであげておきます！！\n電話掛けに慣れてる渉外局員は1人4件、他局員は1人2件担当店舗を割り振っています！\nもしタスク量的に厳しかったり、逆にもっと件数かけたい！みたいな人がいたら連絡ください！調整します！\n本祭前の繁忙期で局活動も大変だと思うけど、みんなで電話掛け頑張ろう！！\n\n<https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!71902&cid=93481e220b586380&CT=1728468194122&OR=ItemsView|OneDrive＞タスクフォース＞05_明大前ジャックチーム＞07_協賛活動_＞中野地域　明大祭商店街　リストアップ>",
+        "files": [
+            {
+                "id": "F07QN65PGSK",
+                "created": 1728468528,
+                "timestamp": 1728468528,
+                "name": "中野地域　明大祭商店街　リストアップ.xlsx",
+                "title": "中野地域　明大祭商店街　リストアップ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LK0E89MH",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 12308,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07QN65PGSK\/______________________________________________________.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07QN65PGSK\/download\/______________________________________________________.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07QN65PGSK-9dea99e881\/_______________________________________________________converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07QN65PGSK-9dea99e881\/_______________________________________________________thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LK0E89MH\/F07QN65PGSK\/______________________________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07QN65PGSK-28b14e44bf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0E89MH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a14Vp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n中野地域のリストアップが完成したのであげておきます！！\n電話掛けに慣れてる渉外局員は1人4件、他局員は1人2件担当店舗を割り振っています！\nもしタスク量的に厳しかったり、逆にもっと件数かけたい！みたいな人がいたら連絡ください！調整します！\n本祭前の繁忙期で局活動も大変だと思うけど、みんなで電話掛け頑張ろう！！\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!71902&cid=93481e220b586380&CT=1728468194122&OR=ItemsView",
+                                "text": "OneDrive＞タスクフォース＞05_明大前ジャックチーム＞07_協賛活動_＞中野地域　明大祭商店街　リストアップ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728468843.180709",
+        "edited": {
+            "user": "U06LK0E89MH",
+            "ts": "1728468914.000000"
+        },
+        "client_msg_id": "cadf495b-f985-48a3-be00-ca70e55c1fc2",
+        "thread_ts": "1728468843.180709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1728468987.407819",
+        "reply_users": [
+            "U06LK0E89MH"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0E89MH",
+                "ts": "1728468987.407819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U070YD778SE",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "明大前ジャック",
+                "users": [
+                    "U070YD778SE",
+                    "U070YA6CQLB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0E89MH",
+        "type": "message",
+        "ts": "1728468987.407819",
+        "client_msg_id": "44c05890-90cc-426c-a362-7e35adb7dedf",
+        "text": "Slack上で見るとめっちゃ見づらいので、パソコンでダウンロードしてから見てください！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10abff051f8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491436038_10abff051f8ccf96b5c9_72.png",
+            "first_name": "大野聖雅",
+            "real_name": "大野聖雅",
+            "display_name": "Ohno.Seiga",
+            "team": "T06L90YHJF8",
+            "name": "seiga.ohno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728468843.180709",
+        "parent_user_id": "U06LK0E89MH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVobK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack上で見るとめっちゃ見づらいので、パソコンでダウンロードしてから見てください！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様ですーー\n駿河台地域リストアップ共有しますー\n```もしタスク量的に厳しかったり、逆にもっと件数かけたい！みたいな人がいたら連絡ください！追加します！```\n大変だと思うけどがんばりやしょー！！\n大野君みたいに営業時間・定休日・備考を入れるの忘れちゃいました。\n申し訳ないんですけど各自で調べてください、。新人なのに、ごめんなさい。。",
+        "files": [
+            {
+                "id": "F07RT6G641E",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0RAA7M",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iy4uf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様ですーー\n駿河台地域リストアップ共有しますー\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もしタスク量的に厳しかったり、逆にもっと件数かけたい！みたいな人がいたら連絡ください！追加します！"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大変だと思うけどがんばりやしょー！！\n大野君みたいに営業時間・定休日・備考を入れるの忘れちゃいました。\n申し訳ないんですけど各自で調べてください、。新人なのに、ごめんなさい。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728486510.804769",
+        "client_msg_id": "e3f13ba7-5969-4556-aa95-dbfec3487b5e"
+    },
+    {
+        "text": "ごめんなさいこっちです。",
+        "files": [
+            {
+                "id": "F07QQ76857H",
+                "created": 1728489106,
+                "timestamp": 1728489106,
+                "name": "(第1期)駿河台地域明大祭商店街リストアップ.xlsx",
+                "title": "(第1期)駿河台地域明大祭商店街リストアップ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U06LK0RAA7M",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 12836,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07QQ76857H\/____1_______________________________________________________.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07QQ76857H\/download\/____1_______________________________________________________.xlsx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07QQ76857H-a42c980e48\/____1________________________________________________________converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07QQ76857H-a42c980e48\/____1________________________________________________________thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LK0RAA7M\/F07QQ76857H\/____1_______________________________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07QQ76857H-16afa115b4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0RAA7M",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zh\/+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいこっちです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728489111.163659",
+        "edited": {
+            "user": "U06LK0RAA7M",
+            "ts": "1728489138.000000"
+        },
+        "client_msg_id": "d248c7a7-8705-4c00-a75a-9d6fb22323cf",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U071B3CV89X",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "明大前ジャック",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "*<!channel>* \n*協賛状況を随時把握したいから電話掛けした後はOneDriveのオンライン編集で絶対にエクセルに結果を入力してほしい！！！*\n<https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!73174&amp;cid=93481e220b586380&amp;CT=1728539430479&amp;OR=ItemsView|OneDrive＞タスクフォース＞05_明大前ジャック＞07_協賛活動>",
+        "files": [
+            {
+                "id": "F07RX35TGP2",
+                "created": 1728539718,
+                "timestamp": 1728539718,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06LK0E89MH",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 28785,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07RX35TGP2\/image.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07RX35TGP2\/download\/image.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_64.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_80.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_360.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 55,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_480.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 74,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_160.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_720.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 111,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_800.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 123,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_960.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 148,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07RX35TGP2-c75ffafe7a\/image_1024.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 157,
+                "original_w": 1262,
+                "original_h": 194,
+                "thumb_tiny": "AwAHADC6YlIOV6n1pvkR\/wBz9ampDTuKxH5EY5CY\/GlMCEDIz+NSHpS9qLhYh+zx\/wBz9aUQRqQQmCPepaKLhY\/\/2Q==",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LK0E89MH\/F07RX35TGP2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07RX35TGP2-10b3a5c5da",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0E89MH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xXiG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "協賛状況を随時把握したいから電話掛けした後はOneDriveのオンライン編集で絶対にエクセルに結果を入力してほしい！！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/edit.aspx?resid=93481E220B586380!73174&cid=93481e220b586380&CT=1728539430479&OR=ItemsView",
+                                "text": "OneDrive＞タスクフォース＞05_明大前ジャック＞07_協賛活動"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728539866.026669",
+        "client_msg_id": "b7661c8e-4008-457b-8920-fe20e2036b76",
+        "reactions": [
+            {
+                "name": "明大前ジャック",
+                "users": [
+                    "U070YD778SE",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070YD778SE",
+                    "U06M7SU83G8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06M7SU83G8",
+                    "U070YD778SE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

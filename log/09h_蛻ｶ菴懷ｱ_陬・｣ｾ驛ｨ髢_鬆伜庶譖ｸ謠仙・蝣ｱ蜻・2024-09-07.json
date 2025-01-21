@@ -1,0 +1,107 @@
+[
+    {
+        "text": "　プラダン代",
+        "files": [
+            {
+                "id": "F07LAK8BJMB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07KYUTPRB9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMHSCW1J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6J6da",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "　プラダン代"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725708847.546329",
+        "client_msg_id": "FDF2CAD5-EAA6-4DC8-82F3-832B07506DC6",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "ペンキサンプル代 :bangbang: ",
+        "files": [
+            {
+                "id": "F07LDCQD083",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07LDFSKDV0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3LM7AN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pH4Ds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ペンキサンプル代 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725709030.493229",
+        "client_msg_id": "1EF5484E-E407-4DAD-A564-E02D96C470AE",
+        "reactions": [
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LMHSCW1J"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3LM7AN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

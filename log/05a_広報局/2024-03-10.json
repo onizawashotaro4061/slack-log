@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1710133473.157679",
+        "client_msg_id": "0DF31837-B6B5-49CD-AC67-6301BE14714D",
+        "text": "<!channel> \nLightroom入れない継続へ\n動画講座頑張ってくれてると思うんだけど、OneDrive＞自分のファイル＞各局＞08_制作局＞02_局タスク＞新歓規制作物＞01_添付資料の中にあるファイルにたくさん写真入ってるから、困ってる人はぜひ確認してみて〜\nもっと早く伝えられたらよかったごめんね:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710133473.157679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710133821.379489",
+        "reply_users": [
+            "U06LVK2FU1X"
+        ],
+        "replies": [
+            {
+                "user": "U06LVK2FU1X",
+                "ts": "1710133821.379489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XILMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLightroom入れない継続へ\n動画講座頑張ってくれてると思うんだけど、OneDrive＞自分のファイル＞各局＞08_制作局＞02_局タスク＞新歓規制作物＞01_添付資料の中にあるファイルにたくさん写真入ってるから、困ってる人はぜひ確認してみて〜\nもっと早く伝えられたらよかったごめんね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LY5XNLBT",
+                    "U06LXNWSGPK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3LMEPL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3LMEPL",
+                    "U06LK3L6B4J",
+                    "U06L4GJBJP9",
+                    "U06LK3HUVTL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LVK2FU1X",
+        "type": "message",
+        "ts": "1710133821.379489",
+        "client_msg_id": "C8CBEA7E-8954-4061-91E6-2A7866F1A511",
+        "text": "他局のファイルだから扱いはいつも以上に慎重にね〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5dedbd3ec8ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6690363134854_5dedbd3ec8ac9d2de465_72.png",
+            "first_name": "梅本瑛平",
+            "real_name": "梅本瑛平",
+            "display_name": "Umemoto.Yohei",
+            "team": "T06L90YHJF8",
+            "name": "yumemoto1208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710133473.157679",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDWBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他局のファイルだから扱いはいつも以上に慎重にね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

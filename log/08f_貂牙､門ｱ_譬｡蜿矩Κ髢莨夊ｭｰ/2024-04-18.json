@@ -1,0 +1,290 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1713448902.964469",
+        "client_msg_id": "C628C80A-EB43-4DBD-8B1B-441347E69EF3",
+        "text": "<!channel>\n*【0419_第5回校友部門会議】*\n【時間】19:00〜20:40\n【場所】M510\n【議題】\n• 所信表明　20分（意思共有）\n• みんなの今　10分（意思共有）\n• 電話がけについて　20分（意見交換・決定）\n• 明実のOB・OGへの賛助について　40分（意見交換・決定）\n• 諸連絡　10分（意思共有）\n所信表明については、各々何かしらの考えてきてほしいです。\n手段はパワポでも、手書きでも、口頭でも何でもOKです。\n欠席、遅刻の際は、理由とともにスレッドで返信してください。\n見たらスタンプ押してください！:arrow_down:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713448902.964469",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1713520224.255779",
+        "reply_users": [
+            "U06M7SUSYNL",
+            "U06LXNYUXS5"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1713462960.658479"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1713519852.913469"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1713520221.456779"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1713520224.255779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NuMXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【0419_第5回校友部門会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】M510\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "所信表明　20分（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの今　10分（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "電話がけについて　20分（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "明実のOB・OGへの賛助について　40分（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡　10分（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n所信表明については、各々何かしらの考えてきてほしいです。\n手段はパワポでも、手書きでも、口頭でも何でもOKです。\n欠席、遅刻の際は、理由とともにスレッドで返信してください。\n見たらスタンプ押してください！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_down",
+                                "unicode": "2b07-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GLRAK1",
+                    "U06M7ST2WTA",
+                    "U06M7SUSYNL",
+                    "U06LXNYUX7T"
+                ],
+                "count": 4
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ロン",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T",
+                    "U06LHACMG91"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06M7SUSYNL",
+                    "U06LXNYUX7T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06LXNYUX7T",
+                    "U06LJRSQDC3",
+                    "U06LXNYUXS5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06M7SUSYNL",
+                    "U06LXNYUX7T",
+                    "U06L4J69HV5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "校友ワンチーム",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U06M7SUSYNL",
+                    "U06LXNYUX7T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "パンツ何色_のんちゃん専用",
+                "users": [
+                    "U06M7SUSYNL",
+                    "U06LXNYUX7T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1713462960.658479",
+        "client_msg_id": "23C3CC2A-65D6-44D5-90A9-DF0D49C985FE",
+        "text": "個人的に所信表明は形に残してOneDriveにアップして残すべきだと思ってるから、Wordでもパワポでも紙でも、なんか形に残るものだとベリーグッドだと思います！！ :+1::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713448902.964469",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2VM1H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的に所信表明は形に残してOneDriveにアップして残すべきだと思ってるから、Wordでもパワポでも紙でも、なんか形に残るものだとベリーグッドだと思います！！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U070Y9STSPM",
+        "type": "message",
+        "ts": "1728026697.959579",
+        "client_msg_id": "83761B21-F844-4851-B61E-00BC30F473F1",
+        "text": "神奈川県立横浜平沼高校、大学受験ステップ横浜校",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c3014b08f7be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-04\/7848408645440_c3014b08f7bef7b71838_72.png",
+            "first_name": "吉村月花",
+            "real_name": "吉村月花",
+            "display_name": "Yoshimura.Tsukika",
+            "team": "T06L90YHJF8",
+            "name": "knsunmoon1002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727953895.559259",
+        "parent_user_id": "U070VFQGRNZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pCtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "神奈川県立横浜平沼高校、大学受験ステップ横浜校"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070VG0DP0D",
+        "type": "message",
+        "ts": "1728031960.093429",
+        "client_msg_id": "91FA5960-8E20-4F9A-BE5C-A95F757566CA",
+        "text": "明治大学附属明治高等学校",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2517cef1fb1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-03\/8115690062674_2517cef1fb1dcc16850e_72.png",
+            "first_name": "田嶋佳布子",
+            "real_name": "田嶋佳布子",
+            "display_name": "Tajima.Kanoko",
+            "team": "T06L90YHJF8",
+            "name": "kanoko.ren1124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727953895.559259",
+        "parent_user_id": "U070VFQGRNZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3eipf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明治大学附属明治高等学校"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

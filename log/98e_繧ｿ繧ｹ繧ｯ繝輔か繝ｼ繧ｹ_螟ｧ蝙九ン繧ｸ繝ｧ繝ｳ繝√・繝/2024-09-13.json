@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U070HS35ECX",
+        "type": "message",
+        "ts": "1726230115.171009",
+        "client_msg_id": "667F67B3-6F0C-4C1D-85AE-B20D68CD9F74",
+        "text": "私用のため欠席させていただきます。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c112bd2c1394",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-05\/7227986313972_c112bd2c1394e3174a63_72.png",
+            "first_name": "森下真帆",
+            "real_name": "森下真帆",
+            "display_name": "Morishita.Maho",
+            "team": "T06L90YHJF8",
+            "name": "maho200602",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725891485.000439",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oe6GL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用のため欠席させていただきます。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1726276374.860269",
+        "client_msg_id": "2E59296C-6122-4177-B645-54648F853246",
+        "text": "<!channel> \n今日話す議題です！\n・集客数の目標\n・期待する来場者層\n・費用対効果の試算\nちょっと固いけど！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZzOu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今日話す議題です！\n・集客数の目標\n・期待する来場者層\n・費用対効果の試算\nちょっと固いけど！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1726291480.485899",
+        "client_msg_id": "e68583f4-ec1f-4f76-8d17-4b4828574938",
+        "text": "<!channel> お疲れ様です！\nとりあえず今日決まったのは\n①*9月24日(火)までに1人10店舗新宿近辺でリストアップ（ビルや施設などのまとめて系の方が良）　もうした人は大丈夫*:+1:\n*②電話かけ講座の日程あわせ*\nです！！渋谷での告知はなしになりました！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89c4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！\nとりあえず今日決まったのは\n①"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9月24日(火)までに1人10店舗新宿近辺でリストアップ（ビルや施設などのまとめて系の方が良）　もうした人は大丈夫",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "②電話かけ講座の日程あわせ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです！！渋谷での告知はなしになりました！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U070HS35ECX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

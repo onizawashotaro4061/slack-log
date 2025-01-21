@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U06LMHBUVT6",
+        "type": "message",
+        "ts": "1709710998.594659",
+        "client_msg_id": "C12C546A-00B8-46CD-B6C6-A3E67CA50A6D",
+        "text": "お疲れ様です\n昨日の会議で話があった議事録課題です！\n大変だけど、とーっても大事なものなので、頑張ろう:heart_on_fire:\nメモをもとに議事録を書いて、Trelloにあげてね\n直されたところを直して、完成させるところまでやろう！\n3年メンション↓\n中井、小川、古川→みこと\n信田、木幡、河村→おたそ\n向田、浦、鈴木→かんべ\n熊耳、金子→じゅんた\n北見、田島、阿部→おうすけ\n加藤、樋田、福田→りほ\n\nTrelloチェックボード↓\n<https:\/\/trello.com\/invite\/b\/UC9tZJdf\/ATTIdffecb9b70fc45ac03199fc67c8e37515B4A1532\/05%E3%81%9D%E3%81%AE%E4%BB%96%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF|https:\/\/trello.com\/invite\/b\/UC9tZJdf\/ATTIdffecb9b70fc45ac03199fc67c8e37515B4A1532\/05その他チェック>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51fad438f0e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-31\/7656365925237_51fad438f0e4f464f7b0_72.png",
+            "first_name": "佐藤里帆",
+            "real_name": "佐藤里帆",
+            "display_name": "Sato.Riho",
+            "team": "T06L90YHJF8",
+            "name": "riho500m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/JSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です\n昨日の会議で話があった議事録課題です！\n大変だけど、とーっても大事なものなので、頑張ろう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメモをもとに議事録を書いて、Trelloにあげてね\n直されたところを直して、完成させるところまでやろう！\n3年メンション↓\n中井、小川、古川→みこと\n信田、木幡、河村→おたそ\n向田、浦、鈴木→かんべ\n熊耳、金子→じゅんた\n北見、田島、阿部→おうすけ\n加藤、樋田、福田→りほ\n\nTrelloチェックボード↓\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/invite\/b\/UC9tZJdf\/ATTIdffecb9b70fc45ac03199fc67c8e37515B4A1532\/05%E3%81%9D%E3%81%AE%E4%BB%96%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF",
+                                "text": "https:\/\/trello.com\/invite\/b\/UC9tZJdf\/ATTIdffecb9b70fc45ac03199fc67c8e37515B4A1532\/05その他チェック"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LMH5ACGL",
+                    "U06LXNY0MHP",
+                    "U06LCECJD8W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-要確認",
+                "users": [
+                    "U06M7T3TQ0Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sushi",
+                "users": [
+                    "U06LMHDAZKN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GRJ2LF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "提出期限は３月９日！",
+        "files": [
+            {
+                "id": "F06N7AMFCUC",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F06NHGM8CSV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMHBUVT6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h\/iAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "提出期限は３月９日！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709711080.019609",
+        "client_msg_id": "52beddb5-e8a4-4073-9e5d-14da1e991934"
+    }
+]

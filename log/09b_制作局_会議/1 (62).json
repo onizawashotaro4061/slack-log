@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1727948467.412249",
+        "client_msg_id": "87786339-8BD2-486B-8BAB-89FE4635B668",
+        "text": "電車遅れてるので遅刻します\nごめんなさい :cry: :cry: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727779100.557049",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDw5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅れてるので遅刻します\nごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "けびょう",
+                "users": [
+                    "U070Y9QMUSX",
+                    "U06LK3L8RNE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070RQ3G5DL",
+        "type": "message",
+        "ts": "1727948805.132869",
+        "client_msg_id": "8DB245CD-D6FC-4161-83E2-564F22B2485F",
+        "text": "同じく電車遅延してて少し遅れます…\nすみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "81070e22efba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-23\/7640563483040_81070e22efba66b75ecb_72.png",
+            "first_name": "上村侑正",
+            "real_name": "上村侑正",
+            "display_name": "Kamimura.Yusei",
+            "team": "T06L90YHJF8",
+            "name": "moseumiwari575",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1727779100.557049",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLC\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じく電車遅延してて少し遅れます…\nすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

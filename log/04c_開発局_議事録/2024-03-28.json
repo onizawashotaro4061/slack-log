@@ -1,0 +1,348 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1711624118.722939",
+        "thread_ts": "1711624118.722939",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711624560.942879",
+        "reply_users": [
+            "U06M7SBFPFS",
+            "U06LCE4EV2A"
+        ],
+        "replies": [
+            {
+                "user": "U06M7SBFPFS",
+                "ts": "1711624530.844019"
+            },
+            {
+                "user": "U06LCE4EV2A",
+                "ts": "1711624560.942879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06M7SBFPFS",
+        "type": "message",
+        "ts": "1711624530.844019",
+        "client_msg_id": "C260DA49-A96C-4024-8AB4-E97D6A562A5E",
+        "text": "おつかれ！コメント消してもう1回保存して上げ直して欲しい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6eda6720b151",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7988044218854_6eda6720b151f1efc218_72.png",
+            "first_name": "鬼追華奈",
+            "real_name": "鬼追華奈",
+            "display_name": "Kioi.Hana",
+            "team": "T06L90YHJF8",
+            "name": "kyomomonom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711624118.722939",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsYaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おつかれ！コメント消してもう1回保存して上げ直して欲しい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE4EV2A",
+        "type": "message",
+        "ts": "1711624560.942879",
+        "client_msg_id": "A7EE12F6-12FA-4C12-A865-D61994258886",
+        "text": "失礼いたしました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9dca79c3a480",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7895481592224_9dca79c3a480ea4062ff_72.png",
+            "first_name": "佐藤諒成",
+            "real_name": "佐藤諒成",
+            "display_name": "Sato.Ryosei",
+            "team": "T06L90YHJF8",
+            "name": "ryokichi0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711624118.722939",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSEo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼いたしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n送りなおしすみません。\nお疲れ様です。B部門（仮）2年継続の佐藤（諒）です。\n提出が遅くなり大変申し訳ありません。\n\n第1回開総合同会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞06_合同会議＞3月\nにアップロードしました。\n議題は\n1.      総務局について（意思共有）\n2.      開発局について（意思共有）\n3.      開総合同コンテンツ（意見交換）\nです。確認よろしくお願いいたしします。\n\n今、石垣島になうです。",
+        "files": [
+            {
+                "id": "F06RKUXMBV4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE4EV2A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tt8\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n送りなおしすみません。\nお疲れ様です。B部門（仮）2年継続の佐藤（諒）です。\n提出が遅くなり大変申し訳ありません。\n\n第1回開総合同会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞06_合同会議＞3月\nにアップロードしました。\n議題は\n1.      総務局について（意思共有）\n2.      開発局について（意思共有）\n3.      開総合同コンテンツ（意見交換）\nです。確認よろしくお願いいたしします。\n\n今、石垣島になうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711624890.747389",
+        "edited": {
+            "user": "U06LCE4EV2A",
+            "ts": "1711629438.000000"
+        },
+        "client_msg_id": "d9b8ba3b-1d77-40c2-8c0b-5041779f746c",
+        "reactions": [
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06LCE8C51U",
+                    "U06M7SBFPFS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06LCE8C51U",
+                    "U06M7SBFPFS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "しばくぞ",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06LCE8C51U",
+                    "U06M7SBFPFS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "しゃしゃんな",
+                "users": [
+                    "U06LMGM3CG4",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06M7SBFPFS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06L4GKGXB9",
+                    "U06LCE9JG3G",
+                    "U06LCE8C51U",
+                    "U06M7SBFPFS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCEJ5HHU",
+                    "U06M7ST2WTA",
+                    "U06M7SBFPFS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "開_佐藤くん",
+                "users": [
+                    "U06LG63FJUD",
+                    "U06M7ST2WTA",
+                    "U06L4GKGXB9",
+                    "U06LCE9JG3G",
+                    "U06M7SBFPFS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LVUKD658",
+                    "U06M7SBFPFS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です。\n大坂悠真です。\n最近ごんちゃでもいってらっしゃいって言ってしまいます。この病気を治したいです。\n\n第1回開発局A部門（仮）会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞04_A部門（仮）＞01_部門会議にアップロードしました。\n議題は\n1.スケジュール共有、調整（意思共有）\n2.部門方針について（意見交換）\n3.部門活動についてGW（意見交換・決定）\nです。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F06RU0V2MA9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCEJ5HHU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5Oo+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n大坂悠真です。\n最近ごんちゃでもいってらっしゃいって言ってしまいます。この病気を治したいです。\n\n第1回開発局A部門（仮）会議議事録を\nOneDrive＞自分のファイル＞各局＞03_開発局＞02_各種会議議事録＞04_A部門（仮）＞01_部門会議にアップロードしました。\n議題は\n1.スケジュール共有、調整（意思共有）\n2.部門方針について（意見交換）\n3.部門活動についてGW（意見交換・決定）\nです。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711672595.029849",
+        "client_msg_id": "961c2c6f-e759-4a58-a9fa-c2852f606dbe",
+        "reactions": [
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LCE8C51U",
+                    "U06LCE4EV2A",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K",
+                    "U06LK7K9ALA",
+                    "U06M7SBFPFS",
+                    "U06M7ST2WTA",
+                    "U06LMGM3CG4"
+                ],
+                "count": 10
+            },
+            {
+                "name": "うんこ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCE8C51U",
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K",
+                    "U06M7SBFPFS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "か_甲斐time",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCE8C51U",
+                    "U06LK04QJ0K",
+                    "U06M7SBFPFS",
+                    "U06M7ST2WTA"
+                ],
+                "count": 5
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LCE8C51U",
+                    "U06LK04QJ0K",
+                    "U06M7SBFPFS",
+                    "U06M7ST2WTA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "か＿二浪",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LCE8C51U",
+                    "U06LCE9JG3G",
+                    "U06LK04QJ0K",
+                    "U06LK7K9ALA",
+                    "U06M7SBFPFS",
+                    "U06M7ST2WTA"
+                ],
+                "count": 7
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK7K9ALA",
+                    "U06M7SBFPFS",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

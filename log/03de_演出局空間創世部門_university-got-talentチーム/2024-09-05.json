@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U070YDCB30A",
+        "type": "message",
+        "ts": "1725596378.722419",
+        "client_msg_id": "e8d5ba20-7d4d-4169-87b9-f0bfce849981",
+        "text": "<!channel>\nお疲れ様です。1年新規の大久保です。\n第2回演出局空間創世部門University Got Talentチーム会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞04_空間創世部門＞08_University Got Talent＞議事録\nにアップロードしました。\n\n議題は\n1. BGM決定（意思共有）\nです。確認お願いします！\n\n合宿楽しすぎました！！ほんとに帰りたくなかったです。次は２泊3日とかどうですかーー夏感じて幸せでした:two_hearts:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6af44f6f36dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7033003494803_6af44f6f36dc8dea3998_72.png",
+            "first_name": "大久保にこ",
+            "real_name": "大久保にこ",
+            "display_name": "Okubo.Niko",
+            "team": "T06L90YHJF8",
+            "name": "niko.okb620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uloN\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。1年新規の大久保です。\n第2回演出局空間創世部門University Got Talentチーム会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞04_空間創世部門＞08_University Got Talent＞議事録\nにアップロードしました。\n\n議題は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BGM決定（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。確認お願いします！\n\n合宿楽しすぎました！！ほんとに帰りたくなかったです。次は２泊3日とかどうですかーー夏感じて幸せでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

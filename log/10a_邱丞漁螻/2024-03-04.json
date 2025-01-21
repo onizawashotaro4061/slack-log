@@ -1,0 +1,140 @@
+[
+    {
+        "text": "局役職インタビューの班分け",
+        "files": [
+            {
+                "id": "F06MQ9ZFWES",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L2CSPXV5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X73Zf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "局役職インタビューの班分け"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709613172.874979",
+        "client_msg_id": "EB8D0015-2460-44E3-9185-04C8DE749CD3"
+    },
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1709617161.055869",
+        "client_msg_id": "B1C990A6-150C-4390-985E-E6D6758DDE71",
+        "text": "<!channel>\n\n氏名\n過去の所属\n学部学科\n生年月日\n出身地、出身校\n最寄駅\nアルバイト\n趣味\n呼ばれ方\n所属局の雰囲気・一言で表すと\n所属局の目標\n去年の思い出\n総務局のイメージ\n総務局に求めること\n明実の推し\n:heavy_plus_sign:α",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709617161.055869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709617208.570719",
+        "reply_users": [
+            "U06L2CSPXV5"
+        ],
+        "replies": [
+            {
+                "user": "U06L2CSPXV5",
+                "ts": "1709617208.570719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSded",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n氏名\n過去の所属\n学部学科\n生年月日\n出身地、出身校\n最寄駅\nアルバイト\n趣味\n呼ばれ方\n所属局の雰囲気・一言で表すと\n所属局の目標\n去年の思い出\n総務局のイメージ\n総務局に求めること\n明実の推し\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_plus_sign",
+                                "unicode": "2795"
+                            },
+                            {
+                                "type": "text",
+                                "text": "α"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1709617208.570719",
+        "client_msg_id": "50F2D952-E0C7-4CF1-B885-735FC764C416",
+        "text": "局役職インタビューの必須項目！\nこれと他に質問したいことを聞いてね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709617161.055869",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDpxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "局役職インタビューの必須項目！\nこれと他に質問したいことを聞いてね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

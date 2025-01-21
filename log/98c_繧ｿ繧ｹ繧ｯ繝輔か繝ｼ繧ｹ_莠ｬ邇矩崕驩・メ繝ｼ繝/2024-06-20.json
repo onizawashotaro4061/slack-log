@@ -1,0 +1,173 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070VFZF6BF",
+        "text": "<@U070VFZF6BF>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.139699"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070HS3G355",
+        "text": "<@U070HS3G355>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.211689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9WCHH9",
+        "text": "<@U070Y9WCHH9>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.319229"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070RQ167FG",
+        "text": "<@U070RQ167FG>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.406649"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07194G87BL",
+        "text": "<@U07194G87BL>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.487779"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9RLJTV",
+        "text": "<@U070Y9RLJTV>さんがチャンネルに参加しました",
+        "inviter": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874815.556649"
+    },
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1718874982.890699",
+        "client_msg_id": "66afd8b3-e615-45b2-bbc4-9b11006a0b59",
+        "text": "<!channel> @新規へ\nタスクフォースのライングループへ追加するので以下のリンクから入って局と名前をラインで言ってください！\n<https:\/\/line.me\/ti\/p\/jVU8M_lutq|https:\/\/line.me\/ti\/p\/jVU8M_lutq>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dlaj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " @新規へ\nタスクフォースのライングループへ追加するので以下のリンクから入って局と名前をラインで言ってください！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/line.me\/ti\/p\/jVU8M_lutq",
+                                "text": "https:\/\/line.me\/ti\/p\/jVU8M_lutq"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070RQ167FG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です。\n京王との会議内容の報告パワポでっす\n結構端折っちゃってる部分あるんですけどそれはあらためてタスクフォース会の時にも話すので目を通しておいて！",
+        "files": [
+            {
+                "id": "F079H37NF17",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F078PS19031",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0794D417PC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCE9HTP0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B2cq5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n京王との会議内容の報告パワポでっす\n結構端折っちゃってる部分あるんですけどそれはあらためてタスクフォース会の時にも話すので目を通しておいて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718945553.256189",
+        "client_msg_id": "407b1ff3-9460-43c1-ae04-3391a0a40d83",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U070RQ167FG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

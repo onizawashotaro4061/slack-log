@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U06LXNXNWGH",
+        "type": "message",
+        "ts": "1716190319.553639",
+        "edited": {
+            "user": "U06LXNXNWGH",
+            "ts": "1716195992.000000"
+        },
+        "client_msg_id": "4173c448-acbd-4a0d-b16f-366aa341c987",
+        "text": "同じく用事があるので欠席します:man-bowing:\nほんとにすみません、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4b9821f00937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721923876272_4b9821f0093727538e3f_72.jpg",
+            "first_name": "井内愉羽",
+            "real_name": "井内愉羽",
+            "display_name": "Iuchi.Yu",
+            "team": "T06L90YHJF8",
+            "name": "yu.625.irodori.94.cha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716166825.663069",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQL+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じく用事があるので欠席します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nほんとにすみません、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "interrobang",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMQR40J0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "green_apple",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LXNX1XPB",
+                    "U06LMQR40J0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dress",
+                "users": [
+                    "U06LK3KJNJE",
+                    "U06LXNX1XPB",
+                    "U06LMQR40J0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "財_ゆう",
+                "users": [
+                    "U06LMH49MQU",
+                    "U06LMH3BZ8C",
+                    "U06LMQR40J0"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

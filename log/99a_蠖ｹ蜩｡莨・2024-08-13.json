@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1723595786.435039",
+        "edited": {
+            "user": "U06LCUTBMU5",
+            "ts": "1723785205.000000"
+        },
+        "client_msg_id": "649ABC44-30BF-42ED-8952-D016FB628AA9",
+        "text": "0818_第26回役員会\n時間：午後から（予定）\n場所：じつぼ（予定）\n議題\n・参加団体用公式LINE一般企画書\n・サマーフェスタ一般企画書\n・当日ニーズ調査一般企画書\n・企画効果測定一般企画書",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723595786.435039",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1723781987.524839",
+        "reply_users": [
+            "U06LHACMG91",
+            "U06LDT584J1"
+        ],
+        "replies": [
+            {
+                "user": "U06LHACMG91",
+                "ts": "1723693327.305449"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1723781987.524839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vGO3y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0818_第26回役員会\n時間：午後から（予定）\n場所：じつぼ（予定）\n議題\n・参加団体用公式LINE一般企画書\n・サマーフェスタ一般企画書\n・当日ニーズ調査一般企画書\n・企画効果測定一般企画書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custard",
+                "users": [
+                    "U06LE249H0V",
+                    "U06LKTXCZL4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "チーム_ノンゼミ",
+                "users": [
+                    "U06LKTXCZL4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

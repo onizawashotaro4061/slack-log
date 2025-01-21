@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070VG0DP0D",
+        "type": "message",
+        "ts": "1720079128.690549",
+        "client_msg_id": "F4F6EFD8-C86D-4FDF-A5E1-43CDC691CF92",
+        "text": "スマホが壊れて充電できなくなって今日直しに行きたいので欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2517cef1fb1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-03\/8115690062674_2517cef1fb1dcc16850e_72.png",
+            "first_name": "田嶋佳布子",
+            "real_name": "田嶋佳布子",
+            "display_name": "Tajima.Kanoko",
+            "team": "T06L90YHJF8",
+            "name": "kanoko.ren1124",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720012286.579099",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+lg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スマホが壊れて充電できなくなって今日直しに行きたいので欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

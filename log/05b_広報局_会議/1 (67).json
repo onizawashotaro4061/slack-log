@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U0710T0NBFE",
+        "type": "message",
+        "ts": "1728987353.310049",
+        "client_msg_id": "B7F5E0A0-160E-4752-86B4-1FD86334B45B",
+        "text": "前々から入っていた予定があるので欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51ee0ee94008",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7918716969653_51ee0ee940082e160799_72.png",
+            "first_name": "小島快秀",
+            "real_name": "小島快秀",
+            "display_name": "Kojima.Kaishu",
+            "team": "T06L90YHJF8",
+            "name": "kaisyu0603",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728891653.095479",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3k+5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前々から入っていた予定があるので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

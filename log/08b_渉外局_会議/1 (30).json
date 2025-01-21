@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U071W456MHQ",
+        "type": "message",
+        "ts": "1715655523.068789",
+        "client_msg_id": "105D7BE2-4BB5-40CC-A96D-33D52300D123",
+        "text": "引越し準備で欠席させてもらいます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "50f2658017e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7080150243521_50f2658017e346179f63_72.png",
+            "first_name": "秋葉ひなた",
+            "real_name": "秋葉ひなた",
+            "display_name": "Akiba.Hinata",
+            "team": "T06L90YHJF8",
+            "name": "hinataakiba1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715385600.176759",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBNZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引越し準備で欠席させてもらいます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

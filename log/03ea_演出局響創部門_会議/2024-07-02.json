@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U071M6YB4MN",
+        "type": "message",
+        "ts": "1719903613.112109",
+        "client_msg_id": "A8BF7B09-10B5-4C2F-8EC0-FB0092CB3F60",
+        "text": "ずっと前から決まっていた予定があるので本日欠席させて頂きます、申し訳ありません！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3c105e90e17b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7863843043494_3c105e90e17b3a798592_72.png",
+            "first_name": "森田一優",
+            "real_name": "森田一優",
+            "display_name": "Morita.Kazuma",
+            "team": "T06L90YHJF8",
+            "name": "kzmrt1818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719901818.178879",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NknZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ずっと前から決まっていた予定があるので本日欠席させて頂きます、申し訳ありません！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070VFSETUM",
+        "type": "message",
+        "ts": "1719907658.816259",
+        "client_msg_id": "3D3A0EAB-5C0E-484B-905D-56DC1326F2F4",
+        "text": "私用につき欠席させていただきます。申し訳ございません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a127703d36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7103811785985_6a127703d36c4fc7fa4c_72.png",
+            "first_name": "林朋緒",
+            "real_name": "林朋緒",
+            "display_name": "Hayashi.Tomoo",
+            "team": "T06L90YHJF8",
+            "name": "tomoo0918",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719901818.178879",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSw6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用につき欠席させていただきます。申し訳ございません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

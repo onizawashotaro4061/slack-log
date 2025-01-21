@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1713194710.571849",
+        "client_msg_id": "230B3707-FEE6-4F3B-A40D-D980FA0A4C60",
+        "text": "<@U06LCE69DRU> かいぎかいぎかいぎ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gT5qx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCE69DRU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " かいぎかいぎかいぎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LCE69DRU",
+        "type": "message",
+        "ts": "1713194764.204939",
+        "edited": {
+            "user": "U06LCE69DRU",
+            "ts": "1713194911.000000"
+        },
+        "client_msg_id": "36f6ae39-9ac1-40e9-b346-86f2ae6a29f2",
+        "text": "<!channel>\n【第3回Web部門会議】\n日時:4月16日（火）19:00～\n場所:LSのどこか\n持ち物:パソコン\n議事録:ランダム？\n\n議題\n1.作業進捗共有\n2.本サイトの改善案出し\n3.新規合流体制について\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nまだ会議内容煮詰めてないから明日会議までに考えときます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "12e80b515780",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-16\/7900904960705_12e80b515780e764a5ae_72.jpg",
+            "first_name": "梅山翔央",
+            "real_name": "梅山翔央",
+            "display_name": "Umeyama.Sho",
+            "team": "T06L90YHJF8",
+            "name": "sho.ume.2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHXxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第3回Web部門会議】\n日時:4月16日（火）19:00～\n場所:LSのどこか\n持ち物:パソコン\n議事録:ランダム？\n\n議題\n1.作業進捗共有\n2.本サイトの改善案出し\n3.新規合流体制について\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\nまだ会議内容煮詰めてないから明日会議までに考えときます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LG6Q48SZ",
+                    "U06LK0JCFHR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LG6Q48SZ",
+                    "U06LK0JCFHR"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1715674626.766239",
+        "client_msg_id": "CD399679-6D75-4A90-AD3C-785A0A3A2EC0",
+        "text": "風邪ひいちゃったのでおやすみします。議事録はみます！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "19dc4cb2d333",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-25\/6847930732262_19dc4cb2d333d736bf3f_72.png",
+            "first_name": "中山優梨",
+            "real_name": "中山優梨",
+            "display_name": "Nakayama.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yu03240na",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715584821.683699",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJ4tQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "風邪ひいちゃったのでおやすみします。議事録はみます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1715680724.077079",
+        "client_msg_id": "0D4C15BD-4689-4C3C-B38A-38DE16571684",
+        "text": "ゼミがまだ終わってないので遅刻します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715584821.683699",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URvqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミがまだ終わってないので遅刻します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1715683003.159409",
+        "client_msg_id": "E91C0FAA-C7BF-487C-8AD9-A285ED249B06",
+        "text": "ゼミ終わるの遅すぎたので休みます。すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715584821.683699",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UiVzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミ終わるの遅すぎたので休みます。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

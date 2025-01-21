@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U071M71R0EL",
+        "type": "message",
+        "ts": "1726672513.559969",
+        "client_msg_id": "B0D9F02A-A6C6-4116-9930-2591F4ABBF8D",
+        "text": "高校の部活の集まりがあって欠席します。出席率低くてまじで申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "42f6d9618ddf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-05\/7693063484481_42f6d9618ddfa6e2eef8_72.png",
+            "first_name": "八木遥",
+            "real_name": "八木遥",
+            "display_name": "Yagi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "harukayagi0804",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726539300.865979",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XA1AY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "高校の部活の集まりがあって欠席します。出席率低くてまじで申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "許す",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "財_なかしゅん実はいいやつ",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "野菜ジュースは野菜じゃない",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH31QSG",
+        "type": "message",
+        "ts": "1726709616.362049",
+        "client_msg_id": "1AD46864-05D0-4C4F-B165-6C08763548F2",
+        "text": "ココカラファインしてから行くので5分くらい遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0c2cb6f8d78e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7122562325733_0c2cb6f8d78e03bb8fbc_72.png",
+            "first_name": "川口裕次郎",
+            "real_name": "川口裕次郎",
+            "display_name": "Kawaguchi.Yujiro",
+            "team": "T06L90YHJF8",
+            "name": "mametaro200411135577",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726539300.865979",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aGX9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ココカラファインしてから行くので5分くらい遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ココカラファイン",
+                "users": [
+                    "U06L4GM5C87"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1726710418.249379",
+        "client_msg_id": "28C43C44-3D6B-4A74-8E10-816939EDF0D6",
+        "text": "人助けするので微遅刻",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726539300.865979",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4rBFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人助けするので微遅刻"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

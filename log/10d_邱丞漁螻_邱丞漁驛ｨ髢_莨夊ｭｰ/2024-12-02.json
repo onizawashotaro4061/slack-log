@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U06M7SZ5WG0",
+        "type": "message",
+        "ts": "1733132148.292599",
+        "client_msg_id": "668E67F1-8491-4ABB-921F-F14DCFB19D38",
+        "text": "サークルが長引いてて終わりそうにないので欠席します。本当にすみません:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2741cfc9d9c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-13\/6785172322870_2741cfc9d9c1ed78fc8f_72.jpg",
+            "first_name": "髙橋日和",
+            "real_name": "髙橋日和",
+            "display_name": "Takahashi Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "ev230612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733032448.496359",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8pTX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークルが長引いてて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "終わりそうにないので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席します。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本当に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "走れ",
+                "users": [
+                    "U070YD72JPL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3MPZ34"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

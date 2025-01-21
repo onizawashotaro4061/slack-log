@@ -1,0 +1,147 @@
+[
+    {
+        "text": "*<!channel>*\nお疲れ様です！2年継続の加藤です。\n第23回演出局会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞01_局会議＞02_議事録＞7月\nにアップロードしました。\n\n議題は、\n1.　財務発信制度（意思共有）\n2.    第140回明大祭公式テーマソング選定（意見交換・決定）\n3.　部門報告（意思共有）\n4.　表記基準に関して（意思共有）\nです。確認お願いいたします。\n\n今日誰か昼か夜きび行きませんか？:ramen:",
+        "files": [
+            {
+                "id": "F07AWLEUSTX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH5ACGL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPxLF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！2年継続の加藤です。\n第23回演出局会議議事録を\nOneDrive＞自分のファイル＞各局＞02_演出局＞01_局会議＞02_議事録＞7月\nにアップロードしました。\n\n議題は、\n1.　財務発信制度（意思共有）\n2.    第140回明大祭公式テーマソング選定（意見交換・決定）\n3.　部門報告（意思共有）\n4.　表記基準に関して（意思共有）\nです。確認お願いいたします。\n\n今日誰か昼か夜きび行きませんか？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ramen",
+                                "unicode": "1f35c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720053078.002209",
+        "client_msg_id": "8e0136ad-ee1c-4315-a93c-dacda56299c2",
+        "thread_ts": "1720053078.002209",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1720058401.302439",
+        "reply_users": [
+            "U06LMH5ACGL"
+        ],
+        "replies": [
+            {
+                "user": "U06LMH5ACGL",
+                "ts": "1720058401.302439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7T3TQ0Y",
+                    "U06LCE9AKQW",
+                    "U06LK0G74NP",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1",
+                    "U06LXNY0MHP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ramen",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LCE9AKQW",
+                    "U06LK0G74NP",
+                    "U06LMHDAZKN",
+                    "U06LG6EJPE1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U06LXP2EGKT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "不純大",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LMH5ACGL",
+        "type": "message",
+        "ts": "1720058401.302439",
+        "client_msg_id": "821B2205-97EF-4F05-9424-E02A93D16B8A",
+        "text": "夜にしましょう",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "80e95ee505dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-04\/7241064541184_80e95ee505ddee9fe8ae_72.png",
+            "first_name": "加藤楓華",
+            "real_name": "加藤楓華",
+            "display_name": "Kato.Fuka",
+            "team": "T06L90YHJF8",
+            "name": "fuka.0203.sora",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720053078.002209",
+        "parent_user_id": "U06LMH5ACGL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mjce5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜にしましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

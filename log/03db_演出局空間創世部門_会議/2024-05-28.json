@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1716888938.940449",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1716888959.000000"
+        },
+        "client_msg_id": "2b160b97-768f-4f5a-8d85-5687f2689353",
+        "text": "*<!channel>* \n会議連絡！\n【時間】5\/28(火)局会議後～\n【場所】LS502かLS503\n【議題】(予定)\n1.各チームで募集説明会資料(パワポ、ワード)完成させて下さい:woman-bowing:\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はなしかも",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ll4H0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】5\/28(火)局会議後～\n【場所】LS502かLS503\n【議題】(予定)\n1.各チームで募集説明会資料(パワポ、ワード)完成させて下さい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録はなしかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U06LCEA6J1L",
+        "type": "message",
+        "ts": "1726220704.122109",
+        "edited": {
+            "user": "U06LCEA6J1L",
+            "ts": "1726220985.000000"
+        },
+        "client_msg_id": "9C444D62-B7DE-4345-B18E-F866E9249F12",
+        "text": "<!channel> annel\n毎度連絡直前で申し訳ない:man-bowing:\n\n0913_第20回運営局備品管理部門会議\n【時間】\n15:00 ~ 17:00\n【場所】\nLS304\n【議題】\n1. 各種報告(意思共有)\n2.    GWしよう(意見交換)\n3.    9月期反省について(意思共有)\n4.    諸連絡(意思共有)\n5.    運営備品測定ナンバリング(意思共有）\n6.    テント講習会会議（意思共有＆意見交換）\n\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n※議題の順番は流れ前後する可能性ありです\n\nそんなに長くやるつもりはないので頑張りましょう:muscle:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "29bdda95468e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7686929721877_29bdda95468e7521d8fb_72.png",
+            "first_name": "柴崎龍星",
+            "real_name": "柴崎龍星",
+            "display_name": "Shibazaki.Ryusei",
+            "team": "T06L90YHJF8",
+            "name": "ryusei48p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E2J87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " annel\n毎度連絡直前で申し訳ない"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n0913_第20回運営局備品管理部門会議\n【時間】\n15:00 ~ 17:00\n【場所】\nLS304\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告(意思共有)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2.    GWしよう(意見交換)\n3.    9月期反省について(意思共有)\n4.    諸連絡(意思共有)\n5.    運営備品測定ナンバリング(意思共有）\n6.    テント講習会会議（意思共有＆意見交換）\n\n【持ち物】\nパソコン\n確認したらリアクションを！\n遅刻・欠席・早退は部門長に理由を添えてSlackにて連絡！\n\n※議題の順番は流れ前後する可能性ありです\n\nそんなに長くやるつもりはないので頑張りましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LKJS20KC",
+                    "U06LK3MMALA",
+                    "U06LK0EQS59",
+                    "U071M6Y794Y",
+                    "U0710T2V2HJ",
+                    "U070Y9U42DR",
+                    "U06M7SX52RW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "運営_りゅうせい",
+                "users": [
+                    "U06LK3MMALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_備品_bkb",
+                "users": [
+                    "U06LK0EQS59"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

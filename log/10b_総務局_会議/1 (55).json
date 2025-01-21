@@ -1,0 +1,463 @@
+[
+    {
+        "user": "U070RQ0TU6A",
+        "type": "message",
+        "ts": "1725977220.593849",
+        "client_msg_id": "EFA01BAD-2DC1-47F4-BC74-9EC3C023BCCF",
+        "text": "予定があるため欠席します。連日欠席してしまい申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65e8d35ea5ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-08\/7244308317812_65e8d35ea5baf3f8498c_72.png",
+            "first_name": "古川芽生",
+            "real_name": "古川芽生",
+            "display_name": "Furukawa.Mei",
+            "team": "T06L90YHJF8",
+            "name": "may.f0505.30",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VmzgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。連日欠席してしまい申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710SZCKS8",
+        "type": "message",
+        "ts": "1726009688.775449",
+        "client_msg_id": "2DD3AAEA-F433-4EB2-A594-C8C3F0FA091A",
+        "text": "頭が痛いので少し遅れていきます。すみません :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3970eac8e58",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7189431781461_a3970eac8e58ea798da7_72.png",
+            "first_name": "福島優佳",
+            "real_name": "福島優佳",
+            "display_name": "Fukushima.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "fukuyuka0730",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eG+76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "頭が痛いので少し遅れていきます。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG62FNP7",
+        "type": "message",
+        "ts": "1726011076.386209",
+        "client_msg_id": "222583C7-524F-40A0-9E2E-2AAFEB84DD04",
+        "text": "体調不良のため欠席します。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17560d48f669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-21\/7907757083890_17560d48f669ee035be4_72.png",
+            "first_name": "深石遥月",
+            "real_name": "深石遥月",
+            "display_name": "Fukaishi.Haruna",
+            "team": "T06L90YHJF8",
+            "name": "fukaishiharuna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAeow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため欠席します。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LXNYCLJV",
+                    "U06LK3MPZ34",
+                    "U070Y9Q9151",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06LG6B2NA1",
+        "type": "message",
+        "ts": "1726012155.068069",
+        "edited": {
+            "user": "U06LG6B2NA1",
+            "ts": "1726012278.000000"
+        },
+        "client_msg_id": "F9DA9D63-8BA0-40FB-85EF-6A4618ECD35A",
+        "text": "体調不良で遅刻します。(多分)",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "65dde9d89a7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8042559226500_65dde9d89a7c70ef474a_72.png",
+            "first_name": "四之宮　伯門",
+            "real_name": "四之宮　伯門",
+            "display_name": "Shinomiya.Hakuto",
+            "team": "T06L90YHJF8",
+            "name": "shinomiya8910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Inf8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良で遅刻します。(多分)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LFKRD4MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B38LED7",
+        "type": "message",
+        "ts": "1726012235.626819",
+        "client_msg_id": "79F3544E-27B2-4865-A6CC-A4121CE59DCF",
+        "text": "電車遅延のため遅刻します。申し訳ありません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "adef3ebaad3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-30\/8117140921393_adef3ebaad3c82d8d2ab_72.png",
+            "first_name": "篠原利玖",
+            "real_name": "篠原利玖",
+            "display_name": "Shinohara.Riku",
+            "team": "T06L90YHJF8",
+            "name": "rikushino0710",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejGtg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電車遅延のため遅刻します。申し訳ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNX1A57",
+        "type": "message",
+        "ts": "1726012759.504769",
+        "client_msg_id": "BBEB57D6-FD09-43F9-8B94-D050531FE575",
+        "text": "腹痛のため遅刻します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c7047e104ff9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7704209341270_c7047e104ff9716eb557_72.png",
+            "first_name": "中宮拓斗",
+            "real_name": "中宮拓斗",
+            "display_name": "Nakamiya.Takuto",
+            "team": "T06L90YHJF8",
+            "name": "abcdefgace.wmd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0F7us",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛のため遅刻します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LFKRD4MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710SZCKS8",
+        "type": "message",
+        "ts": "1726014022.656509",
+        "client_msg_id": "5BD448BE-4D5A-46B9-8975-70BAEF2E78C6",
+        "text": "ごめんなさいやっぱり体調悪くて休みます :bow: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a3970eac8e58",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7189431781461_a3970eac8e58ea798da7_72.png",
+            "first_name": "福島優佳",
+            "real_name": "福島優佳",
+            "display_name": "Fukushima.Yuka",
+            "team": "T06L90YHJF8",
+            "name": "fukuyuka0730",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hlpb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいやっぱり体調悪くて休みます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06L2CSPXV5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1726016273.584819",
+        "client_msg_id": "797B362B-531B-46FD-84D4-EAE247958CAD",
+        "text": "腹痛でほんの少し遅れます。ごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725855527.825379",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OcM6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛でほんの少し遅れます。ごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LFKRD4MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "犯人は小林昌博",
+                "users": [
+                    "U06LFKRD4MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

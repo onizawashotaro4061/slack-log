@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U0710T0NBFE",
+        "type": "message",
+        "ts": "1720688947.225459",
+        "client_msg_id": "8F7B0AC9-6F1F-49CB-A51E-770B02367B8E",
+        "text": "バイトで火傷して病院行くので欠席します、すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "51ee0ee94008",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7918716969653_51ee0ee940082e160799_72.png",
+            "first_name": "小島快秀",
+            "real_name": "小島快秀",
+            "display_name": "Kojima.Kaishu",
+            "team": "T06L90YHJF8",
+            "name": "kaisyu0603",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720617072.714009",
+        "parent_user_id": "U06LY5XNLBT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Iclh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトで火傷して病院行くので欠席します、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LY5XNLBT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N",
+                    "U070YD75PJ6",
+                    "U06LCE9HTP0",
+                    "U06LY5XNLBT",
+                    "U071M6ZVDMW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "なるようにならない",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U06LY5XNLBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

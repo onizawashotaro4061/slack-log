@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U06LDT584J1",
+        "type": "message",
+        "ts": "1709266436.373999",
+        "client_msg_id": "B53B7ED9-563B-4847-AE2D-2B387DD3B93D",
+        "text": "レマリさんかりあけからの鍵わたしです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c9ed40d6494d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-16\/7424700661634_c9ed40d6494ddbc5d5a3_72.png",
+            "first_name": "我那覇天空",
+            "real_name": "我那覇天空",
+            "display_name": "Ganaha.Sora",
+            "team": "T06L90YHJF8",
+            "name": "gaaaaa.521.sky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAaVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レマリさんかりあけからの鍵わたしです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U06LK3LHG0J"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

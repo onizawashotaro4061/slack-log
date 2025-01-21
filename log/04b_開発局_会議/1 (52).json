@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U07194G87BL",
+        "type": "message",
+        "ts": "1725260412.917349",
+        "client_msg_id": "9C2B2A80-83C8-45FB-9EDF-ACB318865E9B",
+        "text": "足のリハビリが長引いているので遅刻します。すみません:sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "72b13c4e4c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7921600314403_72b13c4e4c22c1fe3a4b_72.png",
+            "first_name": "三原優希",
+            "real_name": "三原優希",
+            "display_name": "Mihara.Yuuki",
+            "team": "T06L90YHJF8",
+            "name": "myuuki.myuuki.1026",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UHvY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "足のリハビリが長引いているので遅刻します。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "本間見た",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LMGM3CG4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07194G87BL",
+        "type": "message",
+        "ts": "1725265264.702669",
+        "client_msg_id": "A8DE77B7-7A1C-4FBC-A44E-02D029E39485",
+        "text": "今終わったので6時30分ぐらいに着きます:sweat_drops:すみません",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "72b13c4e4c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-23\/7921600314403_72b13c4e4c22c1fe3a4b_72.png",
+            "first_name": "三原優希",
+            "real_name": "三原優希",
+            "display_name": "Mihara.Yuuki",
+            "team": "T06L90YHJF8",
+            "name": "myuuki.myuuki.1026",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725206947.878999",
+        "parent_user_id": "U06LMGM3CG4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZZAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今終わったので6時30分ぐらいに着きます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LVUKD658"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

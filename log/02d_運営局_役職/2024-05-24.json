@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1716552049.069619",
+        "client_msg_id": "3C8EC197-FA6B-4ADD-9ECE-26C08B19FC71",
+        "text": "<!channel> \n<https:\/\/us05web.zoom.us\/j\/83853364338?pwd=BBvBcL7J8KqbMoqU7EQYQJAdbtjyfn.1|https:\/\/us05web.zoom.us\/j\/83853364338?pwd=BBvBcL7J8KqbMoqU7EQYQJAdbtjyfn.1>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NF92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/83853364338?pwd=BBvBcL7J8KqbMoqU7EQYQJAdbtjyfn.1",
+                                "text": "https:\/\/us05web.zoom.us\/j\/83853364338?pwd=BBvBcL7J8KqbMoqU7EQYQJAdbtjyfn.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1716552056.947329",
+        "client_msg_id": "43EC1A7D-4F08-4A64-BD99-3938A545DE0E",
+        "text": "お待たせしましたお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpcBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お待たせしましたお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

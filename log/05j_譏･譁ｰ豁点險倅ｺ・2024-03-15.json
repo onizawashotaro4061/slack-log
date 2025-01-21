@@ -1,0 +1,55 @@
+[
+    {
+        "text": "<!channel>\nおつかれ！今日のメモでっす",
+        "files": [
+            {
+                "id": "F06PSMQTWMB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH412CU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIrPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれ！今日のメモでっす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710569495.287929",
+        "client_msg_id": "08c0b56c-d43b-4525-89de-99fb6b20b775",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U06LCE9HTP0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

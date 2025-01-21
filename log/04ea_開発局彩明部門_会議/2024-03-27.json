@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LK3ZBCN6",
+        "text": "<@U06LK3ZBCN6>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1711588976.457249"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06LXNWG67K",
+        "old_name": "04e_開発局a部門",
+        "name": "04a_開発局a部門会議",
+        "text": "チャンネル名を「04e_開発局a部門」から「04a_開発局a部門会議」に変更しました",
+        "type": "message",
+        "ts": "1711604192.988599"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U06LXNWG67K",
+        "old_name": "04a_開発局a部門会議",
+        "name": "04ea_開発局a部門_会議",
+        "text": "チャンネル名を「04a_開発局a部門会議」から「04ea_開発局a部門_会議」に変更しました",
+        "type": "message",
+        "ts": "1711604214.418239"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U06L4GL1CUF",
+        "type": "message",
+        "ts": "1732694703.644869",
+        "client_msg_id": "fc2982bd-4ace-4ef4-990b-2a8522af09a1",
+        "text": "学生証なつくん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "17f57c25e95c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-08\/7692376775765_17f57c25e95c5dffb4b2_72.jpg",
+            "first_name": "竹本望人",
+            "real_name": "竹本望人",
+            "display_name": "Takemoto.Haruto",
+            "team": "T06L90YHJF8",
+            "name": "haruto.0215takemoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZhod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生証なつくん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNWG67K",
+        "type": "message",
+        "ts": "1732709966.520639",
+        "client_msg_id": "CA8E8A9A-2396-471C-B99F-78116A0D0DF6",
+        "text": "総務新規おつかれの締め返し",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "faa92af536f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-07\/8134489887733_faa92af536f4b3d5c4d1_72.png",
+            "first_name": "伊藤夏輝",
+            "real_name": "伊藤夏輝",
+            "display_name": "Ito.Natsuki",
+            "team": "T06L90YHJF8",
+            "name": "natsushain0724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+gQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "総務新規おつかれの締め返し"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06M7SPUVEC",
+                    "U06LXNYCLJV",
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U06LK3MF9FC"
+                ],
+                "count": 6
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06M7SPUVEC",
+                    "U06LXNYCLJV",
+                    "U06L4GKC9N3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LXNYCLJV",
+                    "U06LG62FNP7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNZDHFT",
+        "type": "message",
+        "ts": "1732758387.027879",
+        "client_msg_id": "059CE6BA-B885-4EA3-A120-34AACC73508A",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d7c17a1443b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-03\/7818505766613_d7c17a1443b0a8f20b1c_72.png",
+            "first_name": "齋藤銀平",
+            "real_name": "齋藤銀平",
+            "display_name": "Saito.Gimpei",
+            "team": "T06L90YHJF8",
+            "name": "ipeepkms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LXNXNWGH",
+                    "U06LK3MF9FC",
+                    "U06M7SPUVEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "話してみたい",
+                "users": [
+                    "U06LG62V1FX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

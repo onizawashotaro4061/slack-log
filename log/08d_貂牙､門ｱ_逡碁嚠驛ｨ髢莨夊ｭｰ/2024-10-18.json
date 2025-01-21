@@ -1,0 +1,441 @@
+[
+    {
+        "user": "U06M7SPUVEC",
+        "type": "message",
+        "ts": "1729238945.309999",
+        "client_msg_id": "4EA723CA-66BE-4FE7-82CF-CF5568F9B5AD",
+        "text": "<!channel>\n【第21回界隈部門会議】\n【場所】LS403\n【時間】19:00-20:40\n【議題】\n    ・会議協賛（意思共有）\n　・進捗確認（意思共有)\n　・小学校作業、印刷物\n欠席、遅刻、早退は理由と共にスレッドに！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "788f75cbfc51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-08\/7540546858950_788f75cbfc5194f897ba_72.png",
+            "first_name": "田島千尋",
+            "real_name": "田島千尋",
+            "display_name": "Tajima.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "chihirosmile375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729238945.309999",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1729245179.663899",
+        "reply_users": [
+            "U070YD778SE",
+            "U071M740R32",
+            "U071B3ES5NV",
+            "U06LK0E89MH"
+        ],
+        "replies": [
+            {
+                "user": "U070YD778SE",
+                "ts": "1729238998.982039"
+            },
+            {
+                "user": "U071M740R32",
+                "ts": "1729239807.425469"
+            },
+            {
+                "user": "U071B3ES5NV",
+                "ts": "1729241787.097229"
+            },
+            {
+                "user": "U06LK0E89MH",
+                "ts": "1729245179.663899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dyYPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【第2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回界隈部門会議】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】LS403"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】19:00-20:40"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n    ・会議協賛（意思共有）\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・進捗確認（意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "小学校作業、印刷物\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻、早退は理由と共にスレッドに！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U071M740R32",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ちっひー",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U0710T3MCUC",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06L4GLJVKR",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U0710T3MCUC",
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "部門長田島",
+                "users": [
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "さすが部門長",
+                "users": [
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お散歩クラブ",
+                "users": [
+                    "U070YD778SE",
+                    "U071M6YLJRE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ちひろ冷たい",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070YD778SE",
+        "type": "message",
+        "ts": "1729238998.982039",
+        "client_msg_id": "84e03faf-c518-410b-80a2-eee4950daef1",
+        "text": "ちょっとレクのことで聞きたいことあるので、ちょっと時間貰えますか？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5fd4a11336e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-11\/7861390047509_5fd4a11336e210394d02_72.jpg",
+            "first_name": "小野のどか",
+            "real_name": "小野のどか",
+            "display_name": "Ono.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "nodokaxiaoye",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729238945.309999",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxO+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっとレクのことで聞きたいことあるので、ちょっと時間貰えますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071M740R32",
+        "type": "message",
+        "ts": "1729239807.425469",
+        "client_msg_id": "3922EAFF-040E-45AD-8EBC-C6713470AD1B",
+        "text": "ゼミのガイダンスがあるため遅刻します:sweat_drops:\n19:40頃から合流できます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "876cf5e7cc35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-01\/7220379141713_876cf5e7cc353c8748d5_72.png",
+            "first_name": "草野佑太朗",
+            "real_name": "草野佑太朗",
+            "display_name": "Kusano.Yuutarou",
+            "team": "T06L90YHJF8",
+            "name": "k.yuuu118520",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729238945.309999",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v67Yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミのガイダンスがあるため遅刻します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n19:40頃から合流できます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071B3ES5NV",
+        "type": "message",
+        "ts": "1729241787.097229",
+        "client_msg_id": "CF4BCAC4-2679-44E3-A4BC-E47CDE43CBD8",
+        "text": "ゼミのガイダンスあるのでおくれます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa397c820bce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-05\/7978562672901_fa397c820bcef9ac08ba_72.png",
+            "first_name": "岩澤隆心",
+            "real_name": "岩澤隆心",
+            "display_name": "Iwasawa.Ryushin",
+            "team": "T06L90YHJF8",
+            "name": "ryushin20050619",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729238945.309999",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/HGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミのガイダンスあるのでおくれます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0E89MH",
+        "type": "message",
+        "ts": "1729245179.663899",
+        "client_msg_id": "E0D1DAC0-B948-4D22-A7A9-5C6F5889426F",
+        "text": "インターンの関係で10分遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10abff051f8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491436038_10abff051f8ccf96b5c9_72.png",
+            "first_name": "大野聖雅",
+            "real_name": "大野聖雅",
+            "display_name": "Ohno.Seiga",
+            "team": "T06L90YHJF8",
+            "name": "seiga.ohno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729238945.309999",
+        "parent_user_id": "U06M7SPUVEC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ov6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インターンの関係で10分"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SPUVEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

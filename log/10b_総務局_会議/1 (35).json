@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U070Y9Q9151",
+        "type": "message",
+        "ts": "1718493205.118369",
+        "edited": {
+            "user": "U070Y9Q9151",
+            "ts": "1718493252.000000"
+        },
+        "client_msg_id": "D0B9EA30-4B70-4425-B73D-8D7C014DCF04",
+        "text": "明後日の会議なのですが、コロナになってしまったので休みます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3f4a8d315de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996339726980_3f4a8d315de39329ef11_72.png",
+            "first_name": "畑中康佑",
+            "real_name": "畑中康佑",
+            "display_name": "Hatanaka.Kosuke",
+            "team": "T06L90YHJF8",
+            "name": "koshat0513",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtNy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明後日の会議なのですが、コロナになってしまったので休みます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U070VFZF6BF",
+                    "U06L2CSPXV5",
+                    "U070RQ0TU6A",
+                    "U06M7TE180Y",
+                    "U06M7SZ5WG0",
+                    "U06LM0QJV3L"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

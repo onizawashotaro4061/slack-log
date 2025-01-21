@@ -1,0 +1,68 @@
+[
+    {
+        "text": "【Slackのプロフィールについて】\n<!channel> \nお疲れ様です、\nSlackチームの太田です。\n該当者にはDMを送ったのですが、Slackのプロフィールに不備がある方が一部おりまして、私の見落としもあるかもしれませんので、各自今一度、下記のパワポを参考に確認をお願いします。",
+        "files": [
+            {
+                "id": "F06MGA8GUSK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L9S67MEJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dJEf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【Slackのプロフィールについて】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です、\nSlackチームの太田です。\n該当者にはDMを送ったのですが、Slackのプロフィールに不備がある方が一部おりまして、私の見落としもあるかもしれませんので、各自今一度、下記のパワポを参考に確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709611760.729019",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1709612169.000000"
+        },
+        "client_msg_id": "6BD58CF5-8465-4244-BC85-7A781930BCF8",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LCE9EA3G",
+                    "U06L4GLJVKR",
+                    "U06M7SETDKJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06LCE9EA3G",
+                    "U06L4GLJVKR",
+                    "U06M7SETDKJ"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

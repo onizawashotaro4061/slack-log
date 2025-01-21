@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1709528630.894129",
+        "client_msg_id": "ce99ef42-f0d1-42c2-9e53-1324997091a7",
+        "text": "<!channel> 塚田滉平 さんがあなたをスケジュール済みの Zoom ミーティングに招待しています。\n\nトピック: 塚田滉平のパーソナルミーティングルーム\n\n参加 Zoom ミーティング\n<https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09>\n\nミーティング ID: <tel:9878966500|987 896 6500>\nパスコード: dt7Mp9",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6iBG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 塚田滉平 さんがあなたをスケジュール済みの Zoom ミーティングに招待しています。\n\nトピック: 塚田滉平のパーソナルミーティングルーム\n\n参加 Zoom ミーティング\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:9878966500",
+                                "text": "987 896 6500"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパスコード: dt7Mp9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

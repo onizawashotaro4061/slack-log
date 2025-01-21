@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1714639118.390699",
+        "client_msg_id": "3f6f049d-f140-419e-9229-88f716e62281",
+        "text": "<!channel>\n0503_運営局役職会議議事録\n【時間】\n22：00〜24：00（予定）\n【場所】\nZoom\n【議題】\n1. 部門報告（意見交換）\n2. 設置物連携報告（意見交換）\n3. 諸連絡（意思共有）\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n役職用の大阪土産もあるよん！！\nちょっと遅いんですけどみなさん頑張りましょう〜〜〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kVnc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0503_運営局役職会議議事録\n【時間】\n22：00〜24：00（予定）\n【場所】\nZoom\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "設置物連携報告（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n確認したらリアクションを！\n欠席・遅刻は局長まで\n\n役職用の大阪土産もあるよん！！\nちょっと遅いんですけどみなさん頑張りましょう〜〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L4GHLP2B",
+                    "U06LK0FUAHZ",
+                    "U06LG62V1FX",
+                    "U06LCEA6J1L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "octopus",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06L4GKK0CF",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "結婚",
+                "users": [
+                    "U06LK0FUAHZ",
+                    "U06LG62V1FX",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ヤンチャム",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK3LHG0J",
+                    "U06LCEA6J1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

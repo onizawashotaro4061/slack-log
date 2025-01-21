@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1718589510.083999",
+        "client_msg_id": "63801acc-ca75-4beb-a04b-8902165aecc7",
+        "text": "<!channel>\nお疲れ様です！渉外局長の結城です。\n明日、6月18日(火)に新規のみんな用の法被がじつぼに届くみたいです！！\nなので、鍵番の次長よろしくお願いいたします！\n\n新規は7月期総会までに法被代2,000円用意してほしいです！\nこちらも合わせてよろしくお願いいたします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dD941",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！渉外局長の結城です。\n明日、6月18日(火)に新規のみんな用の法被がじつぼに届くみたいです！！\nなので、鍵番の次長よろしくお願いいたします！\n\n新規は7月期総会までに法被代2,000円用意してほしいです！\nこちらも合わせてよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U0710T3MCUC",
+                    "U06L4GM5C87",
+                    "U06LK3K88SW",
+                    "U070Y9WCHH9",
+                    "U070HS31CP9",
+                    "U070HS7MJH5",
+                    "U06L4GH3T7H",
+                    "U06LJRSQDC3",
+                    "U0710T46M3N",
+                    "U0710T4CBHS",
+                    "U06LXK3RF7B",
+                    "U0710T04SUC",
+                    "U06M7SUSYNL",
+                    "U070HS93JUX",
+                    "U070YD6M598",
+                    "U070RQ20K8W",
+                    "U06L4GKC9N3",
+                    "U071M6YLJRE",
+                    "U070YA6CQLB",
+                    "U070YD778SE",
+                    "U070VFQKEH3"
+                ],
+                "count": 21
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06M7SUSYNL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06M7SUSYNL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U071M6ZSSLQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

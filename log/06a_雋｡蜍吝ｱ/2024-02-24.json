@@ -1,0 +1,57 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LJ4HJLMS",
+        "text": "<@U06LJ4HJLMS>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1708779076.358859"
+    },
+    {
+        "subtype": "channel_convert_to_public",
+        "user": "U06LJ4HJLMS",
+        "text": "さんがこのチャンネルを＊パブリック＊に設定しました。このワークスペースのメンバーであれば、誰でも表示でき、参加できます。",
+        "type": "message",
+        "ts": "1708784032.261929",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U070RQ0KT7Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LFKRD4MQ",
+        "text": "<@U06LFKRD4MQ>さんがチャンネルに参加しました",
+        "inviter": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1708784121.210829",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0710SZT2S0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U0710SZT2S0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LKEPTCA0",
+        "text": "<@U06LKEPTCA0>さんがチャンネルに参加しました",
+        "inviter": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1708845587.845329"
+    }
+]

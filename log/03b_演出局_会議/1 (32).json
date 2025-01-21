@@ -1,0 +1,291 @@
+[
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1716779273.688669",
+        "client_msg_id": "D15AB787-BD7E-4CC1-AF99-C0CC8BD9D25B",
+        "text": "<!channel>\n会議連絡\n【時間】5\/28(火) 19:00〜\n【場所】たっかおしえて\n【議題】(予定)\n1.各種報告(意思共有)\n2.PowerPoint課題発表（意思共有）\n\n終わったら部門会議\n欠席、早退、遅刻はスレッドに書いてね！\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716779273.688669",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1716890295.666499",
+        "reply_users": [
+            "U06M7T3TQ0Y",
+            "U06LCECJD8W",
+            "U06LK67B9PC",
+            "U06LMH4T528",
+            "U06LCE9AKQW",
+            "U06LG63FM1B"
+        ],
+        "replies": [
+            {
+                "user": "U06M7T3TQ0Y",
+                "ts": "1716779428.291739"
+            },
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1716888306.723479"
+            },
+            {
+                "user": "U06LK67B9PC",
+                "ts": "1716888935.623209"
+            },
+            {
+                "user": "U06LMH4T528",
+                "ts": "1716889524.113019"
+            },
+            {
+                "user": "U06LCE9AKQW",
+                "ts": "1716890060.463449"
+            },
+            {
+                "user": "U06LG63FM1B",
+                "ts": "1716890295.666499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/F6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】5\/2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(火) 19:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】たっかおしえて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】(予定)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.各種報告(意思共有)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2."
+                            },
+                            {
+                                "type": "text",
+                                "text": "PowerPoint課題発表（意思共有）\n\n終わったら部門会議\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、早退、遅刻はスレッドに書いてね！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06M7T3TQ0Y",
+                    "U070Y9RH075",
+                    "U06LMHDAZKN",
+                    "U070RQ0DUBG",
+                    "U06LG63FM1B",
+                    "U06LK3MF9FC",
+                    "U071B3ELL7K",
+                    "U06LG6EJPE1",
+                    "U06LK0G74NP",
+                    "U06L4GKF78F",
+                    "U06LCECJD8W",
+                    "U06LCE9AKQW",
+                    "U071B39SGQH"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1",
+                    "U06L4GRJ2LF",
+                    "U06LCECJD8W",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sushi",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LCECJD8W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LK3MF9FC",
+                    "U06LCECJD8W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06M7T3TQ0Y",
+        "type": "message",
+        "ts": "1716779428.291739",
+        "client_msg_id": "934300FD-42B4-483E-BF34-B02C0A6B15A6",
+        "text": "私用につき欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "514ee859b39b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-04\/7079930546113_514ee859b39b2c3c22b5_72.png",
+            "first_name": "太田聡",
+            "real_name": "太田聡",
+            "display_name": "Ota.So",
+            "team": "T06L90YHJF8",
+            "name": "so-ota.616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716779273.688669",
+        "parent_user_id": "U06L2DCDLF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StWfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用につき欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1716780013.553579",
+        "client_msg_id": "79748028-1dbf-40e6-ac39-5661ffe967c4",
+        "text": "<!channel>明日の教室もLS502です！\nなんかずっとLS502ですね(笑)",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38+uz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の教室もLS502です！\nなんかずっとLS502ですね(笑)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LMHDAZKN",
+                    "U06LMH5ACGL",
+                    "U06LG6EJPE1"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

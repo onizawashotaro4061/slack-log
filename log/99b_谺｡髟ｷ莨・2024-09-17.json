@@ -1,0 +1,382 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1726570258.549729",
+        "client_msg_id": "14CAD1E8-6FCB-44E6-9F45-33BE3D58C8E2",
+        "text": "ほんっっとにわすれてましたごめんなさい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726524478.834489",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+PLjC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんっっとにわすれてましたごめんなさい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1726572972.212289",
+        "client_msg_id": "59F9CD4A-B126-4BEC-ADC8-70C9ADAC6686",
+        "text": "<!channel> \nごめん秋学期ボバンシフトほんとに忘れてて、今ワンドライブの9月期次長会のとこにシフトをアップロードしたので、オンライン編集で1人最低2個入力して埋めてってくださいー\nシフトに提出先とか⚪︎×とかあるけど、普通に夏ボバンみたいに直接人力してってほしいです！\n入りたいとこ被ってるとかは次長通しで相談してなるべく全部埋めてってほしいですー\nごめんなさいよろしくお願いします！:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726572972.212289",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1726573853.766189",
+        "reply_users": [
+            "U06LXNY0MHP",
+            "U06L4GM5C87"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1726573143.087689"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1726573276.559139"
+            },
+            {
+                "user": "U06L4GM5C87",
+                "ts": "1726573815.139469"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1726573853.766189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oihN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nごめん秋学期ボバンシフトほんとに忘れてて、今ワンドライブの9月期次長会のとこにシフトをアップロードしたので、オンライン編集で1人最低2個入力して埋めてってくださいー\nシフトに提出先とか⚪︎×とかあるけど、普通に夏ボバンみたいに直接人力してってほしいです！\n入りたいとこ被ってるとかは次長通しで相談してなるべく全部埋めてってほしいですー\nごめんなさいよろしくお願いします！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726573143.087689",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1726573160.000000"
+        },
+        "client_msg_id": "548ad9c2-8009-42ec-9106-b7e1192efaf8",
+        "text": "<@U06LE9EH9QV> \nオンライン編集しようとしてるんですけど、「データ検証ルール」って出て️:o::x:しか入力できないようになってます:sob:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726572972.212289",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rv+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LE9EH9QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nオンライン編集しようとしてるんですけど、「データ検証ルール」って出て️"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "o",
+                                "unicode": "2b55"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "x",
+                                "unicode": "274c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しか入力できないようになってます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07MRQGNJH0",
+                "created": 1726573270,
+                "timestamp": 1726573270,
+                "name": "20240917_204055.jpg",
+                "title": "20240917_204055.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U06LXNY0MHP",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 626561,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MRQGNJH0\/20240917_204055.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07MRQGNJH0\/download\/20240917_204055.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_64.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_80.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_360.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_480.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_160.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_720.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_800.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_960.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07MRQGNJH0-16ae44fa4f\/20240917_204055_1024.jpg?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4000,
+                "original_h": 3000,
+                "thumb_tiny": "AwAkADAFOApFp4FIBuKMVKqg5zS7BTAgIpuKsFV9KicAEYoAauaeDzUeacDQBPEetOJ9KgRwAdxxml8xf71AEhNQSH5vwpRL64\/CmM25uPSgBuaM0UUALmkzRRQAhpKU0lAH\/9k=",
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06LXNY0MHP\/F07MRQGNJH0\/20240917_204055.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07MRQGNJH0-1264093d00",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXNY0MHP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1726573276.559139",
+        "client_msg_id": "c63c6dbd-73f3-48d8-be81-83e137da00c5",
+        "thread_ts": "1726572972.212289",
+        "parent_user_id": "U06LE9EH9QV"
+    },
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1726573815.139469",
+        "client_msg_id": "77764750-E55B-4711-A122-1EFF9C53259F",
+        "text": "できるようにしときました",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726572972.212289",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmVn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "できるようにしときました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06L4GL1CUF",
+                    "U06LY5XNLBT",
+                    "U06LK0F2RC3",
+                    "U06LJ0SKMEZ",
+                    "U06LK3MF9FC",
+                    "U06LK3ZBCN6",
+                    "U06LE9EH9QV",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1726573853.766189",
+        "client_msg_id": "ae7d62f9-0e2a-4576-83f6-2f616ac5e9ea",
+        "text": "僕も修正版上げて更新したらなるが先に出してたw",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726572972.212289",
+        "parent_user_id": "U06LE9EH9QV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pMJRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も修正版上げて更新したらなるが先に出してたw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LE9EH9QV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

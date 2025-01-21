@@ -1,0 +1,267 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7SETDKJ",
+        "text": "<@U06M7SETDKJ>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1714092264.083209"
+    },
+    {
+        "user": "U06M7SETDKJ",
+        "type": "message",
+        "ts": "1714094358.860909",
+        "edited": {
+            "user": "U06M7SETDKJ",
+            "ts": "1714111527.000000"
+        },
+        "client_msg_id": "F582C896-2276-447A-8A3E-6C80DD88E457",
+        "text": "<!channel>\nおつかれさまです！\nSlacnチームの吉良です。\n明日の合流総会でSlackの説明をスムーズに行うために、新規の方々には前もって*スマホとパソコン*にSlackのアプリをダウンロードしていただきたいです。つきましては、新規とのグループLINEなどがありましたら、:warning:*総会が始まる前まで*:warning:に全員ダウンロードしてほしい旨をお伝えいただけると幸いです。\nまた、新規の方々には140明大祭実行委員会のワークスペースにも入っていただくので、総会で*Slackの説明が始まり次第、*招待するリンクを新規とのグループLINEに送っていただくようご準備の方よろしくお願いいたします :woman-bowing::skin-tone-2:\n加えて、継続や三・四年会の方々には、新規が困っていたらサポートをしていただくよう事前に共有していただけると幸いです。\nお忙しい中、お手数おかけいたしますが、ご協力よろしくお願いいたします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "441e3cdab52e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-03\/7520187630115_441e3cdab52e92d92858_72.png",
+            "first_name": "吉良彩花",
+            "real_name": "吉良彩花",
+            "display_name": "Kira.Ayaka",
+            "team": "T06L90YHJF8",
+            "name": "ayaka.kira_0410",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKeM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！\nSlacnチームの吉良です。\n明日の合流総会でSlackの説明をスムーズに行うために、新規の方々には前もって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "スマホとパソコン",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "にSlackのアプリをダウンロードしていただきたいです。つきましては、新規とのグループLINEなどがありましたら、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "総会が始まる前まで",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に全員ダウンロードしてほしい旨をお伝えいただけると幸いです。\nまた、新規の方々には140明大祭実行委員会のワークスペースにも入っていただくので、総会で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slackの説明が始まり次第、",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "招待するリンクを新規とのグループLINEに送っていただくようご準備の方よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n加えて、継続や三・四年会の方々には、新規が困っていたらサポートをしていただくよう事前に共有していただけると幸いです。\nお忙しい中、お手数おかけいたしますが、ご協力よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06L2CSPXV5",
+                    "U06LCUTBMU5",
+                    "U06LH4PDAQ3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1714105666.174179",
+        "client_msg_id": "4CAB1A0E-3D05-4E39-9D2A-7284BE306479",
+        "text": "<@U06LHACMG91> \n<@U06LH4PDAQ3> \n時間変更したよ確認してね！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713534740.321069",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZXiH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LHACMG91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LH4PDAQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n時間変更したよ確認してね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LHACMG91",
+        "type": "message",
+        "ts": "1714105772.583129",
+        "client_msg_id": "3870A963-1E72-4C85-A411-79DE9F1FA3CE",
+        "text": "ありがとう！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4c4f08e516d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-07\/7251857243137_4c4f08e516d6d1c89771_72.png",
+            "first_name": "結城晃",
+            "real_name": "結城晃",
+            "display_name": "Yuki.Hikaru",
+            "team": "T06L90YHJF8",
+            "name": "hjiecheng75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713534740.321069",
+        "parent_user_id": "U06L97X3V6J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97S5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1714106004.960289",
+        "client_msg_id": "556CBB20-1AC7-41E8-9F87-E3525048FA01",
+        "text": "神田すずらんまつり",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712989632.295059",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yjcm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "神田すずらんまつり"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

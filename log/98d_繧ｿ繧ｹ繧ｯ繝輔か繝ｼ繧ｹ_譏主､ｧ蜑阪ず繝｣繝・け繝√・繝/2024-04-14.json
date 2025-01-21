@@ -1,0 +1,58 @@
+[
+    {
+        "text": "<!channel> <@U06LK5HCSE6> \n今年も立体装飾できるみたいです！\nひとまず安心",
+        "files": [
+            {
+                "id": "F06U6E8EGUV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lY\/qt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK5HCSE6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今年も立体装飾できるみたいです！\nひとまず安心"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1713162603.573489",
+        "client_msg_id": "5DC5C9F9-8317-4D5C-9378-A0FAFBD78C64",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LK5HCSE6",
+                    "U06LCECJD8W",
+                    "U06LK0E89MH"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

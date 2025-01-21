@@ -1,0 +1,139 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06LXNX1A57",
+        "text": "<@U06LXNX1A57>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1709091946.671089"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LG668093",
+        "text": "<@U06LG668093>さんがチャンネルに参加しました",
+        "inviter": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1709094124.524939"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LS7G3G0M",
+        "text": "<@U06LS7G3G0M>さんがチャンネルに参加しました",
+        "inviter": "U06LFKRD4MQ",
+        "type": "message",
+        "ts": "1709094124.597679"
+    },
+    {
+        "text": "<!channel>\nおつかれさまです！総務局3年の中山です！\n\n0226_第1回総務局会議議事録を\nOneDrive＞自分のファイル＞各局＞09_総務局＞01局会議＞議事録＞2月\nにアップロードしました。\n議題は\n1. 自己紹介（意思共有）\n2. 総務局について（意思共有）\n3. 係決め（意見交換・決定）\n4. 諸連絡（意思共有）\nです。以下にファイルを添付しますので、ご確認よろしくお願いします。\n\n記念すべき第一回の議事録書けてうれしいです！（楽な内容だったからとかじゃないです！！！！！！ほんとに）\n今年度も頑張りましょう～～！！\n（スタンプ全部消えてるのでまた作ってもらえたらうれしいです）",
+        "files": [
+            {
+                "id": "F06LJR3CT3R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LFKRD4MQ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDrdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれさまです！総務局3年の中山です！\n\n0226_第1回総務局会議議事録を\nOneDrive＞自分のファイル＞各局＞09_総務局＞01局会議＞議事録＞2月\nにアップロードしました。\n議題は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自己紹介（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "総務局について（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "係決め（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。以下にファイルを添付しますので、ご確認よろしくお願いします。\n\n記念すべき第一回の議事録書けてうれしいです！（楽な内容だったからとかじゃないです！！！！！！ほんとに）\n今年度も頑張りましょう～～！！\n（スタンプ全部消えてるのでまた作ってもらえたらうれしいです）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709095031.926839",
+        "client_msg_id": "a71826e6-6371-440c-b981-6db07792037b",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06L2CSPXV5",
+                    "U06LMH5ACE8",
+                    "U06LK3MPZ34",
+                    "U06LMLKREUU",
+                    "U06M7SZ5WG0",
+                    "U06LXNYCLJV",
+                    "U06M7TE180Y"
+                ],
+                "count": 8
+            },
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LMLKREUU",
+                    "U06LXNYCLJV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

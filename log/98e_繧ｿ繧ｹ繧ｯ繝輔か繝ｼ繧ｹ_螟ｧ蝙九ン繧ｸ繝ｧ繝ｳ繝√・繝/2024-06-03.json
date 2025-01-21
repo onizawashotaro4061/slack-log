@@ -1,0 +1,76 @@
+[
+    {
+        "text": "<!channel> お疲れ様です！前回のタスクフォース会のときのメモです。メモでごめんなさい:pray:",
+        "files": [
+            {
+                "id": "F075ZRY8R2B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LMH5ACE8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X810K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！前回のタスクフォース会のときのメモです。メモでごめんなさい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717478119.740549",
+        "client_msg_id": "f5ddaa64-c71d-4c13-85de-f3cade2203e9",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW",
+                    "U06LK3K88SW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T",
+                    "U06LMH9MBFW",
+                    "U06LK3K88SW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0BP1TM",
+                    "U06LK0DN10T",
+                    "U06LK3L6B4J",
+                    "U06LMH9MBFW",
+                    "U06LK3K88SW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U06LK0DN10T",
+        "type": "message",
+        "ts": "1724858555.713399",
+        "client_msg_id": "13ee1d46-fb11-4c14-9baf-75f67f173cb8",
+        "text": "<!channel>\n深夜にメンション失礼します。\nポスターに載せるビジョンのイメージ画像をワンドラに載せたので確認お願いします。\n遅くなって申し訳ないです\n<https:\/\/onedrive.live.com\/?cid=93481E220B586380&amp;id=93481E220B586380%2149689&amp;parId=93481E220B586380%2149688&amp;o=OneUp>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a2c334904b70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6727491398934_a2c334904b7025a6ca43_72.jpg",
+            "first_name": "伊藤花",
+            "real_name": "伊藤花",
+            "display_name": "Ito.Hana",
+            "team": "T06L90YHJF8",
+            "name": "hanamarunrun87.110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724858555.713399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1724860287.029539",
+        "reply_users": [
+            "U06LK0BP1TM"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0BP1TM",
+                "ts": "1724860287.029539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QhsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n深夜にメンション失礼します。\nポスターに載せるビジョンのイメージ画像をワンドラに載せたので確認お願いします。\n遅くなって申し訳ないです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?cid=93481E220B586380&id=93481E220B586380%2149689&parId=93481E220B586380%2149688&o=OneUp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1724860287.029539",
+        "client_msg_id": "CAEDEB83-922B-4848-9C6F-9B06246B02D5",
+        "text": "ありがとうはな！！！！\nめちゃめちゃ助かりました:pray:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724858555.713399",
+        "parent_user_id": "U06LK0DN10T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FzZ4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうはな！！！！\nめちゃめちゃ助かりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

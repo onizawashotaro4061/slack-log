@@ -1,0 +1,926 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725090075.900089",
+        "client_msg_id": "7D21ADAE-21AD-432B-AE4D-0FC755E8A80F",
+        "text": "<!channel> \n食事の連絡をします。\n17時から10分の時差をつけて食堂に来てください。原則部屋ごとで移動してください！\n第一グループは6310-6320で！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+gIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n食事の連絡をします。\n17時から10分の時差をつけて食堂に来てください。原則部屋ごとで移動してください！\n第一グループは6310-6320で！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725091053.271259",
+        "client_msg_id": "F36CFADA-9C21-4583-A7AE-ECB233D734E6",
+        "text": "ラセゾンに来てください",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROr5+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラセゾンに来てください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725091509.946699",
+        "client_msg_id": "C8E423E2-7FB5-479F-ACF4-29C05AF327FA",
+        "text": "<tel:6321-632810|6321-6328 10>分\n<tel:6202-621420|6202-6214 20>分\n<tel:6215-622230|6215-6222 30>分\n目安で！！！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmpaU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "tel:6321-632810",
+                                "text": "6321-6328 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:6202-621420",
+                                "text": "6202-6214 20"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:6215-622230",
+                                "text": "6215-6222 30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分\n目安で！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "6時〜9時でゲーセンの方の外の縁日が解放されるらしいのでよかったら行ってみてくださいー",
+        "files": [
+            {
+                "id": "F07KA5C549K",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAfaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6時〜9時でゲーセンの方の外の縁日が解放されるらしいのでよかったら行ってみてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725091694.749959",
+        "client_msg_id": "20674A4D-307E-477E-AADA-AF42A054A094"
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725094351.905279",
+        "client_msg_id": "B81FEF9F-0FC6-4FE1-BB2E-EEBC00F02505",
+        "text": "<!channel>\n全員ご飯来ていいよー！！\nごめんね",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qtrbN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n全員ご飯来ていいよー！！\nごめんね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725094447.779729",
+        "client_msg_id": "E21AC7D7-BAD0-432F-AA1D-63445D3D0FC5",
+        "text": "何時までに出てねとかはないけど\n20時から全体で夜レクがあるから間に合うように各自準備してね！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O93kK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何時までに出てねとかはないけど\n20時から全体で夜レクがあるから間に合うように各自準備してね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "何時までに出てねあります！",
+        "files": [
+            {
+                "id": "F07KRQ2V2TB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hp\/Jq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何時までに出てねあります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725096028.900959",
+        "client_msg_id": "D1E1D9E7-7038-4613-B547-2193B8E6940B"
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725096048.621209",
+        "client_msg_id": "009088AC-34F4-45A2-BF09-D89A553960AF",
+        "text": "全然他のお客さん来ちゃうので食べたらで順次撤収お願いしますーーー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPfC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全然他のお客さん来ちゃうので食べたらで順次撤収お願いしますーーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725096054.641719",
+        "client_msg_id": "C4109B5A-BB37-4171-8E67-474A505D633C",
+        "text": "<!channel> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BTy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725096100.910689",
+        "client_msg_id": "D73C7B3F-4D9B-4ADD-99D3-41F67A1F49A2",
+        "text": "あ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJloC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725096121.379079",
+        "client_msg_id": "48BC28D1-C4A8-4D23-94A1-DFB6686CB58C",
+        "text": "何時までも大丈夫なように交渉できたのでゆっくり食べて大丈夫です",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1C8VX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何時までも大丈夫なように交渉できたのでゆっくり食べて大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1725100747.260789",
+        "edited": {
+            "user": "U06L97X3V6J",
+            "ts": "1725100755.000000"
+        },
+        "client_msg_id": "5FAC15EA-DD0C-4017-9088-338C2B1F94ED",
+        "text": "<!channel> \n夜レク20:15からする！\nちょっとおそくきてー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJSeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n夜レク20:15からする！\nちょっとおそくきてー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \n予告！！",
+        "files": [
+            {
+                "id": "F07JYPSG31V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKHN3RE0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cT0sl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n予告！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725106645.431169",
+        "client_msg_id": "005FD52A-16E8-432E-B1F2-4E7D550716BC"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07K6MN1Z62",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LE9EH9QV",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1725106875.557909",
+        "client_msg_id": "1BE76BCE-F7CB-448E-855A-8F56610FFCCE"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07K6MSSN4E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKHN3RE0",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1725107111.777739",
+        "client_msg_id": "097D4126-5AF3-49C4-9CFD-C870E34E8FA5"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07KFRCD89J",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKHN3RE0",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1725107322.240819",
+        "client_msg_id": "9B807436-ADFA-4E58-82FA-12AC0E43EAA4"
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725107391.410009",
+        "client_msg_id": "508A6125-A14D-4232-A44C-799C6EBBBF10",
+        "text": "今後の展開\n\n渉or財VS参、執VS演or制\n3位決定戦　運VS開\n決勝　広VS総\nビリ決定戦\n\nの順でやります〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQxv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今後の展開\n\n渉or財VS参、執VS演or制\n3位決定戦　運VS開\n決勝　広VS総\nビリ決定戦\n\nの順でやります〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725111108.145069",
+        "client_msg_id": "772B786E-8331-4DA1-BDFC-18C3766E0E49",
+        "text": "<!channel> \n花火行く人なる早で行ってクソ静かに楽しんでください、、\nあとお風呂12時までだから過ぎたらお部屋のやつ使ってね、、楽しんで、、",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uccad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n花火行く人なる早で行ってクソ静かに楽しんでください、、\nあとお風呂12時までだから過ぎたらお部屋のやつ使ってね、、楽しんで、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!channel> \nおはようございます！\nプレイランド行く人はリストバンドつけてから行ってくださいー\nリストバンドは部屋ごとに渡された封筒の中に緑色のものが入ってます！",
+        "files": [
+            {
+                "id": "F07KE3MHHQT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDR57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおはようございます！\nプレイランド行く人はリストバンドつけてから行ってくださいー\nリストバンドは部屋ごとに渡された封筒の中に緑色のものが入ってます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725148930.830129",
+        "client_msg_id": "D4CC1E7F-B12E-4360-A56D-CD9ACA6501B6",
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725158124.282649",
+        "client_msg_id": "E4B7143B-6B63-4556-81E8-DBF0531D39DA",
+        "text": "<!channel> \nお疲れ様です！みなさんお楽しみいただいてるでしょうか。僕は10:30に絶起しました:sun_with_face:2年連続朝飯チャレンジ失敗ですね。\nこの後の流れだけ共有しますね\n\n12:00〜 昼食（昨日のビュフェ会場のラセゾン）\n⇨ご飯食べ終わり次第、食器を片付けてその場で閉会式\n⇨14:00出発のため、13:30目安に部屋出る準備して45分には順次で初めてくださいー\n\nまた、部屋はシーツとかゴミだけ軽くまとめるだけで大丈夫らしいので、別に外出したりとかしなくて大丈夫です！\n\n合宿最後までよろしくお願いします〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEDpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！みなさんお楽しみいただいてるでしょうか。僕は10:30に絶起しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sun_with_face",
+                                "unicode": "1f31e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2年連続朝飯チャレンジ失敗ですね。\nこの後の流れだけ共有しますね\n\n12:00〜 昼食（昨日のビュフェ会場のラセゾン）\n⇨ご飯食べ終わり次第、食器を片付けてその場で閉会式\n⇨14:00出発のため、13:30目安に部屋出る準備して45分には順次で初めてくださいー\n\nまた、部屋はシーツとかゴミだけ軽くまとめるだけで大丈夫らしいので、別に外出したりとかしなくて大丈夫です！\n\n合宿最後までよろしくお願いします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U070Y9Q9151",
+                    "U06LK0FUAHZ",
+                    "U06LCE8L8LW",
+                    "U06L4GH3T7H",
+                    "U06LK5HCSE6",
+                    "U06LXR4BPS5"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LK0FUAHZ",
+                    "U06LK3MF9FC",
+                    "U06M7SETDKJ",
+                    "U06LMH9MBFW",
+                    "U06L4GH3T7H"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH9MBFW",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725159887.604599",
+        "client_msg_id": "C3A2AFAF-9010-45CB-BBA7-EDE6AB51BB3A",
+        "text": "閉会式はご飯の場所でやるので、食べ終わっても帰らないでください!",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oHSkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉会式はご飯の場所でやるので、食べ終わっても帰らないでください!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725160595.271749",
+        "client_msg_id": "37A11A55-1216-4EF2-9070-8DD2C00CCEFC",
+        "text": "<!channel> 13:00に2階の今ご飯食べてるスペースで閉会式やります！申し訳ないんですけど下とか奥で食べてる人は食べてる途中でも上に来てください！\nまた、先に食べ終わっちゃった人は一度部屋に戻ったりしても大丈夫ですが、13:00にはまた戻ってきてください！\nよろしくお願いしますー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KkMFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 13:00に2階の今ご飯食べてるスペースで閉会式やります！申し訳ないんですけど下とか奥で食べてる人は食べてる途中でも上に来てください！\nまた、先に食べ終わっちゃった人は一度部屋に戻ったりしても大丈夫ですが、13:00にはまた戻ってきてください！\nよろしくお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1725164797.842009",
+        "client_msg_id": "8020B3B1-B4E2-47FB-A733-9699D30859CF",
+        "text": "部屋出る時鍵だけフロントに返してってね！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gfrIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "部屋出る時鍵だけフロントに返してってね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U06L4GH3T7H"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1709344232.496029",
+        "client_msg_id": "CC05E7B9-21D6-4743-940E-DD72A5DB7F01",
+        "text": "<!channel> 会議連絡！\n\n*第3回財務局会議*\n【時間】3\/4(月) 13:30〜17:00\n【場所】LS704\n【議題】(予定)\n1.各種報告(意思共有)\n2.プレゼン発表(意思共有)\n3.総務局ニーズ調査について(意見交換)\n4.財務制度のあり方を考えよう(意見交換・決定)\n5.諸連絡(意思共有)\n【持ち物】\nパソコン\n\n出席する人は :00-出席: スタンプ！\n遅刻・早退・欠席はスレッドへ。\n\nただいま山形におります！一面雪景色でまだまだ冬を感じます。\nプレゼンのパワポあげといてね！よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/awE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 会議連絡！\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第3回財務局会議",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】3\/4(月) 13:30〜17:00\n【場所】LS704\n【議題】(予定)\n1.各種報告(意思共有)\n2.プレゼン発表(意思共有)\n3.総務局ニーズ調査について(意見交換)\n4.財務制度のあり方を考えよう(意見交換・決定)\n5.諸連絡(意思共有)\n【持ち物】\nパソコン\n\n出席する人は "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "00-出席"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スタンプ！\n遅刻・早退・欠席はスレッドへ。\n\nただいま山形におります！一面雪景色でまだまだ冬を感じます。\nプレゼンのパワポあげといてね！よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06L4GJ031V",
+                    "U06LCE4DK46",
+                    "U06LK3KJNJE",
+                    "U06LK0K4XGT",
+                    "U06LMH49MQU",
+                    "U06M7SQ7QL8",
+                    "U06LK0JTYD9",
+                    "U06LMH3BZ8C",
+                    "U06LXNXNWGH",
+                    "U06LK3NH9MG"
+                ],
+                "count": 11
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

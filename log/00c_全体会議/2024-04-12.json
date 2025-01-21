@@ -1,0 +1,411 @@
+[
+    {
+        "user": "U06LCUTBMU5",
+        "type": "message",
+        "ts": "1712917850.313539",
+        "client_msg_id": "14C46F13-BA6B-4AD0-AEF0-A45AE4E9B108",
+        "text": "<@U06LK3NH9MG> <@U06LG655N21> <@U06L4GJ4H9D> <@U06LK0H5FEX> <@U06LK0HTVQT> <@U06LMH412CU> <@U06LJB446QL> <@U06LG63910V> <@U06L4GJDNUX> <@U06LG62T3MK> <@U06LJ4HJLMS> <@U06LG63FM1B> <@U06LG668093> <@U06LCVDE88N> <@U06LG610ADB> <@U06LK3L8RNE> <@U06LCECJD8W> <@U06LMH3GJKE> <@U06LK0FCGBV> <@U06LXNUQ989> <@U06L4H8CGQP> <@U06L4GKF78F> \n出欠フォームに回答おねがいします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d29ad1ed3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-17\/7460050079888_d29ad1ed3aec69aa085e_72.png",
+            "first_name": "橋本悠佑",
+            "real_name": "橋本悠佑",
+            "display_name": "Hashimoto.Yusuke",
+            "team": "T06L90YHJF8",
+            "name": "yusuke.h.1312",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfR1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3NH9MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG655N21"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJ4H9D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0H5FEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0HTVQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH412CU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LJB446QL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG63910V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GJDNUX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG62T3MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LJ4HJLMS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG63FM1B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG668093"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCVDE88N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LG610ADB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L8RNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH3GJKE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0FCGBV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNUQ989"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4H8CGQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L4GKF78F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n出欠フォームに回答おねがいします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "【4月期総会の座席表】\n<!channel>\nお疲れ様です。\n副委員長の橋本です。\n本日13：00より和泉ラーニングスクエアLS401教室にて行われます4月期総会の座席表を添付いたしますので、ご確認ください。",
+        "files": [
+            {
+                "id": "F06TQQNQ1QF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LCUTBMU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cd06Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【4月期総会の座席表】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n副委員長の橋本です。\n本日13：00より和泉ラーニングスクエアLS401教室にて行われます4月期総会の座席表を添付いたしますので、ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712971762.146399",
+        "client_msg_id": "f74ef111-3b61-4a1e-85c3-f3c83453b32b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LHACMG91",
+                    "U06LKTXCZL4",
+                    "U06LKEPTCA0",
+                    "U06LH4PDAQ3",
+                    "U06L2CSPXV5",
+                    "U06L4GLJVKR",
+                    "U06LJ4HJLMS",
+                    "U06LM0QJV3L",
+                    "U06LY5XNLBT",
+                    "U06L9S67MEJ",
+                    "U06LK3ZBCN6",
+                    "U06M7TE180Y",
+                    "U06L2DCDLF9",
+                    "U06L4GKC9N3",
+                    "U06LK3HUVTL"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "user": "U06LG5XQGS1",
+        "type": "message",
+        "ts": "1712983607.419599",
+        "client_msg_id": "B1E8ACB1-982B-4B04-B074-DD1DA0DEC17A",
+        "text": "<https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5|https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a5a891e269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6714405303718_6a5a891e269b19c27d63_72.jpg",
+            "first_name": "佐名木",
+            "real_name": "佐名木 理登",
+            "display_name": "Sanagi.Rito",
+            "team": "T06L90YHJF8",
+            "name": "rito.sert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/FuctLxpdGpPhP-VjLzuo0-WdE_sQmoOCe6szDZqZvDVLsFmO1GWyFXIaDRXh3LuqB8DYvLWnM-8",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 51950,
+                "from_url": "https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5",
+                "fallback": "Google Docs: グッズについて",
+                "title": "グッズについて",
+                "title_link": "https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JpZBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5",
+                                "text": "https:\/\/forms.gle\/ex6gsPQfwMqKhCXv5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L2CSPXV5",
+        "type": "message",
+        "ts": "1712991325.914389",
+        "client_msg_id": "0B23B45D-1D48-4498-AF95-38F9A085E815",
+        "text": "【4月期総会アンケート】\n<!channel>\n総会おつかれさまでした！\n今日の総会についてアンケートのご協力をおねがいします！\n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdLbsR-MkJ-BavUNQ83h_900XWudLoTHcRjJ4kjSLnw7GQz2A\/viewform|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdLbsR-MkJ-BavUNQ83h_900XWudLoTHcRjJ4kjSLnw7GQz2A\/viewform>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "64c016321251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-07\/7553366913281_64c016321251beb7ca09_72.png",
+            "first_name": "田中敬達",
+            "real_name": "田中敬達",
+            "display_name": "Tanaka.​Keitatsu",
+            "team": "T06L90YHJF8",
+            "name": "usgkei0412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8zPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【4月期総会アンケート】\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n総会おつかれさまでした！\n今日の総会についてアンケートのご協力をおねがいします！\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdLbsR-MkJ-BavUNQ83h_900XWudLoTHcRjJ4kjSLnw7GQz2A\/viewform",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdLbsR-MkJ-BavUNQ83h_900XWudLoTHcRjJ4kjSLnw7GQz2A\/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "総務けいたつ",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LMQR40J0",
+                    "U06LH4PDAQ3",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "総務＿けいたつあざとい",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LH4PDAQ3",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "総務＿けいた２",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LJRSQDC3",
+                    "U06LJ4HJLMS"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1713251419.789329",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1713251438.000000"
+        },
+        "client_msg_id": "FB7229F5-3A26-4F16-B3E6-344B1BC811EF",
+        "text": "<!channel>\n会議連絡！！\n【時間】4\/16(火) 局会議後\n【場所】後ほど追記\n【議題】(予定)\n1. 部門活動企画書について (意見交換)\n2. 部門名について (意見交換)\n3. メイン内・外新企画について (意見交換)\n4. チーム会議 (意見交換)\nステージ外の企画案もよろしくねー！\n\n欠席、遅刻、早退はスレッドへ :fire: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkSdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！！\n【時間】4\/16(火) 局会議後\n【場所】後ほど追記\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門活動企画書について (意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門名について (意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メイン内・外新企画について (意見交換)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議 (意見交換)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nステージ外の企画案もよろしくねー！\n\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "翔平の嫁",
+                "users": [
+                    "U06LK0G74NP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "マナベアー",
+                "users": [
+                    "U06L4GM9N5V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "へウォン",
+                "users": [
+                    "U06L4GKF78F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

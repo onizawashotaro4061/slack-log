@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U070RQ0KT7Y",
+        "type": "message",
+        "ts": "1729158853.700519",
+        "client_msg_id": "1F047A21-56FB-48FC-BDE6-B260EF234091",
+        "text": "腹痛のため30分ほど遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "70a4093eac4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-28\/7031686092901_70a4093eac4e3d8ec45e_72.png",
+            "first_name": "上原大雅",
+            "real_name": "上原大雅",
+            "display_name": "Uehara.Taiga",
+            "team": "T06L90YHJF8",
+            "name": "taiga.ue3392",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39rgI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛のため30分ほど遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

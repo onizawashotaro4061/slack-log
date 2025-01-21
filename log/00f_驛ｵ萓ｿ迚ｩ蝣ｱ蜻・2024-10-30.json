@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LXP2EGKT",
+        "type": "message",
+        "ts": "1730272705.052959",
+        "client_msg_id": "757C54CD-C97A-4C07-8EEA-D03F23B01EAC",
+        "text": "ありがとうございます！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7625c4467b48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7162314690210_7625c4467b48f511bec5_72.png",
+            "first_name": "河村拓哉",
+            "real_name": "河村拓哉",
+            "display_name": "Kawamura.Takuya",
+            "team": "T06L90YHJF8",
+            "name": "kawamuratakuya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730267242.505209",
+        "parent_user_id": "U06LMH3952Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDtEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1730274105.389769",
+        "client_msg_id": "6CB27EB0-94C7-4233-B79B-72A3B07FF7D9",
+        "text": "ありがと",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730267242.505209",
+        "parent_user_id": "U06LMH3952Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7wed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがと"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

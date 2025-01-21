@@ -1,0 +1,143 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です :猫ミーム-ぱくぱく:\n遅くなりましたが統括希望ESをリリースします！\n\n注意事項ちゃんと読んで書いてね〜\n\nみんなの希望とチームバランスで調整します！\n\n:warning:*5月7日(火) 23:59締め切り厳守*:warning:\n\n忙しいと思うけどよろしくーーーー！\n私のSlackのDMに提出してください:woman-bowing:\n\n見たらスタンプ",
+        "files": [
+            {
+                "id": "F071KHPGQ93",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LY5XNLBT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKPYS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "猫ミーム-ぱくぱく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなりましたが統括希望ESをリリースします！\n\n注意事項ちゃんと読んで書いてね〜\n\nみんなの希望とチームバランスで調整します！\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5月7日(火) 23:59締め切り厳守",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n忙しいと思うけどよろしくーーーー！\n私のSlackのDMに提出してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n見たらスタンプ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714639738.897589",
+        "edited": {
+            "user": "U06LY5XNLBT",
+            "ts": "1714639766.000000"
+        },
+        "client_msg_id": "5EADF921-CCE6-4EFA-B962-8E0B31C89556",
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LCEF912S",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N",
+                    "U06LK3HUVTL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LCEF912S",
+                    "U06L4GJBJP9",
+                    "U06LCVDE88N"
+                ],
+                "count": 4
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LCE78Y94"
+                ],
+                "count": 2
+            },
+            {
+                "name": "めいなか",
+                "users": [
+                    "U06LCE9HTP0",
+                    "U06LCE78Y94"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LCE78Y94",
+                    "U06L4GJBJP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06TU27FX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LCEF912S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

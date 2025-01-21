@@ -1,0 +1,381 @@
+[
+    {
+        "text": "<!channel> まずは1日目お疲れ様でした。しょっぱなからタスクも多い中で落ち着いているべき本部もごたついてしまってすみません。シフト変更や夜の時間帯などみんな柔軟に動いてくれてありがとうお疲れ様！明日からもまた頑張っていきましょう！力を貸してください！",
+        "files": [
+            {
+                "id": "F07UYUPUEL9",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GHLP2B",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGPgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " まずは1日目お疲れ様でした。しょっぱなからタスクも多い中で落ち着いているべき本部もごたついてしまってすみません。シフト変更や夜の時間帯などみんな柔軟に動いてくれてありがとうお疲れ様！明日からもまた頑張っていきましょう！力を貸してください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730551127.310319",
+        "client_msg_id": "123edf77-f660-452e-b007-f68625f81f2b",
+        "thread_ts": "1730551127.310319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1730551775.282709",
+        "reply_users": [
+            "U06L4GHLP2B"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GHLP2B",
+                "ts": "1730551775.282709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "00-かわいい",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK0FUAHZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U06L4GKK0CF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06L4GKK0CF",
+                    "U071B3ARX5F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "ごめんなさいこっちで確認お願いします！",
+        "files": [
+            {
+                "id": "F07V9710UKS",
+                "created": 1730551759,
+                "timestamp": 1730551759,
+                "name": "1102_140th運営局2日目シフト_14.pdf",
+                "title": "1102_140th運営局2日目シフト_14.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06L4GHLP2B",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 553488,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07V9710UKS\/1102_140th_________2________________14.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07V9710UKS\/download\/1102_140th_________2________________14.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07V9710UKS-3383cd1812\/1102_140th_________2________________14_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06L4GHLP2B\/F07V9710UKS\/1102_140th_________2________________14.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07V9710UKS-6b200fd3a8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GHLP2B",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vwrv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさいこっちで確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730551775.282709",
+        "client_msg_id": "d596977d-2eff-4d28-8abd-07376bd45d40",
+        "thread_ts": "1730551127.310319",
+        "parent_user_id": "U06L4GHLP2B"
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730590322.087719",
+        "client_msg_id": "B8A8B59D-DEA2-43B1-91AA-F2DC62AA64ED",
+        "text": "<@U0710T04SUC> <@U06LEAGKTSS> 9:00〜10:00 水場監督\n<@U0710T03ZS8> <@U070Y9V6PRR> 10:00〜11:00 水場監督",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mdadz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0710T04SUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LEAGKTSS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9:00〜10:00 水場監督\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710T03ZS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070Y9V6PRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10:00〜11:00 水場監督"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730590355.865909",
+        "client_msg_id": "F0FF3C8E-AF83-4968-980A-86C667C4FDAB",
+        "text": "<@U070HS49ZD5> 15:30〜16:30 車両B3なし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzpiL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070HS49ZD5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 15:30〜16:30 車両B3なし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730592153.882039",
+        "client_msg_id": "81197342-E467-42EE-B176-6CFA09A3A928",
+        "text": "<@U06LK3LKR9Q> 10:30〜11:30 車両B2なし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9Wkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3LKR9Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10:30〜11:30 車両B2なし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730594940.360919",
+        "client_msg_id": "73CB33F7-C2CC-4179-A48C-4D76DFE84554",
+        "text": "<@U06LG66LXAR> 13:00〜13:45 パフォ警備",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYGYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LG66LXAR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 13:00〜13:45 パフォ警備"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L4GHLP2B",
+        "type": "message",
+        "ts": "1730607367.812679",
+        "client_msg_id": "D11D4CF3-92B8-42AF-9959-0B7C4AC8A664",
+        "text": "<@U06LMH7PM60> 13:45〜14:30 メイン警備なし",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ed8ba634faca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-30\/6885736024338_ed8ba634facacc0b9aec_72.png",
+            "first_name": "青木亜優夢",
+            "real_name": "青木亜優夢",
+            "display_name": "Aoki.Ayumu",
+            "team": "T06L90YHJF8",
+            "name": "aym.150902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZNNBh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH7PM60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 13:45〜14:30 メイン警備なし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

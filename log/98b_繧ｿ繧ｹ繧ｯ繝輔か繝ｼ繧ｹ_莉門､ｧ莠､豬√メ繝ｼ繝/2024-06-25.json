@@ -1,0 +1,497 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U070HT2C5KR",
+        "text": "<@U070HT2C5KR>さんがチャンネルに参加しました",
+        "type": "message",
+        "ts": "1719321971.359459"
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719368808.852519",
+        "client_msg_id": "f0e87cff-17ab-4f34-b4e3-02452579fc60",
+        "text": "<@U06LMH412CU> なんかあった？前の会議",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIuQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LMH412CU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんかあった？前の会議"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719370183.967429",
+        "client_msg_id": "e64c4e31-4dba-45f0-8aae-243d3cc6841d",
+        "text": "<@U06L97X3V6J> …なんかとは？笑笑\n各大学祭紹介しただけ！\n次回は今週土曜日、会場はうちの大学ですー\n大学祭紹介+SNSについて少し考える、って感じ！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1719375008.835079",
+        "reply_users": [
+            "U06L97X3V6J",
+            "U06LMH412CU"
+        ],
+        "replies": [
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719370244.790139"
+            },
+            {
+                "user": "U06LMH412CU",
+                "ts": "1719370287.226729"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719370310.854409"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719370410.827619"
+            },
+            {
+                "user": "U06LMH412CU",
+                "ts": "1719374670.467129"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719374702.598479"
+            },
+            {
+                "user": "U06LMH412CU",
+                "ts": "1719374719.784179"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1719375008.835079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aMkmg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " …なんかとは？笑笑\n各大学祭紹介しただけ！\n次回は今週土曜日、会場はうちの大学ですー\n大学祭紹介+SNSについて少し考える、って感じ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719370244.790139",
+        "client_msg_id": "6ab5e0ff-36e7-4669-b759-3bd009a37674",
+        "text": "財務がとってくれた？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ib0fh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "財務がとってくれた？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719370287.226729",
+        "client_msg_id": "9ecbe828-b789-4c4f-9e11-b7bf78ae3dc2",
+        "text": "取ってくれた！明日古川くんがぷれたくとか受け取ってくれる予定でっす！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jjqs0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "取ってくれた！明日古川くんがぷれたくとか受け取ってくれる予定でっす！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719370310.854409",
+        "client_msg_id": "93dfe30c-f512-406f-a5f4-19b29ae8a2aa",
+        "text": "りょうかい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lR2oi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょうかい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719370410.827619",
+        "client_msg_id": "167ab851-c462-44be-841a-99f7c2f08f15",
+        "text": "どっしーにさ去年がくじに申請みたいなんしたがどうか確認してくれん？？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYKZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どっしーにさ去年がくじに申請みたいなんしたがどうか確認してくれん？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719374670.467129",
+        "client_msg_id": "8e244779-278d-4926-b2ca-fbd85c73b486",
+        "text": "FSRとして教室申請したかってことー？",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JsHCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FSRとして教室申請したかってことー？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719374702.598479",
+        "client_msg_id": "D55447AD-7FC3-44F6-BDA3-0D52EB2AC020",
+        "text": "いや外部者入稿にあたるかどうかみたいな",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3g9o5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや外部者入稿にあたるかどうかみたいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719374719.784179",
+        "client_msg_id": "d617fc77-a711-4ddd-a7ce-92a304b02e94",
+        "text": "なるほど聞いてみます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "89fb6cb76748",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-01\/7802244504038_89fb6cb7674888af6761_72.jpg",
+            "first_name": "出合拓実",
+            "real_name": "出合拓実",
+            "display_name": "Deai.Takumi",
+            "team": "T06L90YHJF8",
+            "name": "takumi.11346",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBh5H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど聞いてみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1719375008.835079",
+        "client_msg_id": "545D91D9-0BAD-435A-A484-5ACEBCF57404",
+        "text": "うい！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719370183.967429",
+        "parent_user_id": "U06LMH412CU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4+b7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071M6X5M16",
+        "text": "<@U071M6X5M16>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719378903.816489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YD83MD0",
+        "text": "<@U070YD83MD0>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719378903.892129"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B38HAM7",
+        "text": "<@U071B38HAM7>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719378903.958529"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070Y9Q9151",
+        "text": "<@U070Y9Q9151>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719378904.039749"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070VFTLATX",
+        "text": "<@U070VFTLATX>さんがチャンネルに参加しました",
+        "inviter": "U06LMH412CU",
+        "type": "message",
+        "ts": "1719378904.103379"
+    }
+]

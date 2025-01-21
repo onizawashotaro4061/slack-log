@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U06LKTXCZL4",
+        "type": "message",
+        "ts": "1711332346.092719",
+        "client_msg_id": "B5A1C253-34A8-4EFD-8107-6E57D2ECD42A",
+        "text": "<!channel> \n0326_第7回参加団体局会議\n【場所】追って連絡します\n【時間】13：30～17：00\n【議題】1.部門活動\n\n【持ち物】パソコン\n　　　　　\n明日は局としてやることはないです！\n部門の活動がとうとう始まるよー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "073a1aee9bda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-23\/6850438194499_073a1aee9bda3bb153b3_72.png",
+            "first_name": "梶原海希",
+            "real_name": "梶原海希",
+            "display_name": "Kajiwara.Misaki",
+            "team": "T06L90YHJF8",
+            "name": "weiyuanhaixi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "woNoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n0326_第7回参加団体局会議\n【場所】追って連絡します\n【時間】13：30～17：00\n【議題】1.部門活動\n\n【持ち物】パソコン\n　　　　　\n明日は局としてやることはないです！\n部門の活動がとうとう始まるよー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06M7SUB2GY",
+                    "U06L4H5UASK",
+                    "U06LG6DR26R",
+                    "U06LK3PHPQA",
+                    "U06LXR4BPS5",
+                    "U06LG655N21",
+                    "U06L4GLRPF1",
+                    "U06M7SW8GAU",
+                    "U06L64D8E0P",
+                    "U06LMH5UFC4",
+                    "U06LXNZDHFT",
+                    "U06L4GKC9N3",
+                    "U06LK18Q06P"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LXR4BPS5",
+                    "U06LG655N21",
+                    "U06L4GLRPF1",
+                    "U06L64D8E0P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "みーにゃ",
+                "users": [
+                    "U06LK0DLEQ3",
+                    "U06LXR4BPS5",
+                    "U06LG655N21",
+                    "U06L4GLRPF1",
+                    "U06L64D8E0P",
+                    "U06LXNZDHFT"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

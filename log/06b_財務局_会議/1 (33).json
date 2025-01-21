@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U071B3A03PB",
+        "type": "message",
+        "ts": "1716888318.334039",
+        "client_msg_id": "2992498A-0AD1-43F7-B8F0-586FB96C6FEE",
+        "text": "小田急線が緊急停車してしまったので遅刻します、すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "38f58d6f136c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8090031281153_38f58d6f136c1bc3eca6_72.png",
+            "first_name": "鈴木水萌紗",
+            "real_name": "鈴木水萌紗",
+            "display_name": "Suzuki.Mimoza",
+            "team": "T06L90YHJF8",
+            "name": "gelatoni415",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716778376.345609",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ce+Q4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小田急線が緊急停車してしまったので遅刻します、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U070YD6M598",
+                    "U06LK3KJNJE"
+                ],
+                "count": 3
+            },
+            {
+                "name": "train",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LK3KJNJE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U071M700E48",
+        "type": "message",
+        "ts": "1716889948.009199",
+        "client_msg_id": "3F0803DC-1C0F-4F64-BBA1-A2A0D9461E25",
+        "text": "湘南新宿ライン遅延したため数分遅れます。すみません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5b8c50e3f718",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-05\/7529727964180_5b8c50e3f718313e1e7b_72.png",
+            "first_name": "広石陽",
+            "real_name": "広石陽",
+            "display_name": "hiroishi.hinata",
+            "team": "T06L90YHJF8",
+            "name": "itabashihouse.fan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716778376.345609",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkRlb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "湘南新宿ライン遅延したため数分遅れます。すみません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06LK3NH9MG",
+                    "U06LK3KJNJE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LK3KJNJE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U070Y9REPD1",
+        "type": "message",
+        "ts": "1716890207.538659",
+        "client_msg_id": "6D549298-EFA4-44FC-87A2-C3EE0A157870",
+        "text": "京王線が遅延したため数分遅れます、すいません！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "18d5b1202a5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7787555960625_18d5b1202a5b18180f98_72.png",
+            "first_name": "北條大誠",
+            "real_name": "北條大誠",
+            "display_name": "Hojo.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "taisei200506162005061",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716778376.345609",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfDXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京王線が遅延したため数分遅れます、すいません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LK3KJNJE",
+                    "U0710SZT2S0"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U070HS31CP9",
+        "type": "message",
+        "ts": "1726555408.328249",
+        "client_msg_id": "EF60D581-B23C-494E-BB2A-36F0E75F886D",
+        "text": "まだ帰宅途中で、遅刻します。\nなるはやで向かいます。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7baadb4e0f38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-29\/7948202165157_7baadb4e0f38b46e39fe_72.png",
+            "first_name": "山本そよ",
+            "real_name": "山本そよ",
+            "display_name": "Yamamoto.Soyo",
+            "team": "T06L90YHJF8",
+            "name": "shanbensoyo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726382194.260959",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhxxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ帰宅途中で、遅刻します。\nなるはやで向かいます。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

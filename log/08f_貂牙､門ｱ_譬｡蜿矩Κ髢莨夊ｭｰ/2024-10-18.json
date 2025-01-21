@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1729244938.929249",
+        "client_msg_id": "4978DBE6-598E-4764-8191-1A03AE31F340",
+        "text": "埼京線が遅延してて遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729145290.087969",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0dcR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "埼京線が遅延してて遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1729250219.848519",
+        "client_msg_id": "df61b24d-e99a-4dfb-8523-30a09b9eba78",
+        "text": "すみません、本体交換になっちゃってデータ移してるんで21時着になりそうです。:money_with_wings::money_with_wings:\nがんばれ太田のあいふぉーーーーーーーーん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729145290.087969",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGqhw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、本体交換になっちゃってデータ移してるんで21時着になりそうです。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nがんばれ太田のあいふぉーーーーーーーーん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

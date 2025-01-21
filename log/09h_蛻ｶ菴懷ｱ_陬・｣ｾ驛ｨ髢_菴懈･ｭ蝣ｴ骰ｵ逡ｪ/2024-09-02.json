@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U06LG6F13M3",
+        "type": "message",
+        "ts": "1725285944.970169",
+        "client_msg_id": "576CE533-05D5-4E8A-9FFB-B115EB46D27F",
+        "text": "しめかえしたよーーー！おつー！ :heart_on_fire: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ae3a1cd9bccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-11\/7268994475441_ae3a1cd9bccdea72982a_72.png",
+            "first_name": "畠田莉奈",
+            "real_name": "畠田莉奈",
+            "display_name": "Hatakeda.Rina",
+            "team": "T06L90YHJF8",
+            "name": "hinatazaka6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/\/dP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しめかえしたよーーー！おつー！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "プレタコひなお",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1725324434.630089",
+        "client_msg_id": "EF388CA5-883B-4D9E-95C5-953E111973AD",
+        "text": "かりあけ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdloz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かりあけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "がんばれ",
+                "users": [
+                    "U06LXP316UR",
+                    "U06LG61U9QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

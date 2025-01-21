@@ -1,0 +1,176 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1719286609.435239",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1719467687.000000"
+        },
+        "client_msg_id": "52288ad6-1846-48dc-8fe7-fd8475c8db28",
+        "text": "*<!channel>* \n会議連絡！\n【時間】6\/25(火)局会議後～\n【場所】LS601 or LS606\n【議題】(予定)\n1.各種共有\n→チーム長はチーム員に企画詳細を伝えること\n→レスについて\n→アポについて\n→中夜祭いつDJ募集するか\n→プレサイト文章作成書の文章提出\n→ロゴ決めの予定について\n2.動画依頼書選抜\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719286609.435239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1719301949.282219",
+        "reply_users": [
+            "U070HS2GY5V",
+            "U0710TSE9TN"
+        ],
+        "replies": [
+            {
+                "user": "U070HS2GY5V",
+                "ts": "1719297738.444349"
+            },
+            {
+                "user": "U0710TSE9TN",
+                "ts": "1719301949.282219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Qku5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】6\/25(火)局会議後～\n【場所】LS601 or LS606\n【議題】(予定)\n1.各種共有\n→チーム長はチーム員に企画詳細を伝えること\n→レスについて\n→アポについて\n→中夜祭いつDJ募集するか\n→プレサイト文章作成書の文章提出\n→ロゴ決めの予定について\n2.動画依頼書選抜\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→あいか、敲き→たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "megamo",
+                "users": [
+                    "U070RQ0DUBG",
+                    "U06LK3L32MQ",
+                    "U06LG64U8DB",
+                    "U06LG6EJPE1",
+                    "U06LMHDAZKN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "風火林山",
+                "users": [
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U070HS2GY5V",
+        "type": "message",
+        "ts": "1719297738.444349",
+        "client_msg_id": "6b661dc6-798f-4473-8954-c672ba61090a",
+        "text": "習い事のため欠席させてください、すみません:sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10e42254d341",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7017905306551_10e42254d3418983cc64_72.jpg",
+            "first_name": "本村つくし",
+            "real_name": "本村つくし",
+            "display_name": "Motomura.Tsukushi",
+            "team": "T06L90YHJF8",
+            "name": "tsukushibencun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719286609.435239",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QISj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "習い事のため欠席させてください、すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "つくしはえた",
+                "users": [
+                    "U071M771YMN",
+                    "U06LXNY0MHP",
+                    "U06LMH5ACGL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "つくしんぼ",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

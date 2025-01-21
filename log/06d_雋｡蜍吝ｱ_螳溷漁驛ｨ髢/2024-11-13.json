@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U06LXNXNWGH",
+        "type": "message",
+        "ts": "1731566190.890949",
+        "client_msg_id": "c40ed804-c7ad-4efa-a14f-6009d293f246",
+        "text": "なんか今日部屋獲得できたのでLS305でお願いします:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4b9821f00937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6721923876272_4b9821f0093727538e3f_72.jpg",
+            "first_name": "井内愉羽",
+            "real_name": "井内愉羽",
+            "display_name": "Iuchi.Yu",
+            "team": "T06L90YHJF8",
+            "name": "yu.625.irodori.94.cha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731467967.962199",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXzYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんか今日部屋獲得できたのでLS305でお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hushed",
+                "users": [
+                    "U06LMH3BZ8C",
+                    "U06M7SQ7QL8",
+                    "U06LXNX1XPB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070RQ0KT7Y",
+        "type": "message",
+        "ts": "1731570041.766209",
+        "client_msg_id": "7502C775-DCF2-4404-9C8F-4A238BAF5777",
+        "text": "書く場所間違えました 。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "70a4093eac4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-28\/7031686092901_70a4093eac4e3d8ec45e_72.png",
+            "first_name": "上原大雅",
+            "real_name": "上原大雅",
+            "display_name": "Uehara.Taiga",
+            "team": "T06L90YHJF8",
+            "name": "taiga.ue3392",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731467967.962199",
+        "parent_user_id": "U06LXNXNWGH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpvIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書く場所間違えました 。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

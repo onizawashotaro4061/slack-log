@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LMGM3CG4",
+        "type": "message",
+        "ts": "1719569807.001299",
+        "client_msg_id": "C2A14EA5-BE58-42FE-A28F-1E83A17982C1",
+        "text": "ごめーん明日の夜までみれない",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e0c33a5ba28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-30\/7356408573060_3e0c33a5ba2852fe962b_72.png",
+            "first_name": "本間久大",
+            "real_name": "本間久大",
+            "display_name": "Honma.Hisahiro",
+            "team": "T06L90YHJF8",
+            "name": "hisa2003617",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719556603.619459",
+        "parent_user_id": "U06LCE8C51U",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gRmaq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめーん明日の夜までみれない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LCE8C51U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U06LMLKREUU",
+        "type": "message",
+        "ts": "1720514107.446239",
+        "client_msg_id": "A2FE1B20-AD4C-4EE7-8441-C9B6B2B069E7",
+        "text": "コロナのため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "187e5c5d4848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-22\/7608428887142_187e5c5d48483957e932_72.png",
+            "first_name": "三塚夏鈴",
+            "real_name": "三塚夏鈴",
+            "display_name": "Mitsuzuka.Karin",
+            "team": "T06L90YHJF8",
+            "name": "karin.mimi0728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720342639.793179",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mbM9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナのため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06M7TE180Y",
+                    "U06L2CSPXV5",
+                    "U06LM0QJV3L",
+                    "U06LFKRD4MQ",
+                    "U06LG668093"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5",
+                    "U06LM0QJV3L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LM0QJV3L",
+        "type": "message",
+        "ts": "1720517195.616629",
+        "client_msg_id": "B70E1FD4-CABC-46D9-9703-1A13E5E270C8",
+        "text": "ゼミがあったので少し遅れます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a4fc3056e10e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7769682731089_a4fc3056e10e47d51a4c_72.png",
+            "first_name": "小越帆栞",
+            "real_name": "小越帆栞",
+            "display_name": "Kogoshi.Honoka",
+            "team": "T06L90YHJF8",
+            "name": "honokakogoshi1101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1720342639.793179",
+        "parent_user_id": "U06L2CSPXV5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zD71E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミがあったので少し遅れます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L2CSPXV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

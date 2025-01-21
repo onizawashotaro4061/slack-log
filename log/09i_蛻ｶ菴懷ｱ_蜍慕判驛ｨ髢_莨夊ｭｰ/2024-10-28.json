@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U070YD7LPR8",
+        "type": "message",
+        "ts": "1730102364.506849",
+        "client_msg_id": "A2C14441-9520-421E-B773-7AB5BA4A2BAF",
+        "text": "腹痛やばいのでお休みします本祭前ラストなのにすみません :sob: :sob: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cf24bd1df8b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-07\/7835790320821_cf24bd1df8b5656deb7d_72.png",
+            "first_name": "川野みく",
+            "real_name": "川野みく",
+            "display_name": "Kawano.Miku",
+            "team": "T06L90YHJF8",
+            "name": "miku3311",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730020393.089699",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWBWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹痛"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やばいのでお休みします本祭前ラストなのにすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U070Y9QMUSX",
+                    "U070YD7KHLJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "成瀬-こわい",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U070Y9QMUSX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

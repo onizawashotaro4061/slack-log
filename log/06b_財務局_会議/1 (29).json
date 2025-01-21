@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U071M700E48",
+        "type": "message",
+        "ts": "1715671942.883069",
+        "client_msg_id": "8F88CDFB-4079-4FF7-9567-19322C1EE6C0",
+        "text": "お疲れ様です。昨日から体調が優れないため本日は欠席します。分担金は来週の会議に持って行きます。よろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "5b8c50e3f718",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-05\/7529727964180_5b8c50e3f718313e1e7b_72.png",
+            "first_name": "広石陽",
+            "real_name": "広石陽",
+            "display_name": "hiroishi.hinata",
+            "team": "T06L90YHJF8",
+            "name": "itabashihouse.fan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715494038.326579",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aw2gc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。昨日から体調が優れないため本日は欠席します。分担金は来週の会議に持って行きます。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LMH49MQU",
+                    "U070YD6M598",
+                    "U06LK3KJNJE"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06LCE4DK46",
+        "type": "message",
+        "ts": "1715679914.648379",
+        "client_msg_id": "A4EC3C0D-8A5D-4D1D-BC9E-7C568274AFD0",
+        "text": "井の頭がクソなのでおくれます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0abd4f4c8629",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6699127839922_0abd4f4c86295022831b_72.jpg",
+            "first_name": "寺内優太",
+            "real_name": "寺内優太",
+            "display_name": "Terauchi.Yuta",
+            "team": "T06L90YHJF8",
+            "name": "bayyuta04",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715494038.326579",
+        "parent_user_id": "U06LKEPTCA0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RM+4o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "井の頭がクソなのでおくれます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U06LMH49MQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06LKEPTCA0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

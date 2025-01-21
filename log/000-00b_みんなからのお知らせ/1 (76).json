@@ -1,0 +1,606 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1730283668.905359",
+        "client_msg_id": "d5946fe9-124d-4809-856d-2300b4f421f8",
+        "text": "<!channel>\n【明治紺白大合戦 投票について】\nお疲れ様です！演出局響創部門長の金子です！\n\nパソコンの方はこちらのURLから投票よろしくお願いいたします！\n<ttps:\/\/140th-main-git-develop-140th-web.vercel.app\/voteFight\/fight.html>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I9GMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【明治紺白大合戦 投票について】\nお疲れ様です！演出局響創部門長の金子です！\n\nパソコンの方はこちらのURLから投票よろしくお願いいたします！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "ttps:\/\/140th-main-git-develop-140th-web.vercel.app\/voteFight\/fight.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LK0JCFHR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1730296607.469909",
+        "text": "\nこちら明日から写真を消してしまうので、もし139の写真を使う予定のある方は、保存していただくか、僕の方まで連絡をお願いいたします:bow:\n\nちなみにアカウント名が現在変更されており\n\n<mailto:140thseisaku.photo@gmail.com|140thseisaku.photo@gmail.com>\nパスワード:Photo140\n\nになります！\n不都合だと思いますがどうぞよろしくお願いいたします:bow:\n@",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1729754792.850119",
+                "author_id": "U06LMH9MBFW",
+                "channel_id": "C06L139NFSB",
+                "channel_team": "T06L90YHJF8",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06L90YHJF8",
+                        "channel": "C06L139NFSB",
+                        "ts": "1729754792.850119",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "KIgV4",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \nお疲れさまです！制作局副局長の大野です！\n去年の写真に関する連絡になります\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "本祭期間開始と同時に去年撮影された写真は全て削除する予定",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": false
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "です。\n\nそのため、もし去年の写真を今後使う予定がある方は、本祭期間前までに保存して"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "いただく"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "か、僕まで連絡お願いします！"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "bow",
+                                                    "unicode": "1f647"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/140meidisai.slack.com\/archives\/C06L139NFSB\/p1729754792850119",
+                "is_share": true,
+                "fallback": "[October 24th, 2024 4:26 PM] 205tomoya: <!channel> \nお疲れさまです！制作局副局長の大野です！\n去年の写真に関する連絡になります\n\n*本祭期間開始と同時に去年撮影された写真は全て削除する予定*です。\n\nそのため、もし去年の写真を今後使う予定がある方は、本祭期間前までに保存していただくか、僕まで連絡お願いします！:bow:",
+                "text": "<!channel> \nお疲れさまです！制作局副局長の大野です！\n去年の写真に関する連絡になります\n\n*本祭期間開始と同時に去年撮影された写真は全て削除する予定*です。\n\nそのため、もし去年の写真を今後使う予定がある方は、本祭期間前までに保存していただくか、僕まで連絡お願いします！:bow:",
+                "author_name": "大野友也",
+                "author_link": "https:\/\/140meidisai.slack.com\/team\/U06LMH9MBFW",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_48.png",
+                "author_subname": "大野友也",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HjqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちら明日から写真を消してしまうので、もし139の写真を使う予定のある方は、保存していただくか、僕の方まで連絡をお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちなみにアカウント名が現在変更されており"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:140thseisaku.photo@gmail.com",
+                                "text": "140thseisaku.photo@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パスワード:Photo140"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "になります！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "不都合だと思いますがどうぞよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n@"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LJRSQDC3",
+                    "U06LK0DK7R9",
+                    "U06LK3MF9FC",
+                    "U070Y9UEAAF",
+                    "U06LK0DN10T",
+                    "U0710T3MCUC"
+                ],
+                "count": 6
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LK0DN10T"
+                ],
+                "count": 2
+            },
+            {
+                "name": "おおのともや",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06L4GM5C87",
+                    "U06LK0DN10T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\nお疲れ様です！おはようございます！\n制作局グラフィックデザイン部門長の成瀬です！\n\n昨日の決起総会でもお話しした、パンフレットの訂正について改めて正しいものを記載した訂正紙を添付しておきます。\n総会欠席された方や、聞き逃したことはご参照ください！\n\nまた、昨日受け取った自分のパンフレットには、*紛失防止のために記名を忘れないようにしてください！*\n今日から頑張りましょう～～",
+        "files": [
+            {
+                "id": "F07U89W227M",
+                "created": 1730332212,
+                "timestamp": 1730332212,
+                "name": "140th訂正紙_03.pdf",
+                "title": "140th訂正紙_03.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06L4GM5C87",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 1227210,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U89W227M\/140th__________03.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U89W227M\/download\/140th__________03.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U89W227M-de4728d87c\/140th__________03_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 641,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06L4GM5C87\/F07U89W227M\/140th__________03.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07U89W227M-80736397aa",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F07U8CKL950",
+                "created": 1730332219,
+                "timestamp": 1730332219,
+                "name": "140th訂正紙（裏面）_02.pdf",
+                "title": "140th訂正紙（裏面）_02.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06L4GM5C87",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 939914,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U8CKL950\/140th______________________02.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07U8CKL950\/download\/140th______________________02.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07U8CKL950-98b46f27d1\/140th______________________02_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 641,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06L4GM5C87\/F07U8CKL950\/140th______________________02.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07U8CKL950-3407d79bf1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5czjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！おはようございます！\n制作局グラフィックデザイン部門長の成瀬です！\n\n昨日の決起総会でもお話しした、パンフレットの訂正について改めて正しいものを記載した訂正紙を添付しておきます。\n総会欠席された方や、聞き逃したことはご参照ください！\n\nまた、昨日受け取った自分のパンフレットには、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "紛失防止のために記名を忘れないようにしてください！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日から頑張りましょう～～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730332394.999929",
+        "client_msg_id": "bd2e77af-cece-46da-a11f-6426daddadf4",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8",
+                    "U06L4GH4ETH",
+                    "U070Y9QMUSX",
+                    "U070YD778SE",
+                    "U0710SYJ892",
+                    "U06LXNY0MHP",
+                    "U06LCE9EA3G",
+                    "U0710T3MCUC",
+                    "U06L4GH3T7H",
+                    "U06LY5XNLBT",
+                    "U070VFTRR61",
+                    "U070HS23XV5",
+                    "U06LXNYUX7T",
+                    "U06LK3HUVTL",
+                    "U06L4CMKY8P",
+                    "U06LK3KA09G",
+                    "U06M7TE180Y",
+                    "U06LXNYCLJV",
+                    "U06L4GJBJP9",
+                    "U06LJRSQDC3"
+                ],
+                "count": 20
+            },
+            {
+                "name": "成瀬-こわい",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U070Y9QMUSX",
+                    "U0710SYJ892",
+                    "U06LXNY0MHP",
+                    "U06LCE9EA3G",
+                    "U06L4GH3T7H",
+                    "U070Y9S1CRH",
+                    "U06LXNYUX7T",
+                    "U06LK3ZBCN6",
+                    "U06LXNYCLJV",
+                    "U06LJRSQDC3"
+                ],
+                "count": 11
+            },
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06L4GH3T7H",
+                    "U06LY5XNLBT",
+                    "U06LXNYUX7T",
+                    "U06LXNYCLJV",
+                    "U06LJRSQDC3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LXNYUX7T",
+                    "U06LXNYCLJV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG62V1FX",
+                    "U06LXNYCLJV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK0BP1TM",
+        "type": "message",
+        "ts": "1730340938.681159",
+        "client_msg_id": "1262268E-5EA1-4425-9D4F-5018D974E11A",
+        "text": "<!channel> \nおつかれさまです！\nタスクフォース大型ビジョンチーム長4年の岡本です。\n事前準備中、連絡すみません:man-bowing:\n\nみなさん直前の繁忙期にも関わらず新宿のビジョン動画をSNSで拡散していただいてありがとうございます:pray::pray::pray:\n土曜まで流れているのでまだ見てない方ぜひ見に行ってみてください！！\n\nあと渋谷のビジョン動画に関してもSNSで拡散していただくとありがたいんですがその際、*アカウント名やプロフ欄に「明大祭実行委員会」のような記載がないようにお願いします*:man-bowing:\n\n準備まず全力で頑張りましょう:muscle:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "fa576c4aff3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6705566244597_fa576c4aff3dd937a4d4_72.png",
+            "first_name": "岡本靖大",
+            "real_name": "岡本靖大",
+            "display_name": "Okamoto.Yasuhiro",
+            "team": "T06L90YHJF8",
+            "name": "bpezj015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MfHiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nおつかれさまです！\nタスクフォース大型ビジョンチーム長4年の岡本です。\n事前準備中、連絡すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nみなさん直前の繁忙期にも関わらず新宿のビジョン動画をSNSで拡散していただいてありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n土曜まで流れているのでまだ見てない方ぜひ見に行ってみてください！！\n\nあと渋谷のビジョン動画に関してもSNSで拡散していただくとありがたいんですがその際、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アカウント名やプロフ欄に「明大祭実行委員会」のような記載がないようにお願いします",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "準備まず全力で頑張りましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ハンディファンやす",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06TU27FX08",
+                    "U070YD778SE",
+                    "U06L4GJBJP9",
+                    "U06LXR4BPS5",
+                    "U070Y9UEAAF",
+                    "U06M7TE180Y",
+                    "U06LK3HUVTL"
+                ],
+                "count": 8
+            },
+            {
+                "name": "やすさん-歌いやす",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "のびるきどこう",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3KA09G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "やすさん-事故りやす",
+                "users": [
+                    "U06LK3KA09G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "やすさん-おいでやす",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH49MQU",
+                    "U06LG60SFEH",
+                    "U06LMH9MBFW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070VFTRR61",
+                    "U06LG62UXPX",
+                    "U06LMH9MBFW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

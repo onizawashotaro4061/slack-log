@@ -1,0 +1,259 @@
+[
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724831374.915039",
+        "client_msg_id": "EBEE58FE-3C91-4C21-86F6-193E5D6FC2C1",
+        "text": "<!channel> \nお疲れ様！\n\n9\/7の会議で色々話そうと思ってたんだけど、状況が目まぐるしく変わりすぎて悠長なことしてる場合じゃなくなってきたので\n\n*zoomにて会議を行います！*\n22:00-or 23:00-（1時間程度）\n①8\/28②8\/29③8\/30\n\nで都合いい日に投票お願いします！\n（旅行先とかであれば、聞くだけでも構わないので出来るだけ参加してほしい:palms_up_together:）\n全部きついって人は返信欄で教えてください！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1724993588.454129",
+        "reply_users": [
+            "U0710SZA5J8",
+            "U06M7SU83G8",
+            "U06L4GLRAK1",
+            "U071B3CV89X"
+        ],
+        "replies": [
+            {
+                "user": "U0710SZA5J8",
+                "ts": "1724833500.910199"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1724924652.330599"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1724993447.203189"
+            },
+            {
+                "user": "U06L4GLRAK1",
+                "ts": "1724993484.922159"
+            },
+            {
+                "user": "U06L4GLRAK1",
+                "ts": "1724993492.033709"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1724993516.539169"
+            },
+            {
+                "user": "U071B3CV89X",
+                "ts": "1724993521.023049"
+            },
+            {
+                "user": "U06M7SU83G8",
+                "ts": "1724993588.454129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtFRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様！\n\n9\/7の会議で色々話そうと思ってたんだけど、状況が目まぐるしく変わりすぎて悠長なことしてる場合じゃなくなってきたので\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "zoomにて会議を行います！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n22:00-or 23:00-（1時間程度）\n①8\/28②8\/29③8\/30\n\nで都合いい日に投票お願いします！\n（旅行先とかであれば、聞くだけでも構わないので出来るだけ参加してほしい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\n全部きついって人は返信欄で教えてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U06M7SU83G8",
+                    "U070YD778SE",
+                    "U06LK0E89MH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U06M7SU83G8",
+                    "U070YD778SE",
+                    "U06LCECJD8W",
+                    "U071B3CV89X"
+                ],
+                "count": 4
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U06M7SU83G8",
+                    "U070YA6CQLB",
+                    "U070VFQM2N9",
+                    "U070HS3CTQX",
+                    "U071B3CB42V",
+                    "U06LK0E89MH",
+                    "U070YD778SE",
+                    "U06LK5HCSE6"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U070YD778SE",
+        "text": "<@U070YD778SE>さんがチャンネルに参加しました",
+        "inviter": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724832359.466449"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U071B3CV89X",
+        "text": "<@U071B3CV89X>さんがチャンネルに参加しました",
+        "inviter": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724832359.549739"
+    },
+    {
+        "user": "U0710SZA5J8",
+        "type": "message",
+        "ts": "1724833500.910199",
+        "client_msg_id": "240A0FE1-0E39-4386-BB93-05B739C2097C",
+        "text": "1日まで旅行で厳しいです、聞くだけならいけるかもしれないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f8c2f8fb79ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-29\/7639958450055_f8c2f8fb79ea6fc26983_72.png",
+            "first_name": "金子莉里夏",
+            "real_name": "金子莉里夏",
+            "display_name": "Kaneko.Ririka",
+            "team": "T06L90YHJF8",
+            "name": "ririka.k726",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724831374.915039",
+        "parent_user_id": "U06M7SU83G8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKq8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1日まで旅行で厳しいです、聞くだけならいけるかもしれないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1724835924.136199",
+        "client_msg_id": "89B96664-DE14-4397-9673-27EAC9B445C2",
+        "text": "あと別途で、9\/3 17:15-商店街の人と打ち合わせするんだけど、来たいって人いたら返信してくれい！これは参加必須じゃないよん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpGJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと別途で、9\/3 17:15-商店街の人と打ち合わせするんだけど、来たいって人いたら返信してくれい！これは参加必須じゃないよん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U070YD778SE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

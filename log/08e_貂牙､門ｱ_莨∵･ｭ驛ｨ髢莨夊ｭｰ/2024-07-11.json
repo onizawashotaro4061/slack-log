@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U06L4GH4ETH",
+        "type": "message",
+        "ts": "1720759657.064119",
+        "client_msg_id": "4d92e7f7-cfe6-4bd1-9d48-97b548963bd8",
+        "text": "<!channel> 直前の連絡マジすまん\n0712_第18回企業部門会議\n【場所】わからん\n【時間】19:00～20:40\n【議題】\n• 部門長共有\n• 次週の電話掛けについて\n    ◦ GW1 次週の電話掛け件数を決める\n    ◦ GW2 リストアップの視点を話し合う\n• 部門長を知ろう \n• 諸連絡\n明日のチャンフェスはガチ面白いらしい\nスレッドで遅刻欠席",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "20ed15253aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-06\/7556926395216_20ed15253aa05521daad_72.png",
+            "first_name": "本多叶武",
+            "real_name": "本多叶武",
+            "display_name": "Honda.Kanamu",
+            "team": "T06L90YHJF8",
+            "name": "ttm.hon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpHMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 直前の連絡マジすまん\n0712_第18回企業部門会議\n【場所】わからん\n【時間】19:00～20:40\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門長共有"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "次週の電話掛けについて"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW1 次週の電話掛け件数を決める"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GW2 リストアップの視点を話し合う"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門長を知ろう "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日のチャンフェスはガチ面白いらしい\nスレッドで遅刻欠席"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LCE9EA3G",
+                    "U070VFRCQBF",
+                    "U070RQ3ND38",
+                    "U06M7SETDKJ",
+                    "U070HS5NT63",
+                    "U070VFTLATX",
+                    "U071M6XCB5W",
+                    "U070HS3ELF9",
+                    "U071B3CV89X"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ0VCP8",
+                    "U071B3CV89X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "かなむ-盛れ可愛い",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06L4GKC9N3",
+                    "U070VFTLATX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

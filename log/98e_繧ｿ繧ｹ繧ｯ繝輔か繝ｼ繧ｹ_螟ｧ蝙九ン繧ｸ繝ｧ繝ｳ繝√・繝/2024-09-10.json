@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06LMH5ACE8",
+        "type": "message",
+        "ts": "1726017422.673709",
+        "client_msg_id": "C4B9CE68-23A7-450B-A92B-29F8083256CD",
+        "text": "ごめん、予定あって参加できないです。申し訳ない :bow: zoomなら参加できるかも",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3cc4026d18e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7722141759041_3cc4026d18e851f0f49c_72.png",
+            "first_name": "小堀聡太",
+            "real_name": "小堀聡太",
+            "display_name": "Kobori.Sohta",
+            "team": "T06L90YHJF8",
+            "name": "sohtakobori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725891485.000439",
+        "parent_user_id": "U06LK0BP1TM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNDhX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん、予定あって参加できないです。申し訳ない "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " zoomなら参加できるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解",
+                "users": [
+                    "U06LK0BP1TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

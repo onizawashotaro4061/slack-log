@@ -1,0 +1,169 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1715306840.612369",
+        "thread_ts": "1715306840.612369",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1716367354.447439",
+        "reply_users": [
+            "U06L2DCDLF9",
+            "U06L97X3V6J",
+            "U06LDT584J1"
+        ],
+        "replies": [
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1715306864.076999"
+            },
+            {
+                "user": "U06L97X3V6J",
+                "ts": "1715318422.821869"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1715331067.249669"
+            },
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1715909839.564839"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1716283948.410009"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1716289313.941349"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1716367354.447439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U06L2DCDLF9",
+        "type": "message",
+        "ts": "1715306864.076999",
+        "edited": {
+            "user": "U06L2DCDLF9",
+            "ts": "1715306904.000000"
+        },
+        "client_msg_id": "88303099-C35B-449A-8FB7-63F045F06B70",
+        "text": "演出局A部門新企画一般企画書（本人の希望で10〜14時の間でお願いしたい！） <@U06L97X3V6J> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "133b0f9b72af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-18\/8047083882036_133b0f9b72af42b8c56b_72.png",
+            "first_name": "河野純大",
+            "real_name": "河野純大",
+            "display_name": "Kawano.​Junta",
+            "team": "T06L90YHJF8",
+            "name": "kwn.jnt2427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715306840.612369",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVK1+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "演出局A部門新企画一般企画書（本人の希望で10〜14時の間でお願いしたい！） "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06L97X3V6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "前",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1715318422.821869",
+        "client_msg_id": "9E9875B5-768E-4484-9D9B-8679597808D8",
+        "text": "サマフェス",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715306840.612369",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lErEF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サマフェス"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06L97X3V6J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

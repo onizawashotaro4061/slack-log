@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U070RQ167FG",
+        "type": "message",
+        "ts": "1733389117.681319",
+        "client_msg_id": "5E8779B4-DE63-43D3-B4A5-62966027E3FB",
+        "text": "お疲れ様です。\n少し遅刻します。よろしくお願いします",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e28bf1bce965",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-19\/8071426280144_e28bf1bce9650350ad4f_72.png",
+            "first_name": "山本",
+            "real_name": "山本 菜々子",
+            "display_name": "Yamamoto.Nanako",
+            "team": "T06L90YHJF8",
+            "name": "san.2007.09.06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733374102.844879",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l07F1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n少し遅刻します。よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LK3ZBCN6",
+        "type": "message",
+        "ts": "1733393126.520129",
+        "client_msg_id": "860BE388-638B-4C41-988B-E0C19DF1A999",
+        "text": "<!channel> なつくんお腹くだしてトイレこもってるので遅れます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c8dbe1b2e5fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8078063627280_c8dbe1b2e5fe511626b1_72.png",
+            "first_name": "飯田健斗",
+            "real_name": "飯田健斗",
+            "display_name": "Iida.Kento",
+            "team": "T06L90YHJF8",
+            "name": "iiken-1122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJQlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なつくんお腹くだしてトイレこもってるので遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U06LMH49UQL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "運営_ながしゅん_踊るブンカッキー",
+                "users": [
+                    "U06LMH49UQL",
+                    "U06LK7K9ALA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

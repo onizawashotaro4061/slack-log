@@ -1,0 +1,61 @@
+[
+    {
+        "text": "<!channel> 今日の選定会議の班わけです\n上げるところミスりましたーーー:woman-bowing:",
+        "files": [
+            {
+                "id": "F07AK68RF6H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GL1CUF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0nV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の選定会議の班わけです\n上げるところミスりましたーーー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719903842.917279",
+        "client_msg_id": "7b0d7b3b-ed55-48ae-8986-fa118baa789b",
+        "reactions": [
+            {
+                "name": "なるように成瀬",
+                "users": [
+                    "U06LXNY8KMF",
+                    "U06LK3HUVTL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "運営局_あんじゅ_ありが",
+                "users": [
+                    "U06LK3HUVTL",
+                    "U071B38HAM7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U06M7SW8GAU",
+        "type": "message",
+        "ts": "1726467455.293649",
+        "edited": {
+            "user": "U06M7SW8GAU",
+            "ts": "1727263335.000000"
+        },
+        "client_msg_id": "35F782A2-FC92-4717-9FA6-A261F5B07980",
+        "text": "<!channel>\n0917_第19回屋外ステージ部門会議\n【場所】あとでいう\n【時間】15：20～17：00\n【議題】1.共有事項（意思共有）\n　　　　2.第３回参加団体説明会の振り返りと反省（意見交換）\n                3.10月期リハーサル・台本詰め会議について（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： <@U0710SYRRAQ>\n                    チェック：  <@U06LK0FPH2P> <@U06LK3Q6Y2W>\n\n8月29と30に男子群馬旅行に行ってから夏休み最終日9月19まで予定がない日がないというハードな夏休み後半をこなしてます佐久間です\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b88465ab260b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7719089270950_b88465ab260b2dcb911f_72.png",
+            "first_name": "佐久間陽",
+            "real_name": "佐久間陽",
+            "display_name": "Sakuma.Haru",
+            "team": "T06L90YHJF8",
+            "name": "hal39863986",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iN3ce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0917_第19回屋外ステージ部門会議\n【場所】あとでいう\n【時間】15：20～17：00\n【議題】1.共有事項（意思共有）\n　　　　2.第３回参加団体説明会の振り返りと反省（意見交換）\n                3.10月期リハーサル・台本詰め会議について（意思共有）\n　　　　\n【持ち物】パソコン\n　　　　　\n【議事録】文責： "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710SYRRAQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                    チェック：  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK0FPH2P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3Q6Y2W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n8月29と30に男子群馬旅行に行ってから夏休み最終日9月19まで予定がない日がないというハードな夏休み後半をこなしてます佐久間です\n\n確認したらリアクションお願い！\n遅刻・欠席・早退はおれに連絡してー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LXP05G3B",
+                    "U06LK3Q6Y2W",
+                    "U071M6ZSSLQ",
+                    "U070YA6CQLB",
+                    "U06LK3PHPQA",
+                    "U071B3A1G4R",
+                    "U070Y9U7WRZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "はる",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "佐久間社割",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W",
+                    "U06LK3PHPQA",
+                    "U06LK3Q5M0S",
+                    "U070Y9U7WRZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "にこにこ屋外",
+                "users": [
+                    "U06LK0FPH2P",
+                    "U06LK3Q6Y2W",
+                    "U06LK3Q5M0S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "かしわ",
+                "users": [
+                    "U070YA6CQLB",
+                    "U070Y9U7WRZ",
+                    "U06LG655N21",
+                    "U06LXNZG6HX",
+                    "U06L4GJ4H9D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "明大前ジャック",
+                "users": [
+                    "U070YA6CQLB",
+                    "U06LG655N21",
+                    "U06LXNZG6HX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ホコ天",
+                "users": [
+                    "U070YA6CQLB",
+                    "U06LG655N21"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

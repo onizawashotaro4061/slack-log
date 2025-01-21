@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U06L97X3V6J",
+        "type": "message",
+        "ts": "1724301396.853419",
+        "client_msg_id": "B5E2228C-A40E-498D-8990-FA9EC8940758",
+        "text": "0826_第27回役員会\n場所：じつぼ\n時間：13:00-\n内容：",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "333b82a3126a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6747663138145_333b82a3126af0fed484_72.png",
+            "first_name": "前冬磨",
+            "real_name": "前冬磨",
+            "display_name": "Mae.Toma",
+            "team": "T06L90YHJF8",
+            "name": "maetouma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724301396.853419",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1724494614.445079",
+        "reply_users": [
+            "U06L2DCDLF9",
+            "U06LH4PDAQ3",
+            "U06LDT584J1"
+        ],
+        "replies": [
+            {
+                "user": "U06L2DCDLF9",
+                "ts": "1724409535.554529"
+            },
+            {
+                "user": "U06LH4PDAQ3",
+                "ts": "1724418595.944129"
+            },
+            {
+                "user": "U06LDT584J1",
+                "ts": "1724494614.445079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVeA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0826_第27回役員会\n場所：じつぼ\n時間：13:00-\n内容："
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-欠席",
+                "users": [
+                    "U06LH4PDAQ3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

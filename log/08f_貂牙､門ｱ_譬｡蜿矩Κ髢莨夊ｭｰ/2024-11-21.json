@@ -1,0 +1,421 @@
+[
+    {
+        "user": "U06L9S67MEJ",
+        "type": "message",
+        "ts": "1732190548.352569",
+        "edited": {
+            "user": "U06L9S67MEJ",
+            "ts": "1732191819.000000"
+        },
+        "client_msg_id": "7e1530c6-e457-466a-a58b-b96e73195f22",
+        "text": "<!channel>\n*【1122_第28回校友部門会議】*\n【時間】19:00〜20:40\n【場所】LS405\n【議題】\n• 賛助活動大反省会（意見交換）\n• 校友インタビュー説明大会（意思共有）\n• 諸連絡（意思共有）\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n最近ば先のビルのつけ麺屋を開拓したんですけど、\n量多くて激うまでした:ramen:\n明日も授業２つ休講なんで出勤します。5連勤です。\nいっぱい稼いじゃうぞ:moneybag::moneybag:\n\n*欠席、遅刻の際は理由とともにスレッドに書いてください。*\n見たらスタンプ押してねー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a560fdd32380",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-29\/6717963077525_a560fdd32380b6c2fea3_72.png",
+            "first_name": "太田悠翔",
+            "real_name": "太田悠翔",
+            "display_name": "Ohta.Yuto",
+            "team": "T06L90YHJF8",
+            "name": "youxiangt1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732190548.352569",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1732265834.890709",
+        "reply_users": [
+            "U06LXNYUX7T",
+            "U06LXNYUXS5",
+            "U06M7SUSYNL",
+            "U06L9S67MEJ"
+        ],
+        "replies": [
+            {
+                "user": "U06LXNYUX7T",
+                "ts": "1732190674.980109"
+            },
+            {
+                "user": "U06LXNYUXS5",
+                "ts": "1732244502.355639"
+            },
+            {
+                "user": "U06M7SUSYNL",
+                "ts": "1732262063.900159"
+            },
+            {
+                "user": "U06L9S67MEJ",
+                "ts": "1732265834.890709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tsvkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【1122_第28回校友部門会議】",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】19:00〜20:40\n【場所】LS405\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "賛助活動大反省会（意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "校友インタビュー説明"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "大会"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nｵﾂｶﾚｵﾂｶﾚ！太田です。\n最近ば先のビルのつけ麺屋を開拓したんですけど、\n量多くて激うまでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ramen",
+                                "unicode": "1f35c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日も授業２つ休講なんで出勤します。5連勤です。\nいっぱい稼いじゃうぞ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻の際は理由とともにスレッドに書いてください。",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見たらスタンプ押してねー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7SUSYNL",
+                    "U06M7ST2WTA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LXNYUX7T",
+                    "U06M7SUSYNL",
+                    "U071B3BRGN5",
+                    "U06M7ST2WTA"
+                ],
+                "count": 4
+            },
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U070HS31CP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "校友ワンチーム",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U070HS31CP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "スーパーサイヤ人",
+                "users": [
+                    "U06M7ST2WTA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "megamojiリザードン小原_バージョン2",
+                "users": [
+                    "U06M7ST2WTA",
+                    "U070HS31CP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cockroach",
+                "users": [
+                    "U06L4J69HV5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUX7T",
+        "type": "message",
+        "ts": "1732190674.980109",
+        "client_msg_id": "FE915970-1B01-4659-A859-7EFEA337A675",
+        "text": "校友インタビュー説明*大会*ね :bangbang: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bdef060065d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-05\/7362538579015_bdef060065d7e54854d2_72.png",
+            "first_name": "竹内悠花",
+            "real_name": "竹内悠花",
+            "display_name": "Takeuchi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "h.takeuchi30204",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732190548.352569",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LlEW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "校友インタビュー説明"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大会",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06L9S67MEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LXNYUXS5",
+        "type": "message",
+        "ts": "1732244502.355639",
+        "client_msg_id": "7ACA8FD5-231C-420B-88C1-F8846D5FDEC2",
+        "text": "髪切ったら前髪ぱっつんになったので休みたいです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ef9e5b2a2137",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-25\/6699015601939_ef9e5b2a213717992931_72.jpg",
+            "first_name": "高岩和樹",
+            "real_name": "高岩和樹",
+            "display_name": "Takaiwa.Kazuki",
+            "team": "T06L90YHJF8",
+            "name": "kazuki.kappii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732190548.352569",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4u7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "髪切ったら前髪ぱっつんになったので休みたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "爆笑爆笑２",
+                "users": [
+                    "U070HS31CP9",
+                    "U06L9S67MEJ",
+                    "U06M7SUSYNL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "00-激アツ",
+                "users": [
+                    "U070HS31CP9",
+                    "U06L9S67MEJ",
+                    "U06M7SUSYNL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06M7SUSYNL",
+        "type": "message",
+        "ts": "1732262063.900159",
+        "client_msg_id": "EBF99830-E1E4-4414-9E45-A1D0119E4914",
+        "text": "<@U06LXNYUXS5> 絶対来てね :heartpulse: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "91c7a30b3d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6709208137046_91c7a30b3d91571a135f_72.png",
+            "first_name": "齋藤",
+            "real_name": "齋藤 和",
+            "display_name": "Saito.Nodoka",
+            "team": "T06L90YHJF8",
+            "name": "non.s1108",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732190548.352569",
+        "parent_user_id": "U06L9S67MEJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BXVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LXNYUXS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 絶対来てね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heartpulse",
+                                "unicode": "1f497"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

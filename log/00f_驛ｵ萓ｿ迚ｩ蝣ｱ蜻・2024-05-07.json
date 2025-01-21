@@ -1,0 +1,75 @@
+[
+    {
+        "text": "お疲れ様です。\n郵便物です。",
+        "files": [
+            {
+                "id": "F072CK6UNQL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06L4GH4ETH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qva9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n郵便物です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715072351.960119",
+        "client_msg_id": "9571002C-824E-4BFE-9E19-80A3E6468EE0"
+    },
+    {
+        "text": "郵便物届いてました！\n宛先分からないので仕事部屋の机の上に置いておきます。",
+        "files": [
+            {
+                "id": "F072UDK3JFK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LY5XNLBT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0r5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "郵便物届いてました！\n宛先分からないので仕事部屋の机の上に置いておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715141226.264089",
+        "client_msg_id": "2CF17AE7-4D3E-4484-B1B8-E4ED280486EA",
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L4GJ031V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

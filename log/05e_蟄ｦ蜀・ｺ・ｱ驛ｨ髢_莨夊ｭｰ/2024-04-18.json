@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06LXNZJBFT",
+        "type": "message",
+        "ts": "1713431618.601029",
+        "client_msg_id": "1C7FF85B-71AE-458F-BAD0-9605032A4FA0",
+        "text": "体調不良のため休みます。本当にすみません :woman-bowing: :sweat_drops: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30f77d3d9864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6752550180912_30f77d3d9864b8f106d3_72.png",
+            "first_name": "岡部ちひろ",
+            "real_name": "岡部ちひろ",
+            "display_name": "Okabe.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "shiera.0122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713316861.438579",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Gy46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のため休みます。本当にすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U06LJ0SKMEZ",
+        "type": "message",
+        "ts": "1724147451.836149",
+        "edited": {
+            "user": "U06LJ0SKMEZ",
+            "ts": "1724215441.000000"
+        },
+        "client_msg_id": "FD5B5868-C136-4D0B-A48F-68B21830BFED",
+        "text": "<!channel>\n【第13回動画部門会議】\n日時:8月22日（木）10:50～12:30\n場所:第1校舎315-317のどれか\n持ち物:パソコン\n議事録:新規？\n\n議題\n1.依頼物について(意思共有)\n2.諸連絡(意思共有)\n\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d91753e24f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-11\/7558997419282_d91753e24f7352431ae1_72.png",
+            "first_name": "柴田芽依",
+            "real_name": "柴田芽依",
+            "display_name": "Shibata.Mei",
+            "team": "T06L90YHJF8",
+            "name": "pupon585",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724147451.836149",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1724290371.343209",
+        "reply_users": [
+            "U06LK0DK7R9",
+            "U070Y9S80D9",
+            "U070YD7LPR8"
+        ],
+        "replies": [
+            {
+                "user": "U06LK0DK7R9",
+                "ts": "1724152782.017869"
+            },
+            {
+                "user": "U070Y9S80D9",
+                "ts": "1724223829.662229"
+            },
+            {
+                "user": "U070YD7LPR8",
+                "ts": "1724290371.343209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Efjwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【第13回動画部門会議】\n日時:8月22日（木）10:50～12:30\n場所:第1校舎315-317のどれか\n持ち物:パソコン\n議事録:新規？\n\n議題\n1.依頼物について(意思共有)\n2.諸連絡(意思共有)\n\n\nです！\n\n出席・欠席・遅刻・早退スタンプで反応お願いしますー\nスレッドで理由もお願いします！\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LJ0SKMEZ",
+                    "U070YD7LPR8",
+                    "U070Y9QMUSX",
+                    "U070HS3CTQX",
+                    "U06LXNYGGHX",
+                    "U070Y9S80D9",
+                    "U06LXNUQ989",
+                    "U070YD7KHLJ",
+                    "U071B3BQRR7"
+                ],
+                "count": 9
+            },
+            {
+                "name": "早退",
+                "users": [
+                    "U06LK0DK7R9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LK0DK7R9",
+        "type": "message",
+        "ts": "1724152782.017869",
+        "client_msg_id": "7280CDB3-DD69-4CAF-BF17-363176A2F8C3",
+        "text": "12時で早退します:man-bowing:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ab581055a4dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-24\/8060428663063_ab581055a4dd6481617f_72.png",
+            "first_name": "白川泰晟",
+            "real_name": "白川泰晟",
+            "display_name": "Shirakawa.Taisei",
+            "team": "T06L90YHJF8",
+            "name": "shirakappa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724147451.836149",
+        "parent_user_id": "U06LJ0SKMEZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+XxOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12時で早退します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LJ0SKMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06LJB446QL",
+        "type": "message",
+        "ts": "1719914309.691909",
+        "client_msg_id": "FFF618C8-B8D1-467A-AF1E-50116FD81702",
+        "text": "すんません熱出ちゃいました:face_with_thermometer:ごめん",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "7077ac0fa846",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-14\/7272467072659_7077ac0fa84677003515_72.png",
+            "first_name": "鈴木雄大",
+            "real_name": "鈴木雄大",
+            "display_name": "Suzuki.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "fpr42000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719822103.605909",
+        "parent_user_id": "U06LCE69DRU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KRRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すんません熱出ちゃいました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_thermometer",
+                                "unicode": "1f912"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ごめん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LG6Q48SZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

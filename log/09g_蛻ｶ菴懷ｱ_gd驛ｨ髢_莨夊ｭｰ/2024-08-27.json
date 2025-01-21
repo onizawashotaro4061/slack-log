@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U06L4GM5C87",
+        "type": "message",
+        "ts": "1724753301.743589",
+        "client_msg_id": "AD90D624-1CC0-4C70-A305-6A43B00F14D2",
+        "text": "<@U06M7SSDQQG> 期待してます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c70856c12900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7985651235378_c70856c129008699b159_72.png",
+            "first_name": "成瀬壮太",
+            "real_name": "成瀬壮太",
+            "display_name": "Naruse.Sota",
+            "team": "T06L90YHJF8",
+            "name": "sota.10210818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724686570.243149",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8XT++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M7SSDQQG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 期待してます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071M71R0EL",
+        "type": "message",
+        "ts": "1724821702.545039",
+        "client_msg_id": "75C44350-9CDA-4CED-97B3-1E5C41EE0119",
+        "text": "国外にいるのでお休みします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "42f6d9618ddf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-05\/7693063484481_42f6d9618ddfa6e2eef8_72.png",
+            "first_name": "八木遥",
+            "real_name": "八木遥",
+            "display_name": "Yagi.Haruka",
+            "team": "T06L90YHJF8",
+            "name": "harukayagi0804",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1724686570.243149",
+        "parent_user_id": "U06L4GM5C87",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ActM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "国外にいるのでお休みします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flag-kh",
+                "users": [
+                    "U06LG61U9QD",
+                    "U070Y9S1CRH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

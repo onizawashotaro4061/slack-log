@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06LY5XNLBT",
+        "type": "message",
+        "ts": "1717036792.722989",
+        "client_msg_id": "2D93BF2D-83DC-44E5-A58A-19D19989AC72",
+        "text": "<@U070RQ543FG> <@U070HS202UX> <@U0710T0NBFE> <@U070VG0DP0D> スタンプ押してねー！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "30cd68d80356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-20\/8055229613795_30cd68d80356b089fcbe_72.png",
+            "first_name": "熊木麻由",
+            "real_name": "熊木麻由",
+            "display_name": "Kumaki.Mayu",
+            "team": "T06L90YHJF8",
+            "name": "mayumayu-v6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716943493.146089",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGVQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070RQ543FG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070HS202UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0710T0NBFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U070VG0DP0D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スタンプ押してねー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1717039044.007059",
+        "client_msg_id": "27c3df9d-d996-43ab-8bc7-9acdd8857c33",
+        "text": "体調不良のためお休みさせていただきます。大事な会なのに申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716943493.146089",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJjBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良のためお休みさせていただきます。大事な会なのに申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF",
+                    "U06LY5XNLBT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LY5XNLBT",
+                    "U06LCVDE88N",
+                    "U06LK3KA09G",
+                    "U06LXNY8KMF",
+                    "U06LCE9HTP0",
+                    "U06L4GJBJP9",
+                    "U0710T0NBFE",
+                    "U070YD75PJ6"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

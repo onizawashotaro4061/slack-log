@@ -1,0 +1,207 @@
+[
+    {
+        "text": "赤字が追記だから、黒に直してPDF化してワンドラとSlackにあげといて！",
+        "files": [
+            {
+                "id": "F07LEKFLXDZ",
+                "created": 1725771738,
+                "timestamp": 1725771738,
+                "name": "0907_第6回明大前ジャックチーム会議議事録_01.docx",
+                "title": "0907_第6回明大前ジャックチーム会議議事録_01.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06M7SU83G8",
+                "user_team": "T06L90YHJF8",
+                "editable": false,
+                "size": 27217,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07LEKFLXDZ\/0907____6_________________________________________________01.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06L90YHJF8-F07LEKFLXDZ\/download\/0907____6_________________________________________________01.docx?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07LEKFLXDZ-ba3a379bc4\/0907____6_________________________________________________01_converted.pdf?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T06L90YHJF8-F07LEKFLXDZ-ba3a379bc4\/0907____6_________________________________________________01_thumb_pdf.png?t=xoxe-6689032596518-8136527285477-8141879413588-6b5e989c0a4041bd1b1cc8a9f4c34021",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/140meidisai.slack.com\/files\/U06M7SU83G8\/F07LEKFLXDZ\/0907____6_________________________________________________01.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T06L90YHJF8-F07LEKFLXDZ-0149ec2d7d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06M7SU83G8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFQ\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "赤字が追記だから、黒に直してPDF化してワンドラとSlackにあげといて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1725771797.893819",
+        "client_msg_id": "60f1146d-87d0-4694-98ad-610558a435fc",
+        "thread_ts": "1725677755.411159",
+        "parent_user_id": "U06LCECJD8W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725771808.813779",
+        "client_msg_id": "ca5eb3af-ac5a-4e94-9b24-0b460f790928",
+        "text": "<@U06LCECJD8W>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725677755.411159",
+        "parent_user_id": "U06LCECJD8W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vE7JC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LCECJD8W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725771916.648289",
+        "client_msg_id": "E042F7AC-B264-40F3-8E9B-7349E1842F78",
+        "text": "これで良いや！\nPDFのやつSlackにもあげといて！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725685383.707159",
+        "parent_user_id": "U06LK5HCSE6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0eOz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これで良いや！\nPDFのやつSlackにもあげといて！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK5HCSE6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7SU83G8",
+        "type": "message",
+        "ts": "1725771924.116889",
+        "client_msg_id": "5CE9EB9E-F855-4B51-9F64-63D481F547F6",
+        "text": "<@U06LK5HCSE6> ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e003ef23f805",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692505345574_e003ef23f80541c1c38c_72.png",
+            "first_name": "石井寛之助",
+            "real_name": "石井寛之助",
+            "display_name": "Ishii.Kannosuke",
+            "team": "T06L90YHJF8",
+            "name": "kannosuke0903",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1725685383.707159",
+        "parent_user_id": "U06LK5HCSE6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GK7cc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK5HCSE6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

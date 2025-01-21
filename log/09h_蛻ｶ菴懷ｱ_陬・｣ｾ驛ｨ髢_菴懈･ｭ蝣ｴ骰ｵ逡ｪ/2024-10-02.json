@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U06LXP316UR",
+        "type": "message",
+        "ts": "1727918783.516359",
+        "client_msg_id": "6CB8BAF9-2E19-4FEC-99D5-9CB0EF2B4F2B",
+        "text": "遅くなっちゃってごめんなさいのあけ！ :crying_cat_face: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cfc9310da862",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-06\/8116063170183_cfc9310da862f718ef36_72.png",
+            "first_name": "　",
+            "real_name": "　",
+            "display_name": "",
+            "team": "T06L90YHJF8",
+            "name": "yuina.4062",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bo5FP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅くなっちゃってごめんなさいのあけ！ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LK3LM7AN",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LG6F13M3",
+                    "U06LP6ZTYA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "そってぃー",
+                "users": [
+                    "U06LP6ZTYA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

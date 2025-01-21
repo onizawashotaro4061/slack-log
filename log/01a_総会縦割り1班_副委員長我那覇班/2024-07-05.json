@@ -1,0 +1,114 @@
+[
+    {
+        "text": "<!channel> \n説明が終わったらこの班に分かれてください！",
+        "files": [
+            {
+                "id": "F07BBVCFFAQ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F07B2S2CSRL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ms3Vs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n説明が終わったらこの班に分かれてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720242035.302479",
+        "client_msg_id": "E39B0DE2-E452-4D07-9487-4B6B4EDE9E37",
+        "reactions": [
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06LMH9MBFW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F07B9C204SX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720242200.154739",
+        "client_msg_id": "830a102d-53c7-4738-8892-cbdf2b8fedce"
+    },
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F07B2ULH78W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LDT584J1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720246428.824989",
+        "client_msg_id": "d7279b43-be4b-4199-8945-3214ef27c3a5"
+    }
+]

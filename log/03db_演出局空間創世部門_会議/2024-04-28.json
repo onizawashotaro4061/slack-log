@@ -1,0 +1,282 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1714292248.105479",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1714292265.000000"
+        },
+        "client_msg_id": "bec9c58b-78da-488e-a74e-0db426162628",
+        "text": "*<!channel>* \n会議連絡！\n【時間】4\/29(月)22:00～\n【場所】Zoom\n【議題】(予定)\n1.部門名再々決定(意見交換・決定)\n2.芸能人誘致について(意見交換)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ゆーだい、敲き→くまくん、たっかでよろしく！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714292248.105479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1714371743.175349",
+        "reply_users": [
+            "U06LK3L32MQ",
+            "U06M7T7SSDN"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3L32MQ",
+                "ts": "1714362007.831419"
+            },
+            {
+                "user": "U06M7T7SSDN",
+                "ts": "1714371743.175349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zp7eV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！\n【時間】4\/29(月)22:00～\n【場所】Zoom\n【議題】(予定)\n1.部門名再々決定(意見交換・決定)\n2.芸能人誘致について(意見交換)\n\n欠席、遅刻、早退はスレッドへ～\n\n議事録は作成→ゆーだい、敲き→くまくん、たっかでよろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "たっか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LXNY0MHP",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "a部門はえぇ部門",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LXNY0MHP",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ゆーだいばなな",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ふっかちゃん",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "やましいぞいたる",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "くまくん",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "スタバこむ",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "カルディゆりか",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LCE9AKQW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "浦愛華",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LK3L32MQ",
+                    "U06LMH5ACGL",
+                    "U06LMHDAZKN",
+                    "U06LCE9AKQW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "七転び八起きターイム",
+                "users": [
+                    "U06LG6EJPE1",
+                    "U06LXNY0MHP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LK3L32MQ",
+        "type": "message",
+        "ts": "1714362007.831419",
+        "client_msg_id": "a56f8e4e-3c89-4969-bc32-5b3e260f6030",
+        "text": "用事があるため遅刻をする可能性が高いです",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "0b4acf8abe7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-20\/7141373556133_0b4acf8abe7d8389d1f0_72.jpg",
+            "first_name": "小川雄大",
+            "real_name": "小川雄大",
+            "display_name": "Ogawa.Yudai",
+            "team": "T06L90YHJF8",
+            "name": "yudai2004ogawa0614",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714292248.105479",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ngx6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用事があるため遅刻をする可能性が高いです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukare",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M7T7SSDN",
+        "type": "message",
+        "ts": "1714371743.175349",
+        "client_msg_id": "23069800-755b-4906-92d0-4517ff1ee743",
+        "text": "予定があるため欠席します。すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b9bdd6ad335f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-03\/6735699381570_b9bdd6ad335f08da6742_72.jpg",
+            "first_name": "熊耳諒",
+            "real_name": "熊耳諒",
+            "display_name": "Kumagami.Ryo",
+            "team": "T06L90YHJF8",
+            "name": "orca8424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714292248.105479",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4nEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LXNY0MHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1728375549.320139",
+        "client_msg_id": "6347d69c-c3eb-474a-adb6-ef4c3b565fbf",
+        "text": "授業のため遅刻します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302189.707949",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFNsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業のため遅刻します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070RQ543FG",
+        "type": "message",
+        "ts": "1728379211.560279",
+        "client_msg_id": "B72B3763-0D57-476E-A193-832706614817",
+        "text": "ゼミガイダンスのため欠席します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "963b6fa7361e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025830097990_963b6fa7361ecc21325b_72.png",
+            "first_name": "菊地菜々美",
+            "real_name": "菊地菜々美",
+            "display_name": "Kikuchi.Nanami",
+            "team": "T06L90YHJF8",
+            "name": "sakukoko2556",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728302189.707949",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CeflP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミガイダンスのため欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

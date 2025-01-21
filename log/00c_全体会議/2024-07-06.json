@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06M7TE180Y",
+        "type": "message",
+        "ts": "1720249340.916889",
+        "edited": {
+            "user": "U06M7TE180Y",
+            "ts": "1720249379.000000"
+        },
+        "client_msg_id": "3bb34ef1-1d77-4e25-b1da-a784a969462e",
+        "text": "<!channel>\n【7月期総会アンケート】\n総会おつかれさまでした！\n今日の総会におけるアンケートのご協力お願いします。*※出席者は回答必須*\n〆切は、今日*7\/6（土）23：59*厳守です！！！\n\n今のうちに提出してラクしましょう～\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdto43EJjsAF_elwn59HRfLdPusEkehOcVG6Se4UjG7zVJk3A\/viewform?usp=sf_link|【7月期総会アンケートはこちら！】>",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "8c82301642a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-14\/6972428531377_8c82301642a2d9368a9d_72.png",
+            "first_name": "石井千尋",
+            "real_name": "石井千尋",
+            "display_name": "Ishii.Chihiro",
+            "team": "T06L90YHJF8",
+            "name": "sen1412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWBPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【7月期総会アンケート】\n総会おつかれさまでした！\n今日の総会におけるアンケートのご協力お願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※出席者は回答必須",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n〆切は、今日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/6（土）23：59",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "厳守です！！！\n\n今のうちに提出してラクしましょう～\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdto43EJjsAF_elwn59HRfLdPusEkehOcVG6Se4UjG7zVJk3A\/viewform?usp=sf_link",
+                                "text": "【7月期総会アンケートはこちら！】"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LMH3BZ8C",
+                    "U070HS2FRT9",
+                    "U0710T3MCUC",
+                    "U06LJ4HJLMS",
+                    "U071B38LED7",
+                    "U070RQ20K8W",
+                    "U06LM0QJV3L",
+                    "U06LMQR40J0"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U06LMH49MQU",
+                    "U06LM0QJV3L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "総務＿ちひ",
+                "users": [
+                    "U06LCE9NLP8",
+                    "U070VFZF6BF",
+                    "U06LMH49MQU"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1717664955.354669",
+        "client_msg_id": "619A4C5A-15A7-40A6-A01E-FA40BB77EE06",
+        "text": "すみません遅刻します30分前後",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717654717.080939",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXb4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません遅刻します30分前後"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ジョージ1",
+                "users": [
+                    "U06LXNWG67K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "か＿それって妥協じゃね",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "あれれおかしいぞ",
+                "users": [
+                    "U06LK7K9ALA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LCE8C51U",
+        "type": "message",
+        "ts": "1717667581.822159",
+        "client_msg_id": "FA813114-8EC2-40C8-88B5-D3927497FDF1",
+        "text": "めっちゃ巻きあげてます",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2c3bb3f07f03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-10\/7097128640435_2c3bb3f07f03a4674856_72.png",
+            "first_name": "甲斐胡桃",
+            "real_name": "甲斐胡桃",
+            "display_name": "Kai.Kurumi",
+            "team": "T06L90YHJF8",
+            "name": "blue67pinn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717654717.080939",
+        "parent_user_id": "U06LXNWG67K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCg+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めっちゃ巻きあげてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

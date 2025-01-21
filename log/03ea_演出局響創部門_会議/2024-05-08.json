@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1715216440.110169",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1715579083.000000"
+        },
+        "client_msg_id": "CD270630-5013-4EBE-8450-B579A13371F7",
+        "text": "<!channel>\n会議連絡！！\n\n【時間】5\/9 (木) 19:00-20:40\n【場所】LS305\n【議題】(予定)\n1. 各種報告（意思共有）\n2. 新規合流後の渉内活動について （意見交換）\n終わったらチーム会議 〜\nみんな調子どう？私は水曜日に気づいたらスタバ5連勤目だったよ、早起き得意になったわ :smile:\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ :猫ミーム-ハッピーハッピーハッピー:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v71V3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！！\n\n【時間】5\/9 (木) 19:00-20:40\n【場所】LS305\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新規合流後の渉内活動について （意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n終わったらチーム会議 〜\nみんな調子どう？私は水曜日に気づいたらスタバ5連勤目だったよ、早起き得意になったわ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nスタンプ押してねん\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "猫ミーム-ハッピーハッピーハッピー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おつニダ",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LG63FM1B",
+                    "U06LXP2EGKT",
+                    "U06LMH4T528",
+                    "U06LK0G74NP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

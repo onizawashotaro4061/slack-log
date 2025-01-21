@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U06LE249H0V",
+        "type": "message",
+        "ts": "1724057153.982369",
+        "client_msg_id": "1DDD7155-CBCC-4AC3-9850-B5AF63896763",
+        "text": "<!channel>\n\n時間になったらお願いします\n\n塚田滉平 さんがあなたをスケジュール済みの Zoom ミーティングに招待しています。\n\nトピック: 塚田滉平のパーソナルミーティングルーム\n\n参加 Zoom ミーティング\n<https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09|https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09>\n\nミーティング ID: 987 896 6500\nパスコード: dt7Mp9\n\n",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d0cd0d80f083",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7710011876883_d0cd0d80f08333d90eb3_72.png",
+            "first_name": "塚田滉平",
+            "real_name": "塚田滉平",
+            "display_name": "Tsukada.Kohei",
+            "team": "T06L90YHJF8",
+            "name": "kouhinamm6191",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUz1L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n時間になったらお願いします\n\n塚田滉平 さんがあなたをスケジュール済みの Zoom ミーティングに招待しています。\n\nトピック: 塚田滉平のパーソナルミーティングルーム\n\n参加 Zoom ミーティング\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09",
+                                "text": "https:\/\/us05web.zoom.us\/j\/9878966500?pwd=WGVxWWVxcTd3Y0NRbFArNUtvcktrZz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティング ID: 987 896 6500\nパスコード: dt7Mp9\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070HS3T3D5",
+        "type": "message",
+        "ts": "1724057178.671879",
+        "client_msg_id": "021BE6D2-3C45-496A-BA60-1EF667FC2A04",
+        "text": "予定があるため欠席します。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "2ea9af830b18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-16\/7124469092354_2ea9af830b18c9aa8d93_72.png",
+            "first_name": "高杉姫和",
+            "real_name": "高杉姫和",
+            "display_name": "Takasugi.Hiyori",
+            "team": "T06L90YHJF8",
+            "name": "gaoshanjihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723985367.004899",
+        "parent_user_id": "U06LE249H0V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/eqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるため欠席します。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

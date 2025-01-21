@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1728960181.199969",
+        "edited": {
+            "user": "U06LXNY0MHP",
+            "ts": "1729066213.000000"
+        },
+        "client_msg_id": "9901c673-5034-4513-aaa6-ecab252984a0",
+        "text": "<!channel>\nおはようリハーサル連絡！\n【時間】10\/15(火) 19:00集合、19:10開始\n【場所】食堂3階\n【議題】(予定)\n\n1.中夜祭リハ！\n\n台本印刷数(中夜祭)\n進行:23\nPA:7\n司会:5\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728960181.199969",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1728984111.592829",
+        "reply_users": [
+            "U0710T40TFW",
+            "U06LG64U8DB",
+            "U06LXNY0MHP",
+            "U070RQ0DUBG"
+        ],
+        "replies": [
+            {
+                "user": "U0710T40TFW",
+                "ts": "1728960633.672359"
+            },
+            {
+                "user": "U06LG64U8DB",
+                "ts": "1728972230.850439"
+            },
+            {
+                "user": "U06LXNY0MHP",
+                "ts": "1728973227.399069"
+            },
+            {
+                "user": "U070RQ0DUBG",
+                "ts": "1728984111.592829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zh829",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようリハーサル連絡！\n【時間】10\/15(火) 19:00集合、19:10開始\n【場所】食堂3階\n【議題】(予定)\n\n1.中夜祭リハ！\n\n台本印刷数(中夜祭)\n進行:23\nPA:7\n司会:5\n\n欠席、早退、遅刻はスレッドへ〜～～～(*｣´□`)｣"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070HS2GY5V",
+                    "U06LG6EJPE1",
+                    "U06LMH5ACGL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "えいやー",
+                "users": [
+                    "U06LMH5ACGL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0710T40TFW",
+        "type": "message",
+        "ts": "1728960633.672359",
+        "client_msg_id": "7E0C70EF-9509-4A49-BE83-D870FF038C0D",
+        "text": "バイトがあるため、10〜20分ほど遅刻するかもしれません。申し訳ありません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e68a071d3bef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-28\/7349217309092_e68a071d3bef85a1854d_72.png",
+            "first_name": "松川唯",
+            "real_name": "松川唯",
+            "display_name": "Matsukawa.Yui",
+            "team": "T06L90YHJF8",
+            "name": "matsu-yui42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728960181.199969",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRlET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトがあるため、10〜20分ほど遅刻するかもしれません。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06LMH5ACGL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LG64U8DB",
+        "type": "message",
+        "ts": "1728972230.850439",
+        "client_msg_id": "06AC602C-C9F2-476C-BF82-81158F317C2D",
+        "text": "今日中夜です！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9e4ba1901d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6812397244962_9e4ba1901d3baf101920_72.png",
+            "first_name": "福田至",
+            "real_name": "福田至",
+            "display_name": "Fukuda.Itaru",
+            "team": "T06L90YHJF8",
+            "name": "itaru.fkd1117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728960181.199969",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nJvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日中夜です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LXNY0MHP",
+        "type": "message",
+        "ts": "1728973227.399069",
+        "client_msg_id": "9e4a5a72-4f1e-423e-b637-c3d287e3991e",
+        "text": "そやった",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6ab70a639007",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-31\/7955280275941_6ab70a639007cfcc8dc3_72.jpg",
+            "first_name": "古川敬久",
+            "real_name": "古川敬久",
+            "display_name": "Furukawa.Takahisa",
+            "team": "T06L90YHJF8",
+            "name": "takka0422",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1728960181.199969",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eI35q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そやった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

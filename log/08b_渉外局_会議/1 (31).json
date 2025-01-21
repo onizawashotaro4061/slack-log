@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U070U6XGE07",
+        "type": "message",
+        "ts": "1715676498.131809",
+        "client_msg_id": "B9B29A6E-EAB9-4BA3-B3BD-DCEE0699B041",
+        "text": "バイトが入ったので、欠席します。すみません。分担金は同じ班の品川こうすけ君に預けてあります。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4b4dca6e80cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-08\/7107895877840_4b4dca6e80cbe4cef397_72.png",
+            "first_name": "井上大暉",
+            "real_name": "井上大暉",
+            "display_name": "Inoue.Daiki",
+            "team": "T06L90YHJF8",
+            "name": "daikidaiki0525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715385600.176759",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "urLwe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトが入ったので、欠席します。すみません。分担金は同じ班の品川こうすけ君に預けてあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

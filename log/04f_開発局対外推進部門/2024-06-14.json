@@ -1,0 +1,213 @@
+[
+    {
+        "text": "本当にごめんなさい！\nあげるファイルを間違っていたので、上げなおします！\nこちらをご提出お願いします！",
+        "files": [
+            {
+                "id": "F078HSVB7ED",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3ZBCN6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUq\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にごめんなさい！\nあげるファイルを間違っていたので、上げなおします！\nこちらをご提出お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718365216.624359",
+        "client_msg_id": "16f507aa-6d64-425b-bf0d-1fa3462ff651",
+        "reactions": [
+            {
+                "name": "か_本間すまん",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK3ZBCN6",
+                    "U06L4GKGXB9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LXP1JG0Z",
+        "type": "message",
+        "ts": "1718414668.778719",
+        "edited": {
+            "user": "U06LXP1JG0Z",
+            "ts": "1718414758.000000"
+        },
+        "client_msg_id": "dce176c6-9ef8-47e9-b361-57a3785da81d",
+        "text": "<!channel>\nお疲れ様です！\n受験生チーム（仮）の川畑です。いま、企画の手段を決めてる最中なのですが、せっかくなら新規のみんなに手段を考えてもらいたいなぁ！って思ってます。\n\n明大祭には毎年明治への受験を考えている人が来ます。\n受験生に対して、どんな手段を実施したら面白いか、どんな手段を実施したら受験生に限らずいろんな人を巻き込めるか、とか自由に考えてもらって大丈夫:man-gesturing-ok:です！\n去年受験を実際に経験した立場から、いろんなアイデア出して欲しいな！継続だけじゃ考えが煮詰まっちゃうので新規の皆さんに力を貸していただきたいです:cry:\n川畑、田中宛にSlackのDMでも、ラインのグルのノートでも、こちゃでもなんでもいいので思いついた人はアイデアを出していただけるととっっっても助かります！（なる早だともっと助かる）\nただ！そのアイデアが必ずしも採用されるわけではないのでそこはごめんなさい！\nって言っても多分イメージわかないと思うので、\n<https:\/\/onedrive.live.com\/?id=93481E220B586380%2134534&cid=93481E220B586380|OneDrive＞自分のファイル＞各局＞03_開発局＞07_対外推進部門＞08_チームγ＞04_過去資料>\nに過去の明大祭で行った受験生企画をアップロードしています！\n136thの明治の教授業\n138th知識メイジン\nとかは結構参考になると思う！\n過去企画調査始まったばっかりなのにごめんね！よろしくお願いします！",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bb97d8df9170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-14\/7872521981762_bb97d8df91709958a896_72.png",
+            "first_name": "川畑湧太郎",
+            "real_name": "川畑湧太郎",
+            "display_name": "Kawabata.Yutaro",
+            "team": "T06L90YHJF8",
+            "name": "yutaro3165",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7w59",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n受験生チーム（仮）の川畑です。いま、企画の手段を決めてる最中なのですが、せっかくなら新規のみんなに手段を考えてもらいたいなぁ！って思ってます。\n\n明大祭には毎年明治への受験を考えている人が来ます。\n受験生に対して、どんな手段を実施したら面白いか、どんな手段を実施したら受験生に限らずいろんな人を巻き込めるか、とか自由に考えてもらって大丈夫"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！\n去年受験を実際に経験した立場から、いろんなアイデア出して欲しいな！継続だけじゃ考えが煮詰まっちゃうので新規の皆さんに力を貸していただきたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n川畑、田中宛にSlackのDMでも、ラインのグルのノートでも、こちゃでもなんでもいいので思いついた人はアイデアを出していただけるととっっっても助かります！（なる早だともっと助かる）\nただ！そのアイデアが必ずしも採用されるわけではないのでそこはごめんなさい！\nって言っても多分イメージわかないと思うので、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/onedrive.live.com\/?id=93481E220B586380%2134534&cid=93481E220B586380",
+                                "text": "OneDrive＞自分のファイル＞各局＞03_開発局＞07_対外推進部門＞08_チームγ＞04_過去資料"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nに過去の明大祭で行った受験生企画をアップロードしています！\n136thの明治の教授業\n138th知識メイジン\nとかは結構参考になると思う！\n過去企画調査始まったばっかりなのにごめんね！よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "おつかれいたなかれいレベル2",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9"
+                ],
+                "count": 5
+            },
+            {
+                "name": "開発は情熱",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U071M6X5M16"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U070RQ1EK2S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "頑張っててえらい",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "共創の_超越",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "か_だいご",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LK04QJ0K",
+                    "U0710T14PU4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "鈴木酒こう",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ワンチ",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LG63FJUD",
+                    "U06LK04QJ0K",
+                    "U070YD83MD0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "b部門はbぇすとな部門",
+                "users": [
+                    "U06LK3ZBCN6",
+                    "U06LK04QJ0K",
+                    "U06L4GKGXB9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_いつき_村川",
+                "users": [
+                    "U06LCE4EV2A",
+                    "U06LK04QJ0K"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

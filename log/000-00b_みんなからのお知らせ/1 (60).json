@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U06LKEPTCA0",
+        "type": "message",
+        "ts": "1728379796.021609",
+        "client_msg_id": "53ACE133-66E2-4CFB-A490-84E8B65E8F4D",
+        "text": "<!channel> \n【スタッフパスケースについて】\nお疲れ様です〜財務局長佐久間です〜\n本祭でみなさんが使うスタッフパスのケースを買うんですが、*継続の方で去年のやつ持ってる人*はそれを使ってほしいので、持ってる人は ここに:name_badge: スタンプ押してください〜\n10\/12(土)まででお願いします！(総会でまた言いますね)",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "ad7dfb73ad2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-07\/7996971347604_ad7dfb73ad2f53f279f8_72.png",
+            "first_name": "佐久間太福人",
+            "real_name": "佐久間太福人",
+            "display_name": "Sakuma.Taft",
+            "team": "T06L90YHJF8",
+            "name": "tafsakuma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fnXpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n【スタッフパスケースについて】\nお疲れ様です〜財務局長佐久間です〜\n本祭でみなさんが使うスタッフパスのケースを買うんですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "継続の方で去年のやつ持ってる人",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "はそれを使ってほしいので、持ってる人は ここに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "name_badge",
+                                "unicode": "1f4db"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スタンプ押してください〜\n10\/12(土)まででお願いします！(総会でまた言いますね)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "name_badge",
+                "users": [
+                    "U06LKEPTCA0",
+                    "U06LCED6ZK8",
+                    "U06L97X3V6J",
+                    "U06M7SU83G8",
+                    "U06LK0FPH2P",
+                    "U06LCE9HTP0",
+                    "U06LK04QJ0K",
+                    "U06L4GL1CUF",
+                    "U06LK0EBWRH",
+                    "U06LEAGKTSS",
+                    "U06LJ0SKMEZ",
+                    "U06LG66Q84D",
+                    "U06LK7K9ALA",
+                    "U06LCE4DK46",
+                    "U06LK0BP1TM",
+                    "U06LK3KA09G",
+                    "U06LCEF912S",
+                    "U06LG6B2NA1",
+                    "U06LMH3BZ8C",
+                    "U06LCE9NLP8",
+                    "U06M7SSUS0G",
+                    "U06L4GLJVKR",
+                    "U06LCE7DY6S",
+                    "U06LXNZJBFT",
+                    "U06LK0FC935",
+                    "U06LCE78Y94",
+                    "U06LG63FJUD",
+                    "U06LXNXNWGH",
+                    "U06L4GM5C87",
+                    "U06L4GJ031V",
+                    "U06LK0K4XGT",
+                    "U06LMH49MQU",
+                    "U06LCE9AKQW",
+                    "U06LCE9JG3G",
+                    "U06LY8E3XA5",
+                    "U06LMHBUVT6",
+                    "U06LK3M7VGA",
+                    "U06LK3L8RNE",
+                    "U06L4GHAANB",
+                    "U06L4GKK0CF",
+                    "U06M7TE180Y",
+                    "U06LK3K88SW",
+                    "U06TU27FX08",
+                    "U06LHACMG91",
+                    "U06LG61PW7P",
+                    "U06LGHETAFP",
+                    "U06LCE8L8LW",
+                    "U06L4CMKY8P",
+                    "U06L4GM57JT",
+                    "U06LG61U9QD"
+                ],
+                "count": 125
+            }
+        ]
+    }
+]

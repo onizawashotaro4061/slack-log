@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1711621943.246229",
+        "client_msg_id": "15d92d76-15e2-4f7d-b48c-338a2ef3d00f",
+        "text": "<!channel>\nお疲れ様です！会議連絡遅くなってしまい本当に申し訳ありません。\n0328_第2回京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】21:00〜　1時間程度\n【議題】\n1.諸連絡（意思共有）\n2.一般企画書敲きについて（意見交換・決定）\n3.内容の詳細詰めについて（意見交換）\nZoomの部屋は後ほどLINEにて添付します！\n見たらリアクションー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSzLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！会議連絡遅くなってしまい本当に申し訳ありません。\n0328_第2回京王電鉄チーム会議\n【形態】Zoomミーティング\n【時間】21:00〜　1時間程度\n【議題】\n1.諸連絡（意思共有）\n2.一般企画書敲きについて（意見交換・決定）\n3.内容の詳細詰めについて（意見交換）\nZoomの部屋は後ほどLINEにて添付します！\n見たらリアクションー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06LK0DK7R9",
+                    "U06LXNZDHFT",
+                    "U06LCEA6J1L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

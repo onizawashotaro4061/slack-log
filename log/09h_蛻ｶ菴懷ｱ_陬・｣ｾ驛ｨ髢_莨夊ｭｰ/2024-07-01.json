@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LMHSCW1J",
+        "type": "message",
+        "ts": "1719852152.668089",
+        "client_msg_id": "48FBAFAD-B357-43E7-A290-1608616F3D3D",
+        "text": "他サークルの用事で20時半頃に早退します",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "75cb365dc368",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-12\/7428073219441_75cb365dc368b8d2f98f_72.png",
+            "first_name": "大前史流",
+            "real_name": "大前史流",
+            "display_name": "Omae.Shiryu",
+            "team": "T06L90YHJF8",
+            "name": "takaoshiryu09050905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719805739.837569",
+        "parent_user_id": "U06LK0F2RC3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVsrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他サークルの用事で20時半頃に早退します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

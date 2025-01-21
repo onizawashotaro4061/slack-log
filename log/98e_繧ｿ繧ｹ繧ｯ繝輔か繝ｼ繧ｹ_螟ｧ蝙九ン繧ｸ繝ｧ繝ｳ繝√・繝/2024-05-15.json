@@ -1,0 +1,117 @@
+[
+    {
+        "text": "<!channel>\nこちら前回のタスクフォース回のメモです！企画書と照らし合わせながら確認お願いします。\n*大型ビジョンの使用許可についてですが<@U06LK3L6B4J>* *<@U06LK3K88SW> の2人に任せようと思います。電話かけマニュアル等の作成もお願いします！*\nあと渋谷のビジョンについてQ’s EYEが音声ないっぽいんです泣\nなのでもう一回再検討したいんですが\n<https:\/\/www.yunikavision.jp\/business\/network\/shibuya.html>\nこの中から1つ選んで自分にDM送って欲しいです！！\nもちろんQ’s EYE選んでもらってもいいし自分がよく見るビジョンを選んでもらっても構いません！！！\n長々と失礼しました:pray:",
+        "files": [
+            {
+                "id": "F073J6WUFL3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK0BP1TM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AUpX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら前回のタスクフォース回のメモです！企画書と照らし合わせながら確認お願いします。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大型ビジョンの使用許可についてですが",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3L6B4J",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3K88SW",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " の2人に任せようと思います。電話かけマニュアル等の作成もお願いします！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあと渋谷のビジョンについてQ’s EYEが音声ないっぽいんです泣\nなのでもう一回再検討したいんですが\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.yunikavision.jp\/business\/network\/shibuya.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの中から1つ選んで自分にDM送って欲しいです！！\nもちろんQ’s EYE選んでもらってもいいし自分がよく見るビジョンを選んでもらっても構いません！！！\n長々と失礼しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1715770166.435169",
+        "client_msg_id": "76dfe60a-30ff-454d-9588-1d7ac0c956c6",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.yunikavision.jp\/images\/common\/og-image.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 398225,
+                "from_url": "https:\/\/www.yunikavision.jp\/business\/network\/shibuya.html",
+                "service_icon": "https:\/\/www.yunikavision.jp\/images\/touchicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.yunikavision.jp\/business\/network\/shibuya.html",
+                "fallback": "YUNIKA VISION for Business: 渋谷・恵比寿 | 全国のビジョンネットワーク | YUNIKA VISION for Business",
+                "text": "YUNIKA VISION（ユニカビジョン）が提携している全国のビジョンネットワークをご案内します。",
+                "title": "渋谷・恵比寿 | 全国のビジョンネットワーク | YUNIKA VISION for Business",
+                "title_link": "https:\/\/www.yunikavision.jp\/business\/network\/shibuya.html",
+                "service_name": "YUNIKA VISION for Business"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06LK3L6B4J",
+                    "U06LK3K88SW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

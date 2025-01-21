@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U06LCE9HTP0",
+        "type": "message",
+        "ts": "1728313249.532979",
+        "client_msg_id": "89c0ff37-00f5-447a-8e3d-9b03ca65cf7d",
+        "text": "<!channel>\nお疲れ様です！\n今週のタスクフォース会で本祭当日に入ってもらう、京王電鉄ブースについての対応マニュアルの説明をするので\n次長会がーとか局の活動がーとかって人以外は絶対参加でお願いします！\nまた当日の詳細は後日送るねー",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "cab5e833eec0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-24\/7771822816388_cab5e833eec0e640af46_72.png",
+            "first_name": "城戸康之介",
+            "real_name": "城戸康之介",
+            "display_name": "Kido.Konosuke",
+            "team": "T06L90YHJF8",
+            "name": "konosuke.kido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8JBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n今週のタスクフォース会で本祭当日に入ってもらう、京王電鉄ブースについての対応マニュアルの説明をするので\n次長会がーとか局の活動がーとかって人以外は絶対参加でお願いします！\nまた当日の詳細は後日送るねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U070RQ167FG",
+                    "U070Y9WCHH9",
+                    "U06LXNZDHFT",
+                    "U07194G87BL",
+                    "U070VFZF6BF"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-出席",
+                "users": [
+                    "U06L4J69HV5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

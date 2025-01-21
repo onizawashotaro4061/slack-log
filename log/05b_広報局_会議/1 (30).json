@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U070Y9RMP7D",
+        "type": "message",
+        "ts": "1714982238.978909",
+        "client_msg_id": "4D7A6ECD-640C-4C6D-8D52-655049E0FF05",
+        "text": "予定が入ってしまっていたのでお休みします。すみません :woman-bowing::skin-tone-2: :sweat: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "114c5b85ac7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-01\/7660822787170_114c5b85ac7cb95e84e2_72.png",
+            "first_name": "鎌田悠里",
+            "real_name": "鎌田悠里",
+            "display_name": "Kamata.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "kamayuri0831",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714977055.535719",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqeC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が入ってしまっていたのでお休みします。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat",
+                                "unicode": "1f613"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LK3HUVTL",
+                    "U06LCE78Y94",
+                    "U06LXNY8KMF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "あーにゃ",
+                "users": [
+                    "U06TU27FX08",
+                    "U06LK3HUVTL",
+                    "U06LXNY8KMF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U070HS55GQP",
+        "type": "message",
+        "ts": "1715058543.937889",
+        "client_msg_id": "c994493a-061b-4039-a119-e617338963b4",
+        "text": "体調崩してしまって学校お休みしたので、お休みします。申し訳ないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f3b48b95074a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7025833729654_f3b48b95074acd68ecb4_72.png",
+            "first_name": "稲木颯騎",
+            "real_name": "稲木颯騎",
+            "display_name": "Inagi.soki",
+            "team": "T06L90YHJF8",
+            "name": "soukiinagi7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714977055.535719",
+        "parent_user_id": "U06LVK2FU1X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAPFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調崩してしまって学校お休みしたので、お休みします。申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06TU27FX08",
+                    "U06LK3HUVTL",
+                    "U06LK3L6B4J",
+                    "U06LJBVA2DS",
+                    "U06LCVDE88N",
+                    "U06LXNWSGPK",
+                    "U06LCE9HTP0",
+                    "U06LCE78Y94",
+                    "U06LMH412CU",
+                    "U06LXNY8KMF"
+                ],
+                "count": 11
+            }
+        ]
+    }
+]

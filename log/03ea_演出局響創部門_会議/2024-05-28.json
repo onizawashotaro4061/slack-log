@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1716932847.724229",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1717034688.000000"
+        },
+        "client_msg_id": "73DC7A10-65F8-43BA-8F21-27E21604B6AF",
+        "text": "<!channel> \nはやすぎる会議連絡だyo\n\n【時間】5\/30(木) 19:00-20:40\n【場所】LS305\n【議題】\n1. 各種報告（意思共有）\n2. 演出局企画出演者募集説明会資料について（意思共有）\nこれの後、20:00からチーム長と新規配属話し合うよ！20:00までにチーム内の意見まとめておいてくれると助かる！\n\n私の出身高校には15年くらい続いてる、卒業時のジャージの受け継ぎっていうのがあるんだけど、私が3年の時にあげた子からジャージ受け継ぎました！っていうLINEが来て感慨深くなっちゃいました、ほろり\n\nいつもスタンプ押してくれてありがとう\n欠席、遅刻、早退はスレッドへ :mortar_board: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716932847.724229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1717064170.766719",
+        "reply_users": [
+            "U06LCECJD8W"
+        ],
+        "replies": [
+            {
+                "user": "U06LCECJD8W",
+                "ts": "1717064170.766719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arMYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nはやすぎる会議連絡だyo\n\n【時間】5\/30(木) 19:00-20:40\n【場所】LS305\n【議題】\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種報告（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "演出局企画出演者募集説明会資料について（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nこれの後、20:00からチーム長と新規配属話し合うよ！20:00までにチーム内の意見まとめておいてくれると助かる！\n\n私の出身高校には15年くらい続いてる、卒業時のジャージの受け継ぎっていうのがあるんだけど、私が3年の時にあげた子からジャージ受け継ぎました！っていうLINEが来て感慨深くなっちゃいました、ほろり\n\nいつもスタンプ押してくれてありがとう\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mortar_board",
+                                "unicode": "1f393"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "てるてる",
+                "users": [
+                    "U06LK67B9PC",
+                    "U06LK0G74NP",
+                    "U06L4GKF78F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LCECJD8W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ワンチーム",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F",
+                    "U06LCECJD8W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "megamo",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "猫ミーム-ハッピーハッピーハッピー",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06L4GKF78F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "へウォン",
+                "users": [
+                    "U06L4GKF78F",
+                    "U06LCECJD8W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

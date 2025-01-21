@@ -1,0 +1,198 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1724250340.289929",
+        "client_msg_id": "613B4CEF-C097-4B34-8006-26215F38BB30",
+        "text": "<!channel>\nおつかれサマー会議連絡だよー\n\n【時間】8\/22 (木) 14:00-16:00 (継続は13:30-)\n【場所】LINEで伝えます！\n【議題】\n1. チーム会議\n欠席、遅刻、早退はスレッドへ :squirrel: \nみんなに会えるのわくわくしてるよん :smile_cat: :raised_hands::skin-tone-3: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/74v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおつかれサマー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会議連絡だよー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【時間】8\/2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "木"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") 14:00-1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6:00 ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "継続"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "13:30-)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【場所】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LINEで伝えます！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【議題】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席、遅刻、早退はスレッドへ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "squirrel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nみんなに会えるのわくわくしてるよん "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile_cat",
+                                "unicode": "1f638"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "さち",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LG63FM1B",
+                    "U070Y9RH075",
+                    "U070VFNR337"
+                ],
+                "count": 4
+            },
+            {
+                "name": "bigな部門",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LG63FM1B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "腹ぺこ",
+                "users": [
+                    "U06LMH4T528",
+                    "U06LG63FM1B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

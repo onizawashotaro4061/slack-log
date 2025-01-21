@@ -1,0 +1,155 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M7TE180Y",
+        "text": "<@U06M7TE180Y>さんがチャンネルに参加しました",
+        "inviter": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1712711531.419759"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06LCFWR494",
+        "text": "<@U06LCFWR494>さんがチャンネルに参加しました",
+        "inviter": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1712711531.503589"
+    },
+    {
+        "user": "U06LXNYCLJV",
+        "type": "message",
+        "ts": "1712718931.532999",
+        "edited": {
+            "user": "U06LXNYCLJV",
+            "ts": "1712718948.000000"
+        },
+        "client_msg_id": "9AD466BF-67BB-493B-9097-C4631F6BFACD",
+        "text": "<!channel>\nお疲れ様です！\n4月11日(木)第2回総務部門会議について連絡です。\n\n【時間】\n19:00〜20:40\n【場所】\n和泉ラーニングスクエアLS302教室\n【議題】\n1.継続について(意見交換)\n2.前期ニーズ調査(参加団体)質問項目選定(意見交換)\n2.部門活動企画書作成(意見交換)\n3.諸連絡\n\n\n【持ち物】\nパソコン\n【議事録】\nひーちゃん\n\n*遅刻早退欠席はスレッドにお願いします！*\n\n\n今朝東横線に乗っていたら隣にいた新一年生(?)女の子2人が明実の話をしてて、、、！\n制作、参団、財務で迷い中らしく、それならぜひ総務も！！っておすすめしたかったんですけどさすがに話しかけられませんでした、、くやしい",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "505ccc9859c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-17\/7147585741537_505ccc9859c9433912a5_72.png",
+            "first_name": "木村優里",
+            "real_name": "木村優里",
+            "display_name": "Kimura.Yuri",
+            "team": "T06L90YHJF8",
+            "name": "yuri.0903star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712718931.532999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712719469.544309",
+        "reply_users": [
+            "U06LCE9NLP8"
+        ],
+        "replies": [
+            {
+                "user": "U06LCE9NLP8",
+                "ts": "1712719469.544309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+W63n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\n4月11日(木)第2回総務部門会議について連絡です。\n\n【時間】\n19:00〜20:40\n【場所】\n和泉ラーニングスクエアLS302教室\n【議題】\n1.継続について(意見交換)\n2.前期ニーズ調査(参加団体)質問項目選定(意見交換)\n2.部門活動企画書作成(意見交換)\n3.諸連絡\n\n\n【持ち物】\nパソコン\n【議事録】\nひーちゃん\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅刻早退欠席はスレッドにお願いします！",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n今朝東横線に乗っていたら隣にいた新一年生(?)女の子2人が明実の話をしてて、、、！\n制作、参団、財務で迷い中らしく、それならぜひ総務も！！っておすすめしたかったんですけどさすがに話しかけられませんでした、、くやしい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SZ5WG0",
+                    "U06LCE9NLP8",
+                    "U06M7TE180Y",
+                    "U06LK3MPZ34",
+                    "U06LG6B2NA1",
+                    "U06LS7G3G0M"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06LCE9NLP8",
+        "type": "message",
+        "ts": "1712719469.544309",
+        "client_msg_id": "DAC6E99D-506C-4A91-BD57-0C560E29D504",
+        "text": "ミュージカル観劇のため欠席します。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b86c7426d489",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7688980702466_b86c7426d489e428d672_72.png",
+            "first_name": "小出理名",
+            "real_name": "小出理名",
+            "display_name": "Koide.Rina",
+            "team": "T06L90YHJF8",
+            "name": "narideiko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712718931.532999",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Pe5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ミュージカル観劇のため欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

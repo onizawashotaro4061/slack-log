@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LK3LM7AN",
+        "type": "message",
+        "ts": "1726706743.197179",
+        "edited": {
+            "user": "U06LK3LM7AN",
+            "ts": "1726706751.000000"
+        },
+        "client_msg_id": "678DA6D7-A4B6-4365-BE3D-885C48D8E14E",
+        "text": "あけたー！！！夏休み最後も頑張ろ:sunflower::womans_hat::shaved_ice:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "c883f061d1b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-12\/8010002870534_c883f061d1b5a1fe9730_72.png",
+            "first_name": "菅原杏菜",
+            "real_name": "菅原杏菜",
+            "display_name": "Sugawara.Anna",
+            "team": "T06L90YHJF8",
+            "name": "s.an.anna.3416",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7BR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あけたー！！！夏休み最後も頑張ろ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunflower",
+                                "unicode": "1f33b"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "womans_hat",
+                                "unicode": "1f452"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shaved_ice",
+                                "unicode": "1f367"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

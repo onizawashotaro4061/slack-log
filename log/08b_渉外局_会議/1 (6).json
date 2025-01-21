@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U06LXK3RF7B",
+        "type": "message",
+        "ts": "1709942400.537999",
+        "client_msg_id": "c3bf48f2-b0d4-40ae-9a90-abee7ea5dec6",
+        "text": "*<!channel>*\n*【0311_第5回渉外局会議】*\n【時間】10:00～17:00\n【場所】LS604教室\n【議題】\n・協賛賛助依頼書内容決め（意見交換・決定）\n・関係構築活動について（意見交換・決定）\n\n事前準備提出期限：局長結城の140渉外局のSlackのDMに3月11日(月)の朝8:00まで\n139th渉外局中野組でカラオケに行ったのですが、疲れて眠っている三野くんのいびきが曲のリズムにちょうどマッチしていました。どうでもいい一言これから呟いていきたいと思います。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "4533114fac5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-27\/6694255022567_4533114fac5c8e92fb05_72.png",
+            "first_name": "花城圭太",
+            "real_name": "花城圭太",
+            "display_name": "Hanashiro.Keita",
+            "team": "T06L90YHJF8",
+            "name": "h15.hanakei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mrbgz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【0311_第5回渉外局会議】",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【時間】10:00～17:00\n【場所】LS604教室\n【議題】\n・協賛賛助依頼書内容決め（意見交換・決定）\n・関係構築活動について（意見交換・決定）\n\n事前準備提出期限：局長結城の140渉外局のSlackのDMに3月11日(月)の朝8:00まで\n139th渉外局中野組でカラオケに行ったのですが、疲れて眠っている三野くんのいびきが曲のリズムにちょうどマッチしていました。どうでもいい一言これから呟いていきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06L4GH4ETH",
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G",
+                    "U06LGHETAFP",
+                    "U06LHACMG91",
+                    "U06L4GLJVKR",
+                    "U06LK3L6B4J",
+                    "U06L9S67MEJ"
+                ],
+                "count": 9
+            },
+            {
+                "name": "microphone",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06L4GH4ETH",
+                    "U06LCE9EA3G",
+                    "U06LGHETAFP",
+                    "U06L4GLJVKR",
+                    "U06LK3L6B4J",
+                    "U06L4GLRAK1",
+                    "U06L9S67MEJ",
+                    "U06M7SUSYNL",
+                    "U06LG610ADB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "なかの",
+                "users": [
+                    "U06L4GH4ETH",
+                    "U06LJRSQDC3",
+                    "U06LCE9EA3G",
+                    "U06L4GLJVKR",
+                    "U06M7SETDKJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "00-arigato",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

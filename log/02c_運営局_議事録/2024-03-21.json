@@ -1,0 +1,128 @@
+[
+    {
+        "text": "<!channel>\nお疲れ様です！運営局副局長の高橋萌衣です！\n0320_第2回運営局役職会議議事録を\nOnedrive＞自分のファイル＞各局＞01_運営局＞04_議事録＞役職会議＞3月\nにアップロードしました。\n議題は、\n1. 部門配属発表（意見交換・決定）\n2. 諸連絡（意思共有）\nです。\nご確認よろしくお願いします！\n\n最近ネトフリでペントハウスを見るのにハマってます！お金持ちのドロドロ具合がたまらないですね、！自分の身の回りで同じようなことが起きないことを願うばかりです",
+        "files": [
+            {
+                "id": "F06QPAD3ZHS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LK3LHG0J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gi5jq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！運営局副局長の高橋萌衣です！\n0320_第2回運営局役職会議議事録を\nOnedrive＞自分のファイル＞各局＞01_運営局＞04_議事録＞役職会議＞3月\nにアップロードしました。\n議題は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "部門配属発表（意見交換・決定）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "諸連絡（意思共有）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "です。\nご確認よろしくお願いします！\n\n最近ネトフリでペントハウスを見るのにハマってます！お金持ちのドロドロ具合がたまらないですね、！自分の身の回りで同じようなことが起きないことを願うばかりです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711007230.204869",
+        "client_msg_id": "681ea350-e9e0-417a-8e86-8d2466913976",
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LEAGKTSS",
+                    "U06LCE7DY6S",
+                    "U06LK0EQS59",
+                    "U06L4GHLP2B",
+                    "U06LM2P58KC",
+                    "U06LK3LKR9Q",
+                    "U06LK0FUAHZ",
+                    "U06L97X3V6J",
+                    "U06LMH8Q2TW"
+                ],
+                "count": 10
+            },
+            {
+                "name": "運営_もえ_もえもえきゅん",
+                "users": [
+                    "U06LK3MMALA",
+                    "U06LEAGKTSS",
+                    "U06M7SQPKL0",
+                    "U06LCE6E64W",
+                    "U06LK0FC935",
+                    "U06LM2P58KC",
+                    "U06LK3LKR9Q",
+                    "U06L4H8CGQP"
+                ],
+                "count": 8
+            },
+            {
+                "name": "運営_もえ_ぴーもえver早い",
+                "users": [
+                    "U06LK3LKR9Q",
+                    "U06L4GKK0CF",
+                    "U06M7SQPKL0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "運営_もえ_ぴーもえver遅い",
+                "users": [
+                    "U06LK3LKR9Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "001_運営_局長",
+                "users": [
+                    "U06LKHN3RE0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

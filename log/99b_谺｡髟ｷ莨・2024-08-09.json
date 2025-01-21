@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06LE9EH9QV",
+        "type": "message",
+        "ts": "1723254109.089589",
+        "client_msg_id": "1168C59E-EBB6-47EE-980A-0D1B16E77EB6",
+        "text": "<!channel> \n8月期次長会もないです。\nみんなで昼からでも飲み行っておいで",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "23090c561a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-15\/8037289848644_23090c561a302a3eb129_72.png",
+            "first_name": "中保翔貴",
+            "real_name": "中保翔貴",
+            "display_name": "Nakaho.Shoki",
+            "team": "T06L90YHJF8",
+            "name": "nakahoshouki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FsJ5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n8月期次長会もないです。\nみんなで昼からでも飲み行っておいで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "たまには_休め",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06LXNY0MHP",
+                    "U06LJ0SKMEZ",
+                    "U06LE9EH9QV",
+                    "U06L4GKC9N3",
+                    "U06LY5XNLBT",
+                    "U06LXNZDHFT",
+                    "U06LK0FUAHZ",
+                    "U06LXNXNWGH"
+                ],
+                "count": 9
+            },
+            {
+                "name": "shushing_face",
+                "users": [
+                    "U06LXNY0MHP",
+                    "U06L4GH4ETH",
+                    "U06LJ0SKMEZ",
+                    "U06LK3ZBCN6",
+                    "U06LXNWG67K",
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "おなかすいた",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06L4GH4ETH",
+                    "U06LJ0SKMEZ",
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "え飲みベ低くね",
+                "users": [
+                    "U06L4GM5C87",
+                    "U06L4GH4ETH",
+                    "U06LJ0SKMEZ",
+                    "U06LE9EH9QV",
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT",
+                    "U06LK0FUAHZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06LXNZDHFT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "00-すき",
+                "users": [
+                    "U06LCEA6J1L",
+                    "U06L4GKC9N3",
+                    "U06LXNZDHFT",
+                    "U06LK0FUAHZ",
+                    "U06LY5XNLBT"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

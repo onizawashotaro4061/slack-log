@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U070HS2GY5V",
+        "type": "message",
+        "ts": "1729587429.926549",
+        "client_msg_id": "b8b9e5e8-090d-4142-9d79-313bc8dc2f84",
+        "text": "バイトが長引いたので10分くらい遅れそうです。すみません:bow::sweat_drops:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "10e42254d341",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-27\/7017905306551_10e42254d3418983cc64_72.jpg",
+            "first_name": "本村つくし",
+            "real_name": "本村つくし",
+            "display_name": "Motomura.Tsukushi",
+            "team": "T06L90YHJF8",
+            "name": "tsukushibencun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1729578220.765489",
+        "parent_user_id": "U06LXNY0MHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubshi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトが長引いたので10分くらい遅れそうです。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

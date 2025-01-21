@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06LCE9NLP8",
+        "type": "message",
+        "ts": "1713690367.042669",
+        "client_msg_id": "56D0A910-0C6F-453C-BAAE-6AD5A3F367FC",
+        "text": "変な(？)就活に関する説明会がZoomで19時30分まであるのでそれ終わったら会議参加します :smiling_face_with_tear: もしかしたら欠席になるかもしれないです…すみません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b86c7426d489",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7688980702466_b86c7426d489e428d672_72.png",
+            "first_name": "小出理名",
+            "real_name": "小出理名",
+            "display_name": "Koide.Rina",
+            "team": "T06L90YHJF8",
+            "name": "narideiko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713681398.003179",
+        "parent_user_id": "U06LXNYCLJV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUat5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "変な(？)就活に関する説明会がZoomで19時30分まであるのでそれ終わったら会議参加します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もしかしたら欠席になるかもしれないです…すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U06LXNYCLJV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

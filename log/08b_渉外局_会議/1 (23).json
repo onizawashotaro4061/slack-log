@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U06LXNL2ZS5",
+        "type": "message",
+        "ts": "1714184583.192299",
+        "client_msg_id": "FB27FF16-F350-4010-8651-2CB748CF046B",
+        "text": "バイトの大事な研修が入ってしまったので欠席します。申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "e92150aa90fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-01\/6725737233732_e92150aa90fd9890235d_72.png",
+            "first_name": "有留大騎",
+            "real_name": "有留大騎",
+            "display_name": "Aritome.Taiki",
+            "team": "T06L90YHJF8",
+            "name": "arinnkotarou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714089603.190419",
+        "parent_user_id": "U06LXK3RF7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3Bqd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトの大事な研修が入ってしまったので欠席します。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-見ました",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U06LXK3RF7B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_cowboy_hat",
+                "users": [
+                    "U06M7SU83G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F070HUQR1FH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LXK3RF7B",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1714197390.283059",
+        "client_msg_id": "195ef653-2221-4e96-ba9f-a086a10b8c89",
+        "thread_ts": "1714089603.190419",
+        "parent_user_id": "U06LXK3RF7B"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U06LMH9MBFW",
+        "type": "message",
+        "ts": "1733315753.780779",
+        "client_msg_id": "8CD4D249-90B4-4BF7-A82F-1145443108B6",
+        "text": "元々あった家の用事で休みます:bow:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "d23d787962a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-09\/7113791351792_d23d787962a9fe80cbac_72.png",
+            "first_name": "大野友也",
+            "real_name": "大野友也",
+            "display_name": "Ohno.tomoya",
+            "team": "T06L90YHJF8",
+            "name": "205tomoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733212173.613919",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeDZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元々あった家の用事で休みます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U070YD7KHLJ",
+        "type": "message",
+        "ts": "1733324575.410319",
+        "client_msg_id": "CA56C7F1-C979-4B60-93AF-5BED07968243",
+        "text": "ライブに行くので休みます、\nごめんなさい :pray: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3980c70cf89f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-10\/7690864035495_3980c70cf89f12731c70_72.png",
+            "first_name": "鈴木晴太郎",
+            "real_name": "鈴木晴太郎",
+            "display_name": "Suzuki.Harutaro",
+            "team": "T06L90YHJF8",
+            "name": "haru20050815",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733212173.613919",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9Mqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ライブに行くので休みます、\nごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071B3EMJCR",
+        "type": "message",
+        "ts": "1733384788.009189",
+        "client_msg_id": "8540BA26-F91F-49AA-8F83-6C1F64C7C265",
+        "text": "バイト入ってたの忘れてて休みます :woman-bowing: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "a1fbbfd19ed6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-11\/7102193925954_a1fbbfd19ed67476aac4_72.png",
+            "first_name": "及川達也",
+            "real_name": "及川達也",
+            "display_name": "Oikawa.Tatsuya",
+            "team": "T06L90YHJF8",
+            "name": "ottyblue3ptc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733212173.613919",
+        "parent_user_id": "U06LH4PDAQ3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rn0f3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイト入ってたの忘れてて休みます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

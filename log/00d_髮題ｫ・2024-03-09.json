@@ -1,0 +1,189 @@
+[
+    {
+        "user": "U06LG668093",
+        "type": "message",
+        "ts": "1709991819.419599",
+        "edited": {
+            "user": "U06LG668093",
+            "ts": "1709991844.000000"
+        },
+        "client_msg_id": "6d75dc64-881c-4165-8a9c-8684e151d7b4",
+        "text": "<!channel>\n夜分遅くに失礼いたします。\nお疲れ様です。総務局３年の三野です。\n\n雑談一発目は総務局が行かせていただきます！\nこの度局会議での議題にてアンケートを収集することとなりました。任意とはなりますが、回答にご協力くださいますと助かります。5分程度ですので移動中など隙間時間に回答してもらえると嬉しいです。\n<https:\/\/forms.gle\/rr7nE313WgtW8zwR7>\n（※あくまで渉内活動です。）",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "be12ab21eab4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-13\/7722834766307_be12ab21eab43deabd31_72.png",
+            "first_name": "三野新之助",
+            "real_name": "三野新之助",
+            "display_name": "Mino.Shinnnosuke",
+            "team": "T06L90YHJF8",
+            "name": "shinmino12345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh4.googleusercontent.com\/_V0bWFcbmo0RCNWAjy0oPtNRD6BFrYCWpEPpfFl3KcHnlCvOR-P4815R5ClGy35AMWKjdqmwCTA",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 28190,
+                "from_url": "https:\/\/forms.gle\/rr7nE313WgtW8zwR7",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/rr7nE313WgtW8zwR7",
+                "fallback": "Google Docs: 明実一斉調査！！！",
+                "title": "明実一斉調査！！！",
+                "title_link": "https:\/\/forms.gle\/rr7nE313WgtW8zwR7",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dywde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに失礼いたします。\nお疲れ様です。総務局３年の三野です。\n\n雑談一発目は総務局が行かせていただきます！\nこの度局会議での議題にてアンケートを収集することとなりました。任意とはなりますが、回答にご協力くださいますと助かります。5分程度ですので移動中など隙間時間に回答してもらえると嬉しいです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/rr7nE313WgtW8zwR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n（※あくまで渉内活動です。）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-arigatogozaimasu",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCE9NLP8",
+                    "U06LFKRD4MQ",
+                    "U06LK3MF9FC",
+                    "U06M7TE180Y",
+                    "U06LXR4BPS5",
+                    "U06LK5HCSE6",
+                    "U06M7SETDKJ",
+                    "U06L4J69HV5",
+                    "U06LXNYCLJV",
+                    "U06LCFWR494",
+                    "U06LHACMG91",
+                    "U06M7SU83G8",
+                    "U06LM0QJV3L"
+                ],
+                "count": 14
+            },
+            {
+                "name": "00-お願いします",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCE9NLP8",
+                    "U06LFKRD4MQ",
+                    "U06M7TE180Y",
+                    "U06LXR4BPS5",
+                    "U06LK5HCSE6",
+                    "U06LK3MPZ34",
+                    "U06LXNYCLJV",
+                    "U06LCFWR494"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LCE9NLP8",
+                    "U06LFKRD4MQ",
+                    "U06M7TE180Y",
+                    "U06LXR4BPS5",
+                    "U06LK5HCSE6",
+                    "U06LKEPTCA0",
+                    "U06M7SETDKJ",
+                    "U06LK3LKR9Q",
+                    "U06LXNYCLJV",
+                    "U06LGHETAFP",
+                    "U06LCE8L8LW"
+                ],
+                "count": 12
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06L97X3V6J",
+                    "U06LK5HCSE6",
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "009_総務_総",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06M7TE180Y",
+                    "U06LK5HCSE6",
+                    "U06LXNYCLJV",
+                    "U06LCE8L8LW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "なかの",
+                "users": [
+                    "U06LXK3RF7B",
+                    "U06L4GH4ETH",
+                    "U06M7SETDKJ",
+                    "U06LJRSQDC3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "猫ミーム-チピチピチャパチャパ",
+                "users": [
+                    "U06LK5HCSE6",
+                    "U06M7SETDKJ",
+                    "U06M7TE180Y"
+                ],
+                "count": 3
+            },
+            {
+                "name": "総務みのしん",
+                "users": [
+                    "U06LFKRD4MQ",
+                    "U06LK5HCSE6",
+                    "U06M7SETDKJ",
+                    "U06M7TE180Y",
+                    "U06LXNYCLJV",
+                    "U06LCUTBMU5",
+                    "U06LJRSQDC3",
+                    "U06LCFWR494",
+                    "U06M7SU83G8"
+                ],
+                "count": 9
+            },
+            {
+                "name": "00-対応中",
+                "users": [
+                    "U06L4CMKY8P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

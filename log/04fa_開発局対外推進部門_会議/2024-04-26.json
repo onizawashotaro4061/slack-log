@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U06L4GKGXB9",
+        "type": "message",
+        "ts": "1714121310.705219",
+        "client_msg_id": "bcf3c33b-717e-4d4f-ab68-4b5263fc27fd",
+        "text": "<@U06LK3ZBCN6>欠席します\n長引いたら行けるかもしれないです。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "f2e213e523d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6701600015076_f2e213e523d4ee91bc39_72.jpg",
+            "first_name": "宇野俊祐",
+            "real_name": "宇野俊祐",
+            "display_name": "Uno.Shunsuke",
+            "team": "T06L90YHJF8",
+            "name": "shunsukeuno1029",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714107547.093209",
+        "parent_user_id": "U06LK3ZBCN6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6K4v3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LK3ZBCN6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席します\n長引いたら行けるかもしれないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custard",
+                "users": [
+                    "U06LK3ZBCN6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F06NDUGLZ7E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKTXCZL4",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8cyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709786968.318539",
+        "client_msg_id": "e405a332-c0d8-4b37-92a3-3e43886f15be"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06NQ5PKRGR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U06LKTXCZL4",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1709787459.143929",
+        "client_msg_id": "A27D48EF-7846-4A1C-8C3B-4F82702A2E9E"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U06LKHN3RE0",
+        "type": "message",
+        "ts": "1719796200.353319",
+        "client_msg_id": "53fdc5c1-694e-4541-8b0c-6c455b1722a8",
+        "text": "*<!channel>*\n0703_運営局三年会会議\n【時間】\n局会議終了後（全員でやりたいのでご協力お願いします）\n【場所】\nLS402\n【議題】\n後日議題を精査の上書きます。\nもし入れたい議題があったら連絡してください。\n【議事録・報告】\n最後ぐらい局長が書きます。\n\n確認したらリアクションを！！\nご確認のほどよろしくお願いします。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "52941d8bb027",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-30\/7195135649650_52941d8bb0279a37b4b1_72.png",
+            "first_name": "村川樹",
+            "real_name": "村川樹",
+            "display_name": "Murakawa.Itsuki",
+            "team": "T06L90YHJF8",
+            "name": "itsuki12092003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719796200.353319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1719797862.403579",
+        "reply_users": [
+            "U06LK3LHG0J"
+        ],
+        "replies": [
+            {
+                "user": "U06LK3LHG0J",
+                "ts": "1719797862.403579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nydKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n0703_運営局三年会会議\n【時間】\n局会議終了後（全員でやりたいのでご協力お願いします）\n【場所】\nLS402\n【議題】\n後日議題を精査の上書きます。\nもし入れたい議題があったら連絡してください。\n【議事録・報告】\n最後ぐらい局長が書きます。\n\n確認したらリアクションを！！\nご確認のほどよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06LG66LXAR",
+                    "U06L4GHAANB",
+                    "U06L4GHLP2B"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06LK3LHG0J",
+        "type": "message",
+        "ts": "1719797862.403579",
+        "client_msg_id": "256EF0D1-D437-4B25-A642-3787EF61A568",
+        "text": "会議後参加できないですごめんなさい :pray::skin-tone-2: :pray::skin-tone-2: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "3e493b8a939b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6692491209382_3e493b8a939b3a11cdae_72.png",
+            "first_name": "高橋萌衣",
+            "real_name": "高橋萌衣",
+            "display_name": "Takahashi.Moe",
+            "team": "T06L90YHJF8",
+            "name": "moepooh0408",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719796200.353319",
+        "parent_user_id": "U06LKHN3RE0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVEE1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会議後参加できないですごめんなさい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

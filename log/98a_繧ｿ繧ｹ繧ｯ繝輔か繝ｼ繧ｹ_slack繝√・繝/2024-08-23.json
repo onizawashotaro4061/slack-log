@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U06LJ4HJLMS",
+        "type": "message",
+        "ts": "1724464202.764469",
+        "client_msg_id": "7E35E1BD-A0A7-4DF7-80B2-08404E87EBB1",
+        "text": "<!channel> 制作局装飾部門からのお願いで「00n_作業場鍵番」チャンネル作ったので把握お願いします〜",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "9f8851c69403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-04\/6736549265586_9f8851c694034b85e551_72.png",
+            "first_name": "鈴木翔也",
+            "real_name": "鈴木翔也",
+            "display_name": "Suzuki.Shoya",
+            "team": "T06L90YHJF8",
+            "name": "shoyasan0523",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjonA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 制作局装飾部門からのお願いで「00n_作業場鍵番」チャンネル作ったので把握お願いします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "00-了解です",
+                "users": [
+                    "U06M7SETDKJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "00-otsukaresamadesu",
+                "users": [
+                    "U06M7SETDKJ",
+                    "U06LFKRD4MQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

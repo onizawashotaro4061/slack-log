@@ -1,0 +1,210 @@
+[
+    {
+        "user": "U06LK3MF9FC",
+        "type": "message",
+        "ts": "1714003206.400099",
+        "edited": {
+            "user": "U06LK3MF9FC",
+            "ts": "1714026317.000000"
+        },
+        "client_msg_id": "7532883A-1F0B-43F3-BD26-9027ADCFED8A",
+        "text": "<!channel>\n会議連絡！！\n\n【時間】4\/25 (木) 19:00-20:40\n【場所】LS706\n【議題】(予定)\n1. 各種共有（意思共有）\n2. Endingチーム企画GW （意見交換）\n3. チーム会議 （意見交換）\n今日スタバのオープン作業中にいつの間にか手の皮がめくれて血が出てました。急ぎすぎて毎回怪我します悲しい\nみたらスタンプ押してねん\n欠席、遅刻、早退はスレッドへ :beer:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "6a0daaf7cf90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-17\/7893050999973_6a0daaf7cf90c2acddcb_72.png",
+            "first_name": "金子紗千",
+            "real_name": "金子紗千",
+            "display_name": "Kaneko.Sachi",
+            "team": "T06L90YHJF8",
+            "name": "sachi.kaneko2022",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714003206.400099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714023305.188849",
+        "reply_users": [
+            "U06L4GKF78F"
+        ],
+        "replies": [
+            {
+                "user": "U06L4GKF78F",
+                "ts": "1714023305.188849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R4pN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会議連絡！！\n\n【時間】4\/25 (木) 19:00-20:40\n【場所】LS706\n【議題】(予定)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種共有（意思共有）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Endingチーム企画GW （意見交換）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "チーム会議 （意見交換）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n今日スタバのオープン作業中にいつの間にか手の皮がめくれて血が出てました。急ぎすぎて毎回怪我します悲しい\nみたらスタンプ押してねん\n欠席、遅刻、早退はスレッドへ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer",
+                                "unicode": "1f37a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "猫ミーム-ぱくぱく",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LK0G74NP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "b部門はbぇすとな部門",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LG63FM1B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "さち",
+                "users": [
+                    "U06LCECJD8W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06L4GKF78F",
+        "type": "message",
+        "ts": "1714023305.188849",
+        "client_msg_id": "C6C40B0C-8A9B-4480-8B9E-AD0C2B60C227",
+        "text": "体調不良の為、お休みします。本当に申し訳ございません。",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "57e69ef2c233",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-12\/7873118393524_57e69ef2c2334d9133e7_72.png",
+            "first_name": "北見純一朗",
+            "real_name": "北見純一朗",
+            "display_name": "Kitami.Junichirou",
+            "team": "T06L90YHJF8",
+            "name": "kitajun1111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714003206.400099",
+        "parent_user_id": "U06LK3MF9FC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIahA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良の為、お休みします。本当に申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06LK3MF9FC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "許す",
+                "users": [
+                    "U06LK3MF9FC",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "北見純一朗",
+                "users": [
+                    "U06LCECJD8W",
+                    "U06LXP2EGKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06L4GM9N5V",
+                    "U06LG63FM1B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

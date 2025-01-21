@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06LK3KA09G",
+        "type": "message",
+        "ts": "1731573241.524049",
+        "client_msg_id": "9EA14C81-A321-4046-AAB1-A9F6304A74BD",
+        "text": "行けそうなので行きます :smiley_cat: ",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "bc673d0dd170",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-25\/8077290305363_bc673d0dd170ce5f3be1_72.png",
+            "first_name": "西山由梨花",
+            "real_name": "西山由梨花",
+            "display_name": "Nishiyama.Yurika",
+            "team": "T06L90YHJF8",
+            "name": "yurikamome5166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1731415698.334869",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFd23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "行けそうなので行きます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley_cat",
+                                "unicode": "1f63a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

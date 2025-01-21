@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U06LXNY8KMF",
+        "type": "message",
+        "ts": "1718872814.844889",
+        "client_msg_id": "55E27699-023F-4B5E-ABA0-4D01103678B1",
+        "text": "途中まで来たんですけど具合悪くて帰ります。すみません:woman-bowing::skin-tone-2:",
+        "team": "T06L90YHJF8",
+        "user_team": "T06L90YHJF8",
+        "source_team": "T06L90YHJF8",
+        "user_profile": {
+            "avatar_hash": "b77c2ef4756f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-10-15\/7876846176371_b77c2ef4756fbe8f8a93_72.png",
+            "first_name": "小川夏乃",
+            "real_name": "小川夏乃",
+            "display_name": "Ogawa.Kano",
+            "team": "T06L90YHJF8",
+            "name": "asfj.0727",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1718771226.309399",
+        "parent_user_id": "U06L4GL1CUF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGuI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "途中まで来たんですけど具合悪くて帰ります。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "お大事に",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U070Y9RMP7D",
+                    "U06LCE9HTP0",
+                    "U06L4GL1CUF",
+                    "U06LXNWSGPK",
+                    "U070RQ543FG"
+                ],
+                "count": 7
+            },
+            {
+                "name": "かの-かのつん",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U06LCE9HTP0",
+                    "U06LXNWSGPK"
+                ],
+                "count": 4
+            },
+            {
+                "name": "広報かの-かの氏",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q",
+                    "U06LCE9HTP0",
+                    "U06LXNWSGPK"
+                ],
+                "count": 4
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U06LK3KA09G",
+                    "U06LMH3952Q"
+                ],
+                "count": 2
+            },
+            {
+                "name": "妥協を許さない",
+                "users": [
+                    "U06LMH3GJKE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06L4GL1CUF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
