@@ -1,29 +1,52 @@
-/* 基本のレイアウト */
+/* 基本のリセット */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+}
+
+/* ヘッダーのスタイル */
+header {
+  background-color: #e07594; /* ヘッダーの背景色 */
+  color: white;
+  padding: 1px;
+  text-align: center;
+  font-size: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* メインコンテンツのレイアウト */
+#main-content {
   display: flex;
-  flex-direction: row; /* 横並び */
-  height: 100vh; /* 全画面表示 */
+  height: calc(100vh - 60px); /* ヘッダーを除いた高さ */
 }
 
 /* タブのスタイル */
 #tabs {
-  width: 300px; /* タブ部分の固定幅 */
-  background-color: #f4f4f4;
-  border-right: 1px solid #ccc;
+  width: 300px; /* タブ部分の幅 */
+  background-color: #333; /* タブの背景色 */
+  color: white;
+  border-right: 1px solid #444;
   overflow-y: auto; /* 縦スクロール対応 */
 }
 
 .tab {
-  padding: 10px;
+  padding: 15px;
   cursor: pointer;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #444;
+  color: white;
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.tab:hover {
+  background-color: #555;
+  color: #e07594; /* タブをホバーした時の色 */
 }
 
 .tab.active {
-  background-color: #e0e0e0;
+  background-color: #e07594; /* アクティブタブの背景色 */
+  color: white;
   font-weight: bold;
 }
 
@@ -32,8 +55,7 @@ body {
   flex: 1; /* 残りの幅を占有 */
   padding: 20px;
   overflow-y: auto; /* 縦スクロール対応 */
-  display: flex;
-  flex-direction: column;
+  background-color: #f9f9f9; /* 背景色を淡く変更 */
 }
 
 /* メッセージのスタイル */
@@ -50,10 +72,10 @@ body {
 }
 
 .message-content {
-  background-color: #f9f9f9;
+  background-color: #fff;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .message-header {
