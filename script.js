@@ -1290,7 +1290,6 @@ document.addEventListener("DOMContentLoaded", function () {
   tabs.forEach((tab) => {
     tab.addEventListener("click", function () {
       const channelName = tab.dataset.channel; // タブに設定したデータ属性（例: data-channel="general"）
-      
       // すでに読み込んだチャンネルなら再取得しない
       if (messageContainers[channelName]) {
         return;
@@ -1309,9 +1308,14 @@ document.addEventListener("DOMContentLoaded", function () {
         messageContainers[channelName] = container.innerHTML;
 
         // ローディング表示を削除
-        tab.querySelector(".loading").remove();
-      });
+         loadingText.remove();
+      }).catch(() => {
+        // エラー時にもローディング表示を削除
+        loadingText.remove();
     });
+    });
+
+    tabContainer.appendChild(tab);
   });
 });
 
@@ -1365,4 +1369,4 @@ function createTabs() {
 }
 
 // 初期化
-createTabs(channels);
+createTabs();
