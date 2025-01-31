@@ -1143,6 +1143,7 @@ const channels = {
 };
 let currentChannel = null;
 
+// timestamp
 function formatTimestamp(ts) {
   const date = new Date(parseFloat(ts) * 1000); // 秒をミリ秒に変換
   const options = {
@@ -1282,6 +1283,38 @@ function displayMessages(channelName, messages) {
     }
   });
 }
+document.addEventListener("DOMContentLoaded", function () {
+  const tabs = document.querySelectorAll(".tab");
+  const messageContainers = {}; // タブごとのメッセージコンテナをキャッシュ
+
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", function () {
+      const channelName = tab.dataset.channel; // タブに設定したデータ属性（例: data-channel="general"）
+      
+      // すでに読み込んだチャンネルなら再取得しない
+      if (messageContainers[channelName]) {
+        return;
+      }
+
+      // ローディング表示
+      tab.innerHTML += ' <span class="loading">読み込み中...</span>';
+
+      fetchMessages(channelName).then((messages) => {
+        // メッセージの表示処理
+        const container = document.getElementById("messages-container");
+        container.innerHTML = ""; // 既存の内容をクリア
+        displayMessages(channelName, messages);
+
+        // 読み込み完了後にキャッシュ
+        messageContainers[channelName] = container.innerHTML;
+
+        // ローディング表示を削除
+        tab.querySelector(".loading").remove();
+      });
+    });
+  });
+});
+
 
 
 // チャンネルデータをロードする関数
@@ -1332,4 +1365,4 @@ function createTabs() {
 }
 
 // 初期化
-createTabs();
+createTabs(channels);
