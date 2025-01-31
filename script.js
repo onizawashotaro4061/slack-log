@@ -1193,22 +1193,29 @@ function transformUserIdToName(message) {
   }
   return message;
 }
+
 // メッセージを表示する関数
 function displayMessages(channelName, messages) {
   const container = document.getElementById("messages-container");
-  container.innerHTML = ''; // 既存メッセージをクリア
+  // 既存メッセージをクリア
+  container.innerHTML = '';
+
+  const messageMap = {};
 
   messages.forEach((message) => {
-          // ユーザーIDを名前に変換
       message = transformUserIdToName(message);
+
+      const isReply = message.thread_ts && message.ts !== message.thread_ts; // 返信メッセージか判定
+      const parentTs = message.thread_ts || message.ts; // スレッドの親を特定
+
 
     // メッセージ全体の要素
     const messageElement = document.createElement('div');
-    messageElement.className = "message";
+    messageElement.className = isReply ? "reply" : "message";
 
     // プロフィール画像
     const img = document.createElement('img');
-    img.src = message.user_profile?.image_72; // プロフィール画像のURL
+    img.src = message.user_profile?.image_72;
 
     // メッセージ内容
     const messageContent = document.createElement('div');
@@ -1239,9 +1246,40 @@ function displayMessages(channelName, messages) {
     messageContent.appendChild(text);
     messageElement.appendChild(img);
     messageElement.appendChild(messageContent);
-
-    // コンテナにメッセージを追加
     container.appendChild(messageElement);
+
+    let replyContainer;
+    if (!isReply) {
+      replyContainer = document.createElement("span");
+      replyContainer.classList.add("reply-container");
+      replyContainer.style.display = "none";
+    }
+
+// 返信ボタン
+    if (!isReply && message.replies && message.replies.length > 0) {
+      const replyButton = document.createElement("button");
+      replyButton.textContent = `${message.replies.length}件の返信`;
+      replyButton.classList.add("reply-button");
+
+      replyButton.addEventListener("click", () => {
+        replyContainer.style.display = replyContainer.style.display === "none" ? "block" : "none";
+      });
+
+      messageContent.appendChild(replyButton);
+    }
+    
+
+    if (!isReply) {
+      container.appendChild(messageElement);
+      messageMap[parentTs] = replyContainer; // 親メッセージの返信エリアをマップに保存
+      messageContent.appendChild(replyContainer);
+    } else {
+      // 返信なら親メッセージの返信コンテナに追加
+      const parentReplyContainer = messageMap[parentTs];
+      if (parentReplyContainer) {
+        parentReplyContainer.appendChild(messageElement);
+      }
+    }
   });
 }
 
