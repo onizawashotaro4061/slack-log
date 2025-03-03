@@ -13,12 +13,17 @@ header {
   text-align: center;
   font-size: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 /* メインコンテンツのレイアウト */
 #main-content {
   display: flex;
   height: calc(100vh - 60px); /* ヘッダーを除いた高さ */
+  margin-top: 75px;
 }
 
 /* タブのスタイル */
